@@ -1,7 +1,7 @@
 # Housing-market-in-Canada
 This is an exploration of Housing market in Canada.
 
-At the starting point, I just look at the house in Nova Scotia.
+At the starting point, I just focus on the houses in Nova Scotia because I have lived here for six years.
 
 # Data collection-Nova Scotia
 Data is collected from Point4home.ca and store in the CSV file called 'Point2_data.csv'
