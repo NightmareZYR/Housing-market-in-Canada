@@ -5,7 +5,7 @@ At the starting point, I just focus on the houses in Nova Scotia because I have 
 
 # Data collection-Nova Scotia
 
-<img src=“https://github.com/NightmareZYR/Housing-market-in-Canada/blob/main/Screen%20Shot%202021-09-19%20at%208.30.47%20PM.png”>
+<img src=“https://raw.githubusercontent.com/NightmareZYR/Housing-market-in-Canada/main/Screen%20Shot%202021-09-19%20at%208.30.47%20PM.png”>
 
 Data is collected from Point2homes.ca and store in the CSV file called 'Point2_data.csv'
 
