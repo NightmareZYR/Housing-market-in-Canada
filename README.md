@@ -5,13 +5,13 @@ All the code and tables are in the document folder.
 
 # Data collection - Point2homes.ca
 
-![Image of point2homes](https://raw.githubusercontent.com/NightmareZYR/Housing-market-in-Canada/main/Screen%20Shot%202021-09-19%20at%208.30.47%20PM.png)
+![Image of point2homes](https://raw.githubusercontent.com/NightmareZYR/Housing-market-in-Canada/main/Point2homes.png)
 
 Data is collected from Point2homes.ca (Data Collection folder) and store in the CSV file (Data folder).
 
 Data is classified as Houses which are in NS, PE, NB, NL, QC, ON, MB, SK, AB, and BC.
 
-![Image of point2homes](https://raw.githubusercontent.com/NightmareZYR/Housing-market-in-Canada/main/Screen%20Shot%202021-09-23%20at%205.04.29%20PM.png)
+![Image of point2homes](https://raw.githubusercontent.com/NightmareZYR/Housing-market-in-Canada/main/Provinces.png)
 
 Codes are:
 
