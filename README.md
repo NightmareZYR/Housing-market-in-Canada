@@ -16,8 +16,11 @@ Data is classified as Houses which are in NS, PE, NB, NL, QC, ON, MB, SK, AB, an
 Codes are:
 
 Data Collection 0 : Atlantic region   - NS, PE, NB, NL
+
 Data Collection 1 : Central Canada    - QC, ON
+
 Data Collection 2 : Prairie Provinces - MB, SK, AB
+
 Data Collection 3 : West Coast        - BC
 
 Tables are:
