@@ -28,8 +28,8 @@ Tables are the CSV files begin with **"Point2_data_"**
 # Data cleaning - 
 
 ## Data cleaning 0:
-* Combining all collected data
-* Adding Columns "Province" and "Region"
+### 1. Combining all collected data
+### 2.Adding Columns "Province" and "Region"
 
 Point2_data_Canada_house_ExcludingNorth (Combined all collected data and adding columns "Province" and "Region")
 
