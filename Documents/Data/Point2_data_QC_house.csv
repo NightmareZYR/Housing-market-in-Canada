@@ -1,0 +1,2191 @@
+Beds,Bath,Sqft,Lot_Size,Type,Price,Address,Province,Region
+4.0,3.0,,,Residential,900000.0,Saint-Laurent ,QC,Central Canada
+1.0,1.0,692.0,,Residential,230000.0,3810 Notre-Dame ,QC,Central Canada
+1.0,,715.0,,Residential,550000.0,René-Levesque Ouest ,QC,Central Canada
+6.0,3.0,,,Residential,1100000.0,103 rue Denault ,QC,Central Canada
+4.0,1.0,1880.0,,Residential,1083000.0,456 Sebastopol ,QC,Central Canada
+2.0,2.0,130028.0,,Residential,475000.0,5740 Av. Rembrandt ,QC,Central Canada
+4.0,5.0,4300.0,.244,Residential,3390000.0,Chemin du Bord-du-lac. Lakeshore ,QC,Central Canada
+1.0,1.0,578.0,,Residential,428900.0,Crescent street ,QC,Central Canada
+,1.0,470.0,,Residential,300000.0,4295 Beaubien Est ,QC,Central Canada
+1.0,1.0,603.0,,Residential,457000.0,René-Levesque Ouest ,QC,Central Canada
+1.0,1.0,564.0,,Residential,299000.0,4295 Beaubien Est ,QC,Central Canada
+2.0,2.0,1200.0,,Residential,600000.0,100 André-Prevost ,QC,Central Canada
+3.0,2.0,,0.12,Residential,699000.0,1185 crois sabourin ,QC,Central Canada
+3.0,2.0,1600.0,,Residential,699000.0,8245 Boul. St-Laurent ,QC,Central Canada
+2.0,2.0,945.0,,Residential,398000.0,7275 Lunan ,QC,Central Canada
+2.0,1.0,1061.0,,Residential,399000.0,1222 Rue Ste-Élisabeth ,QC,Central Canada
+5.0,3.0,,,Residential,998000.0,975 rembrandt ,QC,Central Canada
+4.0,2.0,,,Residential,668000.0,1965 Jacques-Hertel ,QC,Central Canada
+2.0,1.0,810.0,,Residential,439000.0,3608 ,QC,Central Canada
+1.0,1.0,675.0,,Residential,259000.0,5700 boulevard Cavendish ,QC,Central Canada
+2.0,1.0,900.0,,Residential,359000.0,3845 Rue Emma-Collin #202 ,QC,Central Canada
+3.0,1.0,1100.0,,Single,150000.0,8 Rue de la Côte ,QC,Central Canada
+3.0,1.0,,0.31,Residential,269900.0,2630 Mtée Major ,QC,Central Canada
+3.0,4.0,,.536,Residential,3875000.0,1681 Rue de la Seigneurie ,QC,Central Canada
+3.0,1.0,,.171,Residential,189900.0,34 Rue Martel ,QC,Central Canada
+3.0,2.0,,.137,Residential,479900.0,3837 Av. François-Foucault ,QC,Central Canada
+5.0,2.0,,.186,Other,499900.0,21 Desc. de la Côte-Double ,QC,Central Canada
+3.0,1.0,,.164,Residential,499900.0,1060Z Rue St-Georges (Longueuil) ,QC,Central Canada
+3.0,3.0,2175.0,,Residential,1249000.0,3640 Rue Jeanne-Mance #PH305 ,QC,Central Canada
+3.0,1.0,,0.39,Residential,239000.0,26 415e Avenue ,QC,Central Canada
+4.0,3.0,,,Single,1100000.0,21 CHEMIN DU REFUGE ,QC,Central Canada
+3.0,3.0,,,Single,888000.0,23 CHEMIN DU REFUGE ,QC,Central Canada
+3.0,1.0,128844.0,,Residential,360000.0,8179 Rue Joséphine-Marchand ,QC,Central Canada
+3.0,2.0,157498.0,.106,Other,644800.0,24 Rue Merlin ,QC,Central Canada
+4.0,2.0,172804.0,.248,Residential,514000.0,54 Rue Morin ,QC,Central Canada
+3.0,2.0,112504.0,.059,Residential,249900.0,132 Rue de la Terrasse-Eardley ,QC,Central Canada
+3.0,1.0,,.139,Residential,219900.0,26 102e Avenue ,QC,Central Canada
+2.0,1.0,,.207,Residential,249000.0,117 104e Avenue ,QC,Central Canada
+5.0,2.0,,.107,Residential,649000.0,5885 Boul. Robert ,QC,Central Canada
+3.0,1.0,,.101,Residential,549900.0,878 Rue Hyacinthe-Hudon ,QC,Central Canada
+1.0,1.0,,0.08,Other,1200000.0,2521 Rue Bossuet ,QC,Central Canada
+2.0,1.0,961.0,,Residential,300000.0,937 Boul. Jean-Paul-Vincent #2 ,QC,Central Canada
+4.0,2.0,,.347,Residential,549000.0,8635 Rue Desrosiers ,QC,Central Canada
+4.0,2.0,197496.0,.512,Residential,645000.0,78 Rue Venne ,QC,Central Canada
+5.0,4.0,3084.0,.148,Residential,3150000.0,386 Ch. de la Côte-Ste-Catherine ,QC,Central Canada
+3.0,4.0,,.495,Residential,1249000.0,65 Rue de la Montagne ,QC,Central Canada
+3.0,2.0,1240.0,.918,Single,374900.0,132 Ch. des Mésanges ,QC,Central Canada
+2.0,1.0,922.0,,Residential,499000.0,4539 Rue Parthenais ,QC,Central Canada
+4.0,2.0,217603.0,.211,Residential,349900.0,597 Rue Chamberland ,QC,Central Canada
+4.0,2.0,211123.0,.149,Residential,425000.0,4358 Rue D'Angoulême ,QC,Central Canada
+3.0,3.0,,,Single,1288000.0,22 CHEMIN DU REFUGE ,QC,Central Canada
+3.0,3.0,1232.0,,Residential,220000.0,150 Ch. au Pied-de-la-Montagne #328-D ,QC,Central Canada
+1.0,,40752.0,.321,Residential,49000.0,1101 Rang E. ,QC,Central Canada
+1.0,1.0,747.0,,Residential,369000.0,550 Boul. de la Côte-Vertu #204 ,QC,Central Canada
+4.0,1.0,,,Residential,299000.0,1688 Boul Lorrain  ,QC,Central Canada
+5.0,2.0,,.175,Residential,569900.0,4955 Rue Montigny ,QC,Central Canada
+4.0,1.0,,.139,Residential,497000.0,560 Rue Choinière ,QC,Central Canada
+3.0,2.0,2741.0,,Residential,2280000.0,6301 Place Northcrest #PH-R1 ,QC,Central Canada
+5.0,1.0,172223.0,.557,Residential,649000.0,117 Ch. du Petit-Chicot ,QC,Central Canada
+2.0,1.0,,0.23,Residential,330000.0,845 Ch. Ste-Angélique ,QC,Central Canada
+3.0,2.0,1290.0,.101,Single,419900.0,1 Rue du Merle ,QC,Central Canada
+4.0,2.0,,.192,Residential,419000.0,1995 Rue du Ruisseau ,QC,Central Canada
+4.0,4.0,,.064,Residential,1700000.0,4322 Av. Laval ,QC,Central Canada
+1.0,1.0,723.0,,Residential,129000.0,150 Ch. au Pied-de-la-Montagne #412-A ,QC,Central Canada
+1.0,1.0,101256.0,.634,Residential,235000.0,171 Ch. Bérubé ,QC,Central Canada
+4.0,2.0,,.241,Residential,279000.0,7910 Route 125 ,QC,Central Canada
+2.0,1.0,134334.0,.168,Residential,460000.0,351 84e Avenue ,QC,Central Canada
+4.0,4.0,,,Single,1828000.0,9 CHEMIN DU REFUGE ,QC,Central Canada
+4.0,2.0,,.103,Residential,699888.0,3030 Rue Lepailleur ,QC,Central Canada
+2.0,2.0,1053.0,,Residential,599000.0,450 Rue St-Antoine E. 201,QC,Central Canada
+2.0,1.0,1107.0,,Residential,449000.0,6400 Chambéry ,QC,Central Canada
+3.0,2.0,3085.0,,Residential,2199000.0,"1155 Rue de la Montagne, #3201-02 ",QC,Central Canada
+1.0,1.0,675.0,,Residential,349000.0,"301 Rue Emery, #403 ",QC,Central Canada
+4.0,1.0,,.067,Residential,624900.0,1013 Rue François-Dugas ,QC,Central Canada
+3.0,3.0,1535.0,,Residential,1447190.0,1000 de la Montagne ,QC,Central Canada
+4.0,3.0,,,Residential,525000.0,3410 Crois. Boulogne ,QC,Central Canada
+3.0,2.0,1350.0,.002,Residential,299900.0,2160 Beaudoin ,QC,Central Canada
+3.0,2.0,2000.0,,Residential,1418000.0,"1500 Rue des Bassins, #110 ",QC,Central Canada
+2.0,1.0,608.0,,Residential,510305.0,1000 de la Montagne ,QC,Central Canada
+2.0,2.0,1420.0,,Residential,1249000.0,"365 Rue St-Andre, #1703 ",QC,Central Canada
+1.0,1.0,800.0,,Residential,599000.0,1414 Rue Chomedey ,QC,Central Canada
+1.0,1.0,,0.06,Residential,499000.0,6309 Rue Cartier ,QC,Central Canada
+4.0,1.0,2010.0,,Residential,907000.0,6554 Rue St-Denis ,QC,Central Canada
+2.0,2.0,3165.0,,Residential,3950000.0,"1280 Rue Sherbrooke O., #610 ",QC,Central Canada
+3.0,2.0,2940.0,,Residential,1175000.0,"4450 Prom. Paton, #1016 ",QC,Central Canada
+4.0,1.0,1500.0,.109,Residential,289000.0,30 Rue Louis ,QC,Central Canada
+2.0,2.0,3100.0,,Residential,1279000.0,412 Rue du Champ-de-Mars ,QC,Central Canada
+3.0,2.0,2045.0,,Residential,1450000.0,175 Av. Metcalfe ,QC,Central Canada
+2.0,1.0,1063.0,,Residential,599000.0,4418 Hôtel-de-Ville ,QC,Central Canada
+2.0,3.0,1105.0,,Residential,1008158.0,1000 de la Montagne ,QC,Central Canada
+4.0,2.0,2810.0,.251,Residential,808000.0,48 Rue Cadillac ,QC,Central Canada
+2.0,1.0,744.0,.243,Residential,79900.0,19 chemin du Lac-Sinclair ,QC,Central Canada
+2.0,2.0,722.0,,Residential,630890.0,1000 de la Montagne ,QC,Central Canada
+4.0,2.0,,,Residential,878000.0,8500 occident ,QC,Central Canada
+,,,,Residential,875000.0,9119-9121 Rue de Godbout ,QC,Central Canada
+2.0,2.0,,,Residential,390000.0,2530 Place Michel-Brault ,QC,Central Canada
+1.0,1.0,740.0,,Residential,629000.0,"1300 Rene-Levesque O., #2107 ",QC,Central Canada
+,,,>287,Residential,500000.0,Ch. Murphy ,QC,Central Canada
+3.0,2.0,4120.0,,Residential,3988000.0,275 Rue Étienne-Lavoie PH302,QC,Central Canada
+3.0,2.0,,,Residential,999000.0,4146B Av. de l'Hôtel-de-Ville ,QC,Central Canada
+1.0,1.0,483.0,,Residential,422050.0,1000 de la Montagne ,QC,Central Canada
+1.0,1.0,652.0,,Residential,319000.0,"315 Rue Richmond, #718 ",QC,Central Canada
+5.0,4.0,4591.0,.435,Residential,1580800.0,21187 Rue Euclide-Lavigne ,QC,Central Canada
+4.0,3.0,19085.0,.918,Residential,467700.0,42 rue France ,QC,Central Canada
+4.0,2.0,1050.0,,Residential,594900.0,5166 Av de Versailles ,QC,Central Canada
+4.0,4.0,5479.0,,Residential,3200000.0,4306 Av. Montrose ,QC,Central Canada
+4.0,2.0,1760.0,,Residential,789000.0,"1840 Rue Mullins, #PH8 ",QC,Central Canada
+2.0,1.0,,.089,Other,1449000.0,3436 Rue Bressani ,QC,Central Canada
+2.0,2.0,1560.0,,Residential,799000.0,"1700 Boul. Rene-Levesque O., #1202 ",QC,Central Canada
+3.0,2.0,2620.0,,Residential,2250000.0,"3456 Av. du Musee, apt. TH4 ",QC,Central Canada
+3.0,2.0,971.0,,Residential,781485.0,1000 de la Montagne ,QC,Central Canada
+1.0,1.0,950.0,,Residential,439000.0,285 Place D'Youville ,QC,Central Canada
+2.0,1.0,813.0,,Residential,449500.0,"385 Rue St-Martin, #214 ",QC,Central Canada
+3.0,1.0,1890.0,,Residential,595000.0,439 Av. Mousseau-Vermette ,QC,Central Canada
+5.0,,2295.0,,Residential,598000.0,735-745 Côte d'Abraham ,QC,Central Canada
+5.0,1.0,5276.0,.056,Residential,1799000.0,306-310A Boul. St-Joseph E. ,QC,Central Canada
+1.0,1.0,58017.0,,Residential,289000.0,3470 Rue Simpson 304,QC,Central Canada
+1.0,1.0,588.0,,Residential,513789.0,1000 de la Montagne ,QC,Central Canada
+,,,>5.9,Residential,274900.0,Ch. Cottage ,QC,Central Canada
+4.0,3.0,1750.0,.674,Residential,890000.0,310 Rue Centre ,QC,Central Canada
+1.0,1.0,1265.0,,Residential,449000.0,"50 Rue des Soeurs-Grises, #403 ",QC,Central Canada
+2.0,1.0,1940.0,.057,Residential,485000.0,2527-2529 Rue Baldwin ,QC,Central Canada
+2.0,3.0,1105.0,,Residential,1003559.0,1000 de la Montagne ,QC,Central Canada
+8.0,,4830.0,,Residential,2900000.0,175A-3956 Av. de l'Hôtel-de-Ville ,QC,Central Canada
+5.0,1.0,1920.0,.099,Residential,608000.0,5520 Rue Boisjoli ,QC,Central Canada
+2.0,3.0,1105.0,,Residential,1005858.0,1000 de la Montagne ,QC,Central Canada
+1.0,1.0,740.0,,Residential,489000.0,366 Rue Mayor ,QC,Central Canada
+1.0,1.0,,,Residential,325000.0,88 rue Charlotte ,QC,Central Canada
+2.0,3.0,1105.0,,Residential,1016379.0,1000 de la Montagne ,QC,Central Canada
+,1.0,461.0,,Residential,250000.0,6670 Rue Jeanne-Mance ,QC,Central Canada
+1.0,1.0,9684.0,,Residential,490000.0,377 Rue Sherbrooke O. 604,QC,Central Canada
+3.0,1.0,,.088,Residential,549000.0,49 Av. Elm ,QC,Central Canada
+2.0,2.0,800.0,,Residential,499000.0,"1375 Rue Basin, #812 ",QC,Central Canada
+4.0,1.0,1000.0,>284,Residential,1799900.0,35-37 Mtée des Érables ,QC,Central Canada
+3.0,2.0,3107.0,.349,Residential,1598000.0,300 Ch. Hemming ,QC,Central Canada
+1.0,1.0,665.0,,Residential,399000.0,"5175 Av. de Courtrai, #708 ",QC,Central Canada
+2.0,2.0,1625.0,,Residential,365000.0,"12052 Rue Notre-Dame O., #4 ",QC,Central Canada
+1.0,1.0,600.0,,Residential,577000.0,"1030 Rue De Bleury, apt. 3216 ",QC,Central Canada
+3.0,2.0,18604.0,,Residential,650000.0,154 Rue des Trésors-de-l'Île 301,QC,Central Canada
+4.0,3.0,2184.0,,Residential,1033998.0,55 6e Avenue ,QC,Central Canada
+3.0,1.0,,.063,Other,1850000.0,6277-6287 Rue St-Dominique ,QC,Central Canada
+1.0,1.0,350.0,,Residential,449000.0,1288 Rue St-Antoine O ,QC,Central Canada
+4.0,2.0,2184.0,0.07,Residential,1195000.0,610 Ch. de la Cote-Ste-Catherine ,QC,Central Canada
+2.0,2.0,1103.0,,Residential,410000.0,4475 Boul. St-Jean 204,QC,Central Canada
+2.0,1.0,81345.0,,Residential,609000.0,651 Rue de la Montagne 907,QC,Central Canada
+1.0,1.0,770.0,,Residential,469000.0,5850 Av. de Monkland ,QC,Central Canada
+4.0,1.0,950.0,.275,Residential,229000.0,116 Rue Cote ,QC,Central Canada
+,,,,Residential,345000.0,1061 rue Saint-Alexandre ,QC,Central Canada
+1.0,1.0,1089.0,,Residential,432000.0,"1520 Av. du Docteur-Penfield, # 81 ",QC,Central Canada
+6.0,4.0,,.047,Residential,1900000.0,1262Z Rue St-Mathieu ,QC,Central Canada
+3.0,3.0,1535.0,,Residential,1447190.0,1000 de la Montagne ,QC,Central Canada
+1.0,1.0,,,Residential,545000.0,1188 Rue St-Antoine Ouest ,QC,Central Canada
+1.0,1.0,950.0,,Residential,390000.0,"1069 Rue De Bleury, #2 ",QC,Central Canada
+,,5276.0,.056,Residential,1799000.0,306-310 Boul. St-Joseph E. ,QC,Central Canada
+1.0,1.0,57673.0,,Residential,399000.0,1869 Rue des Bassins 509,QC,Central Canada
+4.0,3.0,3940.0,.384,Residential,1248000.0,17 Rue de Blois ,QC,Central Canada
+2.0,1.0,534.0,,Residential,460474.0,1000 de la Montagne ,QC,Central Canada
+6.0,5.0,2186.0,.899,Residential,853000.0,Ch. du Lac-Mercier ,QC,Central Canada
+4.0,2.0,,.534,Residential,850000.0,403 Ch. du Sommet ,QC,Central Canada
+3.0,1.0,183848.0,,Residential,988000.0,4777 5e Avenue ,QC,Central Canada
+1.0,1.0,600.0,,Residential,379000.0,2118 Rue St-Dominique ,QC,Central Canada
+3.0,1.0,1520.0,,Residential,329000.0,4445 Rue de Lanaudiere ,QC,Central Canada
+2.0,1.0,842.0,,Residential,668000.0,1730 Rue St-Patrick 806,QC,Central Canada
+1.0,1.0,525.0,,Residential,459000.0,"1225 Boul. Robert-Bourassa, #2209 ",QC,Central Canada
+1.0,1.0,900.0,,Residential,245000.0,4174 Av. Girouard ,QC,Central Canada
+2.0,1.0,1450.0,,Residential,1049000.0,"2000 Rue Drummond, #1701 ",QC,Central Canada
+3.0,2.0,1143.0,.103,Residential,419000.0,4805 Rue Parkinson ,QC,Central Canada
+2.0,1.0,960.0,,Residential,799000.0,1045 Rue Wellington ,QC,Central Canada
+1.0,1.0,65875.0,,Residential,425000.0,350 maisonneuve ouest ,QC,Central Canada
+2.0,3.0,1134.0,,Residential,1102189.0,1000 de la Montagne ,QC,Central Canada
+5.0,4.0,3278.0,.135,Residential,2295000.0,3018 Ch. De Breslay ,QC,Central Canada
+3.0,2.0,1500.0,.425,Residential,325000.0,8C chemin Estate ,QC,Central Canada
+3.0,3.0,1854.0,,Residential,2344800.0,1000 de la Montagne ,QC,Central Canada
+1.0,1.0,729.0,.002,Residential,575000.0,1300 Boul. René-Lévesque Ouest ,QC,Central Canada
+5.0,2.0,,.172,Residential,699000.0,5490 Rue Raymond ,QC,Central Canada
+,1.0,410.0,,Residential,358262.0,1000 de la Montagne ,QC,Central Canada
+1.0,1.0,1140.0,,Residential,319000.0,"2453 Rue Sherbrooke E., #5 ",QC,Central Canada
+4.0,3.0,3200.0,,Residential,1399000.0,1992 Rue de Cognac ,QC,Central Canada
+1.0,1.0,692.0,,Residential,230000.0,3810 Notre-Dame ,QC,Central Canada
+1.0,1.0,1080.0,,Residential,389000.0,"1069 Rue De Bleury, #1 ",QC,Central Canada
+2.0,3.0,1105.0,,Residential,929986.0,1000 de la Montagne ,QC,Central Canada
+4.0,3.0,2821.0,.243,Residential,629000.0,142 Grand Boulevard E. ,QC,Central Canada
+,1.0,470.0,,Residential,218000.0,4295 Beaubien Est ,QC,Central Canada
+2.0,2.0,1100.0,,Residential,829000.0,1300 Boul. René-Lévesque O ,QC,Central Canada
+2.0,1.0,1300.0,,Residential,719000.0,1455 Rue Sherbrooke O. 512,QC,Central Canada
+2.0,2.0,1670.0,,Residential,1088888.0,72 Rue Prince ,QC,Central Canada
+2.0,2.0,1237.0,,Residential,552000.0,"6745 Rue Clark, #PH302 ",QC,Central Canada
+3.0,2.0,1166.0,,Residential,399000.0,4910 Rue Richmond ,QC,Central Canada
+3.0,2.0,210757.0,,Residential,1550000.0,1000 Rue de la Commune E. 901,QC,Central Canada
+4.0,2.0,1800.0,.132,Residential,338000.0,2309 Route 303 ,QC,Central Canada
+1.0,1.0,575.0,,Residential,425000.0,"1414 Rue Chomedey, #907 ",QC,Central Canada
+2.0,2.0,1220.0,,Residential,579000.0,"455 Rue St-Louis, # PH504 ",QC,Central Canada
+2.0,1.0,1860.0,,Residential,685000.0,4293 Rue St-Hubert ,QC,Central Canada
+1.0,1.0,554.0,,Residential,389000.0,"1288 Av. des Canadiens-de-Montreal, # 3202 ",QC,Central Canada
+4.0,3.0,2184.0,,Residential,1183093.0,53 6e Avenue ,QC,Central Canada
+1.0,1.0,594.0,,Residential,519043.0,1000 de la Montagne ,QC,Central Canada
+2.0,1.0,600.0,,Residential,659000.0,"1188 Rue St-Antoine O., #4808 ",QC,Central Canada
+1.0,1.0,563.0,,Residential,468000.0,101 Rue de la Rotonde ,QC,Central Canada
+2.0,2.0,93719.0,,Residential,549999.0,100 Av. des Sommets 1803,QC,Central Canada
+,,,,Residential,529000.0,1070 rue de bleury ,QC,Central Canada
+2.0,1.0,915.0,,Residential,499000.0,3485 Rue Durocher ,QC,Central Canada
+,,,,Residential,699000.0,2355-2359 Rue Frontenac ,QC,Central Canada
+6.0,6.0,,.262,Residential,3800000.0,3021 AV. DE TRAFALGAR ,QC,Central Canada
+4.0,2.0,2775.0,0.72,Residential,299900.0,27C Prom. Carson ,QC,Central Canada
+1.0,1.0,675.0,,Residential,399000.0,"1070 Rue Berri, #35 ",QC,Central Canada
+1.0,1.0,1010.0,,Residential,485000.0,"320 Rue Sherbrooke O., #403 ",QC,Central Canada
+1.0,1.0,600.0,,Residential,399000.0,"1070 Rue De Bleury, #504 ",QC,Central Canada
+3.0,3.0,4238.0,.663,Residential,995000.0,2051 Boul. du Roi-Charles ,QC,Central Canada
+3.0,1.0,1225.0,.276,Residential,299999.0,9510 Route Marie-Victorin ,QC,Central Canada
+,,,0.25,Residential,50000.0,Rue Léonard ,QC,Central Canada
+2.0,3.0,1175.0,,Residential,1099899.0,1000 de la Montagne ,QC,Central Canada
+1.0,1.0,860.0,,Residential,399000.0,"1515 Rue St-Jacques, #3 ",QC,Central Canada
+1.0,1.0,700.0,,Residential,415000.0,"185 Rue du  Seminaire, #302 ",QC,Central Canada
+6.0,1.0,2000.0,.195,Residential,174900.0,356 Rue Cobb ,QC,Central Canada
+3.0,3.0,1782.0,.034,Residential,1075000.0,8053 AV. CASGRAIN ,QC,Central Canada
+1.0,1.0,675.0,,Residential,299000.0,3625 Av. Ridgewood 105,QC,Central Canada
+3.0,3.0,2557.0,,Residential,3527892.0,1000 de la Montagne ,QC,Central Canada
+3.0,3.0,2500.0,,Residential,2745000.0,"1200 Boul. De Maisonneuve O., #PH-D ",QC,Central Canada
+3.0,1.0,1520.0,,Residential,309000.0,4300 Rue La Perriere ,QC,Central Canada
+4.0,3.0,2061.0,,Residential,845000.0,2106 Rue Colbert ,QC,Central Canada
+1.0,1.0,693.0,,Residential,450000.0,1450 Rue Island 315,QC,Central Canada
+,,,.057,Residential,42000.0,91 Mtée Chartrand ,QC,Central Canada
+2.0,2.0,1000.0,,Residential,529000.0,"111 Ch. de la Pointe-Nord, #525 ",QC,Central Canada
+2.0,2.0,1056.0,.205,Residential,179000.0,1132 Rue de Clarendon ,QC,Central Canada
+3.0,1.0,106093.0,,Residential,325000.0,9003 Av. Pierre-De Coubertin ,QC,Central Canada
+4.0,2.0,,0.05,Residential,525000.0,8406 Rue de Marseille ,QC,Central Canada
+2.0,1.0,1650.0,,Residential,645000.0,"50 Rue McGill, # 55 ",QC,Central Canada
+4.0,1.0,1434.0,>214,Residential,489900.0,2 Ch. du Trécarré ,QC,Central Canada
+3.0,2.0,,.116,Residential,419000.0,15 Rue de Dakar ,QC,Central Canada
+2.0,2.0,1150.0,,Residential,1299000.0,"1288 Av. des Canadiens-de-Montreal, #PH4802 ",QC,Central Canada
+2.0,2.0,2508.0,,Residential,799000.0,1624 Av. des Pins O. ,QC,Central Canada
+,,2845.0,,Residential,899000.0,40-40A Rue Ste-Anne ,QC,Central Canada
+2.0,1.0,737.0,,Residential,399000.0,650 rue Jean-D'Estrées ,QC,Central Canada
+,,,.113,Residential,27000.0,Chemin de Chertsey ,QC,Central Canada
+2.0,2.0,920.0,,Residential,579000.0,"441 Av. du President-Kennedy, #1402 ",QC,Central Canada
+3.0,4.0,5064.0,.301,Residential,1475000.0,684 Rue de Bois-Guillaume ,QC,Central Canada
+5.0,3.0,,0.08,Residential,1560000.0,4615 Rue Vittorio-Fiorucci ,QC,Central Canada
+2.0,2.0,1000.0,,Residential,599000.0,"1181 Rue Bishop, #405 ",QC,Central Canada
+1.0,1.0,460.0,,Residential,401952.0,1000 de la Montagne ,QC,Central Canada
+2.0,1.0,817.0,,Residential,410000.0,225 rue de la montagne ,QC,Central Canada
+2.0,2.0,1343.0,,Residential,969000.0,157 Saint-Paul ,QC,Central Canada
+3.0,2.0,1218.0,,Residential,599000.0,6680 Rue de Terrebonne 103,QC,Central Canada
+1.0,1.0,1100.0,,Residential,748979.0,1790 Rue du Canal ,QC,Central Canada
+1.0,1.0,450.0,,Residential,249000.0,"3470 Rue Simpson, #1107 ",QC,Central Canada
+5.0,2.0,1250.0,.443,Residential,999900.0,68 Ch. de Pine Lodge ,QC,Central Canada
+,,864.0,.448,Residential,159000.0,307 chemin River ,QC,Central Canada
+3.0,1.0,,6.82,Residential,1199000.0,358 Ch. de la Chute ,QC,Central Canada
+3.0,2.0,1260.0,.179,Residential,549000.0,8465Z Rue du Notaire-Girard ,QC,Central Canada
+3.0,1.0,3633.0,.055,Residential,1195000.0,3411-3415 Rue St-Jacques ,QC,Central Canada
+3.0,2.0,2085.0,,Residential,2191245.0,"1288 Av. des Canadiens-de-Montréal, #PH4903 ",QC,Central Canada
+2.0,1.0,675.0,,Residential,566539.0,1000 de la Montagne ,QC,Central Canada
+4.0,2.0,,,Residential,475000.0,75 avenue Fouquet ,QC,Central Canada
+4.0,2.0,,.115,Residential,498000.0,5625 rue bordeaux ,QC,Central Canada
+2.0,2.0,2908.0,,Residential,3300000.0,2333 Rue Sherbrooke O. 805,QC,Central Canada
+1.0,1.0,477.0,,Residential,360000.0,1061 Rue St-Alexandre 310,QC,Central Canada
+2.0,2.0,1000.0,,Residential,645000.0,1414 rue chomedey ,QC,Central Canada
+3.0,2.0,2000.0,,Residential,475000.0,7923A Rue Nadeau ,QC,Central Canada
+2.0,1.0,826.0,,Residential,598000.0,1414 RUE CHOMEDEY ,QC,Central Canada
+2.0,1.0,1122.0,.092,Residential,384000.0,1434 Rue du Beaujolais ,QC,Central Canada
+1.0,1.0,855.0,,Residential,389000.0,"90 Rue des Soeurs-Grises, #610 ",QC,Central Canada
+2.0,1.0,1060.0,,Residential,249000.0,"1999 Rue Beauregard, #107 ",QC,Central Canada
+5.0,5.0,3320.0,.277,Residential,1080000.0,Rue du Mont-Sanford ,QC,Central Canada
+2.0,2.0,1625.0,,Residential,439000.0,"12050 Rue Notre-Dame O., #1 ",QC,Central Canada
+1.0,1.0,550.0,,Residential,419000.0,235 Rue Peel ,QC,Central Canada
+2.0,1.0,525.0,,Residential,420000.0,2100 Boul. St-Laurent 509,QC,Central Canada
+3.0,2.0,1480.0,,Residential,2998000.0,3445 Rue Redpath ,QC,Central Canada
+1.0,1.0,554.0,,Residential,419000.0,"1288 Av. des Canadiens-de-Montreal, # 3102 ",QC,Central Canada
+4.0,1.0,,.041,Residential,2498000.0,6646Z-6650Z Av. De Gaspé ,QC,Central Canada
+2.0,2.0,1995.0,,Residential,2000000.0,"3456 Av. du Musee, #R201 ",QC,Central Canada
+4.0,2.0,1569.0,,Residential,880000.0,4780 Victoria ,QC,Central Canada
+1.0,1.0,1270.0,,Residential,424997.0,3010 Boul. St-Joseph ,QC,Central Canada
+1.0,1.0,82959.0,,Residential,395000.0,2355 Av. Jeanne-d'Arc 208,QC,Central Canada
+,1.0,406.0,,Residential,340762.0,1000 de la Montagne ,QC,Central Canada
+1.0,1.0,,,Residential,375000.0,363 rue saint-hubert ,QC,Central Canada
+1.0,1.0,68971.0,,Residential,475000.0,1070 Rue De Bleury 705,QC,Central Canada
+2.0,1.0,108823.0,,Residential,468888.0,650 Boul. Marcel-Laurin 201,QC,Central Canada
+2.0,1.0,699.0,,Residential,586682.0,1000 de la Montagne ,QC,Central Canada
+1.0,1.0,750.0,,Residential,425000.0,363 Rue St-Hubert ,QC,Central Canada
+3.0,3.0,3454.0,0.35,Residential,1377000.0,15023-15027 Boul. Gouin O. ,QC,Central Canada
+2.0,2.0,1469.0,,Residential,649000.0,"6747 Rue Clark, #PH301 ",QC,Central Canada
+1.0,1.0,460.0,,Residential,365000.0,1800 Boul. René-Lévesque O. ,QC,Central Canada
+8.0,8.0,431417.0,0.31,Residential,799000.0,258 Rue Argue ,QC,Central Canada
+2.0,2.0,1450.0,,Residential,1399999.0,"1225 Boul. Robert-Bourassa, # 2501 ",QC,Central Canada
+3.0,2.0,1050.0,,Residential,290000.0,"5845 Place Decelles, #6 ",QC,Central Canada
+3.0,1.0,930.0,,Residential,289000.0,766 Rue Lafleur ,QC,Central Canada
+1.0,1.0,600.0,,Residential,459000.0,"1288 Av. des Canadiens-de-Montréal, #4403 ",QC,Central Canada
+3.0,2.0,208206.0,,Residential,1680000.0,859 Rue de la Commune E. 705,QC,Central Canada
+3.0,3.0,2500.0,,Residential,859000.0,6105 Av. Wilderton ,QC,Central Canada
+,,5600.0,,Residential,2650000.0,4160 Boul. Dorchester O. ,QC,Central Canada
+,,4083.0,.479,Residential,359800.0,260 Rue Principale ,QC,Central Canada
+4.0,4.0,2345.0,.948,Residential,980000.0,Rue de l'Everest ,QC,Central Canada
+2.0,2.0,702.0,,Residential,613414.0,1000 de la Montagne ,QC,Central Canada
+5.0,2.0,262974.0,,Residential,835000.0,1436 Rue Galt ,QC,Central Canada
+4.0,1.0,12583.0,.085,Residential,988000.0,5115 Av. Cumberland ,QC,Central Canada
+1.0,1.0,675.0,,Residential,399000.0,"1070 Rue Berri, #25 ",QC,Central Canada
+1.0,1.0,510.0,,Residential,445643.0,1000 de la Montagne ,QC,Central Canada
+2.0,2.0,1630.0,,Residential,799000.0,"157 Rue St-Paul O., #39 ",QC,Central Canada
+,,,0.25,Residential,50000.0,Rue Léonard ,QC,Central Canada
+,,,>287,Residential,500000.0,chemin Murphy ,QC,Central Canada
+3.0,1.0,,.189,Other,1120000.0,36 Rue Besner ,QC,Central Canada
+6.0,5.0,3454.0,0.35,Residential,1377000.0,15023A-15027A Boul. Gouin O. ,QC,Central Canada
+4.0,3.0,1560.0,.075,Residential,479900.0,1 chemin Blue Ridge ,QC,Central Canada
+3.0,2.0,1325.0,,Residential,448000.0,248 Rue Corot ,QC,Central Canada
+4.0,3.0,2965.0,.052,Residential,1595000.0,2233 - 2235 Av. Girouard ,QC,Central Canada
+5.0,2.0,,.172,Residential,1500000.0,4990 Av. des Sorbiers ,QC,Central Canada
+4.0,2.0,2711.0,.115,Residential,1795000.0,15 Avenue Melbourne ,QC,Central Canada
+1.0,1.0,493.0,,Residential,408000.0,1065 rue Wellington ,QC,Central Canada
+3.0,3.0,1481.0,,Residential,1396279.0,1000 de la Montagne ,QC,Central Canada
+3.0,2.0,1488.0,,Residential,738000.0,85 Place du Soleil ,QC,Central Canada
+6.0,3.0,3200.0,,Residential,1175000.0,No address available ,QC,Central Canada
+2.0,1.0,1370.0,,Residential,529000.0,"2475 Rue des Harfangs, #2501 ",QC,Central Canada
+1.0,1.0,1615.0,,Residential,399000.0,"455 Rue St-Louis, #113 ",QC,Central Canada
+3.0,1.0,1539.0,,Residential,349900.0,284 Rue Main ,QC,Central Canada
+2.0,1.0,920.0,,Residential,259000.0,"740 Boul. Montpellier, #1404 ",QC,Central Canada
+5.0,3.0,5500.0,.297,Residential,2395000.0,9122 Boul. Marie-Victorin ,QC,Central Canada
+,,2716.0,,Residential,3599000.0,1035 Rue Lambert-Closse ,QC,Central Canada
+1.0,1.0,632.0,,Residential,319000.0,"315 Rue richmond, #212 ",QC,Central Canada
+3.0,1.0,2935.0,.421,Residential,5998000.0,8810 Boul. Marie-Victorin ,QC,Central Canada
+3.0,,2612.0,.052,Residential,1199000.0,737-739 Rue de Versailles ,QC,Central Canada
+3.0,1.0,,.077,Residential,577000.0,"47 Av. de Carmel Cr., Pointe-Claire North ",QC,Central Canada
+1.0,1.0,531.0,,Residential,325000.0,925 rene-levesque E ,QC,Central Canada
+2.0,1.0,1100.0,,Residential,339000.0,"6644 Av. Somerled, #105 ",QC,Central Canada
+1.0,1.0,65122.0,,Residential,590000.0,1450 Rue Island B205,QC,Central Canada
+2.0,2.0,827.0,,Residential,684607.0,1000 de la Montagne ,QC,Central Canada
+2.0,2.0,1000.0,,Residential,725000.0,495 Viger Ouest ,QC,Central Canada
+4.0,2.0,1975.0,.034,Residential,995000.0,5291 2e Avenue ,QC,Central Canada
+3.0,3.0,3350.0,,Residential,949000.0,308 Chemin des Pins ,QC,Central Canada
+3.0,3.0,2100.0,,Residential,975000.0,"2355 Rue Duvernay, #101 ",QC,Central Canada
+4.0,2.0,,.038,Residential,1499000.0,1983 Rue Wellington ,QC,Central Canada
+1.0,1.0,118575.0,,Residential,1000000.0,1709 Rue St-Patrick 303,QC,Central Canada
+2.0,1.0,,.024,Residential,525000.0,361Z-363Z Rue de Liège E. ,QC,Central Canada
+1.0,1.0,930.0,,Residential,498000.0,"333 Rue Sherbrooke E., #M2-516 ",QC,Central Canada
+1.0,1.0,542.0,,Residential,349000.0,"1200 St-Alexandre, #303 ",QC,Central Canada
+3.0,3.0,2700.0,,Residential,599260.0,10 Av. St-Denis ,QC,Central Canada
+2.0,1.0,114271.0,,Residential,500000.0,4004 Av. des Érables ,QC,Central Canada
+4.0,2.0,3060.0,,Residential,1399000.0,16449 Boul. Gouin O. ,QC,Central Canada
+2.0,1.0,1099.0,,Residential,719000.0,859 Rue de la Commune E. 104,QC,Central Canada
+2.0,2.0,1500.0,,Residential,849000.0,"100 Av. des Sommets, #1204 ",QC,Central Canada
+3.0,2.0,3048.0,,Residential,1999000.0,"1155 Rue de la Montagne, #3201 ",QC,Central Canada
+3.0,2.0,1858.0,.943,Residential,399900.0,389 Ch. Jingletown ,QC,Central Canada
+3.0,2.0,941.0,,Residential,757340.0,1000 de la Montagne ,QC,Central Canada
+3.0,3.0,1457.0,,Residential,1373652.0,1000 de la Montagne ,QC,Central Canada
+4.0,2.0,3042.0,.168,Residential,1248000.0,130 Av. de Bathurst ,QC,Central Canada
+2.0,2.0,1200.0,,Residential,520000.0,4188 Rue De Bullion ,QC,Central Canada
+,,,.127,Residential,379000.0,"495 Rue Pie-XII, Vaudreuil-Dorion, QC, J7V 1Z7 ",QC,Central Canada
+2.0,1.0,641.0,,Residential,538002.0,1000 de la Montagne ,QC,Central Canada
+4.0,1.0,117499.0,,Residential,649000.0,5399 Av. Bourret ,QC,Central Canada
+2.0,2.0,1500.0,,Residential,699000.0,1910 Rue Augustin-Cantin ,QC,Central Canada
+3.0,2.0,1360.0,0.33,Residential,349900.0,6 Rue Leslie ,QC,Central Canada
+4.0,2.0,,.187,Residential,599000.0,75 17e Avenue ,QC,Central Canada
+6.0,4.0,8360.0,,Residential,2299000.0,3605 Rue Arthur-Villeneuve ,QC,Central Canada
+3.0,1.0,,>0.3,Residential,374000.0,65 Boul. du Domaine ,QC,Central Canada
+3.0,3.0,2700.0,,Residential,607958.0,8 Av. St-Denis ,QC,Central Canada
+1.0,1.0,1050.0,,Residential,489000.0,"50 Rue des Soeurs-Grises, #501 ",QC,Central Canada
+4.0,4.0,2000.0,.277,Residential,785000.0,Rue du Denali ,QC,Central Canada
+1.0,1.0,464.0,,Residential,405477.0,1000 de la Montagne ,QC,Central Canada
+2.0,1.0,9203.0,,Residential,439000.0,"7 Rue Édouard-Lalonde, apt. 402 ",QC,Central Canada
+1.0,1.0,664.0,,Residential,588000.0,2615 Rue Augustin-Cantin B114,QC,Central Canada
+1.0,1.0,798.0,,Residential,425000.0,1830 Panet ,QC,Central Canada
+3.0,2.0,1450.0,,Residential,849000.0,"3001 Rue Sherbrooke O., #502 ",QC,Central Canada
+3.0,1.0,1200.0,.069,Residential,222900.0,22 Rue de Matane ,QC,Central Canada
+2.0,2.0,1000.0,,Residential,835000.0,1310 Boul. Rene-Levesque Ouest ,QC,Central Canada
+3.0,3.0,2700.0,,Residential,607958.0,8A Av. St-Denis ,QC,Central Canada
+1.0,1.0,644.0,,Residential,375000.0,1061 rue Saint-Alexandre ,QC,Central Canada
+2.0,1.0,726.0,,Residential,490000.0,236 Rue Beaudoin ,QC,Central Canada
+2.0,2.0,850.0,,Residential,524500.0,"385 Rue St-Martin, #612 ",QC,Central Canada
+4.0,3.0,3200.0,,Residential,1399000.0,1992Z Rue de Cognac ,QC,Central Canada
+5.0,3.0,,.277,Residential,925000.0,6775 rue de la Bataille ,QC,Central Canada
+3.0,2.0,1320.0,,Residential,469000.0,"7525 Av. Mountain Sights, #701 ",QC,Central Canada
+2.0,2.0,88554.0,,Residential,680000.0,315 Rue Richmond 720,QC,Central Canada
+3.0,2.0,1920.0,,Residential,795000.0,3765 Rue Ste-Catherine E. ,QC,Central Canada
+2.0,1.0,1200.0,,Residential,529000.0,"4490 Rue St-Urbain, # 101 ",QC,Central Canada
+3.0,1.0,,,Residential,625000.0,4081 Rue Clark ,QC,Central Canada
+2.0,1.0,660.0,,Residential,619000.0,"1050 Rue Drummond, #3702 ",QC,Central Canada
+,,,.049,Residential,345000.0,Rue Champêtre Saint-Hippolyte ,QC,Central Canada
+3.0,2.0,2439.0,,Residential,2375000.0,"3456 Av. du Musee, #PH202 ",QC,Central Canada
+2.0,1.0,74244.0,,Residential,580000.0,1010 Rue William 604,QC,Central Canada
+3.0,1.0,1380.0,,Residential,349900.0,"5315 Rue de Leslie, #5 ",QC,Central Canada
+1.0,1.0,644.0,,Residential,395000.0,1061 Saint-Alexandre ,QC,Central Canada
+3.0,2.0,1550.0,,Residential,385000.0,"14350 Rue Notre-Dame E., #210 ",QC,Central Canada
+1.0,1.0,500.0,,Residential,459000.0,"1288 Rue St-Antoine O., #2811 ",QC,Central Canada
+3.0,2.0,19540.0,,Residential,425000.0,1598-1606 Ch. du Lac-Écho ,QC,Central Canada
+4.0,3.0,,.066,Residential,749000.0,11548 Av. des Récollets ,QC,Central Canada
+3.0,3.0,1956.0,,Residential,2248911.0,1000 de la Montagne ,QC,Central Canada
+5.0,3.0,3476.0,.315,Residential,2750000.0,7025 Rue Antonio-Di Ciocco ,QC,Central Canada
+3.0,2.0,2900.0,,Residential,1095000.0,"303 Boul. Clairevue E., #4108 ",QC,Central Canada
+3.0,2.0,1776.0,,Residential,1249000.0,3632 Rue De Bullion ,QC,Central Canada
+1.0,1.0,750.0,,Residential,469000.0,"1199 Rue Bishop, #606 ",QC,Central Canada
+2.0,1.0,,,Residential,679000.0,4146A Av. de l'Hôtel-de-Ville ,QC,Central Canada
+2.0,3.0,1175.0,,Residential,1097590.0,1000 de la Montagne ,QC,Central Canada
+1.0,1.0,630.0,,Residential,349000.0,3810 Rue St-Antoine O ,QC,Central Canada
+1.0,1.0,87586.0,,Residential,449000.0,859 Rue de la Commune E. 102,QC,Central Canada
+,,,.004,Residential,89900.0,Ch. Ryan ,QC,Central Canada
+3.0,2.0,1150.0,,Residential,649000.0,"1280 Rue St-Jacques, #302 ",QC,Central Canada
+3.0,3.0,2575.0,,Residential,1725000.0,4445 Av. Montclair ,QC,Central Canada
+5.0,3.0,2279.0,.338,Residential,589000.0,313 Rue Renaud ,QC,Central Canada
+6.0,2.0,,.183,Residential,359000.0,148 Royale ,QC,Central Canada
+2.0,1.0,,,Residential,339000.0,5260 Rue Riviera ,QC,Central Canada
+2.0,3.0,1060.0,,Residential,1010457.0,1000 de la Montagne ,QC,Central Canada
+4.0,2.0,,,Residential,449000.0,8552 Boul. St-Michel ,QC,Central Canada
+2.0,2.0,1800.0,,Residential,899000.0,"6111 Av. du Boise, # 8F ",QC,Central Canada
+3.0,2.0,1695.0,,Residential,1050000.0,"199 Rue de la Rotonde, #1808 ",QC,Central Canada
+,,,,Residential,210000.0,443 Ch. Clavelle ,QC,Central Canada
+2.0,1.0,1010.0,.092,Residential,389000.0,1423 Rue du Beaujolais ,QC,Central Canada
+1.0,1.0,900.0,,Residential,359000.0,"90 Rue des Soeurs-Grises, #612 ",QC,Central Canada
+1.0,1.0,58642.0,,Residential,399000.0,1811 Rue William 205,QC,Central Canada
+1.0,1.0,,,Residential,399000.0,3461 Saint-Antoine ,QC,Central Canada
+2.0,1.0,1380.0,,Residential,399000.0,"5300 Rue de Leslie, #4 ",QC,Central Canada
+,,,.793,Residential,274900.0,23 Beauchamp ,QC,Central Canada
+4.0,3.0,2625.0,.068,Residential,1325000.0,715 Boul. de la Foret ,QC,Central Canada
+,,,g>11,Residential,99900.0,Rue Principale ,QC,Central Canada
+2.0,1.0,830.0,,Residential,438998.0,"3583 Rue Durocher, #A ",QC,Central Canada
+,,3950.0,.803,Residential,424900.0,376 Ch. des Outaouais ,QC,Central Canada
+3.0,2.0,1700.0,.035,Residential,709000.0,5633 Av. Bourbonniere ,QC,Central Canada
+2.0,2.0,1080.0,,Residential,899000.0,"1310 Boul. Rene-Levesque O, #2508 ",QC,Central Canada
+3.0,2.0,1488.0,.054,Residential,738000.0,85Z Place du Soleil ,QC,Central Canada
+2.0,2.0,1322.0,,Residential,609000.0,3779 Rue Drolet ,QC,Central Canada
+3.0,2.0,2100.0,,Residential,879000.0,6107 Av. Wilderton ,QC,Central Canada
+4.0,1.0,1345.0,.003,Residential,649000.0,900 Rue Sherbrooke O. 83,QC,Central Canada
+2.0,3.0,1105.0,,Residential,1001259.0,1000 de la Montagne ,QC,Central Canada
+2.0,2.0,1025.0,,Residential,439000.0,"3608 Av. de l'Hotel-de-Ville, # 1 ",QC,Central Canada
+2.0,3.0,1175.0,,Residential,1095290.0,1000 de la Montagne ,QC,Central Canada
+1.0,1.0,803.0,,Residential,499000.0,4418 Av. de l'Hôtel-de-Ville ,QC,Central Canada
+2.0,1.0,641.0,,Residential,538002.0,1000 de la Montagne ,QC,Central Canada
+1.0,1.0,640.0,,Residential,425000.0,"1548 Rue Basin, #609 ",QC,Central Canada
+,,,.002,Residential,299900.0,2160 Beaudoin ,QC,Central Canada
+4.0,3.0,,.086,Residential,785000.0,10560 Rue Hogue ,QC,Central Canada
+1.0,1.0,600.0,,Residential,459000.0,"1155 Rue de la Montagne, #3610 ",QC,Central Canada
+6.0,5.0,5591.0,.023,Residential,1305000.0,Rue du Denali * ,QC,Central Canada
+1.0,1.0,1080.0,,Residential,485000.0,"3550 Rue de la Montagne, #102 ",QC,Central Canada
+4.0,2.0,2000.0,,Residential,1018000.0,4293 Rue Jean-Talon O ,QC,Central Canada
+1.0,1.0,56167.0,,Residential,475000.0,1800 Boul. René-Lévesque O. 405,QC,Central Canada
+3.0,1.0,850.0,.338,Residential,249900.0,812 Rue Victoria ,QC,Central Canada
+3.0,2.0,2670.0,,Residential,1395000.0,1179 Rue De Bleury ,QC,Central Canada
+1.0,1.0,543.0,,Residential,455749.0,1000 de la Montagne ,QC,Central Canada
+2.0,1.0,,,Residential,649000.0,4144Z Av. de l'Hôtel-de-Ville ,QC,Central Canada
+3.0,2.0,,.092,Residential,599000.0,12136 42e Avenue ,QC,Central Canada
+4.0,4.0,5575.0,0.18,Residential,1400000.0,19218 Rue du Trotteur ,QC,Central Canada
+1.0,1.0,600.0,,Residential,369000.0,"2055 Rue du Fort, #507 ",QC,Central Canada
+3.0,1.0,,.174,Other,5000000.0,1489-1509 Boul. De Maisonneuve E. ,QC,Central Canada
+3.0,3.0,2640.0,,Residential,759000.0,5190 Av. Rosedale ,QC,Central Canada
+1.0,1.0,,,Residential,475000.0,705 rue william ,QC,Central Canada
+1.0,1.0,67465.0,,Residential,259000.0,5700 Boul. Cavendish 1606,QC,Central Canada
+2.0,2.0,1495.0,,Residential,539000.0,"1250 Av. des Pins O., #720 ",QC,Central Canada
+1.0,1.0,600.0,,Residential,399000.0,"1000 Rue Ottawa, #724 ",QC,Central Canada
+,,,,Residential,480000.0,2519 Rue Genest ,QC,Central Canada
+5.0,2.0,2010.0,,Residential,799000.0,2288 Rue du Souvenir ,QC,Central Canada
+2.0,2.0,1021.0,,Residential,665000.0,199 Rue de la Rotonde #1206 ,QC,Central Canada
+5.0,3.0,322917.0,.344,Residential,549900.0,3240 Rue Leclerc ,QC,Central Canada
+3.0,1.0,62248.0,.118,Residential,329000.0,3304 Ch. du Lac ,QC,Central Canada
+3.0,2.0,,.179,Residential,399000.0,325 Rue Ste-Marie ,QC,Central Canada
+2.0,1.0,,.138,Residential,325000.0,432 Rue Cheverny ,QC,Central Canada
+7.0,4.0,293995.0,.189,Residential,749000.0,660 Rue des Grands-Mâts ,QC,Central Canada
+3.0,2.0,317535.0,.484,Residential,299000.0,130 7e Avenue ,QC,Central Canada
+3.0,1.0,,.128,Residential,215000.0,67 Rue St-Pamphile ,QC,Central Canada
+3.0,2.0,527432.0,.121,Other,550000.0,17 Rue du Garrot ,QC,Central Canada
+4.0,2.0,,.155,Residential,225000.0,209 Av. des Goélands ,QC,Central Canada
+2.0,1.0,134398.0,.697,Residential,289900.0,186Z Rue des Bouleaux ,QC,Central Canada
+3.0,3.0,218497.0,.075,Residential,289900.0,813 Boul. Jacques-Cartier N. ,QC,Central Canada
+3.0,1.0,,,Residential,315000.0,2518Z Av. de la Gare ,QC,Central Canada
+4.0,1.0,,.092,Residential,299000.0,149 Rue Jeannotte ,QC,Central Canada
+2.0,1.0,,.988,Residential,369000.0,1 Lac Lagon ,QC,Central Canada
+2.0,1.0,,,Other,110000.0,705 Rue des Conifères ,QC,Central Canada
+4.0,2.0,,.615,Residential,849900.0,2080 Place des Tisserands ,QC,Central Canada
+4.0,2.0,89782.0,.095,Residential,259000.0,955 Rue des Harfangs ,QC,Central Canada
+3.0,2.0,,.063,Residential,799000.0,4137 Rue du Croissant-du-Lac ,QC,Central Canada
+3.0,1.0,,.036,Residential,179900.0,136 Rue Cousineau ,QC,Central Canada
+4.0,1.0,,.118,Residential,119000.0,6 Rue de l'Église N. ,QC,Central Canada
+5.0,3.0,,,Residential,380000.0,1039 Rue St-Charles S. ,QC,Central Canada
+2.0,2.0,102505.0,.041,Residential,261500.0,120I Rue Leblanc ,QC,Central Canada
+2.0,1.0,89599.0,,Other,159000.0,240 Rue du Domaine ,QC,Central Canada
+3.0,1.0,113204.0,.098,Residential,489000.0,Allée de la Sérénité ,QC,Central Canada
+4.0,1.0,,.182,Residential,259000.0,117 Rue St-Joachim ,QC,Central Canada
+6.0,6.0,4482.0,.156,Residential,5900000.0,66 Crois. Forden ,QC,Central Canada
+3.0,2.0,,.275,Residential,465000.0,29 Av. des Cyprès ,QC,Central Canada
+3.0,1.0,,0.07,Residential,185000.0,325-11 Route Cameron ,QC,Central Canada
+2.0,2.0,,.115,Residential,125000.0,28 Ch. du Lac-Grace ,QC,Central Canada
+5.0,2.0,,0.39,Residential,383000.0,1892 Route 337 ,QC,Central Canada
+4.0,2.0,,.191,Residential,379900.0,286 Rue Cedar ,QC,Central Canada
+4.0,1.0,142999.0,.097,Residential,289000.0,264 Rue Dureault ,QC,Central Canada
+4.0,2.0,,0.43,Other,149900.0,1250 Boul. Bécancour ,QC,Central Canada
+,,64702.0,.115,Residential,65000.0,9582 Boul. Rideau ,QC,Central Canada
+3.0,1.0,,.252,Residential,199000.0,176 Rue Rousseau ,QC,Central Canada
+3.0,1.0,20333.0,0.53,Residential,275000.0,750 Rue de Beauport ,QC,Central Canada
+4.0,2.0,117284.0,.306,Residential,312000.0,118 Rue Laprairie ,QC,Central Canada
+1.0,1.0,55434.0,,Residential,279900.0,735 1re Avenue ,QC,Central Canada
+3.0,1.0,,.142,Residential,650000.0,30 Mtée des Marguerites ,QC,Central Canada
+3.0,1.0,169962.0,.173,Residential,289900.0,865 Ch. de Masson ,QC,Central Canada
+3.0,1.0,,.382,Residential,179000.0,125 3e av. Beauvoir ,QC,Central Canada
+3.0,2.0,,.309,Residential,349900.0,35 Rue Gosselin ,QC,Central Canada
+3.0,1.0,,.458,Residential,349900.0,126 Rue Bussière ,QC,Central Canada
+3.0,1.0,,.768,Residential,399000.0,358 Rue Russell ,QC,Central Canada
+2.0,1.0,80945.0,.533,Residential,70000.0,184 Rg Bourgchemin E. ,QC,Central Canada
+3.0,1.0,,.013,Residential,289000.0,548 Mtée du Lac-Gravel ,QC,Central Canada
+3.0,1.0,,.407,Residential,347000.0,558 Route 309 S. ,QC,Central Canada
+3.0,1.0,,.056,Residential,289000.0,1853 Place de la Berge ,QC,Central Canada
+2.0,1.0,,,Other,89000.0,44 Rue de la Poudreuse ,QC,Central Canada
+3.0,1.0,,.227,Residential,169000.0,6005 Route 335 ,QC,Central Canada
+4.0,2.0,,.021,Residential,205000.0,83 Rue Lecours ,QC,Central Canada
+3.0,1.0,,.537,Residential,200000.0,2216 Rue Clarence ,QC,Central Canada
+2.0,1.0,,.112,Residential,139900.0,1390 7e av. du Domaine-Armstrong ,QC,Central Canada
+3.0,1.0,113204.0,.107,Residential,489000.0,Allée de la Sérénité ,QC,Central Canada
+2.0,1.0,,.131,Residential,129000.0,47 Rue des Pins ,QC,Central Canada
+2.0,1.0,,.371,Residential,249000.0,89 Rue de la Saulaie ,QC,Central Canada
+2.0,1.0,,.265,Residential,399000.0,90 Rue des Peupliers ,QC,Central Canada
+3.0,1.0,,.136,Residential,350000.0,20 159e Avenue ,QC,Central Canada
+5.0,2.0,,.696,Residential,789000.0,1320-1322 Rue Principale ,QC,Central Canada
+2.0,3.0,,.239,Residential,924900.0,63 Ch. du Richelieu ,QC,Central Canada
+1.0,1.0,,.492,Residential,195000.0,110 Route 132 E. ,QC,Central Canada
+3.0,1.0,,.371,Residential,259000.0,189 Route 132 O. ,QC,Central Canada
+3.0,1.0,,.285,Residential,775000.0,3 Rue Sérénac ,QC,Central Canada
+4.0,1.0,100998.0,.126,Residential,258000.0,12 Rue De La Morandière ,QC,Central Canada
+2.0,1.0,,.166,Residential,155000.0,141 Boul. St-Benoit E. ,QC,Central Canada
+3.0,1.0,14231.0,.039,Residential,424900.0,2199Z Ch. St-Antoine ,QC,Central Canada
+3.0,1.0,,.135,Residential,85500.0,346 3e Rue E. ,QC,Central Canada
+1.0,1.0,,.428,Residential,239900.0,781 Ch. du Canton-de-Le Jeune ,QC,Central Canada
+4.0,2.0,104098.0,.131,Residential,349900.0,471 Rue Iberville ,QC,Central Canada
+5.0,2.0,,.396,Residential,255900.0,261-261A Av. Lambert ,QC,Central Canada
+3.0,1.0,,.598,Residential,374500.0,400-404 Route Nationale ,QC,Central Canada
+2.0,1.0,,.102,Other,219000.0,311 Rue Le Pacifique ,QC,Central Canada
+2.0,1.0,,.152,Residential,129000.0,687 Rue l'Annonciation S. ,QC,Central Canada
+3.0,1.0,73152.0,.003,Residential,264000.0,18 Rue St-Marcel ,QC,Central Canada
+5.0,2.0,110997.0,.087,Residential,332000.0,288 Rue Monseigneur-Latulipe O. ,QC,Central Canada
+2.0,1.0,,,Other,135000.0,14510 Rue Bastien ,QC,Central Canada
+1.0,2.0,,.191,Residential,589000.0,299 Ch. St-Joseph ,QC,Central Canada
+2.0,1.0,62409.0,.092,Residential,259000.0,26 Rue St-Jean ,QC,Central Canada
+1.0,1.0,,.716,Residential,200000.0,140 Rue St-Paul ,QC,Central Canada
+3.0,1.0,,,Residential,424900.0,758 Carré Louis-Bourque ,QC,Central Canada
+4.0,2.0,97037.0,.124,Residential,344900.0,185 Rue du Curé-Ouellet ,QC,Central Canada
+4.0,1.0,,0.11,Residential,498900.0,14176 Rue Philippon ,QC,Central Canada
+5.0,1.0,259195.0,.205,Residential,297000.0,828 Route 133 ,QC,Central Canada
+3.0,1.0,,.476,Residential,299000.0,833 Rue Camille-Lacasse ,QC,Central Canada
+3.0,3.0,,0.62,Residential,575000.0,123 Rue Du Paul ,QC,Central Canada
+2.0,1.0,100395.0,.344,Residential,396000.0,12 Rue du Hauban ,QC,Central Canada
+3.0,1.0,,0.16,Residential,369900.0,15125 Rue des Grives ,QC,Central Canada
+2.0,1.0,100395.0,.344,Residential,396000.0,40 Rue du Hauban ,QC,Central Canada
+5.0,2.0,,.155,Residential,599900.0,76 Rue Champigny ,QC,Central Canada
+3.0,2.0,134441.0,.067,Residential,253000.0,4060 Rue de l'Étape ,QC,Central Canada
+3.0,1.0,,.092,Residential,135000.0,61 Rue St-Pierre E. ,QC,Central Canada
+4.0,1.0,13174.0,.171,Residential,159400.0,392 Rue St-Janvier ,QC,Central Canada
+4.0,2.0,,.145,Other,275000.0,5155 Rue de Chamonix ,QC,Central Canada
+3.0,1.0,,.252,Residential,264500.0,185 Route 276 ,QC,Central Canada
+5.0,2.0,,.193,Residential,459000.0,169 Rue Lamartine ,QC,Central Canada
+4.0,2.0,19375.0,.143,Residential,365000.0,129 Rue Marie-René ,QC,Central Canada
+2.0,1.0,,0.23,Residential,225000.0,25 Rue des Pensées ,QC,Central Canada
+3.0,3.0,,.413,Residential,347500.0,8 Rue St-Augustin ,QC,Central Canada
+3.0,1.0,,0.18,Residential,598888.0,236 10e Avenue ,QC,Central Canada
+2.0,1.0,121309.0,.457,Other,115000.0,194 Rue Notre-Dame E. ,QC,Central Canada
+4.0,3.0,,.535,Residential,789000.0,2212 Rue de l'Orchestre ,QC,Central Canada
+4.0,3.0,,,Residential,699000.0,210 Rue de la Renaissance ,QC,Central Canada
+3.0,1.0,,.062,Residential,295000.0,26 Ch. du Village ,QC,Central Canada
+5.0,2.0,,.254,Residential,115000.0,41 Rue des Pins E. ,QC,Central Canada
+2.0,1.0,,.739,Other,119000.0,496 Route de la Montagne ,QC,Central Canada
+4.0,1.0,,.742,Residential,299000.0,113 Rue de l'Avenir ,QC,Central Canada
+3.0,2.0,,.095,Residential,114500.0,27 Rue de la Congrégation ,QC,Central Canada
+8.0,2.0,,.835,Residential,599000.0,151 Ch. Viger ,QC,Central Canada
+3.0,2.0,,0.16,Residential,239000.0,2701 Rue Principale ,QC,Central Canada
+2.0,1.0,,.399,Residential,449900.0,861-861A Rue Notre-Dame ,QC,Central Canada
+3.0,1.0,,.951,Residential,319000.0,84 Rue François-Xavier ,QC,Central Canada
+4.0,2.0,,.143,Residential,295000.0,524 Av. Socrate ,QC,Central Canada
+3.0,1.0,88243.0,0.99,Residential,325000.0,90 Rue des Prés ,QC,Central Canada
+3.0,1.0,,,Residential,649900.0,4 Rue des Coprins ,QC,Central Canada
+2.0,1.0,,.275,Residential,224900.0,98 Rue du Curé-Suzor ,QC,Central Canada
+6.0,3.0,362313.0,.847,Residential,560000.0,412Z Rg Bois-Franc E. ,QC,Central Canada
+4.0,2.0,,.164,Residential,369000.0,37 Rue Rochefort ,QC,Central Canada
+3.0,1.0,,.129,Residential,69000.0,139 Rue Principale ,QC,Central Canada
+6.0,2.0,,,Residential,195000.0,17 Av. Bourget ,QC,Central Canada
+4.0,2.0,,.299,Residential,150000.0,307 Rue Gendron ,QC,Central Canada
+2.0,1.0,,,Other,118500.0,101 3e Rue ,QC,Central Canada
+2.0,1.0,,.741,Residential,289000.0,1560 Rue Couture ,QC,Central Canada
+2.0,1.0,,.158,Residential,176000.0,57 Rue St-Joseph ,QC,Central Canada
+2.0,1.0,,.344,Residential,69000.0,197 Lac-Huron ,QC,Central Canada
+2.0,1.0,,.185,Residential,1150000.0,71 Rue Notre-Dame ,QC,Central Canada
+5.0,3.0,,.132,Residential,3999500.0,1000 Ch. St-Arnaud ,QC,Central Canada
+3.0,2.0,,.154,Residential,257000.0,61 Rue Joseph-Ernst ,QC,Central Canada
+5.0,1.0,,.382,Residential,449900.0,14 Rue Paul-Émile-Borduas ,QC,Central Canada
+3.0,1.0,159995.0,.612,Residential,319500.0,155 Rue Lizotte ,QC,Central Canada
+4.0,2.0,,.289,Residential,419900.0,459 Route 137 ,QC,Central Canada
+5.0,1.0,,.276,Residential,79000.0,385 11e Rang ,QC,Central Canada
+2.0,2.0,1775.0,,Residential,1350000.0,1321 Rue Sherbrooke O. #D30 ,QC,Central Canada
+2.0,1.0,51882.0,,Residential,299700.0,249 Rue Giroux ,QC,Central Canada
+2.0,2.0,,,Residential,1750000.0,3 Rue Westmount-Square #1212 ,QC,Central Canada
+1.0,1.0,,.319,Residential,89900.0,45 Rue Principale ,QC,Central Canada
+3.0,1.0,,.139,Residential,469000.0,1359 Boul. Virginie-Roy ,QC,Central Canada
+2.0,1.0,,.176,Residential,549900.0,63-63A Rue Marie-Antoinette ,QC,Central Canada
+3.0,2.0,,.991,Residential,399000.0,139 Ch. Bellerive ,QC,Central Canada
+4.0,2.0,,.115,Residential,259000.0,166 Rue Aikman ,QC,Central Canada
+5.0,2.0,,,Residential,675000.0,222 Rue Monseigneur-Charbonneau ,QC,Central Canada
+4.0,1.0,191996.0,.405,Residential,214000.0,3171 Rue Turgeon ,QC,Central Canada
+5.0,3.0,,.856,Residential,399000.0,675 Rg Ste-Julie ,QC,Central Canada
+4.0,2.0,159995.0,>0.3,Residential,400000.0,20 Ch. des Sapins ,QC,Central Canada
+3.0,2.0,248862.0,.099,Residential,239900.0,310 Rue St-Jean ,QC,Central Canada
+6.0,2.0,96003.0,.165,Residential,319900.0,61 Rue Belval ,QC,Central Canada
+5.0,2.0,,.307,Residential,629000.0,70 Rue Duplessis ,QC,Central Canada
+3.0,1.0,140996.0,0.09,Residential,339900.0,75 Rue George-Adams ,QC,Central Canada
+1.0,1.0,,.456,Residential,84500.0,268E Route 293 N. ,QC,Central Canada
+3.0,2.0,,.101,Residential,189900.0,1530 Rue Nouvel ,QC,Central Canada
+6.0,2.0,,.576,Residential,449900.0,6365 Ch. de St-Jean ,QC,Central Canada
+3.0,2.0,,.128,Residential,749000.0,150 Place La Millionnaire ,QC,Central Canada
+1.0,1.0,,.829,Farm,575000.0,1953Z Ch. Francisco ,QC,Central Canada
+2.0,1.0,,.534,Residential,349900.0,478 Rg de la Pointe-du-Nord-Est ,QC,Central Canada
+2.0,2.0,,.142,Residential,359000.0,102 Rue Vanier ,QC,Central Canada
+4.0,2.0,164699.0,.246,Residential,567000.0,289 Rue Miljours ,QC,Central Canada
+4.0,2.0,,.471,Residential,189000.0,244 Rue Principale ,QC,Central Canada
+4.0,2.0,,.147,Residential,225000.0,9 2e Rue O. ,QC,Central Canada
+4.0,5.0,3026.0,,Residential,150000.0,136 Ch. des Légendes #C1 ,QC,Central Canada
+3.0,1.0,96595.0,.181,Residential,168000.0,1324 Rue St-Benoit ,QC,Central Canada
+3.0,1.0,,.257,Residential,259000.0,272 Route 117 ,QC,Central Canada
+2.0,1.0,,.182,Residential,299000.0,1048-1050 Rue Piette ,QC,Central Canada
+5.0,3.0,3269.0,.155,Residential,1095000.0,13272 Rue Desjardins ,QC,Central Canada
+4.0,2.0,201597.0,.766,Residential,347000.0,1636 Route 235 ,QC,Central Canada
+3.0,2.0,155904.0,.774,Residential,282000.0,298 Ch. Béchard ,QC,Central Canada
+3.0,2.0,,.276,Residential,219900.0,833 Rue Ste-Julie ,QC,Central Canada
+1.0,1.0,83603.0,0.24,Residential,374900.0,Allée de l'Étang ,QC,Central Canada
+3.0,1.0,,.116,Residential,399900.0,1706 Rue Henri-Dunant ,QC,Central Canada
+,1.0,15866.0,,Residential,319000.0,268 Rue Arago E. ,QC,Central Canada
+3.0,1.0,,.161,Residential,129000.0,660 14e Avenue ,QC,Central Canada
+3.0,1.0,,.126,Residential,275000.0,261 48e Avenue ,QC,Central Canada
+2.0,1.0,,.101,Residential,149900.0,3316-3317 Rue de l'Escapade ,QC,Central Canada
+4.0,1.0,,.468,Residential,229500.0,347 Rue Guévremont ,QC,Central Canada
+5.0,2.0,192147.0,.246,Residential,279000.0,608 Rue Ste-Catherine ,QC,Central Canada
+4.0,2.0,,.177,Residential,139900.0,70 Av. De Ramezay ,QC,Central Canada
+4.0,2.0,,.028,Residential,98000.0,2105 Rue Monseigneur-Labrie ,QC,Central Canada
+3.0,2.0,,.109,Farm,1100000.0,3436 8e Rang E. ,QC,Central Canada
+3.0,2.0,118941.0,.575,Residential,349900.0,4037 Ch. Blanchette ,QC,Central Canada
+3.0,2.0,,.115,Residential,589900.0,1479 Rue Albert ,QC,Central Canada
+1.0,1.0,,.225,Other,189900.0,5147 Vieille Route ,QC,Central Canada
+3.0,1.0,98802.0,.311,Residential,259900.0,1847 Ch. du Lac-Paradis ,QC,Central Canada
+5.0,2.0,,.502,Residential,474000.0,19 Ch. des Domaines ,QC,Central Canada
+3.0,2.0,1266.0,,Residential,529000.0,4300 Place des Cageux #701 ,QC,Central Canada
+3.0,2.0,180005.0,.203,Residential,474900.0,24 Rue d'Ovesta ,QC,Central Canada
+5.0,2.0,,.579,Residential,300000.0,107 Route 132 E. ,QC,Central Canada
+2.0,2.0,,0.15,Residential,379000.0,146 Rue Balzac ,QC,Central Canada
+4.0,3.0,2651.0,.331,Residential,1275000.0,430 Allée des Chevaux-Blancs ,QC,Central Canada
+2.0,1.0,,.284,Residential,747000.0,38 Ch. de l'Orée-des-Bois ,QC,Central Canada
+3.0,1.0,104819.0,.791,Residential,225000.0,1040 Rg Ste-Anne ,QC,Central Canada
+3.0,2.0,,,Residential,599900.0,80 Rue Louis-de-France ,QC,Central Canada
+4.0,1.0,,.154,Residential,139000.0,1450 Av. de Grand-Mère ,QC,Central Canada
+5.0,3.0,,.294,Residential,729000.0,371 Ch. du Sommet-Bleu ,QC,Central Canada
+2.0,2.0,120997.0,.165,Residential,334900.0,100-100A 1er Boulevard ,QC,Central Canada
+3.0,1.0,,.127,Residential,514900.0,1837 Rue d'Angers ,QC,Central Canada
+6.0,1.0,201005.0,.791,Residential,400000.0,212 Rg St-André ,QC,Central Canada
+3.0,1.0,,.052,Residential,249900.0,392 Route 132 ,QC,Central Canada
+2.0,2.0,128004.0,.214,Residential,204900.0,146 Rg Ste-Augustine ,QC,Central Canada
+4.0,2.0,,.149,Residential,284000.0,471 Rue Saucier ,QC,Central Canada
+4.0,2.0,,.595,Residential,485000.0,328 Route 234 ,QC,Central Canada
+3.0,3.0,,.336,Residential,1449000.0,1480 Rue des Quatre-Saisons ,QC,Central Canada
+3.0,2.0,,,Residential,589000.0,7641 Rue Claire-Fauteux ,QC,Central Canada
+2.0,1.0,,0.57,Residential,249000.0,3234 Rue du Domaine-Michel ,QC,Central Canada
+4.0,2.0,,.136,Residential,393000.0,4215 Rue Barbeau ,QC,Central Canada
+3.0,2.0,,.199,Farm,1950000.0,840Z-842Z Ch. St-Pierre ,QC,Central Canada
+5.0,2.0,,0.16,Residential,389000.0,88 Rue Duranceau ,QC,Central Canada
+4.0,2.0,,.135,Residential,459500.0,16435 Av. Aline-Letendre ,QC,Central Canada
+2.0,2.0,933.0,,Residential,139000.0,150 Ch. au Pied-de-la-Montagne #310-B ,QC,Central Canada
+4.0,1.0,,.739,Residential,349000.0,4023 Rue Sherbrooke ,QC,Central Canada
+4.0,2.0,240003.0,.689,Residential,399000.0,461 Route des Campagnards ,QC,Central Canada
+3.0,2.0,,1.03,Residential,549000.0,82 Ch. des Buttes ,QC,Central Canada
+4.0,1.0,,.303,Residential,319000.0,1557 Boul. du Bord-de-l'Eau ,QC,Central Canada
+4.0,1.0,,.227,Residential,159000.0,2172 Rue de Matane-sur-Mer ,QC,Central Canada
+1.0,1.0,663.0,,Residential,539000.0,1300 Boul. René-Lévesque O. #1103 ,QC,Central Canada
+3.0,2.0,,.317,Residential,549000.0,143 Route du Fleuve E. ,QC,Central Canada
+1.0,1.0,,,Farm,749500.0,3700Z Rg Ste-Anne ,QC,Central Canada
+3.0,2.0,,.228,Residential,489000.0,83-83A Rue Albert-Laberge ,QC,Central Canada
+3.0,2.0,,.988,Residential,399000.0,141 Rue Alycia ,QC,Central Canada
+2.0,1.0,149102.0,.139,Residential,69000.0,1021 4e Avenue ,QC,Central Canada
+5.0,1.0,,,Residential,329000.0,981 Rue Cabot ,QC,Central Canada
+4.0,2.0,99663.0,.151,Residential,279000.0,111 Rue Bourret ,QC,Central Canada
+4.0,2.0,3110.0,.016,Residential,788800.0,35 Rue des Princes ,QC,Central Canada
+2.0,1.0,95196.0,.391,Residential,350000.0,373 23e Avenue E. ,QC,Central Canada
+6.0,4.0,,.311,Residential,1750000.0,894 Rue Richelieu ,QC,Central Canada
+1.0,1.0,7287.0,.154,Residential,275000.0,26 Ch. de la Coulée ,QC,Central Canada
+5.0,2.0,182556.0,.164,Residential,224500.0,425 Côte Bellevue ,QC,Central Canada
+3.0,1.0,194827.0,.355,Residential,1100000.0,236 Rue Joseph-Pariseau ,QC,Central Canada
+3.0,2.0,,.046,Residential,379000.0,30 Place de Grandpré ,QC,Central Canada
+2.0,1.0,84798.0,.145,Residential,139900.0,19 Rue de la Villa ,QC,Central Canada
+3.0,1.0,,.191,Residential,249000.0,118 Rue Brock ,QC,Central Canada
+3.0,2.0,1386.0,,Residential,739000.0,8178 Av. Casgrain ,QC,Central Canada
+5.0,2.0,104001.0,0.17,Residential,339000.0,771 Rue Ovide ,QC,Central Canada
+2.0,2.0,,.042,Residential,549000.0,Allée Paisible ,QC,Central Canada
+4.0,1.0,,.054,Residential,299900.0,1835 Imp. Darsigny ,QC,Central Canada
+2.0,1.0,,.308,Residential,199000.0,12 Av. du Parc ,QC,Central Canada
+2.0,1.0,,.222,Residential,115000.0,36 Route 161 ,QC,Central Canada
+4.0,1.0,,.371,Residential,690000.0,328 Rue du Domaine ,QC,Central Canada
+4.0,2.0,109264.0,.183,Residential,425000.0,1021 Rue des Laurentides ,QC,Central Canada
+3.0,2.0,,.056,Residential,139000.0,2853 Boul. du Saguenay ,QC,Central Canada
+2.0,1.0,,.454,Residential,279000.0,8135 2e Rang ,QC,Central Canada
+5.0,2.0,,.182,Residential,109000.0,653 Rue La Barre ,QC,Central Canada
+3.0,2.0,,.742,Residential,950000.0,191Z Rg du Six ,QC,Central Canada
+4.0,2.0,159995.0,>0.2,Residential,759000.0,244 Rue des Voiliers ,QC,Central Canada
+2.0,2.0,,0.18,Residential,379000.0,9 Ch. Staynerville E. ,QC,Central Canada
+2.0,1.0,111105.0,.697,Residential,129500.0,280 Rue du Lac-Marier ,QC,Central Canada
+3.0,2.0,,.138,Residential,629900.0,1028 31e Avenue ,QC,Central Canada
+3.0,2.0,,.086,Residential,284500.0,854 Rue Gabrielle-D'Anneville ,QC,Central Canada
+4.0,2.0,,.134,Residential,499900.0,1005 Rue Morin ,QC,Central Canada
+5.0,2.0,,.246,Residential,539000.0,4 Rue Charlevoix ,QC,Central Canada
+4.0,1.0,,9.07,Residential,399000.0,210-214 Rue Bruce ,QC,Central Canada
+1.0,1.0,110664.0,.109,Residential,169000.0,224 Ch. Mailloux ,QC,Central Canada
+2.0,1.0,,.494,Residential,389000.0,1394 Ch. du Deuxième-Lac ,QC,Central Canada
+2.0,1.0,97995.0,.344,Other,199000.0,115 Rue du Parc ,QC,Central Canada
+5.0,3.0,,.459,Residential,429000.0,736 Rue Charbonneau ,QC,Central Canada
+2.0,1.0,96003.0,.083,Residential,157000.0,34 Rue du Bel-Air ,QC,Central Canada
+2.0,1.0,100804.0,.021,Residential,261650.0,54 Rue Boutin ,QC,Central Canada
+2.0,2.0,1117.0,,Residential,369000.0,160 Ch. du Curé-Deslauriers #344-444 ,QC,Central Canada
+3.0,2.0,,.885,Residential,519900.0,4841 Ch. du Lac-Grothé ,QC,Central Canada
+2.0,1.0,,.612,Residential,238000.0,236 Rue Principale ,QC,Central Canada
+2.0,1.0,136637.0,.934,Residential,475000.0,125 Sent. des Fougères ,QC,Central Canada
+1.0,1.0,4467.0,,Residential,289900.0,1830 Rue Panet ,QC,Central Canada
+3.0,2.0,,.132,Residential,379000.0,812 Rue des Cèdres ,QC,Central Canada
+1.0,2.0,73959.0,0.62,Residential,379000.0,75 Rue des Pinsons ,QC,Central Canada
+2.0,1.0,,2.21,Residential,229000.0,2040Z Ch. des Cyprès ,QC,Central Canada
+2.0,1.0,129996.0,.812,Residential,183000.0,10134 Ch. Lac-Bellot ,QC,Central Canada
+2.0,1.0,,0.35,Residential,49500.0,45 Rue Principale ,QC,Central Canada
+4.0,,173999.0,.124,Residential,159500.0,56 Route 216 ,QC,Central Canada
+3.0,2.0,2402.0,,Residential,2289000.0,1085 Rue Smith #1903 ,QC,Central Canada
+4.0,2.0,91353.0,.144,Residential,295000.0,21 Place Hivon ,QC,Central Canada
+2.0,1.0,,1.79,Residential,629000.0,962 Ch. Vanasse ,QC,Central Canada
+3.0,1.0,157637.0,,Residential,399000.0,765 Route 112 ,QC,Central Canada
+3.0,1.0,1150.0,.132,Single,324900.0,278 Rue Riviera ,QC,Central Canada
+5.0,2.0,,0.34,Residential,587500.0,604 Rue Connaught ,QC,Central Canada
+2.0,2.0,1092.0,,Residential,799900.0,1548Z Rue des Bassins #115 ,QC,Central Canada
+3.0,1.0,119501.0,.344,Residential,406000.0,28 Rue du Hauban ,QC,Central Canada
+3.0,2.0,,.371,Residential,225000.0,1145 Rue du Patrimoine ,QC,Central Canada
+2.0,1.0,,.101,Residential,249900.0,1103 Boul. de L'Assomption ,QC,Central Canada
+4.0,2.0,,.026,Residential,1899000.0,6214 Rue Cartier ,QC,Central Canada
+2.0,1.0,73485.0,.363,Other,139000.0,348 Rg St-Jean-Baptiste ,QC,Central Canada
+2.0,1.0,,.344,Residential,225000.0,15 Boul. 138 E. ,QC,Central Canada
+3.0,2.0,,.414,Residential,695000.0,681 Av. de la Cathédrale ,QC,Central Canada
+3.0,1.0,,.318,Residential,129000.0,209 Ch. du Lac-à-la-Truite ,QC,Central Canada
+3.0,2.0,100104.0,.131,Residential,260000.0,40 22e Avenue ,QC,Central Canada
+4.0,1.0,,.083,Residential,549900.0,471 Rue Jennifer ,QC,Central Canada
+2.0,1.0,,.149,Residential,359000.0,230 Rue des Cèdres ,QC,Central Canada
+3.0,1.0,,0.18,Residential,249000.0,741 Av. Gilles-Villeneuve ,QC,Central Canada
+3.0,2.0,,.172,Other,599000.0,445 Rue Maricourt ,QC,Central Canada
+3.0,2.0,,.432,Other,749900.0,293 Grande Côte O. ,QC,Central Canada
+3.0,2.0,,.215,Residential,239900.0,42 Rue Thibodeau ,QC,Central Canada
+4.0,2.0,,.234,Residential,124500.0,18 Rue Ouellet ,QC,Central Canada
+7.0,3.0,,.929,Residential,450000.0,6399 Ch. Tranquille ,QC,Central Canada
+4.0,2.0,,.166,Residential,995000.0,102 Boul. de la Rivière ,QC,Central Canada
+1.0,,,.272,Residential,139000.0,4-6 Ch. de la Pruche ,QC,Central Canada
+4.0,1.0,,.466,Residential,349000.0,85 Rue Frontenac ,QC,Central Canada
+3.0,1.0,,.087,Residential,139900.0,16 Rue Rousseau ,QC,Central Canada
+2.0,1.0,1046.0,,Residential,418000.0,3181 Boul. de la Gare #104 ,QC,Central Canada
+3.0,2.0,,.137,Residential,249900.0,867 Rue Arpin ,QC,Central Canada
+2.0,1.0,,.215,Residential,185000.0,1885 Tsse Champlain ,QC,Central Canada
+3.0,2.0,,.746,Residential,539000.0,85 Rue Fabi ,QC,Central Canada
+3.0,1.0,,.137,Residential,229000.0,8 Rue Champagne ,QC,Central Canada
+3.0,1.0,160716.0,.581,Residential,524900.0,70 Ch. St-Louis ,QC,Central Canada
+3.0,4.0,2232.0,.334,Residential,439000.0,220 Rue Dufferin ,QC,Central Canada
+1.0,1.0,,.227,Residential,149000.0,1503 Boul. Fernand-Lafontaine ,QC,Central Canada
+2.0,2.0,,.536,Residential,595000.0,532 Rue Cartier ,QC,Central Canada
+3.0,2.0,89997.0,.183,Residential,199000.0,113 Rue Stanley ,QC,Central Canada
+3.0,1.0,114959.0,,Residential,315000.0,2518 Av. de la Gare ,QC,Central Canada
+4.0,1.0,,.117,Residential,549900.0,231 Rue François ,QC,Central Canada
+2.0,1.0,,.425,Residential,229900.0,7 Rue St-Joseph ,QC,Central Canada
+3.0,1.0,,.099,Residential,298900.0,445 Rue des Geais-Bleus ,QC,Central Canada
+2.0,1.0,3320666.0,.302,Residential,950000.0,7 Route 170 ,QC,Central Canada
+4.0,2.0,,.119,Other,349000.0,3353 Rue St-Laurent ,QC,Central Canada
+6.0,3.0,168003.0,.134,Residential,189000.0,9Z Rue de Cadillac ,QC,Central Canada
+3.0,1.0,117327.0,.118,Residential,185000.0,34 Rue Principale ,QC,Central Canada
+3.0,1.0,,.167,Residential,109000.0,540 Rue Champlain ,QC,Central Canada
+3.0,1.0,118801.0,.161,Residential,179000.0,570 14e Avenue ,QC,Central Canada
+10.0,2.0,,.789,Residential,499000.0,1493 Ch. Gémont ,QC,Central Canada
+3.0,1.0,153999.0,.595,Residential,139500.0,55 Route St-Hyacinthe ,QC,Central Canada
+4.0,2.0,,.142,Residential,370000.0,471 Rue Pascal-Parent ,QC,Central Canada
+3.0,2.0,,.061,Residential,269500.0,254 Route 291 S. ,QC,Central Canada
+4.0,2.0,159101.0,.115,Residential,651445.0,3255 Rue Bouthillier ,QC,Central Canada
+3.0,1.0,,.549,Residential,289000.0,1727 Ch. du Lac-Supérieur ,QC,Central Canada
+3.0,1.0,97306.0,.088,Other,214000.0,1710 Rue Le Baron ,QC,Central Canada
+2.0,1.0,65369.0,.172,Residential,84900.0,1370 Route Principale ,QC,Central Canada
+5.0,2.0,,.602,Residential,599000.0,147 Ch. Corriveau ,QC,Central Canada
+3.0,2.0,1614.0,,Residential,1950000.0,4175 Rue Ste-Catherine O. #1402 ,QC,Central Canada
+3.0,1.0,,.115,Residential,129500.0,44 Rue Morissette ,QC,Central Canada
+3.0,1.0,,.371,Farm,299000.0,4775Z Ch. de la Lièvre N. ,QC,Central Canada
+9.0,2.0,1573.0,.138,Single,524888.0,3 Rue Boulay ,QC,Central Canada
+4.0,2.0,,.697,Residential,214900.0,1121 Route Gagné ,QC,Central Canada
+2.0,1.0,,.398,Residential,525000.0,1571 Grande-Côte ,QC,Central Canada
+5.0,2.0,182986.0,0.14,Residential,394500.0,103 Av. Champlain ,QC,Central Canada
+1.0,2.0,1620.0,,Residential,829000.0,216A Rue Maguire ,QC,Central Canada
+4.0,2.0,,0.08,Residential,334900.0,125 26e Avenue ,QC,Central Canada
+2.0,2.0,,.779,Residential,549000.0,Allée Paisible ,QC,Central Canada
+2.0,2.0,,0.19,Residential,169500.0,1162 Route de l'Église ,QC,Central Canada
+14.0,4.0,,.663,Residential,649000.0,1286 Ch. de Mille-Isles ,QC,Central Canada
+2.0,1.0,,.137,Residential,383900.0,Rue des Villas ,QC,Central Canada
+3.0,2.0,,0.47,Residential,449900.0,38 Rue des Colibris ,QC,Central Canada
+3.0,1.0,,.377,Residential,399000.0,354 Rue Jacques-Cartier S. ,QC,Central Canada
+4.0,2.0,,.206,Residential,259900.0,659 Rue Louis-David ,QC,Central Canada
+3.0,2.0,,.168,Residential,199000.0,93 Rue Viger ,QC,Central Canada
+4.0,1.0,,.234,Residential,499000.0,1019 Rue Bach ,QC,Central Canada
+,1.0,,.107,Residential,55000.0,2261 Ch. du Village ,QC,Central Canada
+2.0,1.0,,.115,Residential,210000.0,2282 Rue Lamarche ,QC,Central Canada
+18.0,2.0,,.571,Residential,399000.0,334 Route des Cantons ,QC,Central Canada
+4.0,1.0,,0.38,Residential,750000.0,173 Rue de Provence ,QC,Central Canada
+3.0,2.0,,0.13,Residential,125000.0,349 Rue Boileau ,QC,Central Canada
+4.0,2.0,267698.0,.153,Residential,799000.0,170 Rue des Roitelets ,QC,Central Canada
+3.0,1.0,,.233,Other,199000.0,570 Rue St-Jacques E. ,QC,Central Canada
+3.0,1.0,,.167,Residential,389900.0,123 Rue Robert ,QC,Central Canada
+2.0,1.0,71246.0,,Other,74000.0,800A Ch. du Havre-des-Monts ,QC,Central Canada
+2.0,1.0,114399.0,.342,Residential,444900.0,Allée de l'Étang ,QC,Central Canada
+3.0,1.0,1285.0,.127,Residential,399000.0,361 Rue St-Joseph ,QC,Central Canada
+3.0,1.0,126799.0,.373,Residential,465000.0,79 Rue des Cigales ,QC,Central Canada
+4.0,2.0,,.184,Other,150000.0,24 Rue Victoria-Régis ,QC,Central Canada
+4.0,2.0,156949.0,.697,Residential,419000.0,138 Ch. de Val-des-Vents ,QC,Central Canada
+3.0,1.0,,.371,Residential,299000.0,4775 Ch. de la Lièvre N. ,QC,Central Canada
+4.0,2.0,,.193,Residential,389000.0,760 Rue des Grives ,QC,Central Canada
+4.0,2.0,1430.0,1.56,Single,420000.0,394 Ch. de Chapeau-Waltham ,QC,Central Canada
+4.0,3.0,,.261,Residential,279000.0,828 Rue Conan ,QC,Central Canada
+5.0,2.0,,.225,Residential,265000.0,581 Rue Scott ,QC,Central Canada
+2.0,1.0,,.094,Residential,67500.0,87 Rue du Parc-de-l'Amitié ,QC,Central Canada
+3.0,2.0,,.132,Residential,384900.0,229 106e Avenue ,QC,Central Canada
+3.0,4.0,,.536,Residential,899700.0,2 Rue Angélique ,QC,Central Canada
+1.0,1.0,,.829,Residential,575000.0,1953 Ch. Francisco ,QC,Central Canada
+1.0,1.0,48599.0,0.23,Residential,279000.0,1579 Rue Terry-Fox ,QC,Central Canada
+3.0,2.0,109996.0,,Other,99000.0,15 Ch. de la Grande-Ligne ,QC,Central Canada
+2.0,1.0,,,Residential,299900.0,19 Ch. Huchéry ,QC,Central Canada
+4.0,1.0,,.144,Residential,158000.0,360 Rue Principale ,QC,Central Canada
+2.0,1.0,,.122,Residential,99000.0,10 Rue Chapelain ,QC,Central Canada
+2.0,1.0,172481.0,.375,Residential,399500.0,1590 3e Avenue ,QC,Central Canada
+3.0,1.0,,.424,Residential,224900.0,1433 Rue Rosa ,QC,Central Canada
+2.0,2.0,,.471,Residential,370000.0,470 8e Rang ,QC,Central Canada
+4.0,1.0,,.103,Residential,109900.0,249 Rue Noël ,QC,Central Canada
+4.0,1.0,101245.0,.134,Residential,222000.0,59 Rue Cloutier ,QC,Central Canada
+4.0,2.0,,.131,Residential,349000.0,820 Av. de Dieppe ,QC,Central Canada
+2.0,1.0,,.092,Residential,319000.0,1915 Rue des Roseaux ,QC,Central Canada
+3.0,1.0,,.203,Residential,125000.0,18 Rue Héroux ,QC,Central Canada
+4.0,1.0,,.142,Residential,89900.0,18 Rue des Peupliers ,QC,Central Canada
+3.0,2.0,,.352,Residential,1309000.0,2094-2092 Ch. des Patriotes ,QC,Central Canada
+2.0,1.0,82861.0,.143,Residential,185000.0,73 Rue Ste-Anne ,QC,Central Canada
+2.0,1.0,,.682,Other,69900.0,120 Rue Gagnon ,QC,Central Canada
+5.0,2.0,208658.0,.913,Residential,579000.0,1014 Ch. Bouchard ,QC,Central Canada
+4.0,1.0,160167.0,.391,Residential,489000.0,100 Rue Bernier ,QC,Central Canada
+3.0,3.0,,.263,Residential,350000.0,2 Rue Joannie ,QC,Central Canada
+3.0,2.0,,.116,Residential,115000.0,703 Boul. Ducharme ,QC,Central Canada
+3.0,2.0,,.218,Residential,320000.0,5845 Rue Marion ,QC,Central Canada
+2.0,1.0,,.459,Residential,210000.0,1877 Ch. du Tour-du-Lac ,QC,Central Canada
+3.0,1.0,,.232,Residential,124900.0,183 Vieux Chemin S. ,QC,Central Canada
+3.0,1.0,,,Other,129900.0,12 Av. Lajoie ,QC,Central Canada
+3.0,2.0,,.131,Residential,569900.0,630 Rue Valois ,QC,Central Canada
+4.0,2.0,,.742,Residential,299000.0,261 Rg Lachapelle ,QC,Central Canada
+,1.0,399998.0,.162,Residential,175000.0,1376 Ch. de Béthanie ,QC,Central Canada
+2.0,1.0,,.228,Residential,76000.0,9 Ch. du 10e-et-11e-Rang ,QC,Central Canada
+2.0,1.0,,.102,Residential,249900.0,143 Rg du Lac-St-Pierre O. ,QC,Central Canada
+4.0,1.0,,5.05,Residential,189000.0,59 1er rg de Matalik N. ,QC,Central Canada
+4.0,1.0,96359.0,.077,Residential,349999.0,292 Rue des Palominos ,QC,Central Canada
+4.0,2.0,202997.0,,Residential,1295000.0,350Z Rue Narbonne ,QC,Central Canada
+2.0,1.0,76801.0,.603,Residential,325000.0,55 Ch. du Bélier ,QC,Central Canada
+3.0,1.0,151201.0,0.11,Residential,214900.0,252 Av. Murdoch ,QC,Central Canada
+4.0,2.0,,.419,Residential,389000.0,2612 Ch. de la Vallée-Missisquoi ,QC,Central Canada
+3.0,2.0,,0.16,Residential,549900.0,73 23e Avenue ,QC,Central Canada
+4.0,1.0,,0.57,Residential,239000.0,304 Rue Raoul-Fafard ,QC,Central Canada
+2.0,2.0,80503.0,.512,Residential,313900.0,411 Rue de la Coulée ,QC,Central Canada
+4.0,2.0,,.117,Residential,539000.0,105 Rue des Tourterelles ,QC,Central Canada
+4.0,2.0,,.334,Residential,395000.0,978 Av. du Phare O. ,QC,Central Canada
+4.0,2.0,,.185,Residential,299000.0,117 Rue de la Charente ,QC,Central Canada
+4.0,2.0,,.805,Residential,324000.0,168 Av. St-Joseph ,QC,Central Canada
+3.0,2.0,,0.51,Residential,749000.0,3 Av. St-Gérard ,QC,Central Canada
+3.0,1.0,113204.0,.134,Residential,449000.0,Allée de la Sérénité ,QC,Central Canada
+2.0,1.0,121804.0,.276,Residential,299900.0,19 Ch. Doré ,QC,Central Canada
+3.0,2.0,134441.0,.067,Residential,253000.0,4060Z Rue de l'Étape ,QC,Central Canada
+1.0,1.0,214202.0,.971,Residential,285000.0,140 Ch. Baie-William O. ,QC,Central Canada
+2.0,1.0,,.273,Residential,79900.0,1367 Rue du Rivage ,QC,Central Canada
+3.0,2.0,124.0,>0.2,Residential,179500.0,342 Rue Sauvé ,QC,Central Canada
+5.0,2.0,,,Residential,349000.0,785 Rue Corbin ,QC,Central Canada
+2.0,1.0,,.555,Other,449900.0,2436 Ch. St-Charles ,QC,Central Canada
+2.0,1.0,159995.0,0.46,Residential,399000.0,7320 Rue St-Pierre O. ,QC,Central Canada
+3.0,2.0,,.149,Residential,275000.0,12 Rue Lauzon ,QC,Central Canada
+5.0,5.0,,.036,Residential,1750000.0,66 Rue des Manoirs ,QC,Central Canada
+1.0,1.0,,.075,Residential,1750000.0,10 Av. Hutton ,QC,Central Canada
+3.0,1.0,,.191,Other,229000.0,3676 1re Avenue ,QC,Central Canada
+3.0,1.0,,.129,Other,119900.0,1508 Rue Des Colombiers ,QC,Central Canada
+3.0,1.0,,.115,Residential,169000.0,101 Rue St-Pierre O. ,QC,Central Canada
+2.0,2.0,,.276,Residential,399000.0,907 Boul. Arthur-Sauvé ,QC,Central Canada
+2.0,2.0,,0.22,Residential,259900.0,23 Av. Pierre ,QC,Central Canada
+3.0,2.0,,.737,Residential,1175000.0,116 Rue du Poitou ,QC,Central Canada
+4.0,2.0,99394.0,.201,Residential,159900.0,751 Av. Baril E. ,QC,Central Canada
+5.0,3.0,,.452,Residential,944900.0,4210 Lakeshore Drive ,QC,Central Canada
+3.0,1.0,,.793,Residential,529000.0,159 Rue Larivière ,QC,Central Canada
+5.0,2.0,,.802,Residential,175000.0,2296 Route 125 S. ,QC,Central Canada
+5.0,3.0,,,Residential,229000.0,9 Av. Bédard ,QC,Central Canada
+4.0,1.0,,.144,Residential,524900.0,1286 Rue Germaine-Guèvremont ,QC,Central Canada
+2.0,1.0,,.343,Residential,199000.0,282 Rg Lachapelle ,QC,Central Canada
+3.0,1.0,,.284,Residential,349000.0,1678 Ch. du Lac-René ,QC,Central Canada
+3.0,2.0,359999.0,0.25,Other,685000.0,505-507 Rue Barraute ,QC,Central Canada
+4.0,2.0,,.863,Residential,429900.0,2031 Rue St-Laurent ,QC,Central Canada
+3.0,1.0,,.078,Residential,425000.0,1405 Rue Meunier ,QC,Central Canada
+3.0,2.0,,1.73,Residential,560000.0,90 Boul. Auger O. ,QC,Central Canada
+2.0,1.0,100965.0,.672,Residential,159000.0,294 Route de la Montagne ,QC,Central Canada
+2.0,1.0,96003.0,.152,Other,209900.0,5890 Av. Sansoucy ,QC,Central Canada
+2.0,1.0,,.286,Residential,120000.0,192 Ch. Dainava ,QC,Central Canada
+2.0,2.0,,.198,Residential,169900.0,35 Rue Leblanc ,QC,Central Canada
+4.0,3.0,347997.0,.193,Residential,619900.0,4085 Rue Miro ,QC,Central Canada
+3.0,1.0,,.586,Residential,175000.0,5 Rue de l'Étourneau ,QC,Central Canada
+2.0,1.0,107531.0,.229,Residential,250000.0,1712 Rg des Ducharme ,QC,Central Canada
+4.0,1.0,,.602,Residential,399000.0,728 Rue Charbonneau ,QC,Central Canada
+3.0,3.0,,.151,Residential,730000.0,309-309A 27e Avenue ,QC,Central Canada
+1.0,1.0,61376.0,.379,Residential,225000.0,810 Rue des Mésanges ,QC,Central Canada
+1.0,1.0,,.146,Residential,124500.0,371 Rue de la Canopée ,QC,Central Canada
+3.0,2.0,,0.14,Residential,145000.0,125 Rue Sabrina ,QC,Central Canada
+5.0,5.0,3041.0,.064,Residential,2100000.0,361 Av. Grosvenor ,QC,Central Canada
+1.0,1.0,,.231,Residential,225000.0,700 Rue Latour ,QC,Central Canada
+3.0,2.0,,,Farm,499000.0,745Z-747Z Ch. Fex ,QC,Central Canada
+3.0,2.0,,.156,Residential,109900.0,3215 Rue Bécancour ,QC,Central Canada
+3.0,1.0,,.115,Residential,509000.0,22 Av. de la Gaspésie ,QC,Central Canada
+3.0,2.0,,.252,Residential,1370000.0,239 Ch. du Rocher ,QC,Central Canada
+3.0,1.0,100901.0,.293,Residential,149500.0,6910 Rue Principale ,QC,Central Canada
+2.0,2.0,138402.0,.217,Residential,315000.0,103 Ch. Danis ,QC,Central Canada
+4.0,2.0,118629.0,.676,Residential,354900.0,8075 Rue Paiement ,QC,Central Canada
+3.0,2.0,,.089,Residential,599900.0,2014 Rue d'Amboise ,QC,Central Canada
+4.0,2.0,93345.0,.149,Other,325000.0,1522 Rue Latulippe ,QC,Central Canada
+2.0,1.0,114399.0,.266,Residential,424900.0,Allée de l'Étang ,QC,Central Canada
+3.0,2.0,1321.0,,Residential,899000.0,701 Rue de la Commune E. #105 ,QC,Central Canada
+6.0,1.0,,.997,Residential,349000.0,629 Rg Nord ,QC,Central Canada
+3.0,1.0,,.859,Residential,220000.0,5054 Route 117 S. ,QC,Central Canada
+2.0,2.0,851.0,,Residential,799000.0,1050 Rue Drummond #3404 ,QC,Central Canada
+3.0,1.0,134301.0,.106,Residential,299000.0,708 Rue St-Alphonse S. ,QC,Central Canada
+2.0,2.0,1475.0,,Residential,409000.0,705 Rue Schubert ,QC,Central Canada
+2.0,1.0,92247.0,.372,Residential,339000.0,901 Rue Fréchette ,QC,Central Canada
+3.0,1.0,,.463,Residential,187000.0,4030 Route 201 ,QC,Central Canada
+6.0,3.0,,.093,Residential,439000.0,21 Rue Circé ,QC,Central Canada
+4.0,2.0,112956.0,.138,Residential,279500.0,1230 Rue de Bayeux ,QC,Central Canada
+3.0,1.0,,,Other,139000.0,100 Rue Mystic ,QC,Central Canada
+2.0,2.0,,.176,Residential,377000.0,5 1re Avenue ,QC,Central Canada
+3.0,1.0,,.138,Residential,573899.0,2326 Rue Gertrude ,QC,Central Canada
+4.0,1.0,,.161,Residential,189500.0,785 Rue du Patrimoine ,QC,Central Canada
+5.0,2.0,,.084,Other,359000.0,309 Rue des Pivoines ,QC,Central Canada
+2.0,1.0,143095.0,.167,Residential,250000.0,633 Rue Lajeunesse ,QC,Central Canada
+2.0,1.0,121471.0,.103,Residential,279900.0,16675 Av. St-Louis ,QC,Central Canada
+2.0,1.0,,.093,Residential,275900.0,778 Rue Annick ,QC,Central Canada
+4.0,3.0,,.485,Residential,749000.0,1 Ch. du Grand-Pic ,QC,Central Canada
+3.0,1.0,,.129,Residential,469900.0,4195 Rue Forgues ,QC,Central Canada
+3.0,2.0,,.453,Residential,856000.0,140 Ch. du Lac-Lauzon ,QC,Central Canada
+3.0,2.0,,.566,Residential,149000.0,59 Rue Principale ,QC,Central Canada
+3.0,1.0,,.176,Residential,499900.0,3874 Rue Pellan ,QC,Central Canada
+2.0,1.0,,.045,Residential,229000.0,720 Rue Valois 2,QC,Central Canada
+3.0,1.0,,.517,Residential,149000.0,790 Rue Dosithé-Bourassa ,QC,Central Canada
+4.0,2.0,122396.0,.115,Residential,359000.0,1895 Rue St-Denis ,QC,Central Canada
+3.0,1.0,,.222,Farm,309900.0,102 Route 348 ,QC,Central Canada
+2.0,1.0,90783.0,.336,Residential,185000.0,1211 Ch. de la Baie-Carrière ,QC,Central Canada
+2.0,2.0,1016.0,,Residential,509000.0,630 Rue William #130 ,QC,Central Canada
+4.0,1.0,,0.67,Residential,199000.0,330 Route des Cantons ,QC,Central Canada
+5.0,2.0,,.258,Other,469000.0,6677 Route Marie-Victorin ,QC,Central Canada
+5.0,2.0,,.753,Residential,169500.0,547 Route de la Providence ,QC,Central Canada
+4.0,2.0,,0.13,Residential,159900.0,518 Rue Benoit ,QC,Central Canada
+1.0,1.0,83603.0,.229,Residential,389900.0,Allée de l'Étang ,QC,Central Canada
+2.0,2.0,,.114,Residential,750000.0,20 Rue St-Aubin ,QC,Central Canada
+3.0,1.0,,1.03,Residential,175000.0,166 Route Cyrille-Lavoie ,QC,Central Canada
+2.0,1.0,,.084,Other,79900.0,3407 Rue Morel ,QC,Central Canada
+4.0,3.0,,7.76,Farm,1550000.0,391Z Ch. Ste-Marie ,QC,Central Canada
+2.0,2.0,,.361,Residential,309900.0,2 Av. Vanier ,QC,Central Canada
+4.0,2.0,300399.0,.685,Residential,849000.0,478 Ch. Tour-du-Lac-des-Îles ,QC,Central Canada
+4.0,1.0,,.626,Residential,245000.0,234 Rue du Saguenay ,QC,Central Canada
+4.0,2.0,1749997.0,.982,Residential,649000.0,2 Ch. des Orchidées ,QC,Central Canada
+1.0,1.0,,.373,Residential,239900.0,80 Rue Gravel ,QC,Central Canada
+4.0,2.0,,,Residential,219000.0,876 Av. du Palais ,QC,Central Canada
+2.0,1.0,,0.12,Other,349000.0,68 Rue St-Eugene ,QC,Central Canada
+3.0,2.0,140598.0,.217,Residential,174900.0,512 Rue de la Lièvre ,QC,Central Canada
+2.0,2.0,,.598,Residential,395000.0,455Z Rg St-Augustin ,QC,Central Canada
+2.0,1.0,,.284,Residential,298000.0,8 257e Avenue ,QC,Central Canada
+4.0,1.0,,.086,Residential,499000.0,11915 Boul. O'Brien ,QC,Central Canada
+3.0,2.0,,.084,Residential,435000.0,5374 Rue des Maçons ,QC,Central Canada
+3.0,2.0,,.455,Residential,188000.0,185 Rue Beaulieu ,QC,Central Canada
+4.0,2.0,,.206,Residential,1298000.0,99 Rue Paul-Albert ,QC,Central Canada
+3.0,1.0,279399.0,.377,Residential,765000.0,235 Mtée Lebrun ,QC,Central Canada
+4.0,2.0,,.344,Residential,275000.0,9 Rue Gagnon ,QC,Central Canada
+5.0,3.0,,.778,Residential,699000.0,564 Ch. du Rivage ,QC,Central Canada
+3.0,1.0,,.177,Residential,129000.0,1870 1re rue de la Terrasse-de-Luxe ,QC,Central Canada
+3.0,1.0,140996.0,.065,Residential,319900.0,1594 Rue Non Disponible-Unavailable ,QC,Central Canada
+3.0,2.0,,.139,Residential,264000.0,601 Av. Principale ,QC,Central Canada
+4.0,2.0,86402.0,.146,Residential,319000.0,949 Rue Quessy ,QC,Central Canada
+4.0,2.0,,.229,Residential,529000.0,496 Rue des Pétunias ,QC,Central Canada
+1.0,2.0,943.0,,Residential,419000.0,1011 Rue St-Ferdinand ,QC,Central Canada
+2.0,1.0,100804.0,,Residential,219000.0,3A Rue Lacroix ,QC,Central Canada
+3.0,1.0,,0.98,Residential,489000.0,144 Rg St-Henri ,QC,Central Canada
+3.0,1.0,,.145,Residential,350000.0,6 Rue Bouthillier N. ,QC,Central Canada
+2.0,2.0,,,Residential,269000.0,1011 Rue De Montcalm ,QC,Central Canada
+4.0,2.0,,.152,Residential,324900.0,513 Rue De Montmagny ,QC,Central Canada
+5.0,2.0,,.553,Residential,159000.0,459 Av. Bernard-Lévesque ,QC,Central Canada
+3.0,1.0,,0.02,Residential,205000.0,88 Rue Denis-Gagné ,QC,Central Canada
+3.0,2.0,,.092,Residential,399000.0,117 Rue Joseph-Bouchette ,QC,Central Canada
+2.0,1.0,97779.0,0.75,Residential,189000.0,352 Ch. du Lac-Malartic ,QC,Central Canada
+3.0,2.0,221704.0,1.04,Residential,379000.0,1167 Route 139 ,QC,Central Canada
+5.0,2.0,,.728,Residential,830000.0,495 Rue Iberville ,QC,Central Canada
+4.0,2.0,,.099,Residential,379900.0,3246 Rue Girouard ,QC,Central Canada
+4.0,2.0,106563.0,.073,Residential,249000.0,3300 Ch. du Castor ,QC,Central Canada
+3.0,4.0,,.659,Residential,1549000.0,316 Rue de la Couronne ,QC,Central Canada
+3.0,1.0,,.124,Residential,229000.0,262 3e Avenue ,QC,Central Canada
+4.0,3.0,,.149,Residential,362000.0,13634-13636 Rue St-Michel ,QC,Central Canada
+4.0,3.0,,1.24,Residential,2100000.0,672 Route 161 ,QC,Central Canada
+2.0,1.0,240003.0,0.23,Residential,335000.0,49 1re Avenue ,QC,Central Canada
+4.0,2.0,88199.0,.149,Residential,279000.0,1116 2e Rue ,QC,Central Canada
+2.0,1.0,,.218,Residential,89900.0,700 Rue Ste-Marie ,QC,Central Canada
+2.0,2.0,,.815,Residential,330000.0,48 Ch. Bombardier ,QC,Central Canada
+4.0,1.0,,.148,Residential,389900.0,904 Rue du Relais ,QC,Central Canada
+3.0,2.0,,0.21,Residential,289500.0,2070 Rue Principale ,QC,Central Canada
+3.0,1.0,,.751,Residential,400000.0,130 Rue St-Paul ,QC,Central Canada
+2.0,1.0,,.237,Other,149900.0,8115 Boul. St-Joseph ,QC,Central Canada
+3.0,1.0,97995.0,.562,Residential,195000.0,1211 Ch. Molleur ,QC,Central Canada
+3.0,1.0,,.297,Residential,239900.0,140 Rue de l'Aéronef ,QC,Central Canada
+4.0,2.0,,0.88,Residential,499000.0,1240 Rue du Domaine ,QC,Central Canada
+2.0,1.0,,.206,Residential,224900.0,3615 Rue du Docteur-Smiley ,QC,Central Canada
+3.0,2.0,153472.0,.139,Residential,345900.0,746 9e Rue ,QC,Central Canada
+2.0,1.0,73205.0,0.45,Other,95000.0,462 1er Rang ,QC,Central Canada
+4.0,2.0,,.227,Residential,129900.0,2680 Rue Napoléon ,QC,Central Canada
+3.0,1.0,14231.0,.039,Residential,424900.0,2199 Ch. St-Antoine ,QC,Central Canada
+2.0,1.0,,.155,Residential,249900.0,168 Rue des Grives ,QC,Central Canada
+3.0,1.0,,.314,Residential,499000.0,2640 Rue des Floralies ,QC,Central Canada
+3.0,2.0,,.733,Residential,379900.0,168 Rg de l'Île ,QC,Central Canada
+3.0,3.0,,.598,Farm,395000.0,455 Rg St-Augustin ,QC,Central Canada
+6.0,2.0,229497.0,.108,Residential,1149000.0,10470 Boul. Olympia ,QC,Central Canada
+2.0,1.0,,.112,Residential,209000.0,5 Ch. de la Tourterelle ,QC,Central Canada
+,,,.085,Residential,1149000.0,2168 Rue Richelieu ,QC,Central Canada
+2.0,2.0,,.089,Residential,224900.0,510 Rue St-Germain E. ,QC,Central Canada
+3.0,1.0,,.454,Residential,369000.0,410 Ch. de Knowlton ,QC,Central Canada
+2.0,2.0,448005.0,.289,Residential,699000.0,58 Ch. de la Sablière ,QC,Central Canada
+3.0,4.0,1920.0,,Residential,1299000.0,1382 Av. du Docteur-Penfield ,QC,Central Canada
+3.0,1.0,14316.0,.556,Residential,239900.0,1084 Ch. de la Baie-Solitaire ,QC,Central Canada
+4.0,2.0,336501.0,>1.9,Residential,489000.0,64 Rue Principale ,QC,Central Canada
+3.0,1.0,,.485,Residential,425000.0,1591 Ch. Beausoleil ,QC,Central Canada
+3.0,1.0,,.464,Residential,149000.0,799 Rue de New-Glasgow ,QC,Central Canada
+4.0,1.0,,.327,Residential,229900.0,381 Rue Asselin ,QC,Central Canada
+4.0,1.0,,.121,Residential,349900.0,1020 Rue de la Nièvre ,QC,Central Canada
+3.0,2.0,388653.0,.907,Residential,799999.0,2098Z Ch. de Montréal O. ,QC,Central Canada
+5.0,2.0,,.381,Residential,329900.0,301-301A Rue Samson ,QC,Central Canada
+2.0,2.0,102505.0,.041,Residential,261500.0,120IZ Rue Leblanc ,QC,Central Canada
+3.0,1.0,,0.98,Other,279000.0,6672 Ch. Warden (Route 243) ,QC,Central Canada
+1.0,1.0,55004.0,.115,Residential,85000.0,166 Rue Thomas ,QC,Central Canada
+3.0,3.0,,0.45,Residential,999000.0,55 Ch. d'Amboise ,QC,Central Canada
+1.0,1.0,84497.0,0.23,Residential,204900.0,421 Route 309 ,QC,Central Canada
+2.0,2.0,940.0,,Residential,409000.0,1019 Rue St-Ferdinand ,QC,Central Canada
+3.0,1.0,,.163,Residential,159000.0,395 Rue Bellevue ,QC,Central Canada
+1.0,1.0,47996.0,.106,Residential,89000.0,6232 Ch. des Chalets ,QC,Central Canada
+3.0,1.0,,.112,Residential,235000.0,41 Rue Legendre ,QC,Central Canada
+3.0,2.0,,.742,Farm,950000.0,191 Rg du Six ,QC,Central Canada
+2.0,2.0,,.146,Residential,269000.0,14220 Av. Joseph-Léveillé ,QC,Central Canada
+4.0,1.0,,0.29,Residential,219900.0,140 Route Fafard ,QC,Central Canada
+3.0,1.0,,.195,Residential,189000.0,614 Rue Robert ,QC,Central Canada
+4.0,2.0,124205.0,.211,Residential,449000.0,38 Av. St-Jacques ,QC,Central Canada
+3.0,1.0,,.739,Residential,395000.0,5262 Ch. Vincent-Massey ,QC,Central Canada
+3.0,1.0,,.194,Other,79000.0,35 Ch. de la Station ,QC,Central Canada
+2.0,1.0,162255.0,.338,Residential,189500.0,186 Ch. de la Presqu'île ,QC,Central Canada
+2.0,2.0,92397.0,.061,Residential,499000.0,2338 Av. Mercier ,QC,Central Canada
+4.0,2.0,,.137,Residential,519000.0,648 Crois. du Grand-Duc ,QC,Central Canada
+3.0,2.0,,.154,Other,379000.0,386 Rue Bousquet ,QC,Central Canada
+3.0,3.0,,.776,Residential,655000.0,Allée Paisible ,QC,Central Canada
+3.0,2.0,139995.0,.146,Residential,449900.0,106 Rue Cottingham ,QC,Central Canada
+5.0,2.0,,.378,Residential,209000.0,2885 Rg St-Joseph ,QC,Central Canada
+5.0,2.0,,.516,Residential,525000.0,347 Rg St-André ,QC,Central Canada
+4.0,1.0,,.253,Residential,278000.0,1525 Rue Calixa-Lavallée ,QC,Central Canada
+3.0,2.0,1526.0,,Residential,1399000.0,115 Ch. des Sous-Bois #205 ,QC,Central Canada
+2.0,1.0,83205.0,.413,Other,199900.0,433 Rue de la Coulée ,QC,Central Canada
+4.0,1.0,,.116,Residential,155000.0,728 Rue Joffre ,QC,Central Canada
+4.0,1.0,,.988,Residential,250000.0,318 2e Rang ,QC,Central Canada
+3.0,1.0,114399.0,.106,Residential,724900.0,7025 Rue de Marseille ,QC,Central Canada
+4.0,1.0,,.179,Residential,299900.0,263 Rue St-Antoine N. ,QC,Central Canada
+3.0,2.0,,.119,Residential,389900.0,27 Rue Lafrance E. ,QC,Central Canada
+4.0,3.0,2645.0,0.92,Single,599900.0,23 Rue du Mont-Tremblant ,QC,Central Canada
+2.0,1.0,,.777,Residential,275678.0,1007 Rue Bernard ,QC,Central Canada
+4.0,4.0,290001.0,.989,Residential,859000.0,24 Imp. du Huard ,QC,Central Canada
+3.0,1.0,,1.68,Residential,428000.0,1489 Ch. de la Belle-Montagne ,QC,Central Canada
+3.0,1.0,,.743,Residential,315000.0,134 Rue des Pensées ,QC,Central Canada
+3.0,2.0,156001.0,.116,Residential,599000.0,221 Rue de l'Estran ,QC,Central Canada
+3.0,2.0,349827.0,.187,Residential,199900.0,537 Rue Champlain ,QC,Central Canada
+3.0,1.0,113204.0,0.08,Residential,449000.0,Allée de la Sérénité ,QC,Central Canada
+3.0,2.0,,,Residential,350000.0,2401 Ch. d'Entrelacs ,QC,Central Canada
+4.0,1.0,,.342,Residential,329000.0,7151 Rue Lajeunesse ,QC,Central Canada
+4.0,2.0,17063.0,.402,Residential,225000.0,753 Route St-Paul N. ,QC,Central Canada
+2.0,1.0,,.134,Residential,239000.0,2655 Rue Bessette ,QC,Central Canada
+2.0,1.0,70493.0,.089,Other,199000.0,1729 Rue Le Marquis ,QC,Central Canada
+4.0,2.0,214998.0,ng>1,Residential,649900.0,23 Ch. Champagnac ,QC,Central Canada
+3.0,2.0,,,Residential,269000.0,554 Av. de la Sablière ,QC,Central Canada
+3.0,1.0,137595.0,.457,Residential,485000.0,10000 Boul. Rideau ,QC,Central Canada
+4.0,2.0,,.236,Farm,449000.0,136Z Boul. Arthabaska E. ,QC,Central Canada
+4.0,1.0,,0.59,Residential,549900.0,117 Ch. des Chalands ,QC,Central Canada
+5.0,2.0,112332.0,.682,Residential,395000.0,2430 Av. Royale ,QC,Central Canada
+4.0,1.0,96595.0,.604,Farm,279000.0,195 Ch. du 4e Rang ,QC,Central Canada
+3.0,3.0,,.715,Other,695000.0,100 Imp. Ste-Croix ,QC,Central Canada
+2.0,1.0,,.172,Residential,99500.0,3 Rue Soulard ,QC,Central Canada
+5.0,2.0,,.112,Residential,1095000.0,2 Île Lévesque ,QC,Central Canada
+4.0,2.0,,.081,Residential,279000.0,474 Rue de la Providence ,QC,Central Canada
+3.0,1.0,,.135,Residential,149000.0,1181 Rue des Pins ,QC,Central Canada
+3.0,1.0,114205.0,.305,Residential,319000.0,98 Ch. des Aulnes ,QC,Central Canada
+2.0,4.0,1920.0,,Residential,1299000.0,1382A Av. du Docteur-Penfield ,QC,Central Canada
+7.0,2.0,,.574,Residential,349900.0,3543 Rue Gouin ,QC,Central Canada
+2.0,2.0,140803.0,0.18,Residential,599900.0,532 Ch. de l'Auberge ,QC,Central Canada
+3.0,1.0,,.067,Residential,359000.0,16 Boul. Albert-Einstein ,QC,Central Canada
+2.0,1.0,283801.0,.236,Residential,375000.0,190 3e-et-4e Rang E. ,QC,Central Canada
+4.0,1.0,,.158,Residential,599000.0,301 Rue des Mélèzes ,QC,Central Canada
+3.0,1.0,134301.0,.106,Residential,299000.0,706 Rue St-Alphonse S. ,QC,Central Canada
+4.0,2.0,24962.0,.242,Residential,259000.0,16 Rue Castanier ,QC,Central Canada
+2.0,1.0,58803.0,.099,Residential,249000.0,172 Rue Villeneuve ,QC,Central Canada
+3.0,1.0,9257.0,.093,Single,364900.0,614 Rue Adélard-Bastien ,QC,Central Canada
+4.0,2.0,,.916,Residential,795000.0,419Z Rue de Chatham ,QC,Central Canada
+3.0,2.0,,.211,Residential,475000.0,14464 Rue du Cardinal ,QC,Central Canada
+4.0,1.0,,.188,Residential,399000.0,319 Tsse de Lucerne ,QC,Central Canada
+4.0,1.0,,.146,Residential,225000.0,1412 Rue Dandonneau ,QC,Central Canada
+3.0,2.0,,.116,Residential,424800.0,28 Rue de Deauville ,QC,Central Canada
+4.0,2.0,,,Residential,459900.0,2526-2528 Rue Limoges ,QC,Central Canada
+2.0,1.0,,.175,Residential,280000.0,7 Rue des Érables ,QC,Central Canada
+3.0,1.0,88565.0,.026,Residential,299999.0,792 Route de St-Philippe ,QC,Central Canada
+9.0,4.0,,.158,Residential,799000.0,1240 Av. Delorimier ,QC,Central Canada
+3.0,2.0,,.591,Residential,249900.0,1900 Ch. de St-Gérard ,QC,Central Canada
+3.0,2.0,,.107,Residential,249900.0,599 Rue des Vétérans ,QC,Central Canada
+3.0,1.0,,.165,Residential,259500.0,650 Rue des Forges ,QC,Central Canada
+4.0,2.0,113527.0,.258,Residential,352500.0,3291 Ch. Sullivan ,QC,Central Canada
+3.0,3.0,211941.0,.102,Other,515000.0,532 Rue Arago O. ,QC,Central Canada
+2.0,1.0,,.193,Other,155000.0,1351 Rue du Pont ,QC,Central Canada
+2.0,1.0,291982.0,.491,Residential,465000.0,6 Ch. Edith ,QC,Central Canada
+8.0,4.0,272004.0,.904,Residential,389000.0,1530 Ch. des Coteaux ,QC,Central Canada
+3.0,1.0,,.861,Residential,93000.0,790 Ch. de la Rivière-Croche ,QC,Central Canada
+3.0,1.0,,.104,Residential,489000.0,57 Av. de Galais ,QC,Central Canada
+3.0,2.0,1550.0,.064,Residential,374000.0,590 Rue St-Ignace ,QC,Central Canada
+3.0,1.0,113204.0,0.09,Residential,489000.0,Allée de la Sérénité ,QC,Central Canada
+2.0,1.0,114399.0,.283,Residential,409900.0,Allée de l'Étang ,QC,Central Canada
+3.0,1.0,87747.0,.185,Other,210000.0,85 Rue du Bosquet ,QC,Central Canada
+4.0,1.0,,.184,Residential,320000.0,1319 Rue du Cran ,QC,Central Canada
+5.0,1.0,3277341.0,.014,Residential,494900.0,219 Route des Campagnards ,QC,Central Canada
+6.0,1.0,,.439,Residential,135000.0,290 Rue Principale N. ,QC,Central Canada
+2.0,1.0,,.642,Residential,335000.0,1334 Boul. St-Jean-Baptiste ,QC,Central Canada
+4.0,2.0,231618.0,.896,Farm,1490000.0,2275Z Ch. Noiseux ,QC,Central Canada
+1.0,1.0,,.382,Residential,147500.0,35 5e Rang (Lac-Bidini) ,QC,Central Canada
+1.0,1.0,66004.0,.355,Residential,225000.0,200 Route 195 ,QC,Central Canada
+4.0,2.0,226688.0,.132,Residential,894000.0,28 Av. Augustin ,QC,Central Canada
+1.0,1.0,82796.0,.961,Residential,299500.0,85 Route 212 O. ,QC,Central Canada
+6.0,3.0,283597.0,.344,Residential,569000.0,2415 Rue de Normandville ,QC,Central Canada
+5.0,2.0,,.088,Residential,364000.0,151 Route Bérubé ,QC,Central Canada
+3.0,2.0,,0.83,Residential,399000.0,2171 Mtée Ste-Therese ,QC,Central Canada
+2.0,1.0,,.153,Residential,199500.0,119 Ch. du Lac-à-la-Truite ,QC,Central Canada
+5.0,2.0,,.148,Residential,113500.0,416 Rue St-Raphaël N. ,QC,Central Canada
+3.0,2.0,,.092,Other,274900.0,86 Rue des Sittelles ,QC,Central Canada
+3.0,1.0,113204.0,.128,Residential,449000.0,Allée de la Sérénité ,QC,Central Canada
+3.0,1.0,133817.0,.194,Residential,235000.0,410 Ch. du Sommet ,QC,Central Canada
+3.0,1.0,,.188,Residential,269000.0,28 Rue St-Louis ,QC,Central Canada
+3.0,1.0,,.124,Residential,89500.0,141 Av. St-René ,QC,Central Canada
+3.0,3.0,,.364,Residential,699000.0,445 Ch. de la Ferme ,QC,Central Canada
+4.0,2.0,,.092,Residential,349500.0,137 Rue Dufresne ,QC,Central Canada
+6.0,2.0,,.294,Other,585000.0,99 Rue Bourassa ,QC,Central Canada
+2.0,1.0,,.989,Residential,225000.0,152 Ch. Forrest ,QC,Central Canada
+4.0,2.0,252005.0,.149,Residential,489000.0,1528-1530 Rue Nielsen ,QC,Central Canada
+1.0,,,.249,Other,1349000.0,30Z Rue David ,QC,Central Canada
+3.0,1.0,,.816,Residential,839000.0,1355 Ch. Notre-Dame N. ,QC,Central Canada
+5.0,2.0,,.115,Residential,349000.0,904 Rue des Pins ,QC,Central Canada
+3.0,2.0,,.394,Residential,149900.0,38 Rue Principale O. ,QC,Central Canada
+3.0,1.0,,.098,Residential,179900.0,29 Rue des Commissaires ,QC,Central Canada
+5.0,1.0,,,Residential,339900.0,16235 Av. Roy ,QC,Central Canada
+4.0,1.0,,.365,Residential,184500.0,749Z-751Z Rg St-Jacques ,QC,Central Canada
+3.0,2.0,,.136,Residential,429000.0,937 Rue Stuart ,QC,Central Canada
+3.0,2.0,129275.0,.965,Residential,474900.0,53 Ch. Tenpenny ,QC,Central Canada
+3.0,2.0,221704.0,1.04,Farm,379000.0,1167Z Route 139 ,QC,Central Canada
+5.0,2.0,,.203,Residential,495000.0,3720 Boul. Laurier O. ,QC,Central Canada
+2.0,1.0,,.138,Other,179900.0,471 Rue de la Plage-au-Sable ,QC,Central Canada
+1.0,1.0,121395.0,.256,Residential,899000.0,3296 Rue Jeanson ,QC,Central Canada
+3.0,1.0,,,Residential,424000.0,304 Rue Savoie ,QC,Central Canada
+4.0,1.0,166399.0,.152,Residential,249000.0,157 Rue de la Grève ,QC,Central Canada
+2.0,1.0,,.922,Residential,430000.0,1632 Rue Pilon ,QC,Central Canada
+3.0,1.0,,.138,Residential,164500.0,621 Rue Desrosiers ,QC,Central Canada
+3.0,1.0,,.148,Residential,89500.0,11 Rue Principale E. ,QC,Central Canada
+3.0,1.0,95196.0,,Other,129000.0,125 Rue Nicole ,QC,Central Canada
+3.0,1.0,,.153,Residential,164000.0,2452 Rue Brézel ,QC,Central Canada
+4.0,1.0,211005.0,.849,Residential,1750000.0,42-52 Rue des Rigolets ,QC,Central Canada
+4.0,3.0,,0.32,Residential,1299000.0,1579 Rue Algonquin ,QC,Central Canada
+3.0,1.0,,.138,Residential,249900.0,1613-1615 Rue des Grands-Ducs ,QC,Central Canada
+2.0,2.0,,.185,Residential,399000.0,339 Rue du Mont-Ste-Anne ,QC,Central Canada
+4.0,1.0,,.748,Residential,629000.0,17 Rg St-Claude ,QC,Central Canada
+3.0,2.0,116003.0,.718,Residential,1100000.0,393 Av. de Venise O. ,QC,Central Canada
+3.0,1.0,,.943,Residential,254900.0,220 Rue Lehar ,QC,Central Canada
+3.0,1.0,94529.0,.145,Other,349000.0,481 Rue des Plaines ,QC,Central Canada
+5.0,3.0,,.148,Residential,1349000.0,147 Rue du St-Laurent ,QC,Central Canada
+4.0,3.0,,.749,Other,650000.0,102 Rue Bruno ,QC,Central Canada
+2.0,1.0,,.092,Residential,349000.0,329 Crois. du Rubis ,QC,Central Canada
+3.0,1.0,91633.0,.216,Residential,259900.0,22 Rue Verdon ,QC,Central Canada
+3.0,1.0,,.498,Residential,199900.0,115-117 Ch. Principal ,QC,Central Canada
+3.0,3.0,1355.0,,Residential,490000.0,151 Ch. du Curé-Deslauriers #64-66 ,QC,Central Canada
+3.0,2.0,100438.0,.122,Residential,269000.0,76 Rue Foley ,QC,Central Canada
+4.0,2.0,294479.0,.198,Residential,599000.0,46 Rue du Poitou ,QC,Central Canada
+3.0,1.0,,.098,Residential,349900.0,264 Rue du Séminaire ,QC,Central Canada
+1.0,1.0,,.898,Residential,399000.0,26 Rue du Lac-des-Sittelles ,QC,Central Canada
+3.0,2.0,1184.0,.133,Residential,699000.0,8585 Rue du Notaire-Girard ,QC,Central Canada
+4.0,1.0,,.592,Residential,297000.0,1333 Route 132 ,QC,Central Canada
+4.0,2.0,17233.0,.145,Residential,499000.0,1118 Av. du Beaupré ,QC,Central Canada
+3.0,2.0,,.543,Residential,159900.0,166 4e Rang O. ,QC,Central Canada
+3.0,1.0,8736.0,.063,Residential,159900.0,1141 Av. de Carillon ,QC,Central Canada
+4.0,2.0,,.207,Residential,595900.0,997 Boul. de L'Assomption ,QC,Central Canada
+6.0,6.0,4362.0,.174,Residential,3698000.0,3047 Ch. De Breslay ,QC,Central Canada
+4.0,1.0,,.143,Residential,98000.0,15 Route 297 ,QC,Central Canada
+2.0,1.0,109803.0,.344,Residential,399000.0,32 Rue du Hauban ,QC,Central Canada
+4.0,2.0,,.126,Residential,89000.0,102 Rue Privée ,QC,Central Canada
+5.0,2.0,223997.0,.172,Residential,289000.0,17 Rue Richelieu ,QC,Central Canada
+2.0,3.0,,.782,Residential,749000.0,30 Rue David ,QC,Central Canada
+4.0,1.0,,.303,Residential,199900.0,60 Rue Principale ,QC,Central Canada
+3.0,1.0,,.138,Residential,358000.0,187 Rue Bernard ,QC,Central Canada
+1.0,1.0,129501.0,.243,Residential,199000.0,11531 Rue Beaumont ,QC,Central Canada
+3.0,1.0,181996.0,.149,Other,189000.0,470 Boul. Kane ,QC,Central Canada
+3.0,2.0,,.092,Residential,183000.0,465 Rue Bostonnais ,QC,Central Canada
+2.0,1.0,,.605,Residential,184400.0,1384 Rg de la Belle-Montagne N. ,QC,Central Canada
+4.0,1.0,,.988,Residential,429000.0,350 Rg St-Augustin ,QC,Central Canada
+6.0,3.0,,.847,Farm,560000.0,412 Rg Bois-Franc E. ,QC,Central Canada
+3.0,1.0,,.129,Residential,299000.0,750 Rue Elm ,QC,Central Canada
+3.0,1.0,,.173,Residential,250000.0,305 Rue du Coteau ,QC,Central Canada
+3.0,1.0,,.149,Residential,649900.0,998 Rue Marmier ,QC,Central Canada
+2.0,2.0,,.826,Residential,549000.0,Allée Paisible ,QC,Central Canada
+4.0,1.0,174795.0,.355,Residential,219000.0,1474 Route 340 ,QC,Central Canada
+3.0,2.0,,.138,Residential,107500.0,51 Rue Chamberland ,QC,Central Canada
+1.0,1.0,,.148,Residential,199000.0,3146 Ch. du Lac-Farmer ,QC,Central Canada
+3.0,1.0,,.052,Residential,299500.0,850 Rg St-Esprit ,QC,Central Canada
+4.0,2.0,,.373,Residential,399700.0,180 Rue des Lilas ,QC,Central Canada
+3.0,1.0,,.201,Residential,249000.0,341 Rue Blais ,QC,Central Canada
+2.0,1.0,,,Residential,119000.0,72 Rue de la Poudreuse ,QC,Central Canada
+3.0,2.0,,.065,Residential,429000.0,4927 Rue René-Coty ,QC,Central Canada
+2.0,1.0,,.494,Residential,219000.0,2480 Ch. Cloutier ,QC,Central Canada
+2.0,1.0,,.934,Other,349000.0,1692 7e Avenue ,QC,Central Canada
+3.0,1.0,,.351,Residential,139000.0,89 Rue Principale ,QC,Central Canada
+6.0,2.0,,.316,Residential,269500.0,288 Rue Principale O. ,QC,Central Canada
+2.0,1.0,,.868,Residential,374000.0,3281 Route du Lac-Clair ,QC,Central Canada
+2.0,1.0,,,Residential,499000.0,745-747 Ch. Fex ,QC,Central Canada
+3.0,2.0,113904.0,.136,Other,309900.0,5135 Rue Genest ,QC,Central Canada
+3.0,1.0,214396.0,.622,Residential,675000.0,308 Ch. du Lac-Tee ,QC,Central Canada
+4.0,1.0,17965.0,.618,Residential,389000.0,1579 Rg St-Édouard ,QC,Central Canada
+2.0,1.0,109803.0,.344,Residential,399000.0,24 Rue du Hauban ,QC,Central Canada
+2.0,1.0,,.154,Residential,275000.0,843 Route 195 ,QC,Central Canada
+2.0,2.0,125798.0,.301,Residential,699000.0,1528 Ch. du Tour-du-Lac ,QC,Central Canada
+6.0,2.0,,.192,Residential,597777.0,71 Rue de Verbier ,QC,Central Canada
+5.0,2.0,,.107,Residential,220000.0,456 Rue St-Yves ,QC,Central Canada
+3.0,2.0,,.188,Residential,450000.0,68 Ch. de l'Anse ,QC,Central Canada
+2.0,2.0,,.116,Residential,498000.0,265 62e Avenue ,QC,Central Canada
+3.0,1.0,,.222,Residential,309900.0,102Z Route 348 ,QC,Central Canada
+3.0,1.0,,.903,Residential,272000.0,2 Lac du Héron ,QC,Central Canada
+3.0,1.0,1700.0,0.12,Single,649900.0,213 Rue de la Vaudaire ,QC,Central Canada
+3.0,1.0,,.171,Residential,189800.0,6076 Rue Notre-Dame ,QC,Central Canada
+3.0,2.0,,.131,Residential,474900.0,404 Rue Gervais ,QC,Central Canada
+2.0,1.0,,.479,Residential,121000.0,726 5e-et-6e Rang E. ,QC,Central Canada
+2.0,1.0,848.0,,Residential,624900.0,1165 Rue Wellington #1306 ,QC,Central Canada
+3.0,2.0,,.414,Residential,299000.0,506 Rue de la Colline ,QC,Central Canada
+5.0,2.0,2046.0,.505,Residential,129500.0,38 Rue Principale ,QC,Central Canada
+3.0,2.0,139393.0,.103,Residential,196000.0,43 Rue Ste-Marie ,QC,Central Canada
+3.0,1.0,,.158,Residential,625000.0,3547 Rue Lareau ,QC,Central Canada
+3.0,2.0,124969.0,.192,Residential,289000.0,1092 Rue Morgan ,QC,Central Canada
+2.0,1.0,,.697,Farm,289900.0,186 Rue des Bouleaux ,QC,Central Canada
+3.0,1.0,,0.14,Residential,429000.0,15155 Rue St-Hyacinthe ,QC,Central Canada
+3.0,1.0,86811.0,.781,Residential,239000.0,1439 Route St-Paul S. ,QC,Central Canada
+2.0,1.0,,0.14,Residential,214500.0,251 Rue Ostiguy ,QC,Central Canada
+3.0,1.0,1464.0,,Residential,898000.0,1755 Rue St-Patrick #C201 ,QC,Central Canada
+3.0,2.0,182405.0,.966,Residential,399000.0,55 Ch. de la Nature ,QC,Central Canada
+5.0,2.0,130803.0,.097,Residential,399999.0,180 Rue Roland-Audet ,QC,Central Canada
+2.0,1.0,,.536,Residential,459000.0,1Z Ch. des Iris ,QC,Central Canada
+3.0,1.0,,.571,Farm,389000.0,190Z Ch. des Patriotes ,QC,Central Canada
+4.0,1.0,,.918,Residential,149000.0,366 3e-et-4e-Rang O. ,QC,Central Canada
+2.0,1.0,93603.0,0.15,Residential,199000.0,172 Rue Bolduc ,QC,Central Canada
+3.0,2.0,,.113,Residential,410000.0,1610 Rue Giguère ,QC,Central Canada
+3.0,2.0,,.139,Residential,429000.0,303-305 Rue Joliboisé ,QC,Central Canada
+8.0,5.0,,.141,Residential,1950000.0,840-842 Ch. St-Pierre ,QC,Central Canada
+2.0,1.0,105798.0,.229,Residential,109000.0,865 Rg St-Charles ,QC,Central Canada
+2.0,1.0,102688.0,.861,Other,172000.0,4854 Rg Lavigne ,QC,Central Canada
+4.0,2.0,,.129,Residential,329900.0,1785 Av. Roland-Salvail ,QC,Central Canada
+4.0,2.0,218916.0,1.37,Residential,674999.0,1117 Boul. Hurtubise ,QC,Central Canada
+4.0,1.0,180005.0,.367,Residential,219800.0,1646 Boul. Albiny-Paquette ,QC,Central Canada
+2.0,1.0,,.689,Residential,64500.0,543 Route de la Providence ,QC,Central Canada
+3.0,1.0,488843.0,.689,Residential,112000.0,244 Route 386 ,QC,Central Canada
+1.0,1.0,787.0,,Residential,459000.0,81 Rue De Brésoles #208 ,QC,Central Canada
+4.0,2.0,,.157,Residential,329900.0,619 Rue St-Georges ,QC,Central Canada
+5.0,2.0,,.194,Residential,299000.0,333 Rue Chapais ,QC,Central Canada
+2.0,1.0,,.399,Residential,189900.0,4013 Ch. Gisèle ,QC,Central Canada
+3.0,1.0,97995.0,.558,Residential,299500.0,11 Rue Ste-Marie ,QC,Central Canada
+4.0,4.0,1200.0,.594,Residential,680000.0,491 Ch. du Lac-Quenouille ,QC,Central Canada
+1.0,1.0,71096.0,.605,Residential,119000.0,466 Route 117 ,QC,Central Canada
+4.0,2.0,,.775,Residential,544000.0,211 Rue des Boisés-de-Rigaud ,QC,Central Canada
+4.0,2.0,231618.0,.896,Residential,1490000.0,2275 Ch. Noiseux ,QC,Central Canada
+3.0,2.0,,.336,Residential,79900.0,963 Rue Granier ,QC,Central Canada
+2.0,1.0,119802.0,.744,Residential,295000.0,8 Ch. de la Prairie ,QC,Central Canada
+3.0,1.0,,.192,Residential,749000.0,5200 Mtée Gagnon ,QC,Central Canada
+2.0,1.0,114399.0,.318,Residential,444900.0,Allée de l'Étang ,QC,Central Canada
+1.0,1.0,,0.23,Residential,179000.0,258 Ch. du Sorbier ,QC,Central Canada
+3.0,2.0,113882.0,.478,Residential,439900.0,1595 Rue St-Jean-Baptiste ,QC,Central Canada
+6.0,2.0,,.137,Residential,349000.0,70 Rue Robillard ,QC,Central Canada
+4.0,2.0,130599.0,.152,Residential,469900.0,8 Rue Nelson ,QC,Central Canada
+2.0,1.0,87457.0,.125,Residential,249900.0,27 Ch. Dubois ,QC,Central Canada
+2.0,1.0,,>0.5,Residential,254900.0,91 Rg St-Guillaume ,QC,Central Canada
+2.0,1.0,,.539,Residential,649000.0,290 Rue des Agates ,QC,Central Canada
+2.0,1.0,,,Other,134900.0,3856 Rg de la Rivière N. ,QC,Central Canada
+3.0,1.0,110395.0,.138,Residential,160000.0,2 Rue Malo ,QC,Central Canada
+4.0,2.0,290001.0,,Residential,1125000.0,400 Ch. du Centre ,QC,Central Canada
+4.0,2.0,23433.0,,Residential,1295000.0,350 Rue Narbonne ,QC,Central Canada
+2.0,1.0,,.536,Farm,459000.0,1 Ch. des Iris ,QC,Central Canada
+1.0,1.0,83603.0,.271,Residential,359900.0,Allée de l'Étang ,QC,Central Canada
+3.0,2.0,,.049,Residential,795000.0,1856 Route 117 ,QC,Central Canada
+2.0,1.0,,.058,Residential,348500.0,230 Av. des Rapides ,QC,Central Canada
+3.0,1.0,,.236,Residential,249000.0,2090 Ch. St-Michel N. ,QC,Central Canada
+4.0,3.0,,.215,Residential,419900.0,16 Av. Parent ,QC,Central Canada
+6.0,1.0,124797.0,2.42,Residential,160000.0,1059 Route 101 N. ,QC,Central Canada
+4.0,2.0,107413.0,.152,Residential,299000.0,2215 Rue du Prieuré ,QC,Central Canada
+2.0,1.0,,.117,Residential,475000.0,5340 Rg St-Martin ,QC,Central Canada
+2.0,1.0,,.339,Residential,225000.0,415 Av. Latendresse ,QC,Central Canada
+2.0,1.0,,,Other,138500.0,4250 Rue Legault ,QC,Central Canada
+2.0,1.0,,.065,Residential,175000.0,521 Rue Élisabeth ,QC,Central Canada
+3.0,2.0,,.131,Residential,199900.0,2812 Rue Rabouin ,QC,Central Canada
+2.0,1.0,117004.0,.087,Residential,334900.0,76-2 Rue George-Adams ,QC,Central Canada
+2.0,2.0,,.849,Residential,695000.0,560 Rg du Fleuve ,QC,Central Canada
+5.0,1.0,,.213,Residential,599000.0,63 Rue du Blainvillier ,QC,Central Canada
+1.0,1.0,521.0,,Residential,359000.0,101 Rue Peel #304 ,QC,Central Canada
+4.0,1.0,,.124,Residential,179000.0,17865 Av. Perreault ,QC,Central Canada
+3.0,1.0,97499.0,.648,Residential,125000.0,397 Route 111 ,QC,Central Canada
+4.0,2.0,,.236,Residential,449000.0,136 Boul. Arthabaska E. ,QC,Central Canada
+3.0,1.0,,,Residential,324900.0,809Z-811Z Rue de Bourgogne ,QC,Central Canada
+4.0,1.0,115195.0,,Farm,365000.0,1756 4e Rang ,QC,Central Canada
+2.0,1.0,,0.48,Residential,349000.0,1517 Ch. du Lac-Gustave N. ,QC,Central Canada
+5.0,2.0,,0.12,Residential,535000.0,577 10e Avenue ,QC,Central Canada
+3.0,1.0,,.256,Residential,239000.0,3 Rue Pierre-Brochu ,QC,Central Canada
+3.0,1.0,69998.0,.444,Residential,349900.0,6 Rue Henri ,QC,Central Canada
+3.0,2.0,,0.08,Residential,193000.0,15 Rue Horace-Hudon ,QC,Central Canada
+3.0,2.0,,.138,Residential,479000.0,685 Rue St-Étienne ,QC,Central Canada
+4.0,1.0,254696.0,.277,Residential,999000.0,2289 Av. Bourgogne ,QC,Central Canada
+2.0,1.0,,.129,Other,135000.0,4 Rue Tibo ,QC,Central Canada
+2.0,1.0,100804.0,.833,Residential,379000.0,3 Rue Lacroix ,QC,Central Canada
+3.0,2.0,,.371,Residential,199900.0,280 Rue de l'Église ,QC,Central Canada
+3.0,2.0,,.325,Residential,849900.0,265 43e Avenue ,QC,Central Canada
+4.0,2.0,,.145,Residential,237000.0,5625 Rue Roland ,QC,Central Canada
+2.0,1.0,,.762,Residential,269000.0,4020 Ch. de l'Église ,QC,Central Canada
+3.0,1.0,,.552,Residential,320000.0,124 Rue du Mont-Rainer ,QC,Central Canada
+3.0,3.0,,.361,Residential,999000.0,520 Ch. Lakeside ,QC,Central Canada
+4.0,2.0,,.149,Residential,399000.0,785 Rue des Patriotes ,QC,Central Canada
+4.0,2.0,,.204,Residential,225000.0,468 Rue Monseigneur-Courchesne ,QC,Central Canada
+1.0,1.0,,0.22,Residential,249000.0,1061 Ch. du Bord-de-l'Eau ,QC,Central Canada
+3.0,1.0,,.126,Residential,389000.0,4635 Rue Beausoleil ,QC,Central Canada
+2.0,1.0,,.722,Residential,275000.0,2300 Ch. du Lac-Corbeau ,QC,Central Canada
+3.0,2.0,221209.0,.143,Residential,395000.0,4191 Av. Larivière ,QC,Central Canada
+3.0,2.0,285297.0,.249,Residential,1299000.0,139 Rue Jean-De Fonblanche ,QC,Central Canada
+4.0,2.0,,.262,Residential,549900.0,957 Rue Frontenac ,QC,Central Canada
+3.0,2.0,185139.0,.789,Residential,580000.0,310 Ch. de la Rivière-Piché ,QC,Central Canada
+4.0,1.0,148822.0,.155,Residential,549000.0,160 Rue Martin ,QC,Central Canada
+16.0,5.0,,.165,Residential,369900.0,4 Rue Bellevue ,QC,Central Canada
+2.0,2.0,,0.55,Residential,549000.0,Allée Paisible ,QC,Central Canada
+5.0,2.0,,.275,Residential,1095000.0,147 Rue Voltaire ,QC,Central Canada
+3.0,2.0,,.115,Residential,170000.0,476 Rue Jacques-Buteux ,QC,Central Canada
+3.0,2.0,,.205,Residential,330000.0,679 Rue Mistral ,QC,Central Canada
+3.0,1.0,113204.0,.084,Residential,489000.0,Allée de la Sérénité ,QC,Central Canada
+4.0,2.0,,.418,Residential,389000.0,483 Rue des Pins ,QC,Central Canada
+3.0,2.0,,.176,Residential,159900.0,2087 Av. Vallée ,QC,Central Canada
+4.0,2.0,146195.0,.121,Residential,319900.0,131 Rue St-Jean-Baptiste ,QC,Central Canada
+3.0,1.0,,,Other,99900.0,3355 Rue Morel ,QC,Central Canada
+11.0,4.0,,.523,Other,225000.0,578 8e Avenue ,QC,Central Canada
+4.0,2.0,139995.0,.117,Residential,384900.0,1523 Boul. Maloney E. ,QC,Central Canada
+2.0,2.0,,0.19,Residential,289000.0,985 Rue Hydro-Québec ,QC,Central Canada
+4.0,3.0,,1.04,Residential,379900.0,663 Rg du Bord-de-l'Eau E. ,QC,Central Canada
+3.0,3.0,,.776,Residential,615000.0,Allée Paisible ,QC,Central Canada
+1.0,2.0,,.235,Residential,329000.0,1009 Ch. St-Thomas ,QC,Central Canada
+1.0,1.0,,.457,Residential,374900.0,36 Rue Degrandpré ,QC,Central Canada
+2.0,1.0,,.552,Residential,289900.0,460 Rue Marie-Anne ,QC,Central Canada
+3.0,1.0,1178.0,.116,Residential,349000.0,779 Mtée de l'Église ,QC,Central Canada
+4.0,1.0,,.103,Residential,369000.0,3445 Rue des Aulnes ,QC,Central Canada
+2.0,1.0,,.883,Residential,445000.0,221 Ch. de La Feuillée ,QC,Central Canada
+3.0,1.0,113204.0,.086,Residential,449000.0,Allée de la Sérénité ,QC,Central Canada
+9.0,6.0,30985.0,.546,Residential,439000.0,110 Rue du Lac ,QC,Central Canada
+2.0,1.0,114399.0,.263,Residential,419900.0,Allée de l'Étang ,QC,Central Canada
+6.0,2.0,140404.0,.126,Residential,160000.0,4A Rue Mouttet S. ,QC,Central Canada
+3.0,1.0,,.571,Residential,389000.0,190 Ch. des Patriotes ,QC,Central Canada
+3.0,1.0,,.129,Residential,225000.0,42 Rue De Gaulle ,QC,Central Canada
+3.0,1.0,,.249,Residential,119500.0,126 Route 132 O. ,QC,Central Canada
+2.0,2.0,,.092,Residential,314900.0,3100 23e Avenue ,QC,Central Canada
+2.0,1.0,,0.12,Residential,289900.0,212-214 Rue St-Joseph ,QC,Central Canada
+3.0,2.0,,.095,Residential,425000.0,1130 Rue des Cascades ,QC,Central Canada
+3.0,1.0,60493.0,.092,Residential,279000.0,273 Rue Courchesne ,QC,Central Canada
+3.0,1.0,113204.0,.093,Residential,449000.0,Allée de la Sérénité ,QC,Central Canada
+2.0,2.0,1084.0,,Residential,795000.0,1175 Av. Turnbull #914 ,QC,Central Canada
+4.0,2.0,,.148,Residential,349900.0,432 Rue Dubord ,QC,Central Canada
+4.0,2.0,,.118,Residential,689000.0,728 Rue Pierre-Biard ,QC,Central Canada
+4.0,2.0,,.174,Residential,549000.0,6 Rue Girouard ,QC,Central Canada
+5.0,2.0,,.163,Residential,299900.0,602 Rue Thomas-Taschereau ,QC,Central Canada
+3.0,2.0,,.215,Residential,849000.0,1627 Ch. des Patriotes N. ,QC,Central Canada
+4.0,1.0,140921.0,.349,Residential,409000.0,176 Rue Venne ,QC,Central Canada
+4.0,2.0,,.132,Residential,199900.0,525 Rue de Lausanne ,QC,Central Canada
+4.0,2.0,,.145,Residential,449900.0,669 Rue Maurice ,QC,Central Canada
+2.0,2.0,,.949,Residential,589000.0,146 Ch. des Courbes ,QC,Central Canada
+5.0,1.0,100804.0,.111,Residential,125000.0,22 Rue Alexis ,QC,Central Canada
+3.0,2.0,,0.67,Residential,349900.0,1055-1057 Rue Massie ,QC,Central Canada
+4.0,1.0,,.096,Residential,166500.0,394 Av. St-Cyrille ,QC,Central Canada
+2.0,1.0,86445.0,.148,Residential,349500.0,38 Ch. Daigle ,QC,Central Canada
+2.0,1.0,,.951,Residential,169000.0,376 Ch. du Golf ,QC,Central Canada
+4.0,1.0,,5.43,Residential,599000.0,732 Rg de la Rivière E. ,QC,Central Canada
+6.0,2.0,,.154,Residential,749000.0,210 Rue François ,QC,Central Canada
+3.0,1.0,95314.0,.083,Other,209000.0,1757 Rue Le Baron ,QC,Central Canada
+2.0,1.0,,,Residential,209900.0,19 Av. E.-Bellefleur ,QC,Central Canada
+2.0,1.0,,0.11,Residential,269000.0,13 Rue du Tour-du-Lac ,QC,Central Canada
+2.0,1.0,206398.0,.148,Residential,359000.0,679 Ch. de l'Église ,QC,Central Canada
+3.0,1.0,,.101,Residential,187500.0,4085 Rue Châteauguay ,QC,Central Canada
+3.0,2.0,,.139,Residential,395000.0,570 Rue Philibert-Contant ,QC,Central Canada
+2.0,1.0,,.115,Residential,59000.0,506 7e-et-8e-Rang E. ,QC,Central Canada
+3.0,2.0,266504.0,.553,Residential,585000.0,1989 Ch. du Lac-Panneton ,QC,Central Canada
+3.0,2.0,,.101,Residential,132900.0,2380Z Boul. de Shawinigan-Sud ,QC,Central Canada
+3.0,2.0,,0.13,Residential,489000.0,5805 Boul. St-Laurent ,QC,Central Canada
+3.0,1.0,,.218,Residential,569000.0,2540 Ch. de la Bricade ,QC,Central Canada
+3.0,1.0,,.525,Residential,244900.0,591 Route St-Joseph ,QC,Central Canada
+4.0,1.0,,.858,Residential,264000.0,1920 Boul. Malcolm-Fraser ,QC,Central Canada
+3.0,1.0,1285.0,.051,Residential,229800.0,11 Rue Granet ,QC,Central Canada
+6.0,4.0,3506.0,.163,Residential,3898000.0,18 Rue des Huards ,QC,Central Canada
+2.0,1.0,,.525,Residential,484000.0,13 Rue Paul ,QC,Central Canada
+2.0,1.0,100395.0,.344,Residential,396000.0,21 Rue du Hauban ,QC,Central Canada
+2.0,2.0,,0.16,Residential,269000.0,3601 Rue Duvernay ,QC,Central Canada
+4.0,2.0,,.131,Residential,449000.0,9475 Rue des Outardes ,QC,Central Canada
+3.0,2.0,,.918,Residential,399000.0,61 Ch. Lucien ,QC,Central Canada
+4.0,2.0,,0.15,Residential,349000.0,523 Rue du Portage ,QC,Central Canada
+2.0,1.0,74497.0,.287,Residential,264500.0,6687 Rue de la Rivière ,QC,Central Canada
+2.0,1.0,,.609,Residential,1100000.0,180 Ch. de la Pointe-Manitou ,QC,Central Canada
+3.0,1.0,,0.31,Residential,545000.0,11925 Rue de la Randonnée ,QC,Central Canada
+3.0,1.0,142999.0,.071,Residential,534900.0,9006 Rue de Belmont ,QC,Central Canada
+3.0,2.0,188368.0,.368,Residential,429500.0,1422 Ch. Hamel ,QC,Central Canada
+4.0,1.0,,.499,Residential,129000.0,929 Rue Principale ,QC,Central Canada
+2.0,1.0,,.806,Residential,190000.0,107 Ch. Jean-Baptiste-Nobert ,QC,Central Canada
+8.0,2.0,,.102,Residential,214500.0,39 Rue St-André ,QC,Central Canada
+1.0,1.0,,.219,Other,149900.0,1769 Rue des Canaris ,QC,Central Canada
+4.0,2.0,,0.23,Residential,849900.0,912 Rue Galilée ,QC,Central Canada
+4.0,2.0,,.103,Residential,499900.0,81 Av. Dussault ,QC,Central Canada
+4.0,2.0,,,Residential,159900.0,165 Av. Damase-Potvin ,QC,Central Canada
+4.0,2.0,104001.0,.138,Residential,299900.0,905 Av. de Grande-Île ,QC,Central Canada
+3.0,2.0,,.635,Residential,325000.0,744 5e Rang O. ,QC,Central Canada
+1.0,1.0,83603.0,.255,Residential,394900.0,Allée de l'Étang ,QC,Central Canada
+4.0,2.0,,.164,Residential,299900.0,41 Rue Ostiguy ,QC,Central Canada
+2.0,1.0,,.161,Residential,159000.0,175 Rue Principale ,QC,Central Canada
+3.0,1.0,100804.0,.104,Residential,279900.0,22 Ch. Fabre ,QC,Central Canada
+4.0,1.0,,.141,Residential,279900.0,1076 Rue des Pruniers ,QC,Central Canada
+4.0,1.0,240003.0,.384,Residential,379900.0,106 Rue de la Santé ,QC,Central Canada
+3.0,2.0,,.251,Residential,495000.0,1545 Rue James-Guitet ,QC,Central Canada
+3.0,1.0,,.168,Residential,325000.0,23 Rue Poirier ,QC,Central Canada
+4.0,1.0,1565086.0,0.07,Single,459000.0,23 Rue des Alizés ,QC,Central Canada
+3.0,1.0,82645.0,.158,Residential,249500.0,192 Rue Joseph-Pariseau ,QC,Central Canada
+3.0,2.0,,,Residential,425000.0,1478 Rue Maurice-Lalonde ,QC,Central Canada
+3.0,2.0,,.506,Other,369900.0,286 Rg du Bas-de-la-Rivière ,QC,Central Canada
+3.0,1.0,,.236,Residential,289000.0,1194 Rg Bourgchemin O. ,QC,Central Canada
+2.0,,40688.0,1.13,Residential,225000.0,319 Mtée Lebrun ,QC,Central Canada
+3.0,1.0,11047.0,.133,Residential,299000.0,19 Rue Cloutier ,QC,Central Canada
+2.0,1.0,126002.0,0.07,Residential,320000.0,421 Boul. Magenta E. ,QC,Central Canada
+2.0,2.0,,.232,Residential,199000.0,7 Rue de la Boule-de-Neige ,QC,Central Canada
+4.0,2.0,1927.0,,Residential,1598000.0,235 Rue Peel #1407 ,QC,Central Canada
+1.0,1.0,1021.0,,Residential,1275000.0,1420 Rue Sherbrooke O. #504 ,QC,Central Canada
+3.0,3.0,3651.0,.667,Residential,1900000.0,Allée du Rabaska ,QC,Central Canada
+2.0,2.0,1280.0,.288,Residential,575000.0,8 Rue McWilliam #206 ,QC,Central Canada
+6.0,4.0,,.272,Residential,2350000.0,4661-4661B Ch. Queen-Mary ,QC,Central Canada
+,,,,Residential,189000.0,184 Rue St-Louis ,QC,Central Canada
+2.0,2.0,1220.0,,Residential,531500.0,8 Rue McWilliam #102 ,QC,Central Canada
+5.0,4.0,,.014,Residential,1498000.0,90 Ch. de la Voie-Lactée ,QC,Central Canada
+3.0,2.0,2385.0,,Residential,2695000.0,3 Rue Westmount-Square #1711 ,QC,Central Canada
+2.0,2.0,997.0,,Residential,669000.0,100 Rue André-Prévost #607 ,QC,Central Canada
+3.0,3.0,1849.0,,Residential,1195000.0,1581 Av. du Docteur-Penfield #PH402 ,QC,Central Canada
+2.0,1.0,,.305,Residential,274900.0,Ch. du Fief ,QC,Central Canada
+1.0,1.0,50267.0,,Residential,317000.0,3810 Rue St-Antoine O. 216,QC,Central Canada
+2.0,2.0,755.0,,Residential,869000.0,1030 Rue De Bleury #3310 ,QC,Central Canada
+2.0,2.0,1142.0,,Residential,531000.0,8 Rue McWilliam #301 ,QC,Central Canada
+3.0,1.0,,0.11,Residential,259900.0,516 Rue Georges-É.-Tremblay ,QC,Central Canada
+3.0,1.0,,.152,Residential,89000.0,440-442 Rue de la Montagne ,QC,Central Canada
+6.0,1.0,,.638,Residential,325000.0,700 Rue Pelletier ,QC,Central Canada
+1.0,2.0,1620.0,,Residential,829000.0,216 Rue Maguire ,QC,Central Canada
+1.0,2.0,1516.0,,Residential,1059000.0,4225 Rue St-Dominique #PH-11 ,QC,Central Canada
+4.0,3.0,3153.0,.759,Residential,1495000.0,1904 Ch. St-Barthélemy ,QC,Central Canada
+3.0,2.0,,.781,Residential,649000.0,2 Ch. Messier ,QC,Central Canada
+,1.0,401.0,,Residential,135600.0,161 Ch. du Curé-Deslauriers #384 ,QC,Central Canada
+5.0,2.0,,.376,Residential,749000.0,2 Rue Parmentier ,QC,Central Canada
+3.0,2.0,1387.0,,Residential,1150000.0,760 Av. Honoré-Mercier #709 ,QC,Central Canada
+2.0,2.0,1477.0,,Residential,829000.0,3710 Boul. St-Elzear O. #204 ,QC,Central Canada
+3.0,2.0,193503.0,.163,Residential,773741.0,1838 Rue Bédard ,QC,Central Canada
+3.0,1.0,,.132,Residential,69500.0,4 Rue Ouellet ,QC,Central Canada
+2.0,1.0,1108.0,,Residential,850000.0,600 Boul. René-Lévesque E. #604 ,QC,Central Canada
+3.0,1.0,1200.0,.035,Single,349900.0,64 Rue Lavallée ,QC,Central Canada
+1.0,1.0,,.468,Residential,269900.0,2520 Ch. de la Montagne-Carrée ,QC,Central Canada
+4.0,3.0,,0.34,Single,1180000.0,460 Boul. des Prairies ,QC,Central Canada
+3.0,2.0,2775.0,,Residential,549000.0,5318 Av. Clarendon ,QC,Central Canada
+1.0,1.0,592.0,,Residential,395000.0,1520 Ch. du Versant-Soleil #2 ,QC,Central Canada
+1.0,1.0,616.0,,Residential,309000.0,3600 Av. Van Horne #411 ,QC,Central Canada
+1.0,1.0,,.708,Residential,449000.0,1330 Ch. Desmarais ,QC,Central Canada
+2.0,2.0,871.0,,Residential,579000.0,111 Ch. de la Pointe-Nord #127 ,QC,Central Canada
+5.0,4.0,3181.0,.177,Residential,1275000.0,2559 Av. de Parc-Falaise ,QC,Central Canada
+3.0,2.0,5915.0,,Residential,539000.0,"344, 5e Rue ",QC,Central Canada
+4.0,3.0,1918.0,.274,Single,379500.0,221 Route 307 ,QC,Central Canada
+5.0,4.0,,.056,Residential,2485000.0,430 Av. Metcalfe ,QC,Central Canada
+4.0,4.0,2890.0,.462,Residential,849500.0,118 Rue Dicaire ,QC,Central Canada
+2.0,1.0,906.0,,Residential,339000.0,4230 Rue La Perrière ,QC,Central Canada
+3.0,3.0,3600.0,2.21,Residential,1200000.0,258 Ch. de la Rive ,QC,Central Canada
+4.0,1.0,,.112,Residential,109000.0,14 Rue Principale S. ,QC,Central Canada
+3.0,1.0,1440.0,.066,Residential,119000.0,100 Ch. Paquin ,QC,Central Canada
+3.0,3.0,1904.0,,Residential,1060000.0,200 Av. Lansdowne #401 ,QC,Central Canada
+2.0,1.0,69029.0,.068,Residential,119000.0,70 Rue Mclean E. ,QC,Central Canada
+5.0,3.0,2500.0,,Residential,2350000.0,"4715 Boul. The Boulevard ,  Westmount  ",QC,Central Canada
+2.0,2.0,920.0,,Residential,599000.0,441 Av. du Président-Kennedy 1200,QC,Central Canada
+1.0,,374.0,,Residential,231655.0,1550 Rue des Bassins #300B ,QC,Central Canada
+2.0,2.0,1319.0,,Residential,515000.0,2050 Boul. René-Lévesque O. #304 ,QC,Central Canada
+2.0,2.0,1150.0,,Residential,475000.0,211 Ch. de Lac-Tremblant-Nord #491 ,QC,Central Canada
+2.0,1.0,700.0,,Residential,459000.0,130 Ch. au Pied-de-la-Montagne #2019 ,QC,Central Canada
+2.0,1.0,,.207,Residential,139900.0,28 7e Avenue ,QC,Central Canada
+4.0,3.0,2343.0,.142,Residential,949000.0,3630 Rue La Durantaye ,QC,Central Canada
+4.0,2.0,,0.14,Residential,225000.0,128 Rue du Collège ,QC,Central Canada
+2.0,1.0,,.252,Other,199900.0,1918 Ch. d'Athelstan ,QC,Central Canada
+7.0,5.0,,.264,Residential,1450000.0,218 Rue de la Coulée ,QC,Central Canada
+2.0,2.0,1100.0,,Residential,999900.0,199 Rue de la Rotonde #PH1-03 ,QC,Central Canada
+2.0,2.0,912.0,,Residential,749000.0,1375 Rue des Bassins #1217 ,QC,Central Canada
+6.0,9.0,7105.0,.081,Residential,2800000.0,45 Ch. de la Vieille-Rivière ,QC,Central Canada
+2.0,2.0,1248.0,,Residential,459000.0,2050 Boul. René-Lévesque O. #610 ,QC,Central Canada
+4.0,3.0,,.099,Residential,135000.0,394 Rue des Cèdres ,QC,Central Canada
+1.0,1.0,541.0,,Residential,379000.0,789 Av. Querbes #503 ,QC,Central Canada
+2.0,1.0,899.0,.006,Residential,329000.0,138 Rue De Maisonneuve #309 ,QC,Central Canada
+2.0,1.0,928.0,,Residential,411240.0,8 Rue McWilliam #105 ,QC,Central Canada
+2.0,1.0,,.236,Residential,225000.0,540 10e Rang ,QC,Central Canada
+3.0,1.0,,.224,Residential,244900.0,68 Rue des Pivoines ,QC,Central Canada
+3.0,1.0,850.0,.344,Single,152000.0,9 Av. Fairview ,QC,Central Canada
+3.0,3.0,1229.0,,Residential,529000.0,150 Ch. du Curé-Deslauriers #123 ,QC,Central Canada
+3.0,2.0,1214.0,.099,Residential,699000.0,418 Ch. de la Côte-Ste-Catherine ,QC,Central Canada
+4.0,1.0,,.116,Residential,247000.0,3014 Rue St-Charles ,QC,Central Canada
+2.0,1.0,1107.0,.288,Residential,517000.0,8 Rue McWilliam #110 ,QC,Central Canada
+2.0,2.0,766.0,,Residential,889000.0,1288 Av. des Canadiens-de-Montréal #4704 ,QC,Central Canada
+2.0,1.0,,,Other,139900.0,519 Rue des Merisiers ,QC,Central Canada
+1.0,1.0,580.0,,Residential,349000.0,1455 Rue Sherbrooke O. #407 ,QC,Central Canada
+2.0,1.0,1007.0,.229,Single,160000.0,378 Ch. de Pembroke ,QC,Central Canada
+2.0,1.0,,.264,Residential,1100000.0,2318 Ch. des Sureaux ,QC,Central Canada
+3.0,3.0,1558.0,,Residential,1350000.0,4485 Rue St-Dominique #301 ,QC,Central Canada
+4.0,2.0,,>0.5,Residential,299900.0,170 Rue Notre-Dame ,QC,Central Canada
+3.0,3.0,1798.0,,Residential,495000.0,2110 Ch. François-Hertel ,QC,Central Canada
+3.0,2.0,2200.0,.616,Residential,1400000.0,232 Ch. Bréard ,QC,Central Canada
+3.0,2.0,,.056,Residential,450000.0,1152 Boul. Auger E. ,QC,Central Canada
+3.0,2.0,3720.0,.066,Single,596000.0,587 Ch. Robitaille ,QC,Central Canada
+1.0,1.0,,.689,Residential,210000.0,9 Av. des Sablonnières ,QC,Central Canada
+4.0,2.0,,.663,Residential,1250000.0,460 Ch. de Dunany ,QC,Central Canada
+1.0,,374.0,,Residential,243794.0,1550 Rue des Bassins #600B ,QC,Central Canada
+4.0,1.0,552264.0,.607,Residential,345000.0,1 Rue St-Pierre O. ,QC,Central Canada
+1.0,1.0,,.082,Residential,200900.0,Ch. des Goélettes ,QC,Central Canada
+3.0,3.0,3651.0,.645,Residential,1900000.0,Allée du Rabaska ,QC,Central Canada
+5.0,3.0,318203.0,.121,Residential,256000.0,203 Rue Laurier ,QC,Central Canada
+1.0,1.0,416567.0,.355,Single,69000.0,1731 Ch. de la Culbute ,QC,Central Canada
+1.0,2.0,495.0,,Residential,118000.0,6385 Mtée Ryan #219 ,QC,Central Canada
+2.0,2.0,906.0,,Residential,315000.0,1780 Rue Notre-Dame-de-Fatima #311 ,QC,Central Canada
+1.0,1.0,537.0,,Residential,299000.0,8 Rue McWilliam #107 ,QC,Central Canada
+4.0,2.0,2760.0,.743,Residential,739000.0,110 Ch. des Fraises ,QC,Central Canada
+4.0,6.0,,.506,Residential,2888000.0,39 Ch. de Hombourg ,QC,Central Canada
+3.0,2.0,,.769,Farm,1885000.0,3675 Rg du Cordon ,QC,Central Canada
+2.0,1.0,1104.0,,Residential,395000.0,125 Rue Dalhousie #317 ,QC,Central Canada
+12.0,13.0,9656.0,.454,Single,1400000.0,339 Ch. du Lac-Ste-Marie Marie,QC,Central Canada
+6.0,2.0,,.279,Residential,349000.0,192 Rue Notre-Dame E. ,QC,Central Canada
+7.0,4.0,,.765,Residential,1750000.0,19 Av. des Buses ,QC,Central Canada
+2.0,1.0,810.0,,Residential,506364.0,1550 Rue des Bassins #200A ,QC,Central Canada
+,1.0,418.0,,Residential,149000.0,151 Ch. du Curé-Deslauriers #139 ,QC,Central Canada
+7.0,7.0,9461.0,2.19,Residential,5499000.0,545 Ch. de l'Anse ,QC,Central Canada
+4.0,3.0,2900.0,,Residential,1745000.0,4142 Rue Berri ,QC,Central Canada
+3.0,3.0,,.664,Residential,1785000.0,1039 Rue Hamel ,QC,Central Canada
+3.0,4.0,2738.0,,Residential,1750000.0,134 Av. Arlington ,QC,Central Canada
+2.0,2.0,,0.52,Residential,429000.0,11 Rue de la Plage ,QC,Central Canada
+1.0,2.0,1090.0,,Residential,789000.0,190 Rue Murray #PH12 ,QC,Central Canada
+5.0,2.0,264469.0,,Residential,1888000.0,1713 Rue St-Patrick 401-402,QC,Central Canada
+2.0,1.0,1023.0,,Residential,215000.0,989 Rue de Bar-le-Duc ,QC,Central Canada
+3.0,2.0,1360.0,.032,Residential,265000.0,249 Rue Christophe-Colomb O. ,QC,Central Canada
+4.0,5.0,4418.0,.646,Residential,7500000.0,523 Av. Argyle ,QC,Central Canada
+1.0,1.0,580.0,,Residential,365000.0,1435 Rue St-Jacques #102 ,QC,Central Canada
+2.0,3.0,,.344,Residential,1167000.0,450 Rue Ste-Marie ,QC,Central Canada
+3.0,1.0,234901.0,.179,Residential,628900.0,201-203 Place Christie ,QC,Central Canada
+2.0,2.0,1142.0,.082,Residential,500000.0,1475 Rue Gaston-Véronneau  #419 ,QC,Central Canada
+5.0,2.0,,.505,Residential,89500.0,26 Ch. Taché O. ,QC,Central Canada
+2.0,1.0,711.0,.131,Single,225000.0,507 Route 309 ,QC,Central Canada
+2.0,1.0,80955.0,.115,Residential,199500.0,1326 Rue de Dorval ,QC,Central Canada
+3.0,2.0,,6.91,Residential,1395000.0,1570Z Ch. Cailloux ,QC,Central Canada
+2.0,2.0,1375.0,,Single,782692.0,4700 Rue St-Ambroise| E105,QC,Central Canada
+2.0,1.0,,.137,Residential,135000.0,6 Ch. St-Joseph ,QC,Central Canada
+4.0,1.0,,.745,Residential,65000.0,100 Av. de la Fonderie ,QC,Central Canada
+8.0,2.0,,.141,Residential,139900.0,129 Boul. La Salle ,QC,Central Canada
+2.0,1.0,,.359,Residential,96000.0,2182 Rue Principale ,QC,Central Canada
+3.0,2.0,2200.0,5.88,Residential,2250000.0,51 Ch. Millington ,QC,Central Canada
+6.0,5.0,2700.0,.262,Single,699500.0,69 Rue Brady ,QC,Central Canada
+1.0,1.0,503.0,,Residential,254000.0,43 Ch. Fridolin-Simard #412 ,QC,Central Canada
+4.0,3.0,2000.0,,Residential,1095000.0,1227 Rue Sherbrooke O. #104 ,QC,Central Canada
+4.0,2.0,1183.0,.137,Single,399900.0,51 Rue d'Alsace ,QC,Central Canada
+2.0,2.0,1407.0,,Residential,875000.0,1540 Av. Bernard #29 ,QC,Central Canada
+1.0,1.0,61505.0,.637,Residential,329000.0,281-291 284e Avenue ,QC,Central Canada
+7.0,3.0,,.304,Residential,1299000.0,113 Rue de l'Accueil ,QC,Central Canada
+1.0,1.0,780.0,,Residential,389000.0,39 Ch. Fridolin-Simard #101 ,QC,Central Canada
+3.0,2.0,1420.0,.074,Single,429900.0,54 Rue du Polder ,QC,Central Canada
+4.0,4.0,,,Residential,1335000.0,1677 du Renne ,QC,Central Canada
+6.0,10.0,8500.0,ng>3,Residential,8750000.0,802 Ch. des Skieurs ,QC,Central Canada
+5.0,2.0,1073.0,,Residential,698000.0,8 rue Shana ,QC,Central Canada
+2.0,2.0,1280.0,,Residential,949000.0,791 Rue de la Commune E. #311 ,QC,Central Canada
+3.0,3.0,3651.0,.477,Residential,1900000.0,Allée du Rabaska ,QC,Central Canada
+5.0,3.0,,.349,Residential,1299995.0,956 Rue Lemieux ,QC,Central Canada
+3.0,1.0,,.174,Other,305000.0,1148 Rue Jacques-Bédard ,QC,Central Canada
+5.0,2.0,104679.0,.156,Residential,110000.0,40 Rue des Merisiers ,QC,Central Canada
+3.0,3.0,,3.08,Residential,950000.0,733 Ch. de Gaspé ,QC,Central Canada
+1.0,1.0,46823.0,.004,Residential,279900.0,1450 Rue Parthenais 103,QC,Central Canada
+1.0,1.0,536.0,,Residential,219000.0,140 Ch. au Pied-de-la-Montagne #338 ,QC,Central Canada
+5.0,8.0,6294.0,.307,Residential,4900000.0,166 Ch. au Pied-de-la-Montagne #9 ,QC,Central Canada
+3.0,1.0,,.057,Residential,515000.0,128 Ch. du Lac-Noir ,QC,Central Canada
+3.0,3.0,2115.0,,Residential,1508192.0,1550 Rue des Bassins #800 ,QC,Central Canada
+4.0,5.0,,.432,Residential,2350000.0,1042 Rue Richelieu ,QC,Central Canada
+2.0,2.0,897.0,,Residential,899000.0,1050 Rue Drummond #3107 ,QC,Central Canada
+2.0,2.0,1033.0,,Residential,525000.0,113 Rue Cuttle #321 ,QC,Central Canada
+2.0,2.0,1084.0,.288,Residential,491500.0,8 Rue McWilliam #302 ,QC,Central Canada
+1.0,2.0,780.0,,Residential,260000.0,1210 Ch. de la Baie-du-Milieu #1240-42 ,QC,Central Canada
+5.0,1.0,,,Residential,199000.0,464 Rue Ste-Angèle ,QC,Central Canada
+2.0,1.0,70073.0,.081,Residential,259000.0,5100 Rue De Gaulle ,QC,Central Canada
+2.0,3.0,,.993,Residential,539000.0,780 Mtée Desjardins ,QC,Central Canada
+3.0,1.0,,,Farm,1300000.0,1690B Ch. de l'Aqueduc ,QC,Central Canada
+4.0,2.0,,.191,Residential,259000.0,891 8e Rang O. ,QC,Central Canada
+3.0,2.0,,.129,Residential,279900.0,864 10e Avenue ,QC,Central Canada
+4.0,4.0,3420.0,.629,Residential,1450000.0,Ch. des Boisés ,QC,Central Canada
+2.0,2.0,1107.0,,Residential,499000.0,150 Ch. du Curé-Deslauriers #113 ,QC,Central Canada
+2.0,1.0,113204.0,,Residential,329000.0,Allée de la Sérénité ,QC,Central Canada
+2.0,2.0,2800.0,48.5,Single,699000.0,35 Rue Principale ,QC,Central Canada
+3.0,1.0,1380.0,.111,Single,499000.0,908 Boul. Wilfrid-Lavigne ,QC,Central Canada
+3.0,4.0,3267.0,,Residential,185500.0,138 Ch. des Légendes #E2 ,QC,Central Canada
+8.0,2.0,3200.0,.131,Residential,655000.0,2009 Boul. René-Lévesque O. ,QC,Central Canada
+2.0,1.0,810.0,,Residential,522580.0,1550 Rue des Bassins #500A ,QC,Central Canada
+2.0,1.0,,0.19,Residential,399900.0,20 Rue des Camomilles ,QC,Central Canada
+2.0,1.0,,.353,Residential,239000.0,34 Côte de l'Eau-Vive ,QC,Central Canada
+3.0,3.0,,.128,Residential,695000.0,166 Ch. des Patriotes ,QC,Central Canada
+1.0,1.0,629.0,,Residential,199000.0,151 Ch. du Curé-Deslauriers #037 ,QC,Central Canada
+1.0,1.0,691.0,,Residential,224900.0,195 Rue du Mont-Plaisant #3 ,QC,Central Canada
+3.0,2.0,1342.0,,Residential,1595000.0,175 Av. Metcalfe #PH605 ,QC,Central Canada
+3.0,2.0,179176.0,.038,Residential,799500.0,1416 Ch. des Lacs ,QC,Central Canada
+2.0,2.0,923.0,,Residential,575000.0,441 Av. du Président-Kennedy 1400,QC,Central Canada
+1.0,1.0,341.0,,Residential,324156.0,1471 Boul. René-Lévesque O. #1009 ,QC,Central Canada
+4.0,2.0,111998.0,.635,Residential,229000.0,370 Boul. des Ruisseaux ,QC,Central Canada
+3.0,2.0,1500.0,,Residential,758510.0,5690 Rue Boyer #3 ,QC,Central Canada
+3.0,1.0,,.258,Other,159900.0,2002 Ch. des Habitations-des-Monts ,QC,Central Canada
+2.0,1.0,,.071,Residential,332900.0,Ch. du Fief ,QC,Central Canada
+3.0,2.0,114054.0,.934,Residential,359000.0,18 Rue du Lac-de-l'Ami ,QC,Central Canada
+2.0,2.0,,>1.5,Residential,385000.0,Ch. du Village ,QC,Central Canada
+5.0,2.0,,.096,Residential,1549000.0,638 Av. Kindersley ,QC,Central Canada
+3.0,1.0,,0.12,Residential,89900.0,42 7e Avenue ,QC,Central Canada
+,1.0,540.0,,Residential,175000.0,150 Ch. du Curé-Deslauriers #306 ,QC,Central Canada
+1.0,1.0,659.0,.013,Residential,240000.0,905 Rue des Prairies #202 ,QC,Central Canada
+4.0,3.0,1462.0,,Residential,674000.0,1924 Rue Le Ber #5 ,QC,Central Canada
+4.0,5.0,2347.0,,Residential,2729000.0,1225 Boul. Robert-Bourassa #2803 ,QC,Central Canada
+2.0,1.0,,.845,Residential,200000.0,3720 Rg Fontarabie ,QC,Central Canada
+4.0,2.0,1284.0,.783,Single,589900.0,27 Ch. du Lac-de-l'Écluse ,QC,Central Canada
+3.0,1.0,,.349,Residential,410000.0,582 Rue Aimé ,QC,Central Canada
+2.0,1.0,,.091,Other,109000.0,40 Rue Morel ,QC,Central Canada
+4.0,2.0,2201.0,,Residential,1100000.0,3940 Ch. de la Côte-des-Neiges #B12 ,QC,Central Canada
+2.0,2.0,887.0,,Residential,449000.0,170 Ch. du Curé-Deslauriers #314 ,QC,Central Canada
+7.0,3.0,3000.0,.669,Single,1495000.0,689 Ch. du Lac-Meech ,QC,Central Canada
+5.0,4.0,,.139,Residential,3150000.0,3302 Av. Cedar ,QC,Central Canada
+4.0,2.0,96229.0,.149,Residential,143000.0,103 Rue des Épinettes ,QC,Central Canada
+5.0,1.0,,.184,Residential,130000.0,662 Av. de la Vallée ,QC,Central Canada
+3.0,1.0,,,Residential,388900.0,Rue des Lys ,QC,Central Canada
+4.0,2.0,2906.0,.651,Residential,550000.0,75 Rue Tracy ,QC,Central Canada
+1.0,1.0,,.348,Residential,258000.0,1037 Ch. du Tour-du-Lac ,QC,Central Canada
+2.0,2.0,902.0,,Residential,560000.0,3622 Rue Aylmer ,QC,Central Canada
+3.0,1.0,2650.0,.053,Single,749900.0,5 Rue du Tamarac ,QC,Central Canada
+2.0,3.0,1565.0,,Residential,1025000.0,32 Rue Ste-Angèle ,QC,Central Canada
+1.0,2.0,1440.0,,Residential,1399000.0,2500 Av. Pierre-Dupuy #302 ,QC,Central Canada
+1.0,1.0,,.605,Residential,479000.0,3152 Ch. du Tour-du-Lac-Tibériade ,QC,Central Canada
+8.0,7.0,,.397,Residential,3750000.0,154 Rue Montevista ,QC,Central Canada
+4.0,2.0,2016.0,.618,Residential,989000.0,1183 Ch. de Vendée ,QC,Central Canada
+3.0,3.0,2741.0,,Residential,1100000.0,45 Rue des Remparts #2 ,QC,Central Canada
+1.0,1.0,834.0,,Residential,548000.0,650 Rue Notre-Dame O. 402,QC,Central Canada
+3.0,1.0,1140.0,.138,Single,369900.0,40 Rue de Poitiers ,QC,Central Canada
+7.0,4.0,,0.99,Residential,1650000.0,1703-1705 Rue Marie-Louise-Vallée ,QC,Central Canada
+3.0,2.0,,.482,Residential,1650000.0,100 Île Tellier ,QC,Central Canada
+2.0,1.0,1278.0,.479,Residential,135000.0,3115 Rue Principale ,QC,Central Canada
+3.0,2.0,1655.0,,Residential,1325000.0,100 Rue du Séminaire 119,QC,Central Canada
+3.0,2.0,,.198,Residential,698000.0,15 Place de Gerardmer ,QC,Central Canada
+4.0,4.0,3200.0,.148,Residential,1390000.0,125 Ch. des Eaux-Vives ,QC,Central Canada
+5.0,2.0,2432.0,.288,Residential,249000.0,156-160 Rue St-Christophe ,QC,Central Canada
+2.0,2.0,1219.0,,Residential,1100000.0,789 Av. Querbes #603 ,QC,Central Canada
+3.0,2.0,,.272,Residential,299000.0,93 Ch. de Brébeuf ,QC,Central Canada
+8.0,4.0,,.742,Residential,1400000.0,1710-1712 Rue Marie-Louise-Vallée ,QC,Central Canada
+3.0,3.0,2185.0,,Residential,1440000.0,8 Rue McWilliam #403 ,QC,Central Canada
+3.0,2.0,152116.0,.538,Residential,485000.0,138 Rg du Ruisseau-des-Frênes ,QC,Central Canada
+4.0,2.0,9486.0,,Residential,519000.0,"325, Rue des Sources ",QC,Central Canada
+4.0,3.0,,.213,Residential,1399000.0,113 Ch. des Roseaux ,QC,Central Canada
+3.0,2.0,,6.91,Farm,1395000.0,1570 Ch. Cailloux ,QC,Central Canada
+5.0,4.0,,.436,Residential,329000.0,273 Rue St-Jacques ,QC,Central Canada
+3.0,1.0,1078.0,.111,Single,80000.0,9 Rue James ,QC,Central Canada
+2.0,2.0,1347.0,,Residential,969900.0,1550 Rue des Bassins #814 ,QC,Central Canada
+2.0,2.0,1248.0,,Residential,459000.0,2050 Boul. René-Lévesque O. #601 ,QC,Central Canada
+4.0,3.0,3490.0,.048,Residential,2499000.0,8590 Boul. LaSalle ,QC,Central Canada
+2.0,1.0,25575.0,0.23,Other,93000.0,155 Rue des Forges ,QC,Central Canada
+2.0,1.0,1060.0,,Residential,472538.0,8 Rue McWilliam #201 ,QC,Central Canada
+1.0,1.0,570.0,,Residential,219000.0,151 Ch. du Curé-Deslauriers #227 ,QC,Central Canada
+4.0,2.0,,.345,Residential,1199000.0,2601 Ch. des Faucons ,QC,Central Canada
+6.0,4.0,,.477,Residential,780000.0,101-101A Rue Auclair ,QC,Central Canada
+3.0,2.0,,.623,Residential,1299900.0,342 Ch. du Richelieu ,QC,Central Canada
+3.0,3.0,1945.0,,Residential,3298000.0,2301 Rue St-Patrick #B609 ,QC,Central Canada
+2.0,2.0,1202.0,,Residential,799000.0,1510 Ch. du Versant-Soleil #4 ,QC,Central Canada
+,2.0,2873.0,.768,Residential,1800000.0,3165Z Route des Tulipes ,QC,Central Canada
+3.0,1.0,1980.0,.412,Single,179000.0,2 Rue des Épinettes ,QC,Central Canada
+9.0,8.0,7000.0,.964,Residential,4799000.0,39 Ch. de Normandie ,QC,Central Canada
+2.0,2.0,862.0,,Residential,540000.0,789 Av. Querbes #305 ,QC,Central Canada
+3.0,2.0,2095.0,.137,Residential,850000.0,2201 Ch. St-Louis #504 ,QC,Central Canada
+4.0,3.0,2266.0,,Residential,2195000.0,90 Rue Prince #PH904 ,QC,Central Canada
+1.0,1.0,3229.0,.055,Residential,1100000.0,1901 Rue du Centre ,QC,Central Canada
+3.0,2.0,1389.0,,Residential,825000.0,209 Ch. des Quatre-Sommets #8 ,QC,Central Canada
+4.0,3.0,3850.0,.691,Residential,879400.0,148-150 Ch. de l'Entre-Nous ,QC,Central Canada
+2.0,1.0,815.0,,Residential,369000.0,2201 Rue Lespérance #101 ,QC,Central Canada
+3.0,4.0,5567.0,,Residential,2500000.0,2380 Av. Pierre-Dupuy #PH-2 ,QC,Central Canada
+1.0,1.0,383.0,,Residential,124900.0,161 Ch. du Curé-Deslauriers #370 ,QC,Central Canada
+7.0,5.0,3425.0,.124,Residential,2650000.0,15 Av. de Vimy ,QC,Central Canada
+3.0,2.0,1982.0,,Residential,1925000.0,370 Rue St-André #1201 ,QC,Central Canada
+1.0,1.0,664.0,,Residential,379000.0,1085 Rue Smith #1204 ,QC,Central Canada
+3.0,3.0,1710.0,,Residential,799900.0,260-4e Rue ,QC,Central Canada
+3.0,2.0,,.615,Residential,389000.0,106 Ch. des Pointes ,QC,Central Canada
+3.0,1.0,,.926,Residential,299900.0,10190 Rue Labelle ,QC,Central Canada
+4.0,1.0,,.812,Residential,1795000.0,294 Ch. Doyon ,QC,Central Canada
+6.0,3.0,4101.0,.145,Residential,3250000.0,220 Ch. de la Côte-Ste-Catherine ,QC,Central Canada
+3.0,2.0,1408.0,.052,Residential,414900.0,22 Ch. du Mont-Blanc ,QC,Central Canada
+5.0,5.0,,.585,Residential,3550000.0,790 Ch. de la Montagne ,QC,Central Canada
+2.0,3.0,2410.0,,Residential,2950000.0,3446 Av. du Musée #3 ,QC,Central Canada
+,1.0,483.0,,Residential,147000.0,151 Ch. du Curé-Deslauriers #242 ,QC,Central Canada
+1.0,1.0,625.0,,Residential,479000.0,495 Av. Viger O. #2204 ,QC,Central Canada
+2.0,2.0,,.743,Residential,899000.0,405 Mtée Morel ,QC,Central Canada
+3.0,1.0,,.659,Residential,499000.0,169 202e Avenue ,QC,Central Canada
+2.0,2.0,1060.0,,Residential,989000.0,101 Rue de la Rotonde #105 ,QC,Central Canada
+2.0,2.0,1274.0,,Residential,439000.0,2050 Boul. René-Lévesque O. #510 ,QC,Central Canada
+4.0,5.0,,,Residential,2699900.0,2975 Rue Camus ,QC,Central Canada
+3.0,2.0,,.163,Residential,630000.0,Rue Baillargeon ,QC,Central Canada
+1.0,1.0,1075.0,,Residential,945000.0,1455 Rue Sherbrooke O. #2205 ,QC,Central Canada
+3.0,2.0,,.436,Residential,999000.0,883 Rue Nadar ,QC,Central Canada
+3.0,1.0,,.145,Residential,99700.0,192-194 Rue Deschênes O. ,QC,Central Canada
+1.0,1.0,,.125,Residential,68900.0,4 Rue Millier ,QC,Central Canada
+3.0,2.0,,.151,Residential,159900.0,11 Av. du Père-Garnier ,QC,Central Canada
+1.0,1.0,754.0,,Residential,499000.0,137 Rue St-Pierre #111 ,QC,Central Canada
+1.0,2.0,499.0,,Residential,115000.0,6385 Mtée Ryan #107 ,QC,Central Canada
+3.0,1.0,,.636,Residential,299000.0,1536 Route D'Argentenay ,QC,Central Canada
+3.0,2.0,1622.0,,Residential,880000.0,2192 Ch. du Lac-Supérieur #2306 ,QC,Central Canada
+2.0,2.0,,.202,Residential,184500.0,36 Rue Fournier ,QC,Central Canada
+3.0,4.0,4574.0,,Residential,6950000.0,1485 Rue Sherbrooke O. #8A ,QC,Central Canada
+3.0,4.0,3949.0,.213,Residential,1175000.0,105 Rue François-Aubert ,QC,Central Canada
+4.0,4.0,3058.0,,Residential,3398000.0,242 Rue Young #PH1901 ,QC,Central Canada
+3.0,2.0,2077.0,,Residential,849000.0,3940 Ch. de la Côte-des-Neiges #A11 ,QC,Central Canada
+2.0,1.0,,.192,Residential,300900.0,Ch. de la Cécilia-L ,QC,Central Canada
+2.0,2.0,951.0,,Residential,595000.0,111 Ch. de la Pointe-Nord #416 ,QC,Central Canada
+3.0,1.0,998.0,,Single,170000.0,8 2e Rue ,QC,Central Canada
+5.0,2.0,,.186,Residential,295900.0,1600 Rue Léger ,QC,Central Canada
+1.0,1.0,,.169,Residential,259000.0,22 Rue de la Chevauchée ,QC,Central Canada
+3.0,3.0,3121.0,.917,Residential,699000.0,2110 Ch. du Lac-Quenouille #25 ,QC,Central Canada
+5.0,4.0,2150.0,,Residential,745000.0,145 Ch. de l'Érablière ,QC,Central Canada
+2.0,2.0,1032.0,,Residential,850000.0,2727 Rue St-Patrick #212 ,QC,Central Canada
+,1.0,308.0,,Residential,129000.0,160 Ch. du Curé-Deslauriers #420 ,QC,Central Canada
+4.0,2.0,1850.0,,Residential,425000.0,195 Rue du Mont-Plaisant #2 ,QC,Central Canada
+1.0,,,,Residential,220000.0,39 Fridolin Simard ,QC,Central Canada
+2.0,1.0,99997.0,.133,Residential,179000.0,1328 Rue Tugault ,QC,Central Canada
+4.0,1.0,,.117,Residential,259000.0,3320 Route Marie-Victorin ,QC,Central Canada
+2.0,1.0,,.204,Residential,275000.0,4 Rue des Flambeaux ,QC,Central Canada
+2.0,2.0,887.0,,Residential,459000.0,170 Ch. du Curé-Deslauriers #337 ,QC,Central Canada
+3.0,2.0,1200.0,.194,Single,299900.0,34 Rue Principale ,QC,Central Canada
+2.0,1.0,,.045,Residential,149000.0,6 Rue des Tilleuls ,QC,Central Canada
+2.0,2.0,1162.0,,Residential,875000.0,441 Av. du Président-Kennedy #1802 ,QC,Central Canada
+2.0,2.0,1531.0,,Residential,495000.0,2108 Ch. François-Hertel ,QC,Central Canada
+5.0,4.0,2943.0,.285,Residential,1835400.0,Ch. des Quatre-Sommets ,QC,Central Canada
+2.0,1.0,,0.17,Residential,135500.0,321 Ch. des Sables ,QC,Central Canada
+3.0,1.0,,.604,Residential,332900.0,Ch. de la Cécilia-L ,QC,Central Canada
+4.0,3.0,3046.0,0.23,Residential,1645000.0,2069 Rue Brulart ,QC,Central Canada
+1.0,1.0,637.0,,Residential,424800.0,1830 Rue Panet #412 ,QC,Central Canada
+2.0,2.0,1157.0,.288,Residential,518500.0,8 Rue McWilliam #205 ,QC,Central Canada
+5.0,3.0,,.216,Residential,1349000.0,9110 Boul. Gouin E. ,QC,Central Canada
+3.0,2.0,,.108,Residential,79900.0,7 Rue Boulay ,QC,Central Canada
+3.0,1.0,,.963,Residential,4300000.0,158B Rg St-Ours ,QC,Central Canada
+3.0,2.0,,0.42,Residential,879000.0,80 Rue Lippé #A ,QC,Central Canada
+2.0,3.0,1172.0,.244,Residential,575000.0,155 Ch. du Lac-Clair ,QC,Central Canada
+3.0,3.0,1776.0,,Residential,469000.0,2112 Ch. François-Hertel ,QC,Central Canada
+2.0,2.0,1316.0,,Residential,479000.0,11840 Rue d'Amboise  #104 ,QC,Central Canada
+9.0,4.0,,.935,Residential,245000.0,72 Rue Principale ,QC,Central Canada
+2.0,1.0,,.045,Residential,274900.0,Ch. de la Marie-Renée ,QC,Central Canada
+3.0,1.0,,.003,Residential,375000.0,102 Ch. Fleurant ,QC,Central Canada
+3.0,4.0,,.246,Residential,780000.0,1185 Av. De Salaberry ,QC,Central Canada
+4.0,4.0,,.066,Residential,1128000.0,5780 Crois. Ilan Ramon ,QC,Central Canada
+1.0,1.0,473.0,,Residential,219000.0,150 Ch. du Curé-Deslauriers #404 ,QC,Central Canada
+3.0,2.0,1605.0,,Residential,1625000.0,3 Rue Westmount-Square #416 ,QC,Central Canada
+6.0,3.0,,.316,Residential,999500.0,317 Rue Chantal ,QC,Central Canada
+2.0,2.0,1467.0,,Residential,689000.0,4450 Prom. Paton #709 ,QC,Central Canada
+2.0,2.0,1426.0,,Residential,1325000.0,1455 Rue Sherbrooke O. #1907 ,QC,Central Canada
+1.0,1.0,609.0,,Residential,359900.0,5259 Rue De Brébeuf ,QC,Central Canada
+3.0,4.0,4405.0,.404,Residential,2195000.0,1621 Rue des Roses ,QC,Central Canada
+4.0,1.0,,.588,Residential,475000.0,3 Ch. du Lièvre ,QC,Central Canada
+3.0,1.0,,,Other,174500.0,1653 Boul. des Hauteurs ,QC,Central Canada
+2.0,2.0,1981.0,,Residential,1195000.0,200 Av. Lansdowne #903 ,QC,Central Canada
+2.0,3.0,,.186,Residential,481900.0,Ch. du Fief ,QC,Central Canada
+1.0,1.0,,.052,Residential,2950000.0,209 Ch. de Granby ,QC,Central Canada
+4.0,2.0,,.407,Residential,249000.0,22 Rue Joseph-Blanchet ,QC,Central Canada
+2.0,1.0,100804.0,.181,Residential,275000.0,333 15e Avenue E. ,QC,Central Canada
+3.0,2.0,1513.0,.659,Single,325000.0,180 Ch. Airport ,QC,Central Canada
+3.0,4.0,2218.0,,Residential,2800000.0,242 Rue Young #1702 ,QC,Central Canada
+7.0,5.0,,.238,Residential,1695000.0,166 Rue du St-Laurent ,QC,Central Canada
+1.0,1.0,1049.0,.994,Single,250000.0,34 Rue de Chichester ,QC,Central Canada
+2.0,1.0,1046.0,>2.2,Single,399900.0,743 Ch. de la Chute ,QC,Central Canada
+2.0,2.0,2068.0,,Residential,1495000.0,285 Av. Clarke #102 ,QC,Central Canada
+3.0,5.0,3450.0,.902,Residential,1750000.0,43 Rue St-Gilbert ,QC,Central Canada
+3.0,3.0,,.906,Residential,1299000.0,1040 Av. du Parc ,QC,Central Canada
+3.0,1.0,1380.0,.045,Single,399900.0,25 Rue du Lynx ,QC,Central Canada
+4.0,2.0,,.486,Residential,169500.0,1 Route 132 E. ,QC,Central Canada
+4.0,1.0,,.169,Residential,185000.0,61 Av. Ross ,QC,Central Canada
+3.0,2.0,,.086,Residential,199000.0,32 Ch. McGee ,QC,Central Canada
+3.0,2.0,1533.0,,Residential,1195000.0,199 Rue de la Rotonde #2508 ,QC,Central Canada
+3.0,3.0,1376.0,,Residential,898000.0,1730 Rue St-Patrick #808 ,QC,Central Canada
+2.0,1.0,1075.0,.717,Residential,475000.0,937 Av. Roland-Beaudin #939 ,QC,Central Canada
+4.0,2.0,,.178,Residential,499800.0,122 Place Mercure ,QC,Central Canada
+3.0,3.0,1650.0,,Residential,1249000.0,119 Ch. des Sous-Bois #104 ,QC,Central Canada
+3.0,1.0,1210.0,,Residential,498000.0,2505 Av. Van Horne #19 ,QC,Central Canada
+3.0,3.0,1908.0,.484,Residential,919000.0,4710 Rue St-Laurent ,QC,Central Canada
+2.0,1.0,810.0,,Residential,527229.0,1550 Rue des Bassins #600A ,QC,Central Canada
+4.0,4.0,,.268,Residential,1348000.0,1613 Rue Michel-Levasseur ,QC,Central Canada
+2.0,2.0,1037.0,.288,Residential,463500.0,8 Rue McWilliam #104 ,QC,Central Canada
+3.0,1.0,145636.0,.071,Single,439900.0,50 Rue Idola-St-Jean ,QC,Central Canada
+2.0,2.0,950.0,,Residential,615000.0,789 Av. Querbes #204 ,QC,Central Canada
+4.0,4.0,2450.0,0.31,Residential,1585500.0,Ch. des Quatre-Sommets ,QC,Central Canada
+2.0,2.0,1125.0,,Residential,701705.0,1550 Rue des Bassins #807 ,QC,Central Canada
+3.0,2.0,1943.0,,Residential,1249000.0,1250 Av. des Pins O. #960 ,QC,Central Canada
+1.0,1.0,,.186,Residential,222500.0,516 Rue Bellevue ,QC,Central Canada
+3.0,3.0,2283.0,0.06,Residential,1255925.0,6754 Rue des Écores ,QC,Central Canada
+3.0,1.0,,.172,Residential,130000.0,450 Mtée Casino ,QC,Central Canada
+3.0,2.0,24304.0,.531,Single,439900.0,237 Ch. du Lac-à-Larche ,QC,Central Canada
+,1.0,427.0,,Residential,189000.0,3035 Ch. de la Chapelle #210 ,QC,Central Canada
+3.0,2.0,98059.0,.603,Residential,749500.0,1377 Rue Principale E. ,QC,Central Canada
+4.0,4.0,2649.0,,Residential,1949000.0,121 Rue Cuttle #P71-P72 ,QC,Central Canada
+3.0,2.0,,0.09,Residential,229900.0,16 Rue des Goélettes ,QC,Central Canada
+2.0,3.0,2376.0,,Residential,2675000.0,4175 Rue Ste-Catherine O. #803 ,QC,Central Canada
+2.0,1.0,,.369,Residential,115000.0,130 Rue Riviera ,QC,Central Canada
+1.0,1.0,,.116,Residential,109000.0,1061 Rue du Patrimoine ,QC,Central Canada
+3.0,1.0,,0.43,Residential,199900.0,886 8e-et-9e-Rangs N. ,QC,Central Canada
+2.0,2.0,1729.0,,Residential,1049000.0,137 Rue St-Pierre #201 ,QC,Central Canada
+3.0,1.0,768.0,.027,Single,317500.0,2 Ch. Caron ,QC,Central Canada
+5.0,2.0,99997.0,.149,Residential,149000.0,62 Rue des Épinettes ,QC,Central Canada
+5.0,3.0,,,Residential,85000.0,5 Rue St-Pierre ,QC,Central Canada
+3.0,2.0,,.195,Residential,345000.0,28 Av. des Ormes ,QC,Central Canada
+3.0,1.0,,.303,Residential,374900.0,195 Ch. des Patriotes E. ,QC,Central Canada
+2.0,2.0,1325.0,,Residential,940890.0,1550 Rue des Bassins #816 ,QC,Central Canada
+2.0,2.0,1458.0,,Residential,999000.0,121 Rue Cuttle #656 ,QC,Central Canada
+3.0,2.0,,.119,Residential,429900.0,264 Rue Albert ,QC,Central Canada
+1.0,1.0,782.0,,Residential,449000.0,2004 Boul. St-Laurent 214,QC,Central Canada
+3.0,4.0,9348.0,3.11,Residential,3995000.0,2921 Ch. de Ste-Catherine ,QC,Central Canada
+5.0,4.0,2583.0,.132,Residential,2100000.0,5904 Av. Brandeis ,QC,Central Canada
+3.0,2.0,1618.0,,Residential,649000.0,1700 Av. du Docteur-Penfield #24 ,QC,Central Canada
+3.0,2.0,1695.0,,Residential,1450000.0,789 Av. Querbes #602 ,QC,Central Canada
+3.0,1.0,1623.0,.203,Single,224900.0,25 Rue Comeau ,QC,Central Canada
+4.0,4.0,,.201,Residential,1379000.0,12425 70e Avenue ,QC,Central Canada
+4.0,4.0,,.265,Residential,959000.0,417 Mtée Lesage ,QC,Central Canada
+4.0,2.0,,.206,Residential,319000.0,1052 1re Allée ,QC,Central Canada
+5.0,2.0,,,Residential,800000.0,1264 Rue du Centenaire ,QC,Central Canada
+8.0,13.0,16794.0,.248,Residential,21999066.0,905 Ch. des Skieurs ,QC,Central Canada
+,,,.792,Residential,64000.0,423 Route 307 ,QC,Central Canada
+2.0,2.0,1559.0,,Residential,1250000.0,1200 Boul. De Maisonneuve O. #21A ,QC,Central Canada
+2.0,1.0,5811.0,.274,Single,139900.0,18 Ch. Monette ,QC,Central Canada
+3.0,2.0,,.328,Residential,299000.0,Ch. du Village ,QC,Central Canada
+3.0,2.0,3166.0,.323,Residential,1100000.0,156 Av. St-Denis ,QC,Central Canada
+,1.0,422.0,,Residential,179000.0,150 Ch. du Curé-Deslauriers #407 ,QC,Central Canada
+3.0,1.0,144818.0,.148,Residential,449000.0,798 Prom. du Lac ,QC,Central Canada
+2.0,2.0,1327.0,,Residential,635000.0,10548 Rue St-Urbain ,QC,Central Canada
+4.0,2.0,1068.0,.173,Residential,319000.0,1005 Rue O'Keefe ,QC,Central Canada
+3.0,2.0,1210.0,.099,Residential,699000.0,420 Ch. de la Côte-Ste-Catherine ,QC,Central Canada
+6.0,5.0,1320086.0,,Residential,3798000.0,285 Avenue Edison ,QC,Central Canada
+1.0,1.0,526.0,,Residential,245000.0,760 Av. Honoré-Mercier #207 ,QC,Central Canada
+5.0,2.0,48965.0,.602,Residential,599500.0,210 Rue de la Lisonne ,QC,Central Canada
+4.0,2.0,2000.0,.034,Residential,460000.0,252 Ch. du Prospecteur ,QC,Central Canada
+3.0,1.0,,.193,Residential,174900.0,1950 Rue Price ,QC,Central Canada
+2.0,1.0,,.526,Residential,79500.0,320 Route 232 ,QC,Central Canada
+3.0,2.0,,.311,Residential,325000.0,433 Rue Ratelle ,QC,Central Canada
+4.0,3.0,2574.0,.057,Residential,725000.0,184 Grande Allée O. ,QC,Central Canada
+3.0,3.0,,47.6,Residential,1999000.0,117-117Z Ch. des Érables ,QC,Central Canada
+4.0,5.0,,.399,Residential,5250000.0,12460 Rue Jasmin ,QC,Central Canada
+5.0,3.0,,.742,Residential,649000.0,1026 Rue Gérard-Cloutier ,QC,Central Canada
+3.0,3.0,1798.0,,Residential,495000.0,2114 Ch. François-Hertel ,QC,Central Canada
+3.0,2.0,1408.0,.033,Residential,399900.0,24 Ch. du Mont-Blanc ,QC,Central Canada
+6.0,3.0,,,Residential,1889000.0,3565 PIERRE DAVIAULT ,QC,Central Canada
+5.0,4.0,2600.0,,Residential,1337200.0,5697 Rue St-André ,QC,Central Canada
+3.0,2.0,1680.0,,Residential,849000.0,1227 Rue Sherbrooke O. #43 ,QC,Central Canada
+3.0,3.0,2217.0,,Residential,899000.0,1477 Rue Viel ,QC,Central Canada
+2.0,2.0,1676.0,.288,Residential,1135000.0,8 Rue McWilliam #501 ,QC,Central Canada
+2.0,2.0,1582.0,.288,Residential,985000.0,8 Rue McWilliam #405 ,QC,Central Canada
+,1.0,410.0,,Residential,171000.0,140 Ch. au Pied-de-la-Montagne #518 ,QC,Central Canada
+4.0,3.0,,0.27,Residential,1149000.0,7 Rue du Mistral ,QC,Central Canada
+1.0,1.0,530.0,,Residential,531000.0,3045 Ch. de la Chapelle #518 ,QC,Central Canada
+3.0,2.0,2543.0,.406,Residential,799000.0,1433 Rue Dufour ,QC,Central Canada
+4.0,5.0,5854.0,.706,Residential,3950000.0,262 Ch. Wheeler ,QC,Central Canada
+4.0,3.0,,7.17,Residential,799995.0,508 Rg Charlebois ,QC,Central Canada
+5.0,4.0,2334.0,0.12,Residential,2595000.0,399 Rue de la Prunelle ,QC,Central Canada
+1.0,2.0,,,Residential,349000.0,Av. Fournelle ,QC,Central Canada
+3.0,1.0,127768.0,,Residential,749000.0,965 Av. Pratt ,QC,Central Canada
+3.0,4.0,2095.0,.319,Residential,795000.0,1971 Ch. du Village ,QC,Central Canada
+3.0,1.0,1241.0,.096,Single,369000.0,119 Rue des Palominos ,QC,Central Canada
+4.0,2.0,1530.0,,Residential,421000.0,581 Rue de la Colline ,QC,Central Canada
+3.0,2.0,1408.0,.066,Residential,414900.0,26 Ch. du Village-Mont-Blanc ,QC,Central Canada
+3.0,2.0,,.059,Residential,1500000.0,119 Ch. du Lac-Travers ,QC,Central Canada
+3.0,1.0,,.243,Residential,309900.0,130 Rue Amireault ,QC,Central Canada
+5.0,2.0,,.379,Other,599000.0,6 Rue Lefort ,QC,Central Canada
+3.0,3.0,2571.0,0.06,Residential,1349775.0,6752 Rue des Écores ,QC,Central Canada
+2.0,2.0,1156.0,.386,Residential,630000.0,56 Ch. du Lac-Clair ,QC,Central Canada
+4.0,2.0,2184.0,.413,Residential,340000.0,100 Ch. Prévost ,QC,Central Canada
+3.0,2.0,,,Residential,699000.0,99 Chemin Cross ,QC,Central Canada
+5.0,5.0,3211.0,.175,Residential,2995000.0,3900 Av. De Ramezay ,QC,Central Canada
+1.0,1.0,,0.08,Other,59900.0,3491 Rue Albanel ,QC,Central Canada
+2.0,1.0,805.0,,Residential,599000.0,1740 Rue St-Patrick #1107 ,QC,Central Canada
+3.0,1.0,1380.0,.082,Single,449900.0,255 Rue de l'Ours-Noir ,QC,Central Canada
+3.0,1.0,179757.0,.641,Residential,580000.0,1791AZ Ch. des Patriotes ,QC,Central Canada
+5.0,1.0,,.332,Residential,298000.0,1849 Rue de Matane-sur-Mer ,QC,Central Canada
+4.0,3.0,,.773,Residential,795000.0,13 Ch. des Couleurs ,QC,Central Canada
+2.0,2.0,1593.0,,Residential,1175000.0,4210 Boul. De Maisonneuve O. #2 ,QC,Central Canada
+4.0,1.0,136002.0,.211,Residential,175000.0,40 Rue Principale S. ,QC,Central Canada
+3.0,2.0,1163.0,,Residential,745000.0,10850 Rue Basile-Routhier #501 ,QC,Central Canada
+5.0,3.0,,.393,Residential,1350000.0,492 Ch. de la Station ,QC,Central Canada
+3.0,3.0,2801.0,,Residential,4000000.0,1155 Rue de la Montagne #3401A ,QC,Central Canada
+3.0,2.0,1850.0,,Residential,1350000.0,95 Ch. de Kandahar #15 ,QC,Central Canada
+4.0,2.0,,.039,Residential,1495000.0,29 Prospect Street ,QC,Central Canada
+3.0,2.0,1413.0,,Residential,679000.0,3445 Rue Drummond #1106 ,QC,Central Canada
+3.0,2.0,129597.0,,Residential,625000.0,39 Ch. des Cerisiers ,QC,Central Canada
+3.0,2.0,1897.0,0.21,Residential,359900.0,1260 Rue Olympia ,QC,Central Canada
+1.0,1.0,841.0,.288,Residential,388500.0,8 Rue McWilliam #103 ,QC,Central Canada
+3.0,1.0,2317489.0,.034,Single,149900.0,4 Ch. du Lodge N. ,QC,Central Canada
+3.0,1.0,787918.0,.987,Residential,669000.0,635 Rg du Haut-de-la-Rivière ,QC,Central Canada
+3.0,1.0,,.041,Residential,369000.0,972-974 Rue Ste-Ursule ,QC,Central Canada
+3.0,1.0,,.619,Farm,2499000.0,75 Rue Roy ,QC,Central Canada
+1.0,1.0,,.344,Other,119900.0,62 Rue des Trois-Lacs ,QC,Central Canada
+2.0,2.0,791.0,,Residential,698000.0,2615 Rue Augustin-Cantin #A204 ,QC,Central Canada
+8.0,2.0,,.243,Residential,275000.0,1731 Boul. Benoît-Gaboury ,QC,Central Canada
+2.0,2.0,,ng>1,Residential,359000.0,Ch. du Village ,QC,Central Canada
+3.0,2.0,,.098,Residential,759000.0,3 Ch. de la Rose-Hélène ,QC,Central Canada
+1.0,1.0,530.0,,Residential,515000.0,3045 Ch. de la Chapelle #118 ,QC,Central Canada
+2.0,2.0,962.0,,Residential,339900.0,160 Ch. du Curé-Deslauriers #338-438 ,QC,Central Canada
+5.0,7.0,,.626,Residential,2475000.0,31 Ch. de Hombourg ,QC,Central Canada
+2.0,2.0,1480.0,.292,Residential,859000.0,87 Ch. de la Trinité ,QC,Central Canada
+3.0,2.0,694278.0,.423,Single,249900.0,29 Rue Landry ,QC,Central Canada
+1.0,1.0,555.0,,Residential,184000.0,151 Ch. du Curé-Deslauriers #263 ,QC,Central Canada
+1.0,1.0,472.0,,Residential,343689.0,1471 Boul. René-Lévesque O. #1008 ,QC,Central Canada
+5.0,5.0,3633.0,2.12,Residential,2559000.0,113 Ch. des Légendes ,QC,Central Canada
+1.0,1.0,548.0,,Residential,429000.0,1414 Rue Chomedey #228 ,QC,Central Canada
+1.0,1.0,,.116,Residential,229740.0,10 Rue Brindle ,QC,Central Canada
+5.0,5.0,7984.0,.554,Residential,3699000.0,1181 Rue José ,QC,Central Canada
+3.0,2.0,1687.0,,Residential,995000.0,6100 Ch. Deacon #4K ,QC,Central Canada
+1.0,1.0,,,Residential,270000.0,101 Rue Peel #608 ,QC,Central Canada
+1.0,1.0,,,Residential,249000.0,15 Rue Lebel ,QC,Central Canada
+3.0,1.0,179757.0,.641,Farm,580000.0,1791A Ch. des Patriotes ,QC,Central Canada
+3.0,1.0,,.253,Residential,129900.0,462 Rg des Érables ,QC,Central Canada
+5.0,3.0,,.349,Residential,969000.0,53 Av. du Vicomte ,QC,Central Canada
+1.0,1.0,641.0,,Residential,359000.0,760 Av. Honoré-Mercier #410 ,QC,Central Canada
+3.0,2.0,6138.0,,Residential,849000.0,4551 parc de lotbinière ,QC,Central Canada
+3.0,1.0,,.122,Residential,495000.0,410Z-414Z Rue Lacasse ,QC,Central Canada
+2.0,1.0,,.045,Residential,264000.0,720 Rue Valois 3,QC,Central Canada
+4.0,3.0,,.729,Residential,749000.0,726 Ch. des Montfortains ,QC,Central Canada
+3.0,1.0,136163.0,,Residential,579000.0,2136 Rue Tupper ,QC,Central Canada
+1.0,1.0,456.0,,Residential,174000.0,161 Ch. du Curé-Deslauriers #491 ,QC,Central Canada
+3.0,2.0,161459.0,.115,Residential,359000.0,21 Rue Adélard ,QC,Central Canada
+3.0,1.0,,0.21,Residential,149000.0,140 Rue Pigeon ,QC,Central Canada
+12.0,3.0,6453.0,.931,Single,625000.0,442 Rue Notre-Dame ,QC,Central Canada
+3.0,3.0,,,Residential,698000.0,4413 rue Dupuis ,QC,Central Canada
+2.0,1.0,,.264,Residential,625000.0,17-19 Av. Léonie ,QC,Central Canada
+1.0,1.0,519.0,,Residential,335000.0,43 Ch. Fridolin-Simard #2519 ,QC,Central Canada
+3.0,1.0,99997.0,.697,Residential,89000.0,8 6e-et-7e-Rang O. ,QC,Central Canada
+3.0,1.0,,.131,Residential,149000.0,430 Rue St-Philippe ,QC,Central Canada
+3.0,1.0,,.373,Residential,429900.0,2933 Place Anita ,QC,Central Canada
+1.0,1.0,525.0,,Residential,388000.0,775 Av. Plymouth #706 ,QC,Central Canada
+3.0,3.0,1501.0,,Residential,918118.0,1550 Rue des Bassins #700 ,QC,Central Canada
+1.0,1.0,520.0,,Residential,280000.0,39 Ch. Fridolin-Simard #1217 ,QC,Central Canada
+2.0,1.0,1234.0,,Residential,589000.0,4312 Av. De Lorimier ,QC,Central Canada
+3.0,1.0,,.253,Residential,339900.0,110 Rue Ashby ,QC,Central Canada
+4.0,2.0,,.504,Other,850000.0,1578 Rue Principale ,QC,Central Canada
+6.0,5.0,3932.0,.234,Residential,3150000.0,4817 Rue Cedar Crescent ,QC,Central Canada
+3.0,2.0,172804.0,.155,Residential,950000.0,1280 Route 364 ,QC,Central Canada
+4.0,1.0,,.145,Residential,129000.0,195 Rue Thibault ,QC,Central Canada
+3.0,2.0,,.246,Residential,795000.0,117 Rue de la Presqu'île ,QC,Central Canada
+3.0,2.0,2200.0,,Residential,770000.0,1109 Av. des Érables ,QC,Central Canada
+3.0,4.0,1899.0,,Residential,1998000.0,81 Av. Holton ,QC,Central Canada
+2.0,1.0,10652.0,.275,Residential,144000.0,394 3e-et-4e-Rang O. ,QC,Central Canada
+2.0,1.0,113204.0,,Residential,289000.0,802 Allée de la Sérénité ,QC,Central Canada
+6.0,6.0,,.044,Residential,649000.0,338-344 Rue Principale ,QC,Central Canada
+1.0,1.0,530.0,,Residential,374999.0,2727 Rue St-Patrick #418 ,QC,Central Canada
+4.0,2.0,,.026,Residential,899700.0,3125 Rg du Haut-St-François ,QC,Central Canada
+2.0,1.0,1365.0,.288,Residential,900000.0,8 Rue McWilliam #404 ,QC,Central Canada
+2.0,1.0,,,Residential,343000.0,Rue des Lys ,QC,Central Canada
+2.0,2.0,1212.0,.007,Residential,855000.0,185 Rue Laurier #1605 ,QC,Central Canada
+2.0,,4089.0,.207,Single,69900.0,151 Ch. de la Traverse ,QC,Central Canada
+3.0,2.0,1326.0,,Single,713112.0,4700 Rue St-Ambroise| E121,QC,Central Canada
+2.0,1.0,1072.0,.051,Single,299900.0,189Z Rue Madaire ,QC,Central Canada
+3.0,4.0,4800.0,.082,Residential,2770000.0,5 Av. Ste-Geneviève #2-3 ,QC,Central Canada
+3.0,2.0,146131.0,1.73,Residential,135000.0,5745 Rue Saguenay ,QC,Central Canada
+3.0,2.0,,.039,Residential,1049000.0,5686 Av. d'Orléans ,QC,Central Canada
+3.0,1.0,140318.0,.379,Residential,239000.0,637 Route des Campagnards ,QC,Central Canada
+2.0,1.0,895995.0,.167,Single,199900.0,142 Lac du Brochet ,QC,Central Canada
+5.0,7.0,4950.0,.807,Residential,5675000.0,400 Ch. de Cassiopée ,QC,Central Canada
+3.0,1.0,,0.23,Residential,179000.0,459 Rue Principale S. ,QC,Central Canada
+3.0,2.0,67199.0,.207,Residential,187395.0,55 Rue Boutin ,QC,Central Canada
+1.0,1.0,45424.0,.025,Residential,139900.0,130 Rue Roland-Audet ,QC,Central Canada
+3.0,2.0,,.121,Residential,539000.0,387 Rue des Busards ,QC,Central Canada
+3.0,2.0,1371.0,,Residential,1050000.0,95 Ch. de Kandahar #8 ,QC,Central Canada
+2.0,2.0,1760.0,.928,Residential,729000.0,4350 Route des Tulipes ,QC,Central Canada
+1.0,1.0,,.129,Residential,44500.0,105 Rue Charland ,QC,Central Canada
+1.0,1.0,630.0,,Residential,419900.0,365 Rue St-André #312 ,QC,Central Canada
+3.0,1.0,116121.0,.099,Residential,105000.0,53 Rue Mclean E. ,QC,Central Canada
+3.0,2.0,1119.0,,Residential,870000.0,195 Rue Peel #1502 ,QC,Central Canada
+4.0,2.0,139931.0,.324,Residential,324500.0,241 Rue Principale ,QC,Central Canada
+2.0,3.0,2275.0,,Residential,1645900.0,255 Rue Étienne-Lavoie #2102 ,QC,Central Canada
+3.0,2.0,,.151,Residential,369000.0,165 Rue des Érables ,QC,Central Canada
+3.0,1.0,788.0,.479,Single,395000.0,19 Ch. Ziebell ,QC,Central Canada
+3.0,3.0,2153.0,,Residential,840000.0,5023 Av. Victoria ,QC,Central Canada
+4.0,3.0,2957.0,,Residential,2395000.0,505 Rue Lucien-L'Allier #507&508 ,QC,Central Canada
+2.0,1.0,,.186,Residential,89000.0,30 Rue du Curé-Boulay ,QC,Central Canada
+7.0,,7088.0,,Residential,4198000.0,"18 Rue des Huards Ile-des-Soeurs, Montreal ",QC,Central Canada
+3.0,1.0,,1.36,Residential,348900.0,Ch. du Fief ,QC,Central Canada
+2.0,2.0,1426.0,,Residential,1100000.0,1455 Rue Sherbrooke O. #1506 ,QC,Central Canada
+2.0,2.0,7704.0,,Residential,178000.0,6385 Mtée Ryan #303 ,QC,Central Canada
+2.0,1.0,,.017,Residential,249000.0,20B Lac Adams ,QC,Central Canada
+4.0,4.0,,.355,Residential,1180000.0,133 Rue des Oliviers ,QC,Central Canada
+2.0,2.0,,0.28,Residential,198500.0,1751 Ch. du Village ,QC,Central Canada
+5.0,2.0,,0.61,Residential,1325000.0,380 Ch. des Îles ,QC,Central Canada
+2.0,1.0,980.0,0.31,Single,59000.0,111 Ch. de Tancredia ,QC,Central Canada
+2.0,2.0,1356.0,,Residential,938000.0,255 Rue Étienne-Lavoie #101 ,QC,Central Canada
+2.0,2.0,931.0,,Residential,433000.0,8 Rue McWilliam #202 ,QC,Central Canada
+3.0,3.0,,,Residential,1160000.0,2430 Ch. des Marronniers ,QC,Central Canada
+2.0,2.0,1481.0,,Residential,898000.0,294 Rue St-Paul O. #32 ,QC,Central Canada
+3.0,1.0,,,Residential,1300000.0,1690 Ch. de l'Aqueduc ,QC,Central Canada
+5.0,1.0,,.323,Residential,72500.0,500 Ch. Duchénier ,QC,Central Canada
+5.0,3.0,112408.0,.167,Residential,329900.0,51 Rue Champoux ,QC,Central Canada
+2.0,1.0,,.536,Residential,315000.0,626 Route 132 ,QC,Central Canada
+2.0,2.0,,,Residential,495000.0,600 Av. Wilfrid-Laurier #109 ,QC,Central Canada
+3.0,2.0,1322.0,,Residential,839000.0,128 Rue Dufferin ,QC,Central Canada
+3.0,2.0,1144.0,,Residential,619000.0,701 Rue Irène #315 ,QC,Central Canada
+3.0,1.0,,.344,Residential,179500.0,59 Rue Villeray ,QC,Central Canada
+5.0,3.0,3800.0,.251,Residential,750000.0,143 Ch. du Pavillon-Kanata ,QC,Central Canada
+3.0,1.0,12766.0,.173,Residential,103000.0,9 Place Verneuil ,QC,Central Canada
+3.0,2.0,,.463,Residential,395000.0,130 Route 132 O. ,QC,Central Canada
+1.0,1.0,530.0,,Residential,369000.0,1225 Rue Notre-Dame O. 717,QC,Central Canada
+,1.0,441.0,,Residential,119000.0,2396 Rue Labelle #506 ,QC,Central Canada
+4.0,4.0,2435.0,.327,Residential,1539600.0,Ch. des Quatre-Sommets ,QC,Central Canada
+2.0,1.0,,>1.6,Residential,359000.0,119 Ch. des Érables ,QC,Central Canada
+7.0,3.0,3450.0,.204,Residential,1995000.0,29 Av. d'Anjou ,QC,Central Canada
+4.0,3.0,,.221,Residential,2350000.0,300 Ch. des Rondins ,QC,Central Canada
+2.0,3.0,,.785,Residential,1389000.0,457 Rue Brassard ,QC,Central Canada
+2.0,1.0,,.236,Farm,225000.0,540Z 10e Rang ,QC,Central Canada
+2.0,2.0,1298.0,,Residential,699000.0,6301 Place Northcrest #12T ,QC,Central Canada
+5.0,2.0,,.368,Residential,249000.0,446Z-448Z Rue Principale ,QC,Central Canada
+2.0,1.0,96875.0,.049,Residential,153000.0,3126 Rue Marie-Couture ,QC,Central Canada
+4.0,4.0,3026.0,,Residential,145000.0,136 Ch. des Légendes #C2 ,QC,Central Canada
+3.0,2.0,119996.0,.101,Residential,299000.0,235 4e Avenue ,QC,Central Canada
+2.0,1.0,82602.0,.267,Residential,69900.0,11 Ch. de la Rivière O'Sullivan ,QC,Central Canada
+3.0,2.0,2360.0,.129,Single,699000.0,2 Rue de l'Anse-aux-Bateaux ,QC,Central Canada
+2.0,3.0,1353.0,.245,Residential,534000.0,10 Côte de la Canoterie #2 ,QC,Central Canada
+3.0,1.0,,.035,Residential,650000.0,708 Rue Bourassa ,QC,Central Canada
+2.0,2.0,1156.0,,Residential,1080000.0,495 Av. Viger O. #1806 ,QC,Central Canada
+4.0,2.0,106886.0,0.19,Residential,259000.0,14 Av. Élisabeth ,QC,Central Canada
+3.0,2.0,2020.0,,Residential,1199000.0,3045 Boul. Notre-Dame #1703 ,QC,Central Canada
+6.0,2.0,,,Residential,499000.0,5775 Rue Bachand ,QC,Central Canada
+4.0,4.0,,.083,Residential,1298000.0,5869 Av. Kellert ,QC,Central Canada
+3.0,2.0,1636.0,,Residential,995000.0,1497 Av. Roger-Lemelin #203 ,QC,Central Canada
+3.0,2.0,,.236,Residential,564999.0,251 Ch. du Ruisseau S. ,QC,Central Canada
+2.0,1.0,,.573,Residential,254900.0,Ch. de la Cécilia-L ,QC,Central Canada
+1.0,1.0,37135.0,,Residential,145000.0,100 Rue Chopin ,QC,Central Canada
+2.0,1.0,675.0,.219,Single,274900.0,5 Av. Bay ,QC,Central Canada
+1.0,1.0,811.0,,Residential,468000.0,3601 Rue St-Jacques #309 ,QC,Central Canada
+2.0,1.0,193664.0,.172,Residential,137500.0,1928 Rue Lapointe ,QC,Central Canada
+2.0,1.0,810.0,,Residential,511796.0,1550 Rue des Bassins #300A ,QC,Central Canada
+3.0,2.0,176797.0,.504,Residential,349999.0,10-10B Rue Nathaly ,QC,Central Canada
+2.0,2.0,183417.0,,Residential,539000.0,99Z Av. de l'Hôtel-de-Ville ,QC,Central Canada
+2.0,3.0,1946.0,,Residential,1150000.0,30 Rue Berlioz #PH1.2 ,QC,Central Canada
+3.0,1.0,,.804,Residential,279900.0,200 Rg Grand-Beloeil ,QC,Central Canada
+3.0,1.0,717959.0,.682,Single,219000.0,20 Ch. Adélard ,QC,Central Canada
+1.0,1.0,458.0,,Residential,419000.0,3045 Ch. de la Chapelle #324 ,QC,Central Canada
+4.0,2.0,148488.0,.205,Residential,179000.0,459 Ch. de La Baleine ,QC,Central Canada
+6.0,2.0,100804.0,.362,Residential,120000.0,73 Rue des Cèdres ,QC,Central Canada
+2.0,2.0,990.0,,Residential,919000.0,1300 Boul. René-Lévesque O. #301 ,QC,Central Canada
+4.0,2.0,1642.0,.375,Residential,799000.0,471 Ch. du Lac-Quenouille ,QC,Central Canada
+3.0,4.0,,.211,Residential,1300000.0,177 Ch. des Patriotes ,QC,Central Canada
+5.0,5.0,,.632,Residential,1800000.0,516 Rue du Sommet ,QC,Central Canada
+3.0,2.0,1525.0,,Residential,730000.0,3445 Rue Drummond #201 ,QC,Central Canada
+3.0,2.0,,.355,Residential,296000.0,6605 Ch. St-Roch ,QC,Central Canada
+6.0,5.0,,.314,Residential,2960000.0,3070 Le Boulevard ,QC,Central Canada
+3.0,2.0,,.165,Residential,379900.0,280 Rue du Richelieu ,QC,Central Canada
+3.0,2.0,239131.0,.378,Residential,835000.0,205 Ch. de La Gap ,QC,Central Canada
+2.0,2.0,2097.0,,Residential,1695000.0,20 Rue des Émeraudes #1704 ,QC,Central Canada
+4.0,3.0,,3.04,Residential,3900000.0,185 Ch. du Mont-Shefford ,QC,Central Canada
+2.0,1.0,,.227,Residential,149000.0,185 Rue Brien ,QC,Central Canada
+2.0,2.0,2271.0,,Residential,1349000.0,8185 Rue Berri #PH3 ,QC,Central Canada
+2.0,2.0,1519.0,.288,Residential,1065000.0,8 Rue McWilliam #504 ,QC,Central Canada
+3.0,1.0,,.791,Farm,1600000.0,281Z Rg Point-du-Jour N. ,QC,Central Canada
+1.0,1.0,638.0,,Residential,498000.0,775 Av. Plymouth #208 ,QC,Central Canada
+1.0,1.0,705.0,,Residential,375000.0,5334 Av. du Parc #103 ,QC,Central Canada
+5.0,4.0,,.667,Residential,3850000.0,528 Rue du Sommet ,QC,Central Canada
+6.0,1.0,,.252,Residential,495000.0,12475 48e Avenue (R.-d.-P.) ,QC,Central Canada
+1.0,1.0,715.0,,Residential,398000.0,1085 Av. Pratt #207 ,QC,Central Canada
+2.0,1.0,810.0,,Residential,517666.0,1550 Rue des Bassins #400A ,QC,Central Canada
+2.0,1.0,519.0,,Residential,629000.0,1188 Rue St-Antoine O. #5101 ,QC,Central Canada
+2.0,1.0,823.0,.046,Residential,425000.0,1990 Rue De Villiers ,QC,Central Canada
+3.0,2.0,1557.0,.045,Single,499900.0,39 Rue du Glenbow ,QC,Central Canada
+1.0,1.0,77802.0,.236,Residential,215000.0,300 Ch. de la Grosse-Île ,QC,Central Canada
+2.0,1.0,,24.4,Residential,1870000.0,2189 Ch. du 5e-Rang N. ,QC,Central Canada
+4.0,3.0,,.361,Residential,949000.0,1815-1817 Rue du Skieur ,QC,Central Canada
+,1.0,326.0,,Residential,107800.0,161 Ch. du Curé-Deslauriers #382 ,QC,Central Canada
+2.0,2.0,1379.0,,Residential,439000.0,2050 Boul. René-Lévesque O. #409 ,QC,Central Canada
+3.0,1.0,,.348,Residential,549000.0,16 Boul. St-Joseph ,QC,Central Canada
+3.0,2.0,2500.0,,Residential,1750000.0,2808 rue des Harfangs ,QC,Central Canada
+3.0,2.0,1008.0,1.13,Residential,1295000.0,203 Ch. de la Plage-St-Laurent ,QC,Central Canada
+4.0,3.0,,7.76,Residential,1550000.0,391 Ch. Ste-Marie ,QC,Central Canada
+2.0,1.0,763.0,,Residential,299000.0,4232 Rue La Perrière ,QC,Central Canada
+3.0,4.0,3429.0,.831,Residential,1585000.0,57 Ch. du Grand-Duc ,QC,Central Canada
+4.0,2.0,,.424,Residential,260000.0,33 Rue Raymond ,QC,Central Canada
+2.0,2.0,961.0,,Residential,640000.0,789 Av. Querbes #401 ,QC,Central Canada
+4.0,3.0,,0.11,Residential,830000.0,312 Rue Ste-Thérèse ,QC,Central Canada
+7.0,2.0,,.138,Residential,154900.0,10 Av. Babel ,QC,Central Canada
+3.0,1.0,157864.0,0.35,Residential,530000.0,13300 Route Marie-Victorin ,QC,Central Canada
+4.0,3.0,,.285,Residential,799000.0,2202 Ch. du Village ,QC,Central Canada
+4.0,3.0,,0.15,Residential,820000.0,4000 Rue du Commissaire ,QC,Central Canada
+2.0,1.0,,.515,Residential,232900.0,Ch. de l'Étandard ,QC,Central Canada
+3.0,4.0,,.888,Residential,1349000.0,33 Ch. des Amarantes ,QC,Central Canada
+4.0,3.0,1795.0,.132,Residential,968000.0,1060 Av. Murray ,QC,Central Canada
+4.0,3.0,1872.0,.043,Residential,844500.0,15 Ch. de la Paix ,QC,Central Canada
+2.0,1.0,700.0,,Residential,435000.0,2525 Av. des Érables #410 ,QC,Central Canada
+4.0,5.0,2955.0,.813,Residential,698000.0,54 Av. du Rocher ,QC,Central Canada
+4.0,2.0,,.749,Residential,560000.0,512 Côte St-Nicholas ,QC,Central Canada
+4.0,1.0,,.087,Residential,189900.0,516-1 Rue Georges-É.-Tremblay ,QC,Central Canada
+1.0,1.0,64261.0,,Residential,449000.0,100 Rue André-Prévost 511,QC,Central Canada
+3.0,3.0,1395.0,,Residential,699000.0,175 Rue Pinoteau #532 ,QC,Central Canada
+4.0,1.0,,.138,Residential,269000.0,124 Rue Paré ,QC,Central Canada
+15.0,3.0,,.224,Residential,750000.0,127Z Rue Hémond ,QC,Central Canada
+2.0,2.0,1700.0,.006,Single,499000.0,1 Ch. Karen ,QC,Central Canada
+5.0,3.0,3550.0,.074,Residential,750000.0,147 Ch. du Pavillon-Kanata ,QC,Central Canada
+3.0,2.0,2174.0,,Residential,829000.0,9 Rue des Jardins-Mérici #102 ,QC,Central Canada
+6.0,2.0,,.129,Residential,165000.0,935 Rue Henri ,QC,Central Canada
+4.0,2.0,,.291,Residential,424900.0,1017 Rue Principale ,QC,Central Canada
+1.0,1.0,597.0,,Residential,333450.0,8 Rue McWilliam #106 ,QC,Central Canada
+2.0,1.0,1330.0,,Residential,269000.0,268 Rue Arago E. #403 ,QC,Central Canada
+2.0,1.0,52797.0,.693,Residential,209000.0,697 Ch. du Tour-du-Lac-David N. ,QC,Central Canada
+3.0,1.0,,.104,Residential,74500.0,936 Route des Blés-d'Or ,QC,Central Canada
+3.0,2.0,1925.0,g>22,Single,1600000.0,123 Ch. Tapp ,QC,Central Canada
+5.0,4.0,2726.0,.095,Residential,3295000.0,19 Av. Grenville ,QC,Central Canada
+4.0,3.0,2510.0,.282,Residential,1349000.0,2110 Rue des Tulipes ,QC,Central Canada
+1.0,1.0,537.0,.288,Residential,299000.0,8 Rue McWilliam #108 ,QC,Central Canada
+1.0,2.0,720.0,,Residential,249000.0,160 Ch. du Curé-Deslauriers #322 ,QC,Central Canada
+2.0,1.0,1001.0,.697,Residential,225000.0,225 Ch. Lajeunesse ,QC,Central Canada
+2.0,2.0,805.0,,Residential,480000.0,10850 Rue Basile-Routhier #507 ,QC,Central Canada
+2.0,2.0,3234.0,.061,Residential,1500000.0,2303-2305 Rue du Souvenir ,QC,Central Canada
+3.0,2.0,1750.0,,Residential,1350000.0,380 Grande Allée O. #2103 ,QC,Central Canada
+5.0,4.0,2172.0,.034,Residential,930000.0,1974 Rue du Bois-des-Caryers ,QC,Central Canada
+1.0,1.0,541.0,,Residential,189900.0,160 Ch. du Curé-Deslauriers #130 ,QC,Central Canada
+4.0,2.0,4156.0,.863,Residential,1090000.0,524 Rue Brunelle ,QC,Central Canada
+2.0,1.0,,.163,Residential,399900.0,591 Rue des Ancolies ,QC,Central Canada
+2.0,1.0,,.192,Residential,259900.0,Ch. de la Cécilia-L ,QC,Central Canada
+3.0,1.0,,.139,Residential,279000.0,5426 Route Marie-Victorin ,QC,Central Canada
+4.0,1.0,,.791,Residential,1600000.0,281 Rg Point-du-Jour N. ,QC,Central Canada
+1.0,2.0,1436.0,,Residential,1395000.0,2500 Av. Pierre-Dupuy #704 ,QC,Central Canada
+1.0,1.0,629.0,,Residential,223900.0,151 Ch. du Curé-Deslauriers #137 ,QC,Central Canada
+3.0,2.0,173999.0,.309,Residential,449000.0,1648 Rue Lafrance ,QC,Central Canada
+3.0,2.0,79502.0,.906,Residential,349000.0,200 Rue Marguerite-Bourgeoys ,QC,Central Canada
+3.0,2.0,,.412,Residential,979000.0,689 Av. de la Cathédrale ,QC,Central Canada
+1.0,1.0,683.0,,Residential,365750.0,8 Rue McWilliam #308 ,QC,Central Canada
+5.0,3.0,2400.0,.118,Single,729000.0,87 Rue de Sérignan ,QC,Central Canada
+3.0,2.0,7215.0,,Residential,469000.0,"361, Rue Sauriol ",QC,Central Canada
+2.0,2.0,1560.0,,Residential,559000.0,3940 Ch. de la Côte-des-Neiges #C23 ,QC,Central Canada
+5.0,3.0,2247.0,.145,Residential,749000.0,23 Rue Creswell ,QC,Central Canada
+4.0,2.0,190005.0,.605,Residential,519500.0,230 Boul. Nolin ,QC,Central Canada
+2.0,1.0,805.0,,Residential,418800.0,680 Rue De Courcelle #202 ,QC,Central Canada
+3.0,2.0,1246.0,,Single,1043618.0,4700 Rue St-Ambroise| E109,QC,Central Canada
+1.0,1.0,125098.0,.435,Residential,460000.0,1590 Rue St-Jean-Baptiste ,QC,Central Canada
+5.0,1.0,,.544,Residential,350000.0,11 Ch. Bellevue ,QC,Central Canada
+3.0,2.0,,.092,Residential,699000.0,154 Ch. de la Paroi ,QC,Central Canada
+2.0,1.0,1448.0,.413,Residential,239000.0,5 7e Rang ,QC,Central Canada
+3.0,1.0,,.205,Residential,229500.0,48 Rue Principale ,QC,Central Canada
+2.0,2.0,1092.0,,Residential,799900.0,1548 Rue des Bassins #115 ,QC,Central Canada
+3.0,1.0,,.603,Residential,299500.0,699 Ch. Roy ,QC,Central Canada
+7.0,9.0,,0.45,Residential,12500000.0,29 Ch. Ramezay ,QC,Central Canada
+2.0,2.0,1289.0,.288,Residential,569500.0,8 Rue McWilliam #203 ,QC,Central Canada
+4.0,2.0,,.139,Residential,1650000.0,467 Av. Greenoch ,QC,Central Canada
+4.0,4.0,1902.0,.128,Residential,640000.0,117 Ch. Séguin ,QC,Central Canada
+1.0,1.0,532.0,,Residential,429000.0,1205 Rue MacKay #1007 ,QC,Central Canada
+7.0,8.0,,.349,Residential,4788000.0,465 Ch. de Lac-Tremblant-Nord ,QC,Central Canada
+5.0,5.0,,,Residential,4780000.0,#2 Palmetto Bay Gate ,QC,Central Canada
+9.0,9.0,,.386,Residential,4899995.0,575 Ch. de l'Anse ,QC,Central Canada
+4.0,3.0,3219.0,,Residential,3495000.0,6000 Ch. Deacon #PHI ,QC,Central Canada
+4.0,2.0,1444529.0,.151,Single,559900.0,40 Imp. des Vents ,QC,Central Canada
+1.0,1.0,518.0,,Residential,189000.0,150 Ch. du Curé-Deslauriers #201 ,QC,Central Canada
+2.0,2.0,1438.0,,Residential,758000.0,4923 Rue Jean-Talon O. #709 ,QC,Central Canada
+1.0,1.0,7637.0,.236,Farm,215000.0,300Z Ch. de la Grosse-Île ,QC,Central Canada
+4.0,3.0,,7.17,Residential,799995.0,508Z Rg Charlebois ,QC,Central Canada
+2.0,2.0,834.0,,Residential,550000.0,789 Av. Querbes #207 ,QC,Central Canada
+1.0,1.0,553.0,,Residential,194900.0,151 Ch. du Curé-Deslauriers #403 ,QC,Central Canada
+4.0,3.0,2665.0,,Residential,1450000.0,156 Ch. de la Forêt #1 ,QC,Central Canada
+3.0,2.0,253232.0,.368,Residential,449500.0,365 Av. Duquesne ,QC,Central Canada
+1.0,1.0,505.0,,Residential,460000.0,3045 Ch. de la Chapelle #237 ,QC,Central Canada
+6.0,2.0,,.135,Other,489000.0,27 Rue Michon ,QC,Central Canada
+1.0,,374.0,,Residential,239747.0,1550 Rue des Bassins #500B ,QC,Central Canada
+2.0,,,,Residential,239000.0,Île à Béliveau ,QC,Central Canada
+,,,,Residential,35000.0,160 Rue Principale ,QC,Central Canada
+4.0,1.0,,,Residential,776000.0,217 Av. Cleghorn ,QC,Central Canada
+2.0,2.0,1032.0,,Residential,849000.0,1225 Boul. Robert-Bourassa #1103 ,QC,Central Canada
+2.0,2.0,1550.0,,Residential,850000.0,1321 Rue Sherbrooke O. #B71 ,QC,Central Canada
+3.0,3.0,2072.0,,Residential,1185000.0,3980 Ch. de la Côte-des-Neiges #B17 ,QC,Central Canada
+5.0,1.0,,.209,Residential,129000.0,202-204 Rue Marquis ,QC,Central Canada
+5.0,2.0,149995.0,.344,Residential,49900.0,129 Route 105 ,QC,Central Canada
+2.0,1.0,296094.0,.274,Residential,275000.0,801 Rue de l'Église E. ,QC,Central Canada
+3.0,1.0,,.012,Residential,171400.0,16 Lac Prime ,QC,Central Canada
+,1.0,,.013,Residential,139000.0,1000 Boul. du Beau-Pré ,QC,Central Canada
+6.0,5.0,7955.0,.613,Residential,4995000.0,1200 Mtée Wilson ,QC,Central Canada
+3.0,1.0,1960.0,.222,Residential,595000.0,1440 Boul. Monseigneur-De Laval ,QC,Central Canada
+3.0,1.0,96003.0,.327,Residential,125000.0,92 Ch. du Pont-Champagne ,QC,Central Canada
+3.0,1.0,,.181,Farm,945000.0,1637 Rue Notre-Dame ,QC,Central Canada
+4.0,3.0,,.205,Residential,299250.0,37 Rue Héroux ,QC,Central Canada
+4.0,1.0,,.109,Residential,85000.0,6 Rue Principale S. ,QC,Central Canada
+2.0,1.0,,,Residential,377900.0,Rue des Lys ,QC,Central Canada
+6.0,1.0,,.236,Residential,305000.0,1230 9e Rang ,QC,Central Canada
+3.0,2.0,,,Residential,428900.0,Rue des Lys ,QC,Central Canada
+,,,.447,Residential,74500.0,2A Ch. des Chalets ,QC,Central Canada
+2.0,1.0,,,Residential,373000.0,Rue des Lys ,QC,Central Canada
+4.0,1.0,,.609,Farm,900000.0,3225 Boul. du Parc-Industriel ,QC,Central Canada
+11.0,1.0,,.165,Residential,325000.0,259 Rue Roy S. ,QC,Central Canada
+2.0,3.0,2374.0,,Residential,2450000.0,175 Rue de la Montagne #1401 ,QC,Central Canada
+3.0,1.0,,.119,Residential,238500.0,513 Av. du Jade ,QC,Central Canada

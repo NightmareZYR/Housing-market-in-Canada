@@ -1,0 +1,769 @@
+Beds,Bath,Sqft,Price,Address,Province,Region
+5.0,2.0,2721.0,690000.0,2591 Clarence Road ,NS,Atlantic region
+5.0,3.0,3000.0,1295000.0,1218 Lake Pleasant Rd ,NS,Atlantic region
+5.0,3.0,3000.0,1295000.0,1218 Lake Pleasant Rd ,NS,Atlantic region
+3.0,2.0,1008.0,895000.0,6471 No. 19 Highway ,NS,Atlantic region
+8.0,7.0,4648.0,850000.0,473 Upper River John Road ,NS,Atlantic region
+2.0,1.0,730.0,350000.0,155 Ponhook Shore Road ,NS,Atlantic region
+4.0,3.0,1590.0,199900.0,2302 Hwy 1 ,NS,Atlantic region
+3.0,1.0,1022.0,110000.0,519 Highway 8 ,NS,Atlantic region
+2.0,1.0,730.0,350000.0,155 Ponhook Shore Road ,NS,Atlantic region
+3.0,1.0,1652.0,349900.0,46 Haughn's Road ,NS,Atlantic region
+3.0,3.0,1839.0,750000.0,55 Lake Shore Drive ,NS,Atlantic region
+6.0,5.0,4012.0,495000.0,147 Highway 8 ,NS,Atlantic region
+2.0,1.0,826.0,169000.0,121 Mount Pleasant Road ,NS,Atlantic region
+2.0,1.0,675.0,99900.0,5 Hillside Drive ,NS,Atlantic region
+3.0,2.0,2540.0,699000.0,7385 Highway 3 ,NS,Atlantic region
+3.0,2.0,1008.0,895000.0,6471 No. 19 Highway ,NS,Atlantic region
+3.0,1.0,1652.0,349900.0,46 Haughn's Road ,NS,Atlantic region
+3.0,2.0,1512.0,375000.0,1167 Brooklyn Shore Road ,NS,Atlantic region
+2.0,1.0,826.0,169000.0,121 Mount Pleasant Road ,NS,Atlantic region
+3.0,1.0,1073.0,199000.0,31 College Street ,NS,Atlantic region
+3.0,2.0,1512.0,375000.0,1167 Brooklyn Shore Road ,NS,Atlantic region
+4.0,3.0,2400.0,1390000.0,697 Belmont Road ,NS,Atlantic region
+4.0,2.0,2642.0,299900.0,484 Main Street ,NS,Atlantic region
+3.0,1.0,1566.0,279000.0,32 Union Street ,NS,Atlantic region
+3.0,1.0,1041.0,175000.0,7048 Highway 3 ,NS,Atlantic region
+3.0,2.0,2540.0,699000.0,7385 Highway 3 ,NS,Atlantic region
+5.0,2.0,2721.0,690000.0,2591 Clarence Road ,NS,Atlantic region
+3.0,1.0,1566.0,279000.0,32 Union Street ,NS,Atlantic region
+3.0,2.0,2010.0,1575000.0,2969 Highway 1 ,NS,Atlantic region
+4.0,2.0,2642.0,299900.0,484 Main Street ,NS,Atlantic region
+3.0,1.0,1041.0,175000.0,7048 Highway 3 ,NS,Atlantic region
+2.0,1.0,725.0,159000.0,145 Lewiston Road ,NS,Atlantic region
+6.0,5.0,3604.0,595000.0,677 Bangor Road ,NS,Atlantic region
+2.0,2.0,800.0,199900.0,106 Cochrane Road ,NS,Atlantic region
+4.0,1.0,2464.0,299900.0,789 Old Port Mouton Road ,NS,Atlantic region
+3.0,1.0,1073.0,199000.0,31 College Street ,NS,Atlantic region
+2.0,1.0,675.0,99900.0,5 Hillside Drive ,NS,Atlantic region
+3.0,3.0,1839.0,750000.0,55 Lake Shore Drive ,NS,Atlantic region
+3.0,1.0,1022.0,110000.0,519 Highway 8 ,NS,Atlantic region
+6.0,5.0,4012.0,495000.0,147 Highway 8 ,NS,Atlantic region
+3.0,2.0,2010.0,1575000.0,2969 Highway 1 ,NS,Atlantic region
+3.0,2.0,2300.0,869000.0,5333 Granville Road ,NS,Atlantic region
+4.0,3.0,2400.0,1390000.0,697 Belmont Road ,NS,Atlantic region
+2.0,2.0,1082.0,220000.0,800 Old Sambro Road ,NS,Atlantic region
+8.0,7.0,4648.0,850000.0,473 Upper River John Road ,NS,Atlantic region
+4.0,1.0,2464.0,299900.0,789 Old Port Mouton Road ,NS,Atlantic region
+3.0,3.0,1885.0,549000.0,Lot 17 Saddle Island Road ,NS,Atlantic region
+3.0,3.0,1885.0,549000.0,Lot 17 Saddle Island Road ,NS,Atlantic region
+3.0,1.0,1830.0,484900.0,246 Coopers Road ,NS,Atlantic region
+3.0,2.0,1450.0,539900.0,9986 Hwy #224 ,NS,Atlantic region
+2.0,1.0,725.0,159000.0,145 Lewiston Road ,NS,Atlantic region
+6.0,5.0,3604.0,595000.0,677 Bangor Road ,NS,Atlantic region
+3.0,2.0,2856.0,899000.0,2219 Harmony Road ,NS,Atlantic region
+2.0,2.0,1334.0,499000.0,Lot 15 Saddle Island Road ,NS,Atlantic region
+3.0,2.0,2300.0,869000.0,5333 Granville Road ,NS,Atlantic region
+1.0,1.0,674.0,199900.0,92/96 McInnis Road ,NS,Atlantic region
+3.0,2.0,1664.0,399900.0,Lot 53C Lakeland Street ,NS,Atlantic region
+3.0,3.0,1594.0,519900.0,Lot 14 Cornerstone Drive ,NS,Atlantic region
+1.0,1.0,674.0,199900.0,92/96 McInnis Road ,NS,Atlantic region
+3.0,2.0,1450.0,539900.0,9986 Hwy #224 ,NS,Atlantic region
+2.0,2.0,800.0,199900.0,106 Cochrane Road ,NS,Atlantic region
+3.0,1.0,1830.0,484900.0,246 Coopers Road ,NS,Atlantic region
+2.0,1.0,1274.0,269900.0,27448 Highway 7 ,NS,Atlantic region
+3.0,2.0,2856.0,899000.0,2219 Harmony Road ,NS,Atlantic region
+3.0,2.0,1465.0,849900.0,680 New Ross Road ,NS,Atlantic region
+3.0,2.0,1465.0,849900.0,680 New Ross Road ,NS,Atlantic region
+2.0,2.0,1334.0,499000.0,Lot 15 Saddle Island Road ,NS,Atlantic region
+2.0,1.0,826.0,169000.0,121 Mount Pleasant Road ,NS,Atlantic region
+4.0,3.0,1590.0,199900.0,2302 Hwy 1 ,NS,Atlantic region
+3.0,3.0,1594.0,519900.0,Lot 14 Cornerstone Drive ,NS,Atlantic region
+2.0,1.0,1274.0,269900.0,27448 Highway 7 ,NS,Atlantic region
+3.0,2.0,1664.0,399900.0,Lot 53C Lakeland Street ,NS,Atlantic region
+2.0,2.0,1082.0,220000.0,800 Old Sambro Road ,NS,Atlantic region
+4.0,3.0,3471.0,1299000.0,55 Furber Drive ,PE,Atlantic region
+3.0,2.0,1710.0,499000.0,230 Hollis Avenue ,PE,Atlantic region
+4.0,4.0,4000.0,1499900.0,143 Lantern Hill Drive ,PE,Atlantic region
+3.0,2.0,2352.0,374900.0,12 Westview Drive ,PE,Atlantic region
+3.0,2.0,1483.0,177500.0,20 Church Avenue ,PE,Atlantic region
+3.0,2.0,2352.0,374900.0,12 Westview Drive ,PE,Atlantic region
+4.0,2.0,2562.0,269900.0,399 Main Street ,PE,Atlantic region
+3.0,2.0,1505.0,449000.0,56 Melody Lane ,PE,Atlantic region
+4.0,2.0,2296.0,449000.0,258 LINE Road ,PE,Atlantic region
+3.0,2.0,1505.0,449000.0,56 Melody Lane ,PE,Atlantic region
+4.0,2.0,2562.0,269900.0,399 Main Street ,PE,Atlantic region
+2.0,1.0,900.0,199900.0,419 Haywood Road ,PE,Atlantic region
+4.0,2.0,2098.0,365000.0,48 Summer Street ,PE,Atlantic region
+3.0,1.0,1735.0,300000.0,1534 Loyalist Road|Route 256,PE,Atlantic region
+3.0,2.0,1499.0,346500.0,24 Mackay Drive ,PE,Atlantic region
+3.0,2.0,2100.0,928000.0,522 Capital Drive ,PE,Atlantic region
+3.0,2.0,1417.0,357000.0,4421 Baldwins Road ,PE,Atlantic region
+3.0,1.0,1096.0,249000.0,11 Fraser Avenue ,PE,Atlantic region
+3.0,1.0,2227.0,510000.0,9692 St. Peters Road|Route 2,PE,Atlantic region
+4.0,3.0,5026.0,1350000.0,116 Earnscliffe Road ,PE,Atlantic region
+2.0,1.0,963.0,119000.0,2257 County Line Road ,PE,Atlantic region
+4.0,3.0,1986.0,329900.0,368 BROPHY Avenue ,PE,Atlantic region
+3.0,2.0,1827.0,399900.0,12388 Cascumpec Road ,PE,Atlantic region
+2.0,2.0,2073.0,399000.0,5857 RTE 13 ,PE,Atlantic region
+3.0,2.0,1808.0,339000.0,1280 Robertson Road ,PE,Atlantic region
+5.0,4.0,5286.0,499000.0,32 Fox Run Lane ,PE,Atlantic region
+3.0,3.0,1902.0,524950.0,Lot 18 Cormac Crescent ,PE,Atlantic region
+4.0,2.0,2282.0,500000.0,7 RASPBERRY Avenue ,PE,Atlantic region
+3.0,3.0,2134.0,799000.0,4884 Murray Harbour Road ,PE,Atlantic region
+3.0,4.0,4891.0,1600000.0,11016 Route 6 ,PE,Atlantic region
+2.0,1.0,960.0,139900.0,506 Dock Road ,PE,Atlantic region
+3.0,1.0,1120.0,449900.0,263 LINE Road ,PE,Atlantic region
+3.0,2.0,1900.0,329000.0,6481 Rte 14 ,PE,Atlantic region
+4.0,2.0,1684.0,529000.0,1156 CHURCH Road ,PE,Atlantic region
+2.0,2.0,1300.0,340000.0,1351 BALTIC Road ,PE,Atlantic region
+3.0,2.0,1198.0,375000.0,95 Creek Rd ,PE,Atlantic region
+3.0,3.0,3174.0,699900.0,236 Mountain Avenue ,PE,Atlantic region
+4.0,4.0,3881.0,597500.0,15 Carr Court ,PE,Atlantic region
+2.0,1.0,1032.0,398000.0,36 Vail Crescent ,PE,Atlantic region
+3.0,3.0,2885.0,999999.0,93 Fariview Drive ,PE,Atlantic region
+4.0,4.0,3089.0,649900.0,14 Saints Crescent ,PE,Atlantic region
+3.0,2.0,1600.0,389000.0,48 Gilbert Dr ,PE,Atlantic region
+4.0,2.0,2186.0,599000.0,161 Stratford ,PE,Atlantic region
+4.0,3.0,2627.0,549000.0,7 Chancellor Street ,PE,Atlantic region
+3.0,2.0,1762.0,569000.0,22 Harbourview Drive ,PE,Atlantic region
+3.0,3.0,3662.0,269900.0,37905 Western Road ,PE,Atlantic region
+2.0,1.0,1040.0,239900.0,155 Ellerslie Road ,PE,Atlantic region
+4.0,4.0,3218.0,600000.0,2 Devonshire St ,PE,Atlantic region
+5.0,2.0,1989.0,230000.0,48 MAIN Street ,PE,Atlantic region
+5.0,4.0,3968.0,689000.0,47 Harvest Drive ,PE,Atlantic region
+2.0,1.0,600.0,164900.0,384 Wood Islands Road ,PE,Atlantic region
+4.0,2.0,2233.0,525000.0,19 Shore Road ,PE,Atlantic region
+5.0,3.0,2484.0,689000.0,88 Round Pond Lane ,PE,Atlantic region
+4.0,3.0,2073.0,439000.0,4 Montrose Drive ,PE,Atlantic region
+3.0,2.0,1226.0,330000.0,174 Putters Lot 22,PE,Atlantic region
+3.0,1.0,1404.0,259000.0,1226 MacDougall Road ,PE,Atlantic region
+3.0,1.0,1104.0,239900.0,44 WHARF Road ,PE,Atlantic region
+6.0,3.0,2878.0,277000.0,1522 Spring Valley Road ,PE,Atlantic region
+7.0,3.0,3192.0,579000.0,262 Walker Avenue ,PE,Atlantic region
+3.0,4.0,2368.0,499000.0,16 Gardiner Drive ,PE,Atlantic region
+7.0,5.0,6242.0,1750000.0,221 Souris River Road ,PE,Atlantic region
+4.0,1.0,926.0,199900.0,20101 Rte 12 ,PE,Atlantic region
+4.0,2.0,2072.0,449000.0,41 WESTCOMB ,PE,Atlantic region
+3.0,2.0,1288.0,353950.0,32 Langille Court ,PE,Atlantic region
+3.0,1.0,1406.0,349900.0,152 Sullivan ,PE,Atlantic region
+5.0,6.0,3100.0,699000.0,172 Campbellton Road|Stanley Bridge ,PE,Atlantic region
+2.0,1.0,840.0,160000.0,1434 MacIsaac Road ,PE,Atlantic region
+3.0,3.0,1928.0,419000.0,21 Nevin Ln ,PE,Atlantic region
+3.0,1.0,1134.0,219900.0,341 Highland Avenue ,PE,Atlantic region
+4.0,2.0,2127.0,469000.0,1509 Barbara Weit Road ,PE,Atlantic region
+3.0,2.0,3270.0,759000.0,948 Winsloe Road|Route 223,PE,Atlantic region
+3.0,2.0,1416.0,449000.0,Lot 4 Lakeside Subdivision|Street to be named ,PE,Atlantic region
+3.0,2.0,1500.0,455000.0,34 Holmes Lane ,PE,Atlantic region
+3.0,2.0,2230.0,329000.0,8072 Route 12 ,PE,Atlantic region
+4.0,3.0,1200.0,375000.0,41 WATER Street ,PE,Atlantic region
+2.0,2.0,936.0,259000.0,7 MacArthur Drive ,PE,Atlantic region
+3.0,2.0,1483.0,177500.0,20 Church Avenue ,PE,Atlantic region
+5.0,3.0,2730.0,959000.0,11 Sunnyside Drive ,PE,Atlantic region
+4.0,2.0,2296.0,449000.0,258 LINE Road ,PE,Atlantic region
+5.0,3.0,2550.0,307500.0,8635 Route 11 ,PE,Atlantic region
+4.0,1.0,836.0,230000.0,14 SUNSET Street ,PE,Atlantic region
+5.0,2.0,1989.0,230000.0,48 MAIN Street ,PE,Atlantic region
+4.0,3.0,5026.0,1350000.0,116 Earnscliffe Road ,PE,Atlantic region
+4.0,3.0,1200.0,375000.0,41 WATER Street ,PE,Atlantic region
+3.0,1.0,1096.0,249000.0,11 Fraser Avenue ,PE,Atlantic region
+3.0,2.0,1808.0,339000.0,1280 Robertson Road ,PE,Atlantic region
+3.0,3.0,1902.0,524950.0,Lot 18 Cormac Crescent ,PE,Atlantic region
+2.0,1.0,600.0,164900.0,384 Wood Islands Road ,PE,Atlantic region
+2.0,1.0,900.0,199900.0,419 Haywood Road ,PE,Atlantic region
+3.0,2.0,3270.0,759000.0,948 Winsloe Road|Route 223,PE,Atlantic region
+3.0,2.0,1827.0,399900.0,12388 Cascumpec Road ,PE,Atlantic region
+3.0,2.0,1499.0,346500.0,24 Mackay Drive ,PE,Atlantic region
+4.0,2.0,1684.0,529000.0,1156 CHURCH Road ,PE,Atlantic region
+4.0,3.0,3471.0,1299000.0,55 Furber Drive ,PE,Atlantic region
+2.0,2.0,936.0,259000.0,7 MacArthur Drive ,PE,Atlantic region
+5.0,4.0,3968.0,689000.0,47 Harvest Drive ,PE,Atlantic region
+2.0,1.0,960.0,139900.0,506 Dock Road ,PE,Atlantic region
+4.0,4.0,4000.0,1499900.0,143 Lantern Hill Drive ,PE,Atlantic region
+4.0,1.0,836.0,230000.0,14 SUNSET Street ,PE,Atlantic region
+3.0,1.0,1120.0,449900.0,263 LINE Road ,PE,Atlantic region
+2.0,1.0,963.0,119000.0,2257 County Line Road ,PE,Atlantic region
+3.0,1.0,1104.0,239900.0,44 WHARF Road ,PE,Atlantic region
+4.0,2.0,2098.0,365000.0,48 Summer Street ,PE,Atlantic region
+4.0,2.0,2127.0,469000.0,1509 Barbara Weit Road ,PE,Atlantic region
+2.0,1.0,840.0,160000.0,1434 MacIsaac Road ,PE,Atlantic region
+2.0,2.0,1300.0,340000.0,1351 BALTIC Road ,PE,Atlantic region
+3.0,1.0,1735.0,300000.0,1534 Loyalist Road|Route 256,PE,Atlantic region
+4.0,3.0,1986.0,329900.0,368 BROPHY Avenue ,PE,Atlantic region
+3.0,3.0,2134.0,799000.0,4884 Murray Harbour Road ,PE,Atlantic region
+2.0,1.0,1040.0,239900.0,155 Ellerslie Road ,PE,Atlantic region
+5.0,4.0,5286.0,499000.0,32 Fox Run Lane ,PE,Atlantic region
+6.0,3.0,2878.0,277000.0,1522 Spring Valley Road ,PE,Atlantic region
+3.0,2.0,1483.0,177500.0,20 Church Avenue ,PE,Atlantic region
+3.0,2.0,1288.0,353950.0,32 Langille Court ,PE,Atlantic region
+3.0,2.0,1900.0,329000.0,6481 Rte 14 ,PE,Atlantic region
+3.0,2.0,1198.0,375000.0,95 Creek Rd ,PE,Atlantic region
+3.0,2.0,1226.0,330000.0,174 Putters Lot 22,PE,Atlantic region
+7.0,3.0,3192.0,579000.0,262 Walker Avenue ,PE,Atlantic region
+4.0,4.0,3089.0,649900.0,14 Saints Crescent ,PE,Atlantic region
+3.0,2.0,2230.0,329000.0,8072 Route 12 ,PE,Atlantic region
+3.0,1.0,1404.0,259000.0,1226 MacDougall Road ,PE,Atlantic region
+3.0,1.0,2227.0,510000.0,9692 St. Peters Road|Route 2,PE,Atlantic region
+2.0,2.0,2073.0,399000.0,5857 RTE 13 ,PE,Atlantic region
+3.0,2.0,1762.0,569000.0,22 Harbourview Drive ,PE,Atlantic region
+7.0,5.0,6242.0,1750000.0,221 Souris River Road ,PE,Atlantic region
+4.0,2.0,2186.0,599000.0,161 Stratford ,PE,Atlantic region
+5.0,3.0,2484.0,689000.0,88 Round Pond Lane ,PE,Atlantic region
+3.0,2.0,1416.0,449000.0,Lot 4 Lakeside Subdivision|Street to be named ,PE,Atlantic region
+3.0,3.0,3662.0,269900.0,37905 Western Road ,PE,Atlantic region
+3.0,4.0,4891.0,1600000.0,11016 Route 6 ,PE,Atlantic region
+4.0,1.0,926.0,199900.0,20101 Rte 12 ,PE,Atlantic region
+5.0,6.0,3100.0,699000.0,172 Campbellton Road|Stanley Bridge ,PE,Atlantic region
+3.0,1.0,1406.0,349900.0,152 Sullivan ,PE,Atlantic region
+4.0,2.0,2282.0,500000.0,7 RASPBERRY Avenue ,PE,Atlantic region
+4.0,4.0,3218.0,600000.0,2 Devonshire St ,PE,Atlantic region
+4.0,3.0,2627.0,549000.0,7 Chancellor Street ,PE,Atlantic region
+3.0,4.0,2368.0,499000.0,16 Gardiner Drive ,PE,Atlantic region
+4.0,4.0,3881.0,597500.0,15 Carr Court ,PE,Atlantic region
+3.0,3.0,2885.0,999999.0,93 Fariview Drive ,PE,Atlantic region
+5.0,3.0,2550.0,307500.0,8635 Route 11 ,PE,Atlantic region
+4.0,3.0,2073.0,439000.0,4 Montrose Drive ,PE,Atlantic region
+3.0,2.0,1417.0,357000.0,4421 Baldwins Road ,PE,Atlantic region
+3.0,1.0,1134.0,219900.0,341 Highland Avenue ,PE,Atlantic region
+3.0,2.0,2100.0,928000.0,522 Capital Drive ,PE,Atlantic region
+3.0,2.0,1600.0,389000.0,48 Gilbert Dr ,PE,Atlantic region
+3.0,3.0,3174.0,699900.0,236 Mountain Avenue ,PE,Atlantic region
+3.0,3.0,1928.0,419000.0,21 Nevin Ln ,PE,Atlantic region
+4.0,2.0,2233.0,525000.0,19 Shore Road ,PE,Atlantic region
+2.0,1.0,1032.0,398000.0,36 Vail Crescent ,PE,Atlantic region
+3.0,2.0,1500.0,455000.0,34 Holmes Lane ,PE,Atlantic region
+5.0,3.0,2730.0,959000.0,11 Sunnyside Drive ,PE,Atlantic region
+3.0,2.0,1710.0,499000.0,230 Hollis Avenue ,PE,Atlantic region
+4.0,2.0,2072.0,449000.0,41 WESTCOMB ,PE,Atlantic region
+3.0,1.0,768.0,179000.0,60 Lupin Lane ,PE,Atlantic region
+4.0,3.0,2144.0,489000.0,45 Hillside Meadows ,PE,Atlantic region
+4.0,2.0,1881.0,549000.0,1752 Rte 225 ,PE,Atlantic region
+3.0,2.0,1800.0,219900.0,2 Monaghan Street ,PE,Atlantic region
+3.0,1.0,768.0,179000.0,60 Lupin Lane ,PE,Atlantic region
+4.0,3.0,2144.0,489000.0,45 Hillside Meadows ,PE,Atlantic region
+3.0,2.0,1800.0,219900.0,2 Monaghan Street ,PE,Atlantic region
+4.0,2.0,1881.0,549000.0,1752 Rte 225 ,PE,Atlantic region
+4.0,2.0,1900.0,799900.0,790 Route 710 ,NB,Atlantic region
+4.0,2.0,1900.0,799900.0,790 Route 710 ,NB,Atlantic region
+5.0,3.0,3400.0,899000.0,5 MAYPARK Place ,NL,Atlantic region
+3.0,2.0,1500.0,98500.0,183 Water Street ,NL,Atlantic region
+3.0,2.0,1651.0,369900.0,1 Alec Moores Court ,NL,Atlantic region
+5.0,3.0,3400.0,899000.0,5 MAYPARK Place ,NL,Atlantic region
+4.0,3.0,2880.0,509000.0,70 Middle Ridge Road ,NL,Atlantic region
+3.0,2.0,1576.0,249900.0,49 Country Road ,NL,Atlantic region
+3.0,3.0,3600.0,950000.0,200 Point Road ,NL,Atlantic region
+3.0,3.0,3600.0,950000.0,200 Point Road ,NL,Atlantic region
+4.0,4.0,3268.0,450000.0,148 Old Petty Harbour Road ,NL,Atlantic region
+3.0,2.0,1651.0,369900.0,1 Alec Moores Court ,NL,Atlantic region
+3.0,2.0,1576.0,249900.0,49 Country Road ,NL,Atlantic region
+4.0,2.0,2240.0,274900.0,10 Cannon Marsh Road ,NL,Atlantic region
+4.0,2.0,2500.0,284500.0,266 Newfoundland Drive ,NL,Atlantic region
+4.0,4.0,3268.0,450000.0,148 Old Petty Harbour Road ,NL,Atlantic region
+4.0,3.0,3250.0,419900.0,191 Ladysmith Drive ,NL,Atlantic region
+3.0,2.0,2124.0,279900.0,1283 Conception Bay Highway ,NL,Atlantic region
+3.0,2.0,2124.0,279900.0,1283 Conception Bay Highway ,NL,Atlantic region
+4.0,2.0,2500.0,284500.0,266 Newfoundland Drive ,NL,Atlantic region
+4.0,2.0,2240.0,274900.0,10 Cannon Marsh Road ,NL,Atlantic region
+5.0,2.0,1935.0,284900.0,96 ELIZABETH Drive ,NL,Atlantic region
+5.0,2.0,1935.0,284900.0,96 ELIZABETH Drive ,NL,Atlantic region
+6.0,4.0,4365.0,599000.0,62 Cypress Street ,NL,Atlantic region
+4.0,3.0,3250.0,419900.0,191 Ladysmith Drive ,NL,Atlantic region
+6.0,4.0,4365.0,599000.0,62 Cypress Street ,NL,Atlantic region
+2.0,1.0,1108.0,74900.0,28 Irishtown Road ,NL,Atlantic region
+3.0,2.0,1500.0,98500.0,183 Water Street ,NL,Atlantic region
+2.0,1.0,1108.0,74900.0,28 Irishtown Road ,NL,Atlantic region
+4.0,3.0,2880.0,509000.0,70 Middle Ridge Road ,NL,Atlantic region
+1.0,1.0,692.0,230000.0,3810 Notre-Dame ,QC,Central Canada
+3.0,3.0,1535.0,1447190.0,1000 de la Montagne ,QC,Central Canada
+3.0,3.0,1535.0,1447190.0,1000 de la Montagne ,QC,Central Canada
+1.0,1.0,692.0,230000.0,3810 Notre-Dame ,QC,Central Canada
+2.0,1.0,641.0,538002.0,1000 de la Montagne ,QC,Central Canada
+2.0,1.0,641.0,538002.0,1000 de la Montagne ,QC,Central Canada
+3.0,1.0,113204.0,489000.0,Allée de la Sérénité ,QC,Central Canada
+3.0,1.0,113204.0,489000.0,Allée de la Sérénité ,QC,Central Canada
+2.0,1.0,114399.0,444900.0,Allée de l'Étang ,QC,Central Canada
+3.0,1.0,113204.0,449000.0,Allée de la Sérénité ,QC,Central Canada
+3.0,1.0,113204.0,449000.0,Allée de la Sérénité ,QC,Central Canada
+3.0,1.0,113204.0,489000.0,Allée de la Sérénité ,QC,Central Canada
+3.0,1.0,113204.0,449000.0,Allée de la Sérénité ,QC,Central Canada
+2.0,1.0,114399.0,444900.0,Allée de l'Étang ,QC,Central Canada
+3.0,1.0,113204.0,489000.0,Allée de la Sérénité ,QC,Central Canada
+3.0,1.0,113204.0,449000.0,Allée de la Sérénité ,QC,Central Canada
+3.0,1.0,113204.0,449000.0,Allée de la Sérénité ,QC,Central Canada
+3.0,3.0,3651.0,1900000.0,Allée du Rabaska ,QC,Central Canada
+3.0,3.0,3651.0,1900000.0,Allée du Rabaska ,QC,Central Canada
+3.0,3.0,3651.0,1900000.0,Allée du Rabaska ,QC,Central Canada
+3.0,2.0,1079.0,500000.0,29 MORGAN Road ,ON,Central Canada
+4.0,2.0,1580.0,529900.0,119 CHARLOTTE Street ,ON,Central Canada
+5.0,2.0,2000.0,700000.0,62 PALMERSTON Avenue ,ON,Central Canada
+3.0,2.0,1079.0,500000.0,29 MORGAN Road ,ON,Central Canada
+4.0,2.0,1600.0,599000.0,57 STIRTON Street ,ON,Central Canada
+3.0,2.0,1340.0,559900.0,281 TRAGINA Avenue N ,ON,Central Canada
+3.0,2.0,1340.0,559900.0,281 TRAGINA Avenue N ,ON,Central Canada
+4.0,2.0,1580.0,529900.0,119 CHARLOTTE Street ,ON,Central Canada
+4.0,1.0,2207.0,699000.0,178841 17 GREY Road ,ON,Central Canada
+4.0,1.0,2207.0,699000.0,178841 17 GREY Road ,ON,Central Canada
+3.0,2.0,2250.0,700000.0,1441 Waynco Road ,ON,Central Canada
+2.0,2.0,1299.0,700000.0,15 JOHN Street ,ON,Central Canada
+5.0,3.0,2000.0,700000.0,28 Gibson Avenue ,ON,Central Canada
+4.0,3.0,2150.0,700000.0,539 Arum terrace ,ON,Central Canada
+4.0,2.0,1600.0,599000.0,57 STIRTON Street ,ON,Central Canada
+4.0,2.0,1050.0,900000.0,31 KING Street ,ON,Central Canada
+5.0,2.0,2000.0,700000.0,62 PALMERSTON Avenue ,ON,Central Canada
+3.0,3.0,1520.0,900000.0,Smart Towns in Markham Insider VIP Access ,ON,Central Canada
+4.0,3.0,2536.0,900000.0,32 PARKVIEW Drive ,ON,Central Canada
+3.0,2.0,2250.0,700000.0,1441 Waynco Road ,ON,Central Canada
+3.0,1.0,950.0,900000.0,3695 MOYER Road ,ON,Central Canada
+2.0,2.0,1299.0,700000.0,15 JOHN Street ,ON,Central Canada
+5.0,3.0,2000.0,700000.0,28 Gibson Avenue ,ON,Central Canada
+4.0,3.0,2150.0,700000.0,539 Arum terrace ,ON,Central Canada
+4.0,2.0,1050.0,900000.0,31 KING Street ,ON,Central Canada
+3.0,3.0,2424.0,1250000.0,1228 Bonin Cres ,ON,Central Canada
+3.0,3.0,1520.0,900000.0,Smart Towns in Markham Insider VIP Access ,ON,Central Canada
+3.0,2.0,1537.0,1250000.0,975 Foss Road ,ON,Central Canada
+5.0,3.0,3000.0,1250000.0,113 Wilbert Cox Dr. ,ON,Central Canada
+4.0,3.0,2536.0,900000.0,32 PARKVIEW Drive ,ON,Central Canada
+4.0,2.0,1537.0,1250000.0,5127 Cherryhill Crescent ,ON,Central Canada
+3.0,3.0,1670.0,1250000.0,30 Barnsdale Lane ,ON,Central Canada
+2.0,2.0,1370.0,1250000.0,4064 Flemish Drive ,ON,Central Canada
+4.0,1.0,1153.0,1100000.0,2064 RIVER Road ,ON,Central Canada
+1.0,1.0,1920.0,1100000.0,125 Port Maitland Road ,ON,Central Canada
+4.0,1.0,1153.0,1100000.0,2064 RIVER Road ,ON,Central Canada
+4.0,3.0,2500.0,1250000.0,29 Swales Cres ,ON,Central Canada
+4.0,2.0,1500.0,927500.0,48 Grassmere Cres W ,ON,Central Canada
+4.0,2.0,1500.0,927500.0,48 Grassmere Cres W ,ON,Central Canada
+4.0,3.0,2600.0,1250000.0,26 AUGUSTA DRIVE ,ON,Central Canada
+5.0,3.0,3400.0,1199000.0,1644 #3 Highway E ,ON,Central Canada
+3.0,1.0,950.0,900000.0,3695 MOYER Road ,ON,Central Canada
+4.0,2.0,1638.0,1250000.0,27 Port Master Drive ,ON,Central Canada
+1.0,1.0,1920.0,1100000.0,125 Port Maitland Road ,ON,Central Canada
+4.0,3.0,2681.0,1250000.0,4091 Highland Park Drive ,ON,Central Canada
+5.0,3.0,3400.0,1199000.0,1644 #3 Highway E ,ON,Central Canada
+3.0,3.0,2424.0,1250000.0,1228 Bonin Cres ,ON,Central Canada
+4.0,3.0,2662.0,1499900.0,1764 Pilgrims Way ,ON,Central Canada
+3.0,2.0,1537.0,1250000.0,975 Foss Road ,ON,Central Canada
+5.0,3.0,3000.0,1250000.0,113 Wilbert Cox Dr. ,ON,Central Canada
+3.0,2.0,1691.0,1799000.0,2127 PT ABINO Road N ,ON,Central Canada
+3.0,2.0,1691.0,1799000.0,2127 PT ABINO Road N ,ON,Central Canada
+4.0,2.0,1537.0,1250000.0,5127 Cherryhill Crescent ,ON,Central Canada
+3.0,3.0,1670.0,1250000.0,30 Barnsdale Lane ,ON,Central Canada
+3.0,3.0,2475.0,1550000.0,1291 Concession 6 Woodhouse Road ,ON,Central Canada
+4.0,3.0,2662.0,1499900.0,1764 Pilgrims Way ,ON,Central Canada
+3.0,3.0,2475.0,1550000.0,1291 Concession 6 Woodhouse Road ,ON,Central Canada
+2.0,2.0,1370.0,1250000.0,4064 Flemish Drive ,ON,Central Canada
+3.0,3.0,2475.0,1550000.0,1291 Concession 6 Woodhouse Road ,ON,Central Canada
+2.0,2.0,1370.0,1250000.0,4064 Flemish Drive ,ON,Central Canada
+4.0,2.0,2515.0,1665000.0,923 2ND Line ,ON,Central Canada
+4.0,1.0,1894.0,1699900.0,960 Caistorville Road ,ON,Central Canada
+4.0,1.0,1894.0,1699900.0,960 Caistorville Road ,ON,Central Canada
+4.0,3.0,2500.0,1250000.0,29 Swales Cres ,ON,Central Canada
+5.0,5.0,3966.0,2000000.0,155 JOHN Street W ,ON,Central Canada
+1.0,1.0,895.0,1850000.0,438 Burtch Road ,ON,Central Canada
+4.0,3.0,2600.0,1250000.0,26 AUGUSTA DRIVE ,ON,Central Canada
+4.0,2.0,1638.0,1250000.0,27 Port Master Drive ,ON,Central Canada
+4.0,2.0,2515.0,1665000.0,923 2ND Line ,ON,Central Canada
+4.0,3.0,2681.0,1250000.0,4091 Highland Park Drive ,ON,Central Canada
+1.0,1.0,895.0,1850000.0,438 Burtch Road ,ON,Central Canada
+3.0,4.0,2300.0,2999999.0,3031 Cedar Springs Road ,ON,Central Canada
+3.0,2.0,2000.0,10000000.0,7156 WHITE CHURCH Road ,ON,Central Canada
+3.0,2.0,2000.0,10000000.0,7156 WHITE CHURCH Road ,ON,Central Canada
+5.0,2.0,2877.0,2175000.0,920 6th Conc Road W ,ON,Central Canada
+5.0,2.0,2877.0,2175000.0,920 6th Conc Road W ,ON,Central Canada
+5.0,2.0,3200.0,4899900.0,51 OAKES Road S ,ON,Central Canada
+3.0,1.0,1200.0,2100000.0,8082-8084 5th Conc Road ,ON,Central Canada
+3.0,2.0,2800.0,4190000.0,3595 SEVENTEENTH Street ,ON,Central Canada
+3.0,4.0,2300.0,2999999.0,3031 Cedar Springs Road ,ON,Central Canada
+5.0,3.0,2200.0,3990000.0,PT LT16 WINDHAM Road ,ON,Central Canada
+3.0,2.0,2070.0,7500000.0,440 4TH Line ,ON,Central Canada
+5.0,5.0,3966.0,2000000.0,155 JOHN Street W ,ON,Central Canada
+5.0,2.0,3200.0,4899900.0,51 OAKES Road S ,ON,Central Canada
+3.0,2.0,2800.0,4190000.0,3595 SEVENTEENTH Street ,ON,Central Canada
+5.0,3.0,2200.0,3990000.0,PT LT16 WINDHAM Road ,ON,Central Canada
+3.0,2.0,6584.0,5900000.0,3870 TINTERN Road ,ON,Central Canada
+3.0,2.0,2070.0,7500000.0,440 4TH Line ,ON,Central Canada
+3.0,2.0,6584.0,5900000.0,3870 TINTERN Road ,ON,Central Canada
+2.0,1.0,1200.0,2399000.0,422 MCCLUNG Road ,ON,Central Canada
+3.0,1.0,1200.0,2100000.0,8082-8084 5th Conc Road ,ON,Central Canada
+2.0,1.0,1200.0,2399000.0,422 MCCLUNG Road ,ON,Central Canada
+4.0,2.0,1320.0,234900.0,402 Andrews Street ,MB,Prairie Provinces
+3.0,1.0,1300.0,359900.0,1093 Moncton Avenue ,MB,Prairie Provinces
+3.0,2.0,1315.0,547900.0,723 Borebank Street ,MB,Prairie Provinces
+3.0,1.0,1300.0,359900.0,1093 Moncton Avenue ,MB,Prairie Provinces
+3.0,2.0,1050.0,339900.0,858 Southwood Avenue ,MB,Prairie Provinces
+3.0,2.0,1315.0,547900.0,723 Borebank Street ,MB,Prairie Provinces
+4.0,2.0,1320.0,234900.0,402 Andrews Street ,MB,Prairie Provinces
+3.0,2.0,1050.0,339900.0,858 Southwood Avenue ,MB,Prairie Provinces
+4.0,3.0,1345.0,183000.0,517 5th STREET NE ,SK,Prairie Provinces
+4.0,1.0,1064.0,155000.0,310 2nd AVENUE SE ,SK,Prairie Provinces
+5.0,2.0,1120.0,200000.0,753 Centre STREET ,SK,Prairie Provinces
+3.0,3.0,1599.0,200000.0,236 3rd Avenue E ,SK,Prairie Provinces
+2.0,2.0,1044.0,200000.0,223 1st AVENUE W ,SK,Prairie Provinces
+3.0,1.0,950.0,200000.0,253 Cornwall STREET ,SK,Prairie Provinces
+3.0,2.0,1040.0,200000.0,PT SW 23-26-25 W3rd ,SK,Prairie Provinces
+2.0,1.0,755.0,200000.0,411 25th STREET W ,SK,Prairie Provinces
+4.0,3.0,1345.0,183000.0,517 5th STREET NE ,SK,Prairie Provinces
+5.0,2.0,960.0,200000.0,221 8th STREET W ,SK,Prairie Provinces
+4.0,1.0,1064.0,155000.0,310 2nd AVENUE SE ,SK,Prairie Provinces
+3.0,3.0,1197.0,400000.0,3861 Athol STREET ,SK,Prairie Provinces
+5.0,2.0,1120.0,200000.0,753 Centre STREET ,SK,Prairie Provinces
+3.0,2.0,1120.0,400000.0,Lightfoot Farm - 160.8 Acres ,SK,Prairie Provinces
+3.0,3.0,1599.0,200000.0,236 3rd Avenue E ,SK,Prairie Provinces
+3.0,1.0,816.0,214900.0,4605 4th AVENUE ,SK,Prairie Provinces
+2.0,2.0,1044.0,200000.0,223 1st AVENUE W ,SK,Prairie Provinces
+3.0,1.0,950.0,200000.0,253 Cornwall STREET ,SK,Prairie Provinces
+1.0,1.0,608.0,400000.0,114 U AVENUE N ,SK,Prairie Provinces
+5.0,2.0,1344.0,400000.0,Gilroy Farm ,SK,Prairie Provinces
+3.0,2.0,1040.0,200000.0,PT SW 23-26-25 W3rd ,SK,Prairie Provinces
+4.0,3.0,1181.0,400000.0,520 Mackenzie DRIVE ,SK,Prairie Provinces
+3.0,1.0,816.0,214900.0,4605 4th AVENUE ,SK,Prairie Provinces
+2.0,1.0,755.0,200000.0,411 25th STREET W ,SK,Prairie Provinces
+3.0,3.0,2201.0,400000.0,17 Veterans BOULEVARD ,SK,Prairie Provinces
+5.0,2.0,960.0,200000.0,221 8th STREET W ,SK,Prairie Provinces
+3.0,3.0,1197.0,400000.0,3861 Athol STREET ,SK,Prairie Provinces
+3.0,2.0,1120.0,400000.0,Lightfoot Farm - 160.8 Acres ,SK,Prairie Provinces
+1.0,1.0,608.0,400000.0,114 U AVENUE N ,SK,Prairie Provinces
+5.0,2.0,1344.0,400000.0,Gilroy Farm ,SK,Prairie Provinces
+4.0,3.0,1181.0,400000.0,520 Mackenzie DRIVE ,SK,Prairie Provinces
+3.0,3.0,2201.0,400000.0,17 Veterans BOULEVARD ,SK,Prairie Provinces
+3.0,2.0,1200.0,200000.0,46515 Range Road 161 ,AB,Prairie Provinces
+2.0,1.0,1356264.0,200000.0,57312 RR25 406,AB,Prairie Provinces
+4.0,2.0,1240.0,200000.0,11512 103 Avenue ,AB,Prairie Provinces
+4.0,2.0,999.0,200000.0,4712 56 Street ,AB,Prairie Provinces
+4.0,2.0,973.0,200000.0,5404 58 Street ,AB,Prairie Provinces
+2.0,4.0,10285.0,200000.0,48504 Range Road 60 ,AB,Prairie Provinces
+3.0,2.0,1208.0,200000.0,177 Main Street ,AB,Prairie Provinces
+3.0,1.0,1117734.0,200000.0,11907 94 ST NW ,AB,Prairie Provinces
+3.0,4.0,1231.0,200000.0,5016 53 Street ,AB,Prairie Provinces
+3.0,2.0,1076938.0,200000.0,"101, 56402 RGE RD 51A 101",AB,Prairie Provinces
+3.0,1.0,89987.0,300000.0,11535 ST ALBERT TR NW ,AB,Prairie Provinces
+4.0,2.0,1191.0,300000.0,5713-43a street ,AB,Prairie Provinces
+3.0,2.0,1200.0,200000.0,46515 Range Road 161 ,AB,Prairie Provinces
+3.0,3.0,1143998.0,300000.0,21 UMBACH RD ,AB,Prairie Provinces
+3.0,2.0,1551092.0,300000.0,168 RIVER PT NW ,AB,Prairie Provinces
+5.0,3.0,1654.0,212000.0,4819 54 Street ,AB,Prairie Provinces
+4.0,2.0,1052.0,300000.0,71 Ireland Crescent ,AB,Prairie Provinces
+4.0,3.0,1761852.0,300000.0,110 ST 10532,AB,Prairie Provinces
+2.0,1.0,1356264.0,200000.0,57312 RR25 406,AB,Prairie Provinces
+4.0,2.0,1240.0,200000.0,11512 103 Avenue ,AB,Prairie Provinces
+4.0,2.0,2455914.0,300000.0,49 ST 5427,AB,Prairie Provinces
+4.0,2.0,999.0,200000.0,4712 56 Street ,AB,Prairie Provinces
+3.0,1.0,1465.0,300000.0,39112 Range Road 130 ,AB,Prairie Provinces
+3.0,2.0,1202985.0,300000.0,6 VAUGHN AV ,AB,Prairie Provinces
+3.0,3.0,1745.0,300000.0,401 4 Street NE ,AB,Prairie Provinces
+4.0,4.0,1543.0,300000.0,4630 53 Avenue ,AB,Prairie Provinces
+5.0,3.0,1654.0,212000.0,4819 54 Street ,AB,Prairie Provinces
+4.0,4.0,1581.0,300000.0,4524 Wood Crescent ,AB,Prairie Provinces
+4.0,3.0,1011.0,300000.0,3409 43 Avenue ,AB,Prairie Provinces
+2.0,2.0,868117.0,300000.0,44 AV 4909,AB,Prairie Provinces
+3.0,2.0,950.0,300000.0,31 Lawford Avenue ,AB,Prairie Provinces
+4.0,2.0,973.0,200000.0,5404 58 Street ,AB,Prairie Provinces
+2.0,4.0,10285.0,200000.0,48504 Range Road 60 ,AB,Prairie Provinces
+2.0,2.0,1149.0,300000.0,234080 Township Road 314 ,AB,Prairie Provinces
+6.0,2.0,1099004.0,300000.0,9318 108 AV NW ,AB,Prairie Provinces
+3.0,1.0,1031191.0,300000.0,53106 Range Road 195 19,AB,Prairie Provinces
+5.0,2.0,1055195.0,300000.0,27 KINISKI CR NW ,AB,Prairie Provinces
+3.0,2.0,925381.0,300000.0,55 ST 5428,AB,Prairie Provinces
+4.0,2.0,1248624.0,300000.0,13456 103 ST NW ,AB,Prairie Provinces
+3.0,2.0,1208.0,200000.0,177 Main Street ,AB,Prairie Provinces
+4.0,2.0,1446.0,300000.0,9418 91A Street ,AB,Prairie Provinces
+5.0,2.0,1092.0,300000.0,1028 30 Street S ,AB,Prairie Provinces
+5.0,2.0,965.0,300000.0,3824 Glacier Avenue S ,AB,Prairie Provinces
+4.0,3.0,1182.0,300000.0,5 Rolling Hills Close ,AB,Prairie Provinces
+3.0,3.0,1292003.0,300000.0,96 AV 8509,AB,Prairie Provinces
+3.0,1.0,1117734.0,200000.0,11907 94 ST NW ,AB,Prairie Provinces
+3.0,4.0,1231.0,200000.0,5016 53 Street ,AB,Prairie Provinces
+3.0,2.0,1076938.0,200000.0,"101, 56402 RGE RD 51A 101",AB,Prairie Provinces
+1.0,1.0,1064.0,300000.0,392075c Range Road 8-1 ,AB,Prairie Provinces
+3.0,1.0,89987.0,300000.0,11535 ST ALBERT TR NW ,AB,Prairie Provinces
+4.0,2.0,1284.0,365000.0,9807 100 Street ,AB,Prairie Provinces
+4.0,2.0,1191.0,300000.0,5713-43a street ,AB,Prairie Provinces
+5.0,3.0,105561.0,400000.0,1008 Pensdale Crescent SE ,AB,Prairie Provinces
+3.0,3.0,1143998.0,300000.0,21 UMBACH RD ,AB,Prairie Provinces
+3.0,2.0,1551092.0,300000.0,168 RIVER PT NW ,AB,Prairie Provinces
+4.0,4.0,1246.0,400000.0,1058 Taradale Drive NE ,AB,Prairie Provinces
+4.0,2.0,1052.0,300000.0,71 Ireland Crescent ,AB,Prairie Provinces
+3.0,2.0,105229.0,400000.0,5212 Maryvale Drive NE ,AB,Prairie Provinces
+4.0,3.0,1761852.0,300000.0,110 ST 10532,AB,Prairie Provinces
+5.0,3.0,2343.0,400000.0,479 Ross Glen Drive SE ,AB,Prairie Provinces
+1.0,2.0,534.0,400000.0,829 8 Avenue NE ,AB,Prairie Provinces
+4.0,2.0,1106.0,400000.0,608 Markerville Road NE ,AB,Prairie Provinces
+4.0,2.0,2455914.0,300000.0,49 ST 5427,AB,Prairie Provinces
+3.0,3.0,1275.0,400000.0,"394 Copperpond Boulevard SE Calgary, AB  ",AB,Prairie Provinces
+3.0,3.0,1228.0,400000.0,62 Hidden Ranch Circle NW ,AB,Prairie Provinces
+3.0,1.0,1465.0,300000.0,39112 Range Road 130 ,AB,Prairie Provinces
+3.0,2.0,1984666.0,400000.0,57 Southbridge CR ,AB,Prairie Provinces
+3.0,2.0,1202985.0,300000.0,6 VAUGHN AV ,AB,Prairie Provinces
+3.0,3.0,1745.0,300000.0,401 4 Street NE ,AB,Prairie Provinces
+4.0,4.0,1543.0,300000.0,4630 53 Avenue ,AB,Prairie Provinces
+4.0,2.0,1284.0,365000.0,9807 100 Street ,AB,Prairie Provinces
+3.0,2.0,1440438.0,400000.0,11335 55 ST NW ,AB,Prairie Provinces
+3.0,3.0,1703.0,400000.0,320 Copperstone Gardens SE ,AB,Prairie Provinces
+4.0,4.0,1581.0,300000.0,4524 Wood Crescent ,AB,Prairie Provinces
+4.0,3.0,1011.0,300000.0,3409 43 Avenue ,AB,Prairie Provinces
+3.0,2.0,965.0,400000.0,135 Drake Landing Loop ,AB,Prairie Provinces
+2.0,2.0,868117.0,300000.0,44 AV 4909,AB,Prairie Provinces
+3.0,2.0,1029.0,400000.0,60 Fawn Crescent SE ,AB,Prairie Provinces
+3.0,2.0,1265.0,400000.0,31 Coventry View NE ,AB,Prairie Provinces
+3.0,2.0,950.0,300000.0,31 Lawford Avenue ,AB,Prairie Provinces
+3.0,3.0,1461321.0,400000.0,54013 Range Road 30 5A,AB,Prairie Provinces
+2.0,2.0,1149.0,300000.0,234080 Township Road 314 ,AB,Prairie Provinces
+6.0,2.0,1099004.0,300000.0,9318 108 AV NW ,AB,Prairie Provinces
+3.0,1.0,1031191.0,300000.0,53106 Range Road 195 19,AB,Prairie Provinces
+5.0,4.0,2398.0,400000.0,1 Rose Crescent ,AB,Prairie Provinces
+5.0,2.0,1055195.0,300000.0,27 KINISKI CR NW ,AB,Prairie Provinces
+3.0,2.0,981784.0,400000.0,11206 67 ST NW ,AB,Prairie Provinces
+3.0,3.0,1668.0,400000.0,279 Northlander Bend W ,AB,Prairie Provinces
+3.0,2.0,925381.0,300000.0,55 ST 5428,AB,Prairie Provinces
+3.0,3.0,1231.0,400000.0,42 Riverpark Boulevard W ,AB,Prairie Provinces
+5.0,2.0,2009.0,400000.0,14538 Twnship 29-4A Road ,AB,Prairie Provinces
+2.0,2.0,85325.0,400000.0,8504 34 Avenue NW ,AB,Prairie Provinces
+3.0,3.0,130025.0,400000.0,348 Bayview Street SW ,AB,Prairie Provinces
+4.0,2.0,1248624.0,300000.0,13456 103 ST NW ,AB,Prairie Provinces
+4.0,2.0,1446.0,300000.0,9418 91A Street ,AB,Prairie Provinces
+3.0,2.0,1575204.0,400000.0,7615 183 ST NW ,AB,Prairie Provinces
+4.0,3.0,1120.0,400000.0,158 Grand River Boulevard W ,AB,Prairie Provinces
+3.0,4.0,188359.0,400000.0,36 Chinook Crescent ,AB,Prairie Provinces
+5.0,2.0,1092.0,300000.0,1028 30 Street S ,AB,Prairie Provinces
+5.0,2.0,965.0,300000.0,3824 Glacier Avenue S ,AB,Prairie Provinces
+4.0,3.0,1182.0,300000.0,5 Rolling Hills Close ,AB,Prairie Provinces
+3.0,3.0,1292003.0,300000.0,96 AV 8509,AB,Prairie Provinces
+3.0,3.0,1449157.0,400000.0,33 JOYAL WY ,AB,Prairie Provinces
+1.0,1.0,1064.0,300000.0,392075c Range Road 8-1 ,AB,Prairie Provinces
+5.0,3.0,105561.0,400000.0,1008 Pensdale Crescent SE ,AB,Prairie Provinces
+4.0,2.0,953.0,500000.0,945 32 Avenue NW ,AB,Prairie Provinces
+3.0,3.0,1748.0,500000.0,711 12 Street S ,AB,Prairie Provinces
+4.0,4.0,1246.0,400000.0,1058 Taradale Drive NE ,AB,Prairie Provinces
+3.0,2.0,105229.0,400000.0,5212 Maryvale Drive NE ,AB,Prairie Provinces
+3.0,2.0,1676.0,500000.0,162019 TR164 Road ,AB,Prairie Provinces
+5.0,3.0,2343.0,400000.0,479 Ross Glen Drive SE ,AB,Prairie Provinces
+1.0,2.0,534.0,400000.0,829 8 Avenue NE ,AB,Prairie Provinces
+4.0,2.0,1106.0,400000.0,608 Markerville Road NE ,AB,Prairie Provinces
+3.0,3.0,1275.0,400000.0,"394 Copperpond Boulevard SE Calgary, AB  ",AB,Prairie Provinces
+3.0,3.0,1228.0,400000.0,62 Hidden Ranch Circle NW ,AB,Prairie Provinces
+3.0,2.0,1984666.0,400000.0,57 Southbridge CR ,AB,Prairie Provinces
+3.0,2.0,1565.0,500000.0,69052 RGE RD 72 Range ,AB,Prairie Provinces
+3.0,2.0,1440438.0,400000.0,11335 55 ST NW ,AB,Prairie Provinces
+3.0,3.0,1640.0,500000.0,10 McClung Gate ,AB,Prairie Provinces
+5.0,4.0,2258.0,500000.0,56 WINTER Drive ,AB,Prairie Provinces
+3.0,3.0,185113.0,500000.0,26 Drake Landing Way ,AB,Prairie Provinces
+3.0,3.0,1703.0,400000.0,320 Copperstone Gardens SE ,AB,Prairie Provinces
+3.0,1.0,169535.0,500000.0,11330/11308 86 Street SE 11330,AB,Prairie Provinces
+3.0,2.0,965.0,400000.0,135 Drake Landing Loop ,AB,Prairie Provinces
+3.0,3.0,1899.0,500000.0,60 Aspen Heights Way ,AB,Prairie Provinces
+3.0,2.0,1029.0,400000.0,60 Fawn Crescent SE ,AB,Prairie Provinces
+3.0,2.0,1265.0,400000.0,31 Coventry View NE ,AB,Prairie Provinces
+3.0,3.0,1461321.0,400000.0,54013 Range Road 30 5A,AB,Prairie Provinces
+3.0,3.0,1885315.0,500000.0,1344 RUTHERFORD RD SW ,AB,Prairie Provinces
+3.0,3.0,2131272.0,500000.0,4205 CHARLES CL SW ,AB,Prairie Provinces
+5.0,4.0,2398.0,400000.0,1 Rose Crescent ,AB,Prairie Provinces
+4.0,4.0,1819.0,500000.0,107 Silverado Drive SW ,AB,Prairie Provinces
+3.0,2.0,981784.0,400000.0,11206 67 ST NW ,AB,Prairie Provinces
+3.0,3.0,1668.0,400000.0,279 Northlander Bend W ,AB,Prairie Provinces
+2.0,3.0,128681.0,500000.0,43 Hawksbrow Road NW ,AB,Prairie Provinces
+3.0,3.0,1231.0,400000.0,42 Riverpark Boulevard W ,AB,Prairie Provinces
+5.0,2.0,2009.0,400000.0,14538 Twnship 29-4A Road ,AB,Prairie Provinces
+2.0,2.0,85325.0,400000.0,8504 34 Avenue NW ,AB,Prairie Provinces
+3.0,3.0,130025.0,400000.0,348 Bayview Street SW ,AB,Prairie Provinces
+5.0,3.0,38708.0,500000.0,19 Parkland Crescent ,AB,Prairie Provinces
+3.0,2.0,1575204.0,400000.0,7615 183 ST NW ,AB,Prairie Provinces
+3.0,3.0,162725.0,500000.0,86 Fireside Place ,AB,Prairie Provinces
+4.0,3.0,1120.0,400000.0,158 Grand River Boulevard W ,AB,Prairie Provinces
+3.0,4.0,188359.0,400000.0,36 Chinook Crescent ,AB,Prairie Provinces
+4.0,3.0,1378.0,500000.0,3339 50 Avenue ,AB,Prairie Provinces
+3.0,3.0,1449157.0,400000.0,33 JOYAL WY ,AB,Prairie Provinces
+3.0,2.0,1179.0,599900.0,145 Hanover Road SW ,AB,Prairie Provinces
+3.0,2.0,1179.0,599900.0,145 Hanover Road SW ,AB,Prairie Provinces
+5.0,2.0,1170.0,649000.0,1412 Child Avenue NE ,AB,Prairie Provinces
+2.0,2.0,1532.0,525000.0,1416 Memorial Drive NW ,AB,Prairie Provinces
+4.0,3.0,1441.0,539000.0,239 Parkridge Hill SE ,AB,Prairie Provinces
+4.0,3.0,1441.0,539000.0,239 Parkridge Hill SE ,AB,Prairie Provinces
+3.0,2.0,153479.0,700000.0,1634 5 Street NW ,AB,Prairie Provinces
+4.0,2.0,953.0,500000.0,945 32 Avenue NW ,AB,Prairie Provinces
+3.0,3.0,1748.0,500000.0,711 12 Street S ,AB,Prairie Provinces
+5.0,5.0,230059.0,700000.0,192 Cougarstone Court SW ,AB,Prairie Provinces
+4.0,3.0,3519828.0,700000.0,9124 151 ST NW ,AB,Prairie Provinces
+3.0,2.0,1676.0,500000.0,162019 TR164 Road ,AB,Prairie Provinces
+3.0,2.0,1565.0,500000.0,69052 RGE RD 72 Range ,AB,Prairie Provinces
+3.0,3.0,1640.0,500000.0,10 McClung Gate ,AB,Prairie Provinces
+5.0,4.0,2258.0,500000.0,56 WINTER Drive ,AB,Prairie Provinces
+3.0,3.0,185113.0,500000.0,26 Drake Landing Way ,AB,Prairie Provinces
+3.0,1.0,169535.0,500000.0,11330/11308 86 Street SE 11330,AB,Prairie Provinces
+3.0,3.0,1899.0,500000.0,60 Aspen Heights Way ,AB,Prairie Provinces
+5.0,3.0,1443991.0,700000.0,12304 62 AV NW ,AB,Prairie Provinces
+3.0,3.0,1885315.0,500000.0,1344 RUTHERFORD RD SW ,AB,Prairie Provinces
+3.0,3.0,2131272.0,500000.0,4205 CHARLES CL SW ,AB,Prairie Provinces
+2.0,2.0,1532.0,525000.0,1416 Memorial Drive NW ,AB,Prairie Provinces
+4.0,4.0,1819.0,500000.0,107 Silverado Drive SW ,AB,Prairie Provinces
+2.0,3.0,128681.0,500000.0,43 Hawksbrow Road NW ,AB,Prairie Provinces
+5.0,3.0,38708.0,500000.0,19 Parkland Crescent ,AB,Prairie Provinces
+3.0,3.0,162725.0,500000.0,86 Fireside Place ,AB,Prairie Provinces
+4.0,3.0,1378.0,500000.0,3339 50 Avenue ,AB,Prairie Provinces
+5.0,2.0,1170.0,649000.0,1412 Child Avenue NE ,AB,Prairie Provinces
+6.0,4.0,1822.0,1150000.0,372025 RGE RD 4-5 ,AB,Prairie Provinces
+6.0,4.0,1822.0,1150000.0,372025 RGE RD 4-5 ,AB,Prairie Provinces
+3.0,2.0,153479.0,700000.0,1634 5 Street NW ,AB,Prairie Provinces
+3.0,3.0,272363.0,999999.0,35456 Range Road 274 ,AB,Prairie Provinces
+5.0,5.0,230059.0,700000.0,192 Cougarstone Court SW ,AB,Prairie Provinces
+4.0,3.0,3519828.0,700000.0,9124 151 ST NW ,AB,Prairie Provinces
+3.0,3.0,2649.0,1790000.0,373057 Range Road 6-4 ,AB,Prairie Provinces
+5.0,5.0,3496.0,2079000.0,37321 Range Road 265 ,AB,Prairie Provinces
+4.0,4.0,2000.0,2350000.0,37105 Range Road 270 ,AB,Prairie Provinces
+3.0,3.0,2649.0,1790000.0,373057 Range Road 6-4 ,AB,Prairie Provinces
+5.0,3.0,1443991.0,700000.0,12304 62 AV NW ,AB,Prairie Provinces
+3.0,3.0,272363.0,999999.0,35456 Range Road 274 ,AB,Prairie Provinces
+5.0,3.0,2020.0,969900.0,29039 Highway 587 ,AB,Prairie Provinces
+5.0,5.0,3496.0,2079000.0,37321 Range Road 265 ,AB,Prairie Provinces
+5.0,3.0,2020.0,969900.0,29039 Highway 587 ,AB,Prairie Provinces
+4.0,4.0,2000.0,2350000.0,37105 Range Road 270 ,AB,Prairie Provinces
+4.0,3.0,1608.0,1399000.0,390027 RANGE ROAD 65 ,AB,Prairie Provinces
+4.0,3.0,1608.0,1399000.0,390027 RANGE ROAD 65 ,AB,Prairie Provinces
+3.0,2.0,1545.0,700000.0,2664 Jasmine Pl ,BC,West Coast
+3.0,2.0,1545.0,700000.0,2664 Jasmine Pt ,BC,West Coast
+2.0,1.0,1421.0,469000.0,4926 Timber Ridge Road ,BC,West Coast
+4.0,3.0,2135.0,599900.0,2236 Mallory Dr ,BC,West Coast
+4.0,2.0,1855.0,534900.0,2560 8th Ave ,BC,West Coast
+3.0,2.0,1810.0,549000.0,4926 Timber Ridge Road ,BC,West Coast
+3.0,1.0,1345.0,459900.0,4914 Elizabeth St ,BC,West Coast
+2.0,3.0,1335.0,562000.0,9510 Quinpool Road ,BC,West Coast
+3.0,1.0,1600.0,349900.0,104 Cowichan Ave ,BC,West Coast
+2.0,3.0,1335.0,562000.0,9510 Quinpool Road ,BC,West Coast
+2.0,1.0,1421.0,469000.0,4926 Timber Ridge Road ,BC,West Coast
+3.0,2.0,1810.0,549000.0,4926 Timber Ridge Road ,BC,West Coast
+3.0,1.0,1345.0,459900.0,4914 Elizabeth St ,BC,West Coast
+4.0,3.0,2135.0,599900.0,2236 Mallory Dr ,BC,West Coast
+1.0,1.0,1392.0,270000.0,Lot 28 View Ridge Rd ,BC,West Coast
+4.0,3.0,1920.0,490000.0,SL11 Haggard Cove ,BC,West Coast
+3.0,1.0,1600.0,349900.0,104 Cowichan Ave ,BC,West Coast
+4.0,2.0,1855.0,534900.0,2560 8th Ave ,BC,West Coast
+1.0,1.0,1392.0,270000.0,Lot 28 View Ridge Rd ,BC,West Coast
+3.0,3.0,4407.0,700000.0,5401 MITCHELL BAY ROAD ,BC,West Coast
+4.0,3.0,1920.0,490000.0,SL11 Haggard Cove ,BC,West Coast
+5.0,3.0,2719.0,700000.0,225 VIKING DRIVE ,BC,West Coast
+2.0,3.0,1500.0,1500000.0,101-452 LAKESHORE DRIVE ,BC,West Coast
+2.0,3.0,1500.0,1500000.0,102-452 LAKESHORE DRIVE ,BC,West Coast
+3.0,2.0,1545.0,700000.0,2664 Jasmine Pl ,BC,West Coast
+4.0,2.0,1950.0,1500000.0,468 E 49TH AVENUE ,BC,West Coast
+3.0,2.0,1545.0,700000.0,2664 Jasmine Pt ,BC,West Coast
+8.0,5.0,3429.0,1500000.0,50484 KINGSTON DRIVE ,BC,West Coast
+2.0,2.0,2150.0,879900.0,Lot 31 Smithers Rd ,BC,West Coast
+3.0,1.0,1971.0,1500000.0,1795 Cambie Solsqua ,BC,West Coast
+6.0,4.0,4214.0,1500000.0,156 Sendero Crescent ,BC,West Coast
+2.0,1.0,1556.0,1195000.0,4026 Island Hwy S ,BC,West Coast
+3.0,2.0,2212.0,1500000.0,12620 256 STREET ,BC,West Coast
+4.0,3.0,3298.0,1500000.0,1018 GILBERT NO. 1 ROAD ,BC,West Coast
+2.0,2.0,2150.0,879900.0,Lot 31 Smithers Rd ,BC,West Coast
+12.0,6.0,3000.0,1495000.0,1015/1021 Virginia Rd ,BC,West Coast
+12.0,6.0,3000.0,1495000.0,1015/1021 Virginia Rd ,BC,West Coast
+3.0,2.0,1264.0,1500000.0,20105 53 AVENUE ,BC,West Coast
+6.0,6.0,3000.0,1500000.0,6575 NELSON AVENUE ,BC,West Coast
+5.0,4.0,3516.0,1375000.0,Lot 17 Viewtop Rd ,BC,West Coast
+4.0,2.0,1800.0,1500000.0,"5477 230 Road, ",BC,West Coast
+3.0,1.0,1620.0,1500000.0,"97 A Highway, 8522",BC,West Coast
+8.0,3.0,4222.0,1500000.0,6399 & 6415 Walker Rd ,BC,West Coast
+4.0,2.0,1674.0,1248000.0,DL364 Whiterock Pass ,BC,West Coast
+2.0,1.0,1150.0,1500000.0,3330 & 3344 Johnston Rd ,BC,West Coast
+2.0,1.0,1444.0,1500000.0,"Lot 2 Queest Bay, ",BC,West Coast
+5.0,4.0,2434.0,1500000.0,11945 HALL STREET ,BC,West Coast
+3.0,2.0,2056.0,1500000.0,3211 West Rd ,BC,West Coast
+3.0,2.0,1543.0,1500000.0,20111 53 AVENUE ,BC,West Coast
+1.0,2.0,1400.0,1500000.0,"1100 George Street, ",BC,West Coast
+5.0,5.0,3221.0,1500000.0,21206 MCCALLUM COURT ,BC,West Coast
+3.0,2.0,1971.0,1500000.0,"1795 Cambie-Solsqua Road, ",BC,West Coast
+2.0,1.0,900.0,1500000.0,12064 FRASER STREET ,BC,West Coast
+3.0,3.0,1600.0,1500000.0,7381 LITTLE FORT 24 HIGHWAY ,BC,West Coast
+4.0,3.0,2230.0,1500000.0,225 SEVENTH STREET ,BC,West Coast
+2.0,1.0,1556.0,1195000.0,4026 Island Hwy S ,BC,West Coast
+5.0,4.0,3516.0,1375000.0,Lot 17 Viewtop Rd ,BC,West Coast
+4.0,3.0,2700.0,1500000.0,"9178 Clancy Frontage Road, ",BC,West Coast
+5.0,5.0,3400.0,1500000.0,10888 LOLLAND CRESCENT ,BC,West Coast
+4.0,3.0,2600.0,1500000.0,"138 SALIKEN Drive, ",BC,West Coast
+4.0,2.0,1824.0,1500000.0,5079 PATRICK STREET ,BC,West Coast
+7.0,3.0,2362.0,1500000.0,452 ROUSSEAU STREET ,BC,West Coast
+4.0,2.0,1674.0,1248000.0,DL364 Whiterock Pass ,BC,West Coast
+3.0,3.0,4407.0,700000.0,5401 MITCHELL BAY ROAD ,BC,West Coast
+5.0,3.0,2719.0,700000.0,225 VIKING DRIVE ,BC,West Coast
+4.0,2.0,1470.0,1500000.0,5005 CULTUS LAKE ROAD ,BC,West Coast
+11.0,3.0,3950.0,1500000.0,"31 Highway, 5960",BC,West Coast
+3.0,2.0,1330.0,1500000.0,2093 KING GEORGE BOULEVARD ,BC,West Coast
+4.0,3.0,2010.0,1500000.0,11770 72 AVENUE ,BC,West Coast
+2.0,3.0,1500.0,1500000.0,101-452 LAKESHORE DRIVE ,BC,West Coast
+2.0,3.0,1500.0,1500000.0,102-452 LAKESHORE DRIVE ,BC,West Coast
+4.0,2.0,1950.0,1500000.0,468 E 49TH AVENUE ,BC,West Coast
+8.0,5.0,3429.0,1500000.0,50484 KINGSTON DRIVE ,BC,West Coast
+3.0,1.0,1971.0,1500000.0,1795 Cambie Solsqua ,BC,West Coast
+2.0,3.0,1755.0,2000000.0,8295 Radium Golf Course Rd ,BC,West Coast
+5.0,3.0,2540.0,2000000.0,9254 Rideau Ave. ,BC,West Coast
+6.0,4.0,4214.0,1500000.0,156 Sendero Crescent ,BC,West Coast
+3.0,2.0,2212.0,1500000.0,12620 256 STREET ,BC,West Coast
+4.0,3.0,3298.0,1500000.0,1018 GILBERT NO. 1 ROAD ,BC,West Coast
+4.0,3.0,3399.0,2000000.0,1283 Pintail Dr ,BC,West Coast
+3.0,1.0,2686.0,2000000.0,206 Robert St ,BC,West Coast
+4.0,5.0,4229.0,2000000.0,1020 Virginia Rd ,BC,West Coast
+3.0,2.0,1264.0,1500000.0,20105 53 AVENUE ,BC,West Coast
+6.0,6.0,3000.0,1500000.0,6575 NELSON AVENUE ,BC,West Coast
+5.0,4.0,3870.0,2000000.0,"3351 Vineyard View Drive, ",BC,West Coast
+3.0,1.0,1299.0,2000000.0,10584 137A STREET ,BC,West Coast
+6.0,3.0,2406.0,2000000.0,8784 116 STREET ,BC,West Coast
+4.0,4.0,2120.0,2000000.0,145 A STREET 10296,BC,West Coast
+4.0,2.0,1800.0,1500000.0,"5477 230 Road, ",BC,West Coast
+4.0,2.0,1900.0,2000000.0,27244 29A AVENUE ,BC,West Coast
+4.0,2.0,2546.0,2000000.0,2875 JOURDENAIS ROAD ,BC,West Coast
+4.0,2.0,2546.0,2000000.0,"2875 Jourdenais Road, ",BC,West Coast
+2.0,2.0,1541.0,2000000.0,"50 Riverbend Road, ",BC,West Coast
+5.0,2.0,2290.0,2000000.0,13644 60 AVENUE ,BC,West Coast
+3.0,1.0,1620.0,1500000.0,"97 A Highway, 8522",BC,West Coast
+8.0,3.0,4222.0,1500000.0,6399 & 6415 Walker Rd ,BC,West Coast
+2.0,1.0,1150.0,1500000.0,3330 & 3344 Johnston Rd ,BC,West Coast
+2.0,1.0,1444.0,1500000.0,"Lot 2 Queest Bay, ",BC,West Coast
+5.0,4.0,2434.0,1500000.0,11945 HALL STREET ,BC,West Coast
+8.0,7.0,5180.0,2000000.0,7335 MOUNT THURSTON DRIVE ,BC,West Coast
+4.0,3.0,2604.0,2000000.0,8774 116 STREET ,BC,West Coast
+3.0,2.0,1171.0,2000000.0,10769 132A STREET ,BC,West Coast
+3.0,2.0,2056.0,1500000.0,3211 West Rd ,BC,West Coast
+3.0,1.0,1045.0,2000000.0,10759 132A STREET ,BC,West Coast
+3.0,2.0,1543.0,1500000.0,20111 53 AVENUE ,BC,West Coast
+1.0,2.0,1400.0,1500000.0,"1100 George Street, ",BC,West Coast
+5.0,5.0,3221.0,1500000.0,21206 MCCALLUM COURT ,BC,West Coast
+2.0,1.0,1111.0,2000000.0,"12051 Okanagan Centre Road, W ",BC,West Coast
+3.0,2.0,1971.0,1500000.0,"1795 Cambie-Solsqua Road, ",BC,West Coast
+2.0,1.0,900.0,1500000.0,12064 FRASER STREET ,BC,West Coast
+3.0,3.0,1600.0,1500000.0,7381 LITTLE FORT 24 HIGHWAY ,BC,West Coast
+4.0,3.0,2230.0,1500000.0,225 SEVENTH STREET ,BC,West Coast
+4.0,3.0,2700.0,1500000.0,"9178 Clancy Frontage Road, ",BC,West Coast
+6.0,6.0,2460.0,2000000.0,1079 Verrinder Ave ,BC,West Coast
+5.0,5.0,3400.0,1500000.0,10888 LOLLAND CRESCENT ,BC,West Coast
+4.0,3.0,2600.0,1500000.0,"138 SALIKEN Drive, ",BC,West Coast
+4.0,2.0,1824.0,1500000.0,5079 PATRICK STREET ,BC,West Coast
+5.0,3.0,1909.0,2000000.0,33426 GEORGE FERGUSON WAY ,BC,West Coast
+7.0,3.0,2362.0,1500000.0,452 ROUSSEAU STREET ,BC,West Coast
+5.0,3.0,2434.0,2000000.0,8785 116 STREET ,BC,West Coast
+4.0,2.0,1470.0,1500000.0,5005 CULTUS LAKE ROAD ,BC,West Coast
+11.0,3.0,3950.0,1500000.0,"31 Highway, 5960",BC,West Coast
+9.0,8.0,6834.0,2000000.0,"737 WILTSE Boulevard, ",BC,West Coast
+3.0,2.0,1330.0,1500000.0,2093 KING GEORGE BOULEVARD ,BC,West Coast
+3.0,1.0,1440.0,2000000.0,9974 138 STREET ,BC,West Coast
+4.0,3.0,2010.0,1500000.0,11770 72 AVENUE ,BC,West Coast
+5.0,3.0,2540.0,2000000.0,9254 Rideau Ave. ,BC,West Coast
+2.0,3.0,1755.0,2000000.0,8295 Radium Golf Course Rd ,BC,West Coast
+8.0,4.0,3630.0,5500000.0,3290 DUMFRIES STREET ,BC,West Coast
+3.0,1.0,2686.0,2000000.0,206 Robert St ,BC,West Coast
+4.0,5.0,4229.0,2000000.0,1020 Virginia Rd ,BC,West Coast
+4.0,3.0,3399.0,2000000.0,1283 Pintail Dr ,BC,West Coast
+8.0,4.0,3630.0,5500000.0,3290 DUMFRIES STREET ,BC,West Coast
+8.0,7.0,5180.0,2000000.0,7335 MOUNT THURSTON DRIVE ,BC,West Coast
+9.0,8.0,6834.0,2000000.0,"737 WILTSE Boulevard, ",BC,West Coast
+5.0,3.0,1909.0,2000000.0,33426 GEORGE FERGUSON WAY ,BC,West Coast
+10.0,6.0,5150.0,3299000.0,4311 4313 ALBERT STREET ,BC,West Coast
+5.0,2.0,2290.0,2000000.0,13644 60 AVENUE ,BC,West Coast
+4.0,3.0,2604.0,2000000.0,8774 116 STREET ,BC,West Coast
+6.0,3.0,2406.0,2000000.0,8784 116 STREET ,BC,West Coast
+5.0,3.0,2434.0,2000000.0,8785 116 STREET ,BC,West Coast
+8.0,6.0,5582.0,3499000.0,120 BIRCH AVE ,BC,West Coast
+4.0,2.0,1900.0,2000000.0,27244 29A AVENUE ,BC,West Coast
+1.0,1.0,224.0,2200000.0,DL 625 HEAD BAY Rd ,BC,West Coast
+3.0,1.0,1045.0,2000000.0,10759 132A STREET ,BC,West Coast
+2.0,1.0,1111.0,2000000.0,"12051 Okanagan Centre Road, W ",BC,West Coast
+3.0,1.0,1299.0,2000000.0,10584 137A STREET ,BC,West Coast
+5.0,4.0,3870.0,2000000.0,"3351 Vineyard View Drive, ",BC,West Coast
+8.0,6.0,5582.0,3499000.0,120 BIRCH AVE ,BC,West Coast
+4.0,4.0,2120.0,2000000.0,145 A STREET 10296,BC,West Coast
+3.0,2.0,1171.0,2000000.0,10769 132A STREET ,BC,West Coast
+10.0,6.0,5150.0,3299000.0,4311 4313 ALBERT STREET ,BC,West Coast
+6.0,6.0,2460.0,2000000.0,1079 Verrinder Ave ,BC,West Coast
+1.0,1.0,224.0,2200000.0,DL 625 HEAD BAY Rd ,BC,West Coast
+4.0,2.0,2546.0,2000000.0,"2875 Jourdenais Road, ",BC,West Coast
+2.0,2.0,1541.0,2000000.0,"50 Riverbend Road, ",BC,West Coast
+4.0,2.0,2546.0,2000000.0,2875 JOURDENAIS ROAD ,BC,West Coast
+2.0,1.0,1250.0,2850000.0,101 South St ,BC,West Coast
+3.0,1.0,1440.0,2000000.0,9974 138 STREET ,BC,West Coast
+2.0,1.0,1250.0,2850000.0,101 South St ,BC,West Coast

@@ -1,0 +1,2191 @@
+Beds,Bath,Sqft,Lot_Size,Type,Price,Address
+3,1,1008,.155,Residential,255555 CAD,2805 4TH AVENUE N 
+4,3,1179,,Residential,333900 CAD,201 Cedar PLACE 
+3,2,1199,,Residential,318000 CAD,204 Willow CRESCENT 
+4,3,1226,0.63,Residential,324900 CAD,222 1st AVENUE SW 
+4,2,1262,,Residential,339900 CAD,Duncan Road Acreage - Rm of Prince Albert 
+3,3,1184,0.12,Residential,384900 CAD,5835 Keffner BAY 
+5,2,1034,.137,Residential,299000 CAD,124 Riddell CRESCENT 
+3,1,1544,,Residential,219000 CAD,101 Metcalfe STREET 
+5,3,1500,>5.6,Residential,384500 CAD,501 Main STREET 
+3,1,928,7.12,Residential,256000 CAD,RM of Reford No. 379-57.12 acres 
+2,1,751,.072,Residential,219900 CAD,2322 Argyle STREET 
+4,2,1085,.085,Residential,299900 CAD,66 Sherman ROAD 
+3,2,1201,,Residential,389900 CAD,317 Haichert STREET 
+3,2,1160,,Residential,214900 CAD,715 Hart Road 
+2,1,858,.072,Residential,209900 CAD,701 Athol STREET 
+4,1,1640,,Residential,219900 CAD,3005 3rd AVENUE 
+2,2,1105,.299,Residential,339000 CAD,1 Country CRESCENT 
+4,2,1128,.143,Residential,329900 CAD,210 McCarthy BOULEVARD N 
+5,2,960,.141,Residential,359900 CAD,247 Davies ROAD 
+5,3,1258,,Residential,359900 CAD,223 10th STREET 
+3,2,1004,.143,Residential,349900 CAD,4105 Regina AVENUE 
+5,4,2961,0.29,Residential,254000 CAD,309 Strange STREET 
+3,3,1921,0.43,Residential,238000 CAD,102 Hill AVENUE 
+5,2,1552,0.28,Residential,344000 CAD,1132 Gordon STREET 
+3,2,798,.072,Residential,232000 CAD,2664 Wallace STREET 
+5,3,1677,.264,Residential,219900 CAD,219 Third STREET E 
+3,2,1480,.097,Residential,369900 CAD,940 Stonebridge Common 
+4,4,1888,0.06,Residential,265000 CAD,11KM East 
+2,1,720,.115,Residential,270000 CAD,904 7th STREET E 
+4,2,1256,12.3,Residential,295000 CAD,RM of Hillsdale-12.3 acre acreage 
+4,2,950,.106,Residential,319800 CAD,214 Boychuk DRIVE 
+3,2,1419,1.63,Farm,395000 CAD,Stanley Farm 
+2,2,630,,Residential,299900 CAD,1301 13th STREET E 
+3,2,804,.144,Residential,259900 CAD,641 McCarthy BOULEVARD 
+6,2,1123,0.15,Residential,320900 CAD,1528 Uhrich AVENUE 
+2,1,1119,0.11,Residential,339900 CAD,1 Spruce AVENUE 
+4,3,1518,,Residential,295000 CAD,740 HUDSON CRESCENT 
+5,4,1809,,Residential,314900 CAD,730 14th STREET 
+3,3,1336,.198,Residential,235000 CAD,5014 Telegraph STREET 
+5,3,1490,,Residential,315000 CAD,301 Henry STREET 
+3,2,1585,.292,Residential,365000 CAD,101 Rye STREET 
+4,2,1362,g>10,Residential,339900 CAD,# Duncan ROAD 
+3,2,2064,g>46,Residential,328000 CAD,SHAW ACREAGE 
+3,2,1174,.135,Residential,279900 CAD,256 Ottawa STREET N 
+3,1,1460,.185,Residential,219900 CAD,1841 Grant DRIVE 
+3,2,1016,.152,Residential,379900 CAD,907 5th AVENUE N 
+3,2,1232,,Residential,249900 CAD,305 Walter Scott AVENUE 
+3,2,995,0.14,Residential,274900 CAD,223 Coldwell ROAD 
+3,2,1793,.128,Residential,374900 CAD,3709 NORMANDY AVENUE 
+3,1,950,.143,Residential,229900 CAD,175 Lorne STREET N 
+3,3,1044,.047,Residential,339900 CAD,4613 Primrose Green DRIVE E 
+5,2,1000,.115,Residential,309900 CAD,2131 Wascana STREET 
+4,2,960,,Residential,309900 CAD,1046 Carleton STREET 
+4,2,966,,Residential,254900 CAD,616 H AVENUE S 
+5,3,1100,,Residential,369900 CAD,535 Costigan ROAD 
+4,3,1250,,Residential,379900 CAD,48 Campbell PLACE 
+4,2,1120,,Residential,374900 CAD,73 Neilson CRESCENT 
+5,3,1922,.151,Residential,344900 CAD,210 Heise CRESCENT 
+4,3,1141,0.14,Single,239900 CAD,4803 47 Street 
+3,1,988,,Residential,219900 CAD,1117 Monk AVENUE 
+3,2,1045,.072,Residential,220000 CAD,2034 Queen STREET 
+4,2,1050,,Residential,332900 CAD,433 3rd AVENUE NW 
+3,2,1082,.139,Residential,309900 CAD,96 Yarnton CRESCENT 
+3,1,1028,0.14,Residential,274900 CAD,120 Coldwell ROAD 
+3,2,882,.158,Residential,264900 CAD,26 FORSYTH CRESCENT 
+5,2,1056,,Residential,248900 CAD,437 W AVENUE S 
+4,3,1296,0.15,Residential,237900 CAD,99 Redwood DRIVE 
+4,2,960,.149,Residential,269900 CAD,1301 N AVENUE S 
+4,2,938,.101,Residential,317900 CAD,1202 Blackwood STREET N 
+3,2,1343,.144,Residential,349000 CAD,4240 Argyle STREET 
+3,1,1047,.075,Residential,279900 CAD,2501 Edward STREET 
+3,1,900,>0.1,Residential,269900 CAD,207 Adelaide STREET E 
+2,2,764,.112,Residential,217500 CAD,1502 Lacon STREET 
+3,2,742,,Residential,274900 CAD,628 3rd AVENUE N 
+4,2,1150,.092,Residential,220000 CAD,221 Dufferin STREET E 
+3,2,1440,>0.1,Residential,369900 CAD,205 Ash STREET 
+4,3,1058,0.13,Residential,383000 CAD,443 KONIHOWSKI ROAD 
+3,2,853,,Residential,279900 CAD,3517 33rd STREET W 
+3,3,1395,.107,Residential,349900 CAD,2807 Victoria AVENUE 
+5,3,1472,.182,Residential,399900 CAD,401 Spruce DRIVE 
+5,3,1494,0.11,Residential,334900 CAD,98 Matheson CRESCENT 
+5,3,1215,,Residential,399900 CAD,469 Brooklyn CRESCENT 
+3,2,1000,.154,Residential,244000 CAD,112 MCCAUL CRESCENT 
+5,2,1008,0.16,Residential,249900 CAD,313 Q AVENUE S 
+5,2,1288,.396,Residential,350000 CAD,123 1st AVENUE 
+3,1,1209,,Residential,297500 CAD,"322 Lakeside Crescent, Coteau Beach "
+5,2,1040,,Residential,220000 CAD,372 Wellington Park ROAD 
+4,2,960,0.22,Residential,315000 CAD,615 8th Avenue W 
+5,3,1040,.121,Residential,209900 CAD,629 McCarthy BOULEVARD 
+2,1,1000,0.23,Residential,260000 CAD,Lot 64 Suffern Lake Regional Park 
+5,2,936,.123,Residential,349900 CAD,2521 Hanover AVENUE 
+3,2,1320,.093,Residential,289900 CAD,1076 Alder AVENUE 
+2,2,1244,,Residential,269900 CAD,302 Mountain AVENUE W 
+5,3,1380,.165,Residential,249000 CAD,116 Jubilee BAY 
+6,3,1403,.177,Residential,222500 CAD,516 Macmillan STREET 
+3,2,2064,.179,Residential,287000 CAD,608 1st STREET E 
+3,2,864,.126,Residential,214900 CAD,19 Wellington DRIVE 
+3,2,860,0.13,Residential,209000 CAD,910 3rd STREET W 
+5,2,1080,.115,Residential,324900 CAD,520 1st STREET E 
+3,2,1137,.138,Residential,249900 CAD,219 Charles Street 
+3,2,1360,0.07,Residential,334000 CAD,38 Brigham ROAD 
+3,2,1800,.517,Residential,345000 CAD,26 Bradwell STREET 
+2,1,1008,.092,Residential,219000 CAD,1511 7th AVENUE 
+2,1,1005,,Residential,289900 CAD,7 Snake Trail ROAD 
+4,3,1063,.118,Residential,309000 CAD,277 CANNON STREET 
+5,3,1372,.206,Residential,229900 CAD,341 1st STREET 
+4,1,1184,.207,Residential,228395 CAD,106 Wetmore STREET 
+5,3,1344,,Residential,319900 CAD,725 Adamson CRESCENT 
+4,3,1376,,Residential,229000 CAD,125 2nd AVENUE 
+3,4,1982,5.25,Residential,345000 CAD,STEWART ACREAGE 
+4,2,1596,5.83,Residential,329000 CAD,Wadena Acreage 
+3,2,1280,.138,Residential,239900 CAD,1412 95th STREET 
+3,2,1365,,Residential,347000 CAD,135 Coteau STREET 
+5,3,1342,,Residential,359000 CAD,13 Scott BAY 
+3,1,918,.125,Residential,299900 CAD,108A 111th STREET W 
+4,2,1001,,Residential,275000 CAD,308 111th STREET 
+3,2,1590,,Residential,205000 CAD,14 2nd STREET E 
+3,2,1333,,Residential,354900 CAD,1221 6th AVENUE N 
+3,2,990,,Residential,219900 CAD,407 Albert STREET 
+3,2,1074,.126,Residential,264900 CAD,1310 Vaughan STREET 
+2,1,975,.149,Residential,220000 CAD,168 5th AVENUE SE 
+,,1376,.151,Residential,239000 CAD,805 Potter PLACE 
+3,3,1222,,Residential,329900 CAD,534 Denham WAY 
+2,1,843,.101,Residential,220000 CAD,1022 K AVENUE N 
+6,2,1728,.098,Residential,262900 CAD,1165 Alder AVENUE 
+4,3,2020,.234,Residential,319000 CAD,409 Caskey DRIVE 
+4,2,1150,9.71,Farm,399000 CAD,Southey Farm 
+6,3,1566,.275,Residential,254900 CAD,404 First STREET NW 
+5,3,1580,,Residential,249700 CAD,"222 1st Street W, Kyle "
+3,3,1344,1.09,Residential,385500 CAD,"Pippin Street, Pike Lake "
+3,3,1197,.143,Residential,400000 CAD,3861 Athol STREET 
+4,2,988,.145,Residential,229900 CAD,532 19th STREET W 
+3,2,1060,,Residential,238500 CAD,418 5th STREET 
+5,3,1800,.344,Residential,289000 CAD,241 Alberta AVENUE 
+3,2,1500,5.27,Residential,295000 CAD,LAWRENCE ACREAGE 
+3,2,1080,0.19,Residential,299000 CAD,6 Blue Heron Place 
+4,3,1272,,Residential,244000 CAD,918 16th STREET 
+5,1,1250,g>10,Residential,375000 CAD,Watson Acreage 
+3,1,1066,g>10,Residential,339900 CAD,Peters Acreage 
+6,3,1080,,Residential,339900 CAD,208 Reddekopp LANE 
+5,1,850,.106,Residential,279900 CAD,5721 2nd AVENUE N 
+3,1,1260,0.22,Residential,359000 CAD,13 White Birch CRESCENT 
+3,2,1000,0.18,Residential,229900 CAD,505 24th STREET W 
+3,2,1086,.083,Residential,349900 CAD,240 2nd STREET E 
+4,3,1114,.183,Residential,309900 CAD,108 Guenther Crescent 
+2,1,898,,Residential,289800 CAD,1135 7th STREET E 
+3,2,1280,>0.3,Residential,219900 CAD,530 Railway STREET 
+4,3,1200,,Residential,339900 CAD,847 3rd STREET E 
+3,2,817,.163,Residential,273900 CAD,2996 15th AVENUE E 
+4,3,1170,,Residential,219900 CAD,23 Wexford STREET 
+3,2,1187,0.15,Residential,379900 CAD,369 Waterloo CRESCENT 
+4,2,1432,g>10,Residential,279900 CAD,Weirdale Acreage 
+6,4,3000,.458,Residential,339500 CAD,805 9th STREET 
+4,1,800,,Residential,220000 CAD,413 W AVENUE N 
+3,1,840,,Residential,249900 CAD,1501 Central AVENUE 
+5,4,2446,0.19,Residential,299000 CAD,302 4th STREET W 
+3,3,2486,1.08,Residential,395000 CAD,26 WILSON STREET 
+3,2,1076,.085,Residential,214900 CAD,207 Brookdale PLACE 
+5,3,1627,,Residential,265000 CAD,8 Prairie View CRESCENT 
+4,4,1120,,Residential,299900 CAD,43 28th STREET E 
+3,1,1354,g>10,Residential,235000 CAD,Brennan Acreage - 10 Acres 
+3,1,939,.139,Residential,254900 CAD,42 Ingersoll CRESCENT 
+5,3,2128,.285,Residential,389000 CAD,39 Rutley CRESCENT 
+3,2,954,g>38,Residential,299900 CAD,Bueckert Acreage 
+4,4,1900,.275,Residential,279900 CAD,1991 99th STREET 
+5,4,2260,,Residential,259900 CAD,236 Iris BAY 
+3,3,1138,,Residential,289900 CAD,2324 20th STREET W 
+5,4,1700,.138,Residential,349900 CAD,22 Metz STREET 
+2,2,792,.118,Residential,264900 CAD,1554 Bond STREET 
+5,3,1440,,Residential,368000 CAD,402 3rd STREET E 
+4,2,1040,,Residential,319450 CAD,1836 Coteau AVENUE 
+3,2,1224,,Residential,369900 CAD,2514 Broadway AVENUE 
+3,1,936,.138,Residential,289900 CAD,1315 Catherwood AVENUE 
+3,3,1444,4.11,Residential,224900 CAD,1101 Wizewood ROAD 
+3,3,1472,.138,Residential,349900 CAD,1313 Conn AVENUE 
+2,1,902,.165,Residential,240000 CAD,422 Zealandia AVENUE 
+3,2,2070,.223,Residential,312900 CAD,99-20 Indian POINT 
+4,1,1200,.072,Residential,274900 CAD,2337 Cameron STREET 
+2,1,864,.132,Residential,339900 CAD,306 Smith STREET 
+3,2,2081,.321,Residential,284900 CAD,312 6th AVENUE W 
+3,3,1256,.224,Residential,325000 CAD,412 Walsh STREET 
+5,3,1440,0.19,Residential,292000 CAD,301 5th STREET W 
+3,2,832,,Residential,269900 CAD,118 EVANS STREET 
+4,3,1593,.155,Residential,289900 CAD,50 Blake CRESCENT 
+3,3,2234,>0.6,Residential,249999 CAD,901 Prince STREET 
+5,3,1269,,Residential,335000 CAD,604 Forester CRESCENT 
+3,2,1075,.085,Residential,209900 CAD,1183 Alder AVENUE 
+3,2,1168,.136,Residential,288900 CAD,6139 7th AVENUE N 
+3,2,1007,.162,Residential,299900 CAD,74 Howell AVENUE 
+5,4,3490,,Residential,389000 CAD,80 Sunset DRIVE N 
+3,1,1179,.067,Residential,222900 CAD,330 K AVENUE N 
+5,2,1102,.163,Residential,399900 CAD,2610 14th STREET E 
+5,2,1330,4.98,Residential,388500 CAD,Muenster Acreage 
+2,2,1033,,Residential,229900 CAD,201-303 Lowe Road 
+4,2,1388,,Residential,309900 CAD,525 Cory STREET 
+4,2,1027,.139,Residential,339900 CAD,39 Cantlon CRESCENT 
+3,3,1945,0.19,Residential,220000 CAD,Lot 11 Macklin Lake Regional Park 
+5,3,1580,,Residential,249700 CAD,222 1st STREET W 
+2,3,1288,.194,Residential,339900 CAD,1642 Bingham ROAD 
+5,3,1230,.164,Residential,359900 CAD,358 Walsh TRAIL 
+3,3,1288,9.49,Residential,329900 CAD,"Acreage, 302 West "
+4,2,759,.095,Residential,279900 CAD,1013 C AVENUE N 
+3,2,1197,.138,Residential,275000 CAD,14 Roberts STREET 
+5,1,1451,.551,Residential,289900 CAD,109 Prairie STREET 
+4,3,1442,.275,Residential,265000 CAD,315 4th STREET E 
+3,2,1508,ng>1,Residential,395000 CAD,249 Carriage DRIVE 
+4,3,1261,0.19,Residential,359900 CAD,445 Southwood DRIVE 
+2,2,1152,9.89,Residential,350000 CAD,Knittig Acreage 
+4,2,960,,Residential,239000 CAD,412 McGillivray DRIVE 
+5,3,2264,>187,Farm,319000 CAD,Sims Farm - 187 Acres 
+5,3,1310,.149,Residential,279500 CAD,211 Sidney STREET 
+4,2,1175,.073,Residential,239900 CAD,333 E AVENUE S 
+3,1,1021,,Residential,329900 CAD,15-110 Banyan Cres. 
+5,3,1248,.137,Residential,317900 CAD,255 Read AVENUE 
+3,2,1352,,Residential,279000 CAD,45 Warren STREET 
+4,2,1160,0.15,Residential,220000 CAD,322 6th AVENUE W 
+7,4,2448,0.63,Residential,259000 CAD,21 Railway AVENUE 
+3,3,1190,g>10,Residential,285000 CAD,Prescesky Acreage 
+3,2,875,,Residential,222500 CAD,209 Macdowall CRESCENT 
+3,3,1040,.164,Residential,205000 CAD,912 Bell STREET 
+5,2,1048,0.16,Residential,269900 CAD,3208 Patricia AVENUE 
+5,2,1344,0.24,Residential,288000 CAD,481 2nd AVENUE W 
+4,2,1291,.144,Residential,309900 CAD,101 EDWARD STREET 
+4,1,1277,,Residential,389900 CAD,346 Balsam Cres. 
+6,3,1128,.343,Residential,319900 CAD,633 Rupert STREET 
+2,2,1952,1.54,Residential,399000 CAD,Martinez Acreage 
+3,1,872,0.18,Residential,295000 CAD,6 St George AVENUE 
+3,2,1208,.139,Residential,374900 CAD,114 Lakeside ROAD 
+5,3,1140,.241,Residential,269900 CAD,603 1st STREET W 
+5,2,1129,.181,Residential,279000 CAD,1204 North Railway STREET E 
+3,1,1232,0.33,Residential,279900 CAD,38A Delaronde BAY 
+3,3,950,,Residential,249900 CAD,114 4th STREET 
+3,2,970,.071,Residential,347500 CAD,5105 Campling AVENUE 
+5,4,1296,,Residential,399900 CAD,775 1st AVENUE N 
+3,3,1040,.138,Residential,269900 CAD,324 McIntosh STREET N 
+5,3,1371,.161,Residential,239000 CAD,630 17th STREET 
+5,3,1500,.241,Residential,319900 CAD,401 6th AVENUE W 
+2,3,1519,.135,Residential,340000 CAD,9 Methuen STREET 
+3,3,1628,,Residential,349900 CAD,165 Echo Lane 
+4,2,1068,.156,Residential,359900 CAD,1918 Wiggins AVENUE S 
+4,3,1344,,Residential,268800 CAD,238 York ROAD E 
+5,3,1432,.298,Residential,235000 CAD,209 Fourth STREET W 
+4,2,1232,.137,Residential,349900 CAD,3000 Kings ROAD 
+5,3,1421,,Residential,240000 CAD,103 South Railway STREET W 
+4,2,960,,Residential,217500 CAD,"515 Douglass Street, Outlook "
+3,2,1144,.072,Residential,299900 CAD,623 8th AVENUE N 
+3,3,1350,1.98,Residential,384900 CAD,603 2nd AVENUE W 
+5,2,988,.173,Residential,264900 CAD,32 Poplar DRIVE 
+3,1,1050,.072,Residential,274900 CAD,2225 Athol STREET 
+3,2,936,.197,Residential,209900 CAD,729 Grid ROAD 
+3,2,1332,,Residential,274900 CAD,19 Scott CRESCENT 
+3,2,1600,,Residential,239900 CAD,231 5th STREET 
+4,3,1218,,Residential,345000 CAD,143 Wright Crescent 
+3,2,1062,,Residential,349900 CAD,18 Morton Place 
+4,4,1979,0.21,Residential,379900 CAD,2 Thompson DRIVE 
+6,3,2113,8.39,Residential,289900 CAD,435 1st AVENUE E 
+3,3,1109,.112,Residential,225000 CAD,334 Mergens STREET 
+5,2,905,.126,Residential,230000 CAD,22 Rutley CRESCENT 
+3,1,896,.115,Residential,329000 CAD,71 Main STREET 
+4,3,1568,.139,Residential,349000 CAD,2826 Arlington AVENUE 
+4,3,1056,.124,Residential,379900 CAD,3611 Cormorant DRIVE E 
+3,2,2070,0.57,Residential,219900 CAD,Marshall  Acreage 
+3,3,1380,1.24,Residential,238000 CAD,106 3rd AVENUE 
+3,3,1344,1.09,Residential,385500 CAD,Pippin Street 
+6,3,1329,.161,Residential,295000 CAD,537 5th AVENUE E 
+3,2,978,.143,Residential,208500 CAD,109 7th AVENUE E 
+3,1,1602,g>40,Residential,209900 CAD,40 acres 
+4,3,1597,.287,Residential,374900 CAD,210 Blenkhorn Street 
+4,2,1240,8.65,Residential,318000 CAD,Wilkie Acreage - 38.65 acres 
+5,2,1450,0.22,Residential,259000 CAD,625 1st STREET E 
+3,2,840,.138,Residential,229900 CAD,1051 Warner STREET 
+3,4,1500,.084,Residential,369900 CAD,27 Everton CRESCENT 
+5,3,1508,.246,Residential,244900 CAD,217 William STREET 
+2,2,1150,.077,Residential,275000 CAD,3415 McCallum AVENUE 
+6,2,1548,.182,Residential,270000 CAD,801 Centre STREET 
+4,2,775,0.25,Residential,375000 CAD,#49 Kimball Bay Kimball Lake Meadow Lake Provincial Park 
+5,2,1125,.144,Residential,374900 CAD,55 Welker CRESCENT 
+4,2,912,,Residential,279900 CAD,25 Wellington DRIVE 
+,,,,Residential,234000 CAD,RM 257 Monet JORMAX Farms - 156 Acres 
+4,3,1232,,Residential,239900 CAD,1016 7th STREET E 
+4,3,1624,.143,Residential,229000 CAD,522 2nd STREET E 
+3,2,744,.161,Residential,225000 CAD,405 Q AVENUE N 
+4,2,1632,.165,Residential,220000 CAD,706 3rd STREET E 
+3,3,1628,,Residential,339900 CAD,161 Echo Lane 
+4,2,1022,.177,Residential,204900 CAD,406 9th STREET E 
+4,3,1510,,Residential,330000 CAD,229 Millet STREET 
+5,3,1632,.138,Residential,399900 CAD,1227 Grafton AVENUE 
+4,3,1008,.161,Residential,244000 CAD,200 6th AVENUE E 
+4,3,1134,.211,Residential,289900 CAD,1123 11th STREET 
+4,3,1704,g>44,Residential,259000 CAD,Address 44 acres Main Ridge Rural
+4,3,1344,9.98,Residential,209900 CAD,Hoey Acreage 
+4,2,1120,.161,Residential,254900 CAD,257 4th AVENUE W 
+4,3,2100,g>10,Residential,225000 CAD,Tomilin Acreage 
+4,2,1079,.176,Residential,310000 CAD,535 7th AVENUE W 
+3,2,1492,,Residential,210000 CAD,62 Haultain AVENUE 
+4,2,1065,>0.1,Residential,259900 CAD,1511 C AVENUE N 
+5,2,1120,0.22,Residential,200000 CAD,753 Centre STREET 
+3,1,950,.167,Residential,232900 CAD,921 R AVENUE N 
+2,2,980,,Residential,239900 CAD,120 E AVENUE S 
+4,3,1020,0.13,Residential,349900 CAD,425 Southwood DRIVE 
+8,4,2652,.206,Residential,299000 CAD,205 2nd Avenue W # A and B 
+4,1,914,.119,Residential,209900 CAD,825 Keith STREET 
+5,3,1859,.859,Residential,329900 CAD,103 1st STREET S 
+4,2,865,,Residential,299900 CAD,434 113th STREET W 
+3,1,691,.107,Residential,209000 CAD,403 I AVENUE N 
+2,3,1800,.234,Residential,399900 CAD,1238 Baker PLACE 
+3,2,1356,,Residential,369900 CAD,2112 Cumberland Ave S 
+5,3,1600,5.12,Residential,399000 CAD,VERITY ACREAGE 
+4,2,1695,0.35,Residential,249900 CAD,731 Grand AVENUE 
+5,3,1316,0.68,Residential,329900 CAD,107 Unity STREET 
+3,1,990,.134,Residential,250000 CAD,1502 1st AVENUE N 
+5,3,1232,.275,Residential,258000 CAD,104 Persson STREET 
+4,2,1216,.158,Residential,272900 CAD,1103 Broadway AVENUE 
+4,2,1040,.125,Residential,279900 CAD,43 Richardson CRESCENT 
+3,2,1592,0.22,Residential,269000 CAD,304 Macleod AVENUE W 
+2,1,896,0.24,Residential,229900 CAD,309 Grove AVENUE 
+3,2,1218,,Residential,264900 CAD,1 Clement ROAD 
+4,3,1340,,Residential,374900 CAD,714 3rd Avenue N 
+4,4,1782,.241,Residential,339900 CAD,403 3rd STREET W 
+3,2,1232,,Residential,349900 CAD,215 Aspen POINT 
+4,2,1369,,Residential,259900 CAD,555 25th STREET E 
+3,1,1300,.143,Residential,359900 CAD,233 1st STREET E 
+3,2,900,,Residential,289900 CAD,54 Lennon CRESCENT 
+4,3,1452,g>10,Residential,299000 CAD,BAR RIDGE FARMS 10 ACRES 
+4,4,2843,2.15,Residential,375900 CAD,4 Second STREET E 
+5,3,1144,.208,Residential,209000 CAD,716 Alberta AVENUE 
+4,4,1817,,Residential,362500 CAD,62 Sunset DRIVE N 
+4,2,2020,,Residential,219900 CAD,636 11th STREET 
+4,1,850,.121,Residential,284900 CAD,813 Macklem DRIVE 
+4,1,1040,22.2,Residential,299900 CAD,Blaine Lake Hobby Farm 
+3,2,1017,,Residential,219900 CAD,6008 5th STREET 
+4,1,936,.141,Residential,329900 CAD,2129 Wiggins AVENUE S 
+5,2,1548,1.97,Residential,340000 CAD,SPITTAL ACREAGE 
+3,2,1000,.161,Residential,239900 CAD,102 4th AVENUE W 
+3,3,1224,,Residential,214000 CAD,14 6th AVENUE 
+4,2,617,,Residential,255000 CAD,714 N AVENUE S 
+2,2,1560,0.18,Residential,339000 CAD,705 Stanley STREET 
+2,2,1332,.139,Residential,289000 CAD,9 Hordern STREET 
+4,2,1107,.172,Residential,237000 CAD,139 Centennial CRESCENT 
+5,3,1089,.161,Residential,225000 CAD,352 1st AVENUE W 
+5,3,1709,.248,Residential,249999 CAD,104 Lendrum STREET 
+3,1,624,,Residential,219900 CAD,2102 St Andrews AVENUE 
+4,2,1111,.137,Residential,309900 CAD,30 Coldwell ROAD 
+3,2,1120,60.8,Farm,400000 CAD,Lightfoot Farm - 160.8 Acres 
+4,3,1040,,Residential,275000 CAD,308 5th STREET E 
+4,3,2940,,Residential,355000 CAD,135 Wright Crescent 
+3,2,1568,.069,Residential,318500 CAD,908 I AVENUE S 
+4,2,960,,Residential,217500 CAD,515 Douglass STREET 
+3,3,1400,.172,Residential,298000 CAD,107 2nd STREET W 
+4,2,936,.476,Residential,369900 CAD,116 5th STREET 
+3,1,1240,,Residential,274900 CAD,102-105 Lynd Cres. 
+5,3,1675,,Residential,399000 CAD,531 Anderson DRIVE 
+4,2,1152,3.49,Residential,329000 CAD,Kappel Acreage - 3.49 Acres. - HWY 51 
+3,3,1554,0.09,Residential,329900 CAD,201 Main STREET 
+3,3,1425,.081,Residential,399900 CAD,123 Thakur STREET 
+2,1,616,0.14,Residential,329000 CAD,28 Knights PLACE 
+3,2,1181,.142,Residential,364900 CAD,755 Sandstone TERRACE 
+4,2,1344,>1.2,Residential,390000 CAD,1055 2nd STREET E 
+4,2,1176,.086,Residential,399900 CAD,114 7th STREET E 
+3,1,1092,8.36,Residential,235000 CAD,McKellar Acreage 
+4,3,1042,.127,Residential,399900 CAD,5903 Mallard WAY 
+3,2,1991,,Residential,209900 CAD,1372 98th STREET 
+2,1,1092,.179,Residential,229900 CAD,123 Main STREET W 
+3,1,1209,,Residential,297500 CAD,322 Lakeside CRESCENT 
+5,3,3121,.138,Residential,369900 CAD,1120 Clifton AVENUE 
+2,2,992,9.75,Residential,324900 CAD,Giesbrecht Acreage 
+3,3,2200,.152,Residential,319900 CAD,11 McMillan CRESCENT 
+3,3,1628,,Residential,339900 CAD,160 Echo Lane 
+2,1,1641,0.13,Residential,235000 CAD,517 St Mary STREET 
+3,2,1710,.603,Residential,369000 CAD,115 1st STREET 
+7,4,1907,.083,Residential,319900 CAD,110 31st STREET W 
+3,2,1444,,Residential,205000 CAD,200 1st STREET 
+4,2,2093,.275,Residential,325000 CAD,309 Prince STREET 
+3,2,840,.224,Residential,319900 CAD,1122 P AVENUE S 
+2,2,1068,,Residential,269900 CAD,308-227 Pinehouse Drive 
+3,2,1752,.344,Residential,229900 CAD,620 Railway STREET 
+3,2,1359,.235,Residential,359900 CAD,800 Choke Cherry BAY 
+4,2,2236,.148,Residential,249900 CAD,1309 1st STREET E 
+2,2,1800,>154,Residential,249000 CAD,154 Acres RM of Canwood 
+5,2,1126,,Residential,220000 CAD,215 Second STREET E 
+3,2,1255,,Residential,284900 CAD,605-710 Gordon Road 
+5,3,1126,.179,Residential,399900 CAD,338 2nd AVENUE E 
+4,4,3986,3.27,Residential,339000 CAD,1 Laurie DRIVE 
+7,3,2292,,Residential,317000 CAD,42 20th STREET E 
+4,1,1050,.108,Residential,229900 CAD,330 St John Street 
+4,2,864,.154,Residential,277000 CAD,70 Cannon Street 
+2,2,1021,.592,Residential,239000 CAD,201 Grey STREET 
+4,2,1067,.126,Residential,339900 CAD,35 Dunning CRESCENT 
+3,2,2124,.581,Residential,235000 CAD,635 361 HIGHWAY 
+4,3,1797,2.22,Residential,374900 CAD,Puetz Acreage 
+5,3,1180,0.17,Residential,265000 CAD,2712 47th AVENUE 
+3,2,1134,,Residential,234900 CAD,319 6th STREET 
+3,2,660,.129,Residential,214900 CAD,326 Taylor STREET E 
+4,2,1033,,Residential,379000 CAD,519 Souris AVENUE E 
+5,4,1730,.433,Residential,399000 CAD,58 Wauchope STREET 
+4,2,1277,3.34,Residential,219900 CAD,Annaheim Acreage 
+4,4,1114,.179,Residential,369000 CAD,308 4th STREET E 
+4,3,1136,.132,Residential,210000 CAD,313 4th STREET W 
+3,2,1077,0.21,Residential,265000 CAD,616 8th Avenue W 
+3,2,1320,.413,Residential,268900 CAD,271 Boswell STREET 
+3,3,1599,,Residential,200000 CAD,236 3rd Avenue E 
+5,3,2300,>4.3,Residential,300000 CAD,Hodgson Acreage 
+3,3,1360,0.16,Residential,384900 CAD,17 Thorn CRESCENT 
+3,3,1438,.236,Residential,249900 CAD,516 1st STREET S 
+2,1,952,0.35,Residential,325000 CAD,221 Rick's DRIVE 
+3,3,1500,,Residential,238800 CAD,91 Proctor DRIVE 
+3,3,1650,,Residential,249900 CAD,"1 Poplar Place, Outlook "
+3,2,1360,.165,Residential,314700 CAD,502 101st STREET 
+4,2,1183,0.14,Residential,259900 CAD,576 Hall STREET W 
+4,3,1100,.149,Residential,247800 CAD,159 Allanbrooke DRIVE 
+4,2,1400,,Residential,239900 CAD,323 14th STREET W 
+5,3,1728,.177,Residential,329000 CAD,388 3rd STREET W 
+1,2,672,.138,Residential,248900 CAD,45 Alice CRESCENT 
+4,2,778,,Residential,329000 CAD,2223 Coy AVENUE 
+4,3,1823,,Residential,398999 CAD,130 Wright Crescent 
+4,2,1238,,Residential,395000 CAD,919 McKay STREET 
+4,3,1392,g>10,Residential,349900 CAD,Billy Brown Acreage 
+6,2,3296,>160,Farm,289900 CAD,RM 435 Hafford 160 acre farm with house with good well 
+4,3,1355,,Residential,399000 CAD,2216 Newmarket DRIVE 
+4,3,1105,,Residential,284000 CAD,539 Cook ROAD 
+4,2,795,,Residential,213900 CAD,539 K AVENUE N 
+4,3,1352,.364,Residential,349900 CAD,72 Allan STREET 
+3,2,1051,.163,Residential,244900 CAD,48 Buttercup CRESCENT NW 
+5,2,1040,.149,Residential,319900 CAD,1314 J AVENUE N 
+4,3,1336,>0.2,Residential,244900 CAD,1 Carlton BAY 
+5,2,1190,.146,Residential,334900 CAD,1204 Pascoe DRIVE W 
+4,3,1354,0.19,Residential,269900 CAD,834 Fraser PLACE 
+4,2,1292,.069,Residential,209900 CAD,1051 Connaught AVENUE 
+4,3,1080,,Residential,269900 CAD,3043 Dunn DRIVE 
+4,3,1530,.141,Residential,395000 CAD,271 15th STREET 
+5,4,1721,>4.2,Residential,319000 CAD,Peterson Acreage 
+5,2,1919,.162,Residential,369000 CAD,1543 Parker AVENUE 
+3,2,840,0.18,Residential,299900 CAD,212 Taylor STREET E 
+3,3,1628,,Residential,349900 CAD,164 Echo Lane 
+5,3,1230,.161,Residential,359000 CAD,401 5th AVENUE E 
+4,2,1260,.143,Residential,299000 CAD,1526 E AVENUE N 
+3,2,936,.138,Residential,249000 CAD,424 Edward STREET 
+2,1,624,,Residential,255000 CAD,92 Prairie Lake Regional Park 
+2,2,1025,.068,Residential,349900 CAD,5406 McClelland DRIVE 
+2,1,600,,Residential,224900 CAD,1224 Idylwyld DRIVE N 
+4,2,936,.241,Residential,239000 CAD,210 2nd AVENUE E 
+3,2,1000,,Residential,229000 CAD,110 6th Avenue W 
+4,2,1170,.181,Residential,356000 CAD,1018 1st STREET W 
+4,3,1110,,Residential,329900 CAD,342 Acadia Drive 
+3,1,1662,9.99,Residential,320000 CAD,Copeman Acreage 
+5,2,1282,,Residential,349900 CAD,507 15th AVENUE 
+3,2,1260,,Residential,249900 CAD,14 4th AVENUE SE 
+4,2,816,,Residential,339900 CAD,117 Acadia COURT 
+3,2,1132,g>10,Residential,249900 CAD,Brule Road Acreage 
+3,2,1181,.067,Residential,289900 CAD,834 G AVENUE N 
+4,3,1224,.176,Residential,339900 CAD,2829 Wyllie CRESCENT 
+4,2,1064,.121,Residential,289900 CAD,883 Rink Avenue 
+3,3,3286,9.54,Residential,349900 CAD,Boysen Acreage 
+4,3,1196,.188,Residential,214000 CAD,408 5th STREET W 
+5,2,2080,0.18,Residential,220000 CAD,103 KELSEY PLACE 
+4,2,1040,.107,Residential,282900 CAD,901 K AVENUE N 
+6,3,1270,.207,Residential,229900 CAD,303 1st STREET S 
+1,2,1080,13.9,Residential,279900 CAD,Vonda Acreage 
+3,2,1340,,Residential,354800 CAD,506 G AVENUE S 
+3,2,912,.107,Residential,289900 CAD,415 L AVENUE N 
+2,1,560,.096,Residential,209900 CAD,1018 7th STREET E 
+5,2,1126,,Residential,325000 CAD,6 C. J. Houston PLACE 
+6,3,5000,.174,Residential,355000 CAD,301 14th STREET W 
+3,1,1100,.358,Residential,249000 CAD,145 Yukon AVENUE W 
+4,4,1360,.275,Residential,239000 CAD,401 4th STREET E 
+3,4,1698,>0.3,Residential,259000 CAD,104 JACKSON PLACE 
+4,3,1040,.161,Residential,239900 CAD,204 7th AVENUE W 
+2,2,1008,.224,Residential,209900 CAD,700 Main STREET 
+4,3,1248,.226,Residential,399900 CAD,1068 Athabasca STREET W 
+4,4,1760,,Residential,299900 CAD,126 13th STREET 
+5,3,1086,9.25,Residential,285000 CAD,RM of Heart's Hill 
+3,2,2100,1.96,Residential,299900 CAD,RM of Prince Albert River Lot Acreage 
+3,2,1508,ng>1,Residential,395000 CAD,"249 Carriage Drive, Rudy Rm No. 284 "
+5,3,2058,.191,Residential,339900 CAD,142 Hochelaga STREET W 
+5,3,1800,,Residential,299000 CAD,105 7th STREET 
+5,2,1144,0.19,Residential,219000 CAD,301 Burrows AVENUE W 
+3,2,850,.106,Residential,279900 CAD,434 St Laurent CRESCENT 
+3,3,1130,.148,Residential,379900 CAD,72 Thorn CRESCENT 
+2,2,1080,.163,Residential,350000 CAD,85 Pincherry CRESCENT 
+5,3,1453,,Residential,229900 CAD,136 Second AVENUE N 
+3,2,780,.114,Residential,354900 CAD,924 2nd STREET E 
+3,3,1574,.117,Residential,335000 CAD,58 Sibbald CRESCENT 
+3,2,807,.093,Residential,299900 CAD,135 Ramsay COURT 
+5,2,1072,0.17,Residential,265000 CAD,2525 15th AVENUE E 
+4,3,1570,.115,Residential,339000 CAD,10 Dr Arthur AVENUE 
+4,3,1525,.207,Residential,359900 CAD,218 Eighth STREET E 
+3,3,1456,.161,Residential,259900 CAD,104 4th AVENUE E 
+6,2,1064,0.13,Residential,248000 CAD,802 9th AVENUE W 
+5,2,1200,.143,Residential,239000 CAD,713 3rd STREET SE 
+3,2,1148,.145,Residential,359900 CAD,27 Young CRESCENT 
+3,3,1488,.198,Residential,217500 CAD,4908 Herald STREET 
+2,1,1428,,Residential,239900 CAD,328 Main STREET 
+5,2,1376,.275,Residential,319900 CAD,302 7th STREET E 
+4,2,1000,.172,Residential,239999 CAD,516 B AVENUE E 
+4,3,2815,,Residential,365000 CAD,43 Veterans BOULEVARD 
+4,3,1240,.344,Residential,274900 CAD,315 3rd STREET W 
+4,3,1232,.138,Residential,357000 CAD,17 Bell STREET 
+4,2,1350,.574,Residential,325000 CAD,598 4th AVENUE E 
+4,3,1308,.161,Residential,274900 CAD,201 4th STREET E 
+2,1,1044,.072,Residential,204900 CAD,2176 Lindsay STREET 
+3,1,1070,.143,Residential,219000 CAD,303 Burrows AVENUE W 
+2,3,2200,>3.7,Residential,395000 CAD,SE 28 48 03 W3 
+4,3,1600,1.15,Residential,299000 CAD,525 Railway AVENUE 
+3,1,1076,4.44,Residential,349900 CAD,Bishop Horse Acreage 
+3,1,884,.103,Residential,229900 CAD,54 TWEEDSMUIR BAY 
+3,1,722,,Residential,259000 CAD,537 Elgin STREET 
+5,2,1154,,Residential,239900 CAD,345 28th STREET E 
+5,2,1010,,Residential,375000 CAD,1821 Munroe AVENUE S 
+3,2,1728,8.26,Residential,335000 CAD,"8.26 Acres Waterfront acreage Birch Lake, Medstead "
+3,2,1040,.134,Residential,314900 CAD,3325 29th AVENUE 
+3,3,1628,,Residential,349900 CAD,169 Echo Lane 
+5,2,1046,,Residential,222500 CAD,412 7th Avenue W 
+3,1,792,.152,Residential,224900 CAD,1238 Montgomery STREET 
+4,2,1050,,Residential,380000 CAD,2176 Easthill 
+4,2,1280,.184,Residential,209900 CAD,204 3rd STREET E 
+2,1,1000,>0.1,Residential,259900 CAD,1519 C AVENUE N 
+4,2,780,,Residential,269900 CAD,1011 2nd STREET E 
+2,2,704,,Residential,219000 CAD,320 7th Avenue W 
+4,3,1328,,Residential,350000 CAD,280 York ROAD E 
+4,2,1088,,Residential,219500 CAD,1117 10th STREET 
+3,1,1050,,Residential,359900 CAD,833 Main Street 
+3,3,1129,.186,Residential,375000 CAD,2975 Lacon STREET 
+4,1,940,,Residential,224900 CAD,414 109th STREET W 
+4,2,1084,.138,Residential,279900 CAD,1329 Prince CRESCENT 
+4,3,1346,,Residential,386800 CAD,19 Bull CRESCENT 
+3,2,1618,,Residential,259900 CAD,1206 3rd AVENUE NE 
+3,2,1282,,Residential,384900 CAD,246 Kloppenburg WAY 
+2,2,860,,Residential,259900 CAD,107 27th St W 
+3,3,2280,.446,Residential,299900 CAD,121 Railway AVENUE N 
+2,3,1003,.143,Residential,389900 CAD,1150 Bogue AVENUE 
+3,1,1430,8.82,Residential,299000 CAD,Tam Acreage 
+3,3,1281,.091,Residential,389900 CAD,4610 Padwick CRESCENT 
+3,2,1064,.358,Residential,244900 CAD,808 Main STREET 
+2,2,922,.126,Residential,319900 CAD,450 O'Regan COURT 
+3,2,866,.141,Residential,319900 CAD,247 Roborecki CRESCENT 
+4,4,1370,0.31,Residential,269900 CAD,207 Ohlen STREET 
+2,1,912,.134,Residential,279900 CAD,104 Oldroyd DRIVE 
+5,3,1430,,Residential,299000 CAD,1820 Coteau AVENUE 
+3,1,1122,.092,Residential,227900 CAD,1530 Lacon STREET 
+4,2,1057,,Residential,274900 CAD,2615 20th STREET W 
+3,2,1160,,Residential,215000 CAD,6 Yandeau CRESCENT 
+4,3,1120,.149,Residential,389900 CAD,603 Highlands CRESCENT 
+4,3,1394,7.37,Residential,249000 CAD,PT NE 26-9-16 W3 
+5,2,1232,,Residential,369000 CAD,233 3rd STREET 
+3,2,880,,Residential,274900 CAD,206 Michener CRESCENT 
+3,2,1200,,Residential,269900 CAD,347 First AVENUE N 
+3,2,1047,0.12,Residential,249900 CAD,148 Woodward AVENUE 
+4,2,3456,.632,Residential,385500 CAD,L3 Block 1 Domremy Beach 
+4,2,1124,.161,Residential,269900 CAD,436 R AVENUE N 
+4,2,1064,,Residential,389900 CAD,206 Begg CRESCENT 
+4,2,1074,0.69,Residential,259000 CAD,7 Vanier PLACE 
+2,2,1563,.164,Residential,249900 CAD,309 Buxton STREET 
+10,4,4013,8.53,Residential,379500 CAD,Buchanan Acreage 
+5,3,1386,.207,Residential,216500 CAD,401 1st STREET W 
+2,1,864,.367,Residential,209900 CAD,371 Main STREET 
+3,3,1036,.179,Residential,229900 CAD,11301 Centennial CRESCENT 
+4,4,1314,,Residential,369900 CAD,319 Rajput Way 
+4,3,1200,,Residential,364900 CAD,450 Rutherford CRESCENT 
+2,1,728,,Residential,210000 CAD,416 T AVENUE S 
+4,2,961,.071,Residential,323000 CAD,3351 ANGUS STREET 
+3,2,967,,Residential,289900 CAD,1466 Sioux CRESCENT SW 
+2,1,610,.072,Residential,229900 CAD,1051 Elliott STREET 
+2,2,1064,.216,Residential,356000 CAD,24 Birch CRESCENT 
+2,2,672,.272,Residential,284900 CAD,1151 Shady LANE 
+3,3,1320,.198,Residential,224900 CAD,302 Staffa STREET 
+3,2,1305,.096,Residential,339950 CAD,2339 Garnet STREET 
+4,2,1193,.115,Residential,359900 CAD,3121 Rae STREET 
+4,2,1050,.149,Residential,205000 CAD,164 3rd AVENUE SE 
+3,1,816,.122,Residential,214900 CAD,4605 4th AVENUE 
+4,2,1077,.118,Residential,314980 CAD,866 morris CRESCENT N 
+5,3,1385,0.17,Residential,389900 CAD,2501 Richardson ROAD 
+3,3,1420,,Residential,378000 CAD,432 Main STREET E 
+3,1,1164,.138,Residential,224900 CAD,89 McNab CRESCENT 
+4,2,936,.119,Residential,274900 CAD,10 Straub CRESCENT 
+3,2,948,0.13,Residential,235000 CAD,1434 Nicholson ROAD 
+5,2,1307,.143,Residential,234900 CAD,56 Iroquois STREET W 
+4,3,1172,.158,Residential,299900 CAD,637 Buchanan DRIVE 
+3,2,1668,.165,Residential,399900 CAD,86 RAWLINSON CRESCENT 
+3,2,1100,9.66,Residential,339000 CAD,Marki Acreage 
+4,2,530,.143,Residential,259000 CAD,1540 H AVENUE N 
+3,3,950,,Residential,269900 CAD,104 4th STREET 
+4,2,1190,.137,Residential,299900 CAD,5385 2nd AVENUE N 
+5,2,960,.143,Residential,339900 CAD,153 St John STREET 
+3,2,1394,.413,Residential,299900 CAD,311 Rose STREET 
+3,2,864,,Residential,269900 CAD,3343 33rd STREET W 
+3,2,850,.096,Residential,219900 CAD,395 Cavendish STREET 
+3,2,1251,.128,Residential,399900 CAD,2903 37th STREET W 
+5,3,1342,,Residential,219900 CAD,5003 7th STREET 
+2,2,1038,,Residential,224900 CAD,407 Main STREET 
+5,4,2735,.204,Residential,399900 CAD,10817 Meighen CRESCENT 
+2,3,1216,,Residential,269900 CAD,1123 3rd AVENUE NW 
+4,2,1354,9.99,Residential,235000 CAD,Brennan Acreage-10 Acres 
+4,3,1010,.118,Residential,389900 CAD,215 Stone TERRACE 
+5,2,960,.172,Residential,319900 CAD,2 Hamilton PLACE 
+4,2,952,.138,Residential,209900 CAD,1251 104th STREET 
+4,2,1075,",144",Residential,267500 CAD,518 32nd STREET W 
+5,2,1056,.083,Residential,249000 CAD,1050 Iroquois STREET W 
+4,3,1288,.166,Residential,334900 CAD,467 Curry CRESCENT 
+3,1,878,,Residential,219900 CAD,2228 Lorne AVENUE S 
+2,1,600,0.79,Residential,349900 CAD,818 Tatanka DRIVE 
+3,2,925,.165,Residential,319900 CAD,618 Wardlow ROAD 
+3,3,1700,.164,Residential,289900 CAD,5228 7th AVENUE 
+3,2,813,.112,Residential,279900 CAD,6 Carmichael ROAD 
+4,2,1634,.165,Residential,399900 CAD,58 Hastings CRESCENT 
+4,3,1249,,Residential,279500 CAD,718 2nd STREET N 
+4,2,1664,4.99,Residential,275000 CAD,Radville Acreage 
+2,1,816,.143,Residential,259900 CAD,811 Broadway AVENUE E 
+3,2,960,.253,Residential,249900 CAD,122 4th AVENUE 
+4,2,968,.251,Residential,319900 CAD,1612 General CRESCENT 
+3,2,1542,.301,Residential,259000 CAD,334 7th AVENUE SW 
+2,2,960,,Residential,215000 CAD,415 T AVENUE S 
+2,2,1252,0.34,Residential,399900 CAD,Lot 11 Sunset Cove 
+3,2,821,,Residential,209900 CAD,806 Duffield STREET W 
+2,1,1008,,Residential,229900 CAD,217 Coteau STREET E 
+4,2,1120,,Residential,319900 CAD,29 Quappelle CRESCENT 1
+4,2,1040,,Residential,359900 CAD,16 Cantlon CRESCENT 
+4,3,1637,2.01,Residential,294900 CAD,6117 Holmes DRIVE 
+4,1,1418,.072,Residential,334900 CAD,2245 Rae STREET 
+3,2,988,.168,Residential,239900 CAD,272 19th STREET W 
+2,1,810,.106,Residential,319900 CAD,2118 Cumberland AVENUE S 
+3,1,883,.065,Residential,209900 CAD,406 I AVENUE N 
+5,1,979,.158,Residential,229000 CAD,375 Central AVENUE S 
+4,2,1056,0.18,Residential,259900 CAD,1100 Knox PLACE 
+4,2,1576,.072,Residential,339950 CAD,2159 Retallack STREET 
+2,3,1910,.198,Residential,208000 CAD,213 West 1st STREET 
+4,2,912,,Residential,354900 CAD,1417 33rd STREET W 
+4,3,1600,,Residential,214900 CAD,422 Main STREET 
+4,2,2200,.134,Residential,259900 CAD,1077 Clifton AVENUE 
+3,3,1344,.126,Residential,269900 CAD,6714 WHEATLY BAY 
+5,3,1084,.155,Residential,374900 CAD,118 Highbury PLACE 
+3,2,895,.108,Residential,309900 CAD,10 Cottonwood BAY 
+2,2,756,.072,Residential,275000 CAD,2834 Robinson STREET 
+3,2,853,.146,Residential,265000 CAD,1026 H AVENUE N 
+3,1,988,3.66,Residential,265000 CAD,Churchbridge Acreage 
+5,3,1422,.192,Residential,334900 CAD,208 5th AVENUE N 
+5,2,1230,.152,Residential,245000 CAD,1484 Nicholson ROAD 
+5,3,1504,,Residential,259900 CAD,518 2nd AVENUE E 
+3,2,1132,.126,Residential,284500 CAD,23 Hawthorne CRESCENT 
+4,3,1260,.143,Residential,265000 CAD,100 Guthrie PLACE 
+3,3,1820,.324,Residential,369000 CAD,5900 Koep AVENUE 
+3,2,1761,.072,Residential,259900 CAD,1929 Athol STREET 
+6,2,1168,0.15,Residential,349900 CAD,623 Acadia DRIVE 
+5,2,1094,.141,Residential,299900 CAD,342 Argyle STREET N 
+4,4,1520,.193,Residential,240000 CAD,405 2nd STREET W 
+4,2,912,.149,Residential,324999 CAD,330 Forrester ROAD 
+2,1,860,.068,Residential,299900 CAD,5426 McClelland DRIVE 
+3,4,1676,.159,Residential,399900 CAD,131 Windfield ROAD 
+4,3,1124,.131,Residential,249900 CAD,126 Bothwell CRESCENT 
+2,2,1356,,Residential,269900 CAD,218 Pitt STREET 
+2,1,816,1.04,Residential,279500 CAD,122 Luciuk Lane Phillips Grove (Delaronde Lake) 
+4,2,2000,.148,Residential,300000 CAD,34 Ellison CRESCENT 
+5,3,1424,9.98,Residential,399900 CAD,Garden River Acreage 
+3,3,1020,,Residential,239000 CAD,58 Langrill DRIVE 
+4,2,1750,,Residential,379900 CAD,111 Railway AVENUE 
+3,2,1498,,Residential,289900 CAD,601 Confederation DRIVE 
+3,2,672,,Residential,274900 CAD,211 G AVENUE N 
+3,2,1272,.131,Residential,339500 CAD,3225 29th AVENUE 
+3,1,1067,.072,Residential,239900 CAD,2030 Elphinstone STREET 
+4,2,960,,Residential,240000 CAD,715 3rd AVENUE W 
+3,2,921,,Residential,359900 CAD,338 Allegretto CRESCENT 
+4,2,1294,,Residential,359999 CAD,921 North Hill DRIVE 
+3,2,942,.195,Residential,229000 CAD,1034 1st STREET 
+2,1,790,.193,Residential,304000 CAD,26 Birch CRESCENT 
+,6,21938,3.45,Residential,299900 CAD,418 William STREET 
+4,3,1120,,Residential,389000 CAD,2104 Preston AVENUE S 
+4,2,958,,Residential,249900 CAD,1442 Vaughan STREET 
+4,2,1140,.072,Residential,220000 CAD,1060 Angus STREET 
+4,2,1431,.128,Residential,379900 CAD,406 David Knight LANE 
+4,2,1120,.145,Residential,219900 CAD,112 Wood CRESCENT 
+5,2,1120,,Residential,329900 CAD,2406 Broadway AVENUE 
+4,2,1325,g>23,Residential,349000 CAD,Tschetter Acreage 
+6,3,1920,19.2,Residential,399000 CAD,6KM South of Meadow LaKE 
+5,2,1382,0.14,Residential,329000 CAD,Chartrand Acreage 
+4,4,1280,,Residential,359000 CAD,412 Redwood CRESCENT 
+4,1,1104,g>20,Residential,240000 CAD,Excel Acreage 
+3,3,1036,.106,Residential,269900 CAD,903 Swainson STREET 
+4,3,1084,.193,Residential,212000 CAD,1129 Kaposvar DRIVE 
+3,2,966,.125,Residential,329900 CAD,7338 Heron BAY 
+4,3,1198,,Residential,338000 CAD,221 Willow DRIVE 
+4,2,1181,.156,Residential,339900 CAD,5 Motherwell CRESCENT 
+3,2,888,.153,Residential,279900 CAD,2171 Fleury STREET 
+4,4,1400,,Residential,399000 CAD,13 Bridger DRIVE 
+3,2,1225,,Residential,239900 CAD,131 B Lakeshore ROAD 
+4,3,1460,.073,Residential,249900 CAD,101B Jackson AVENUE 
+3,2,1034,0.15,Residential,259900 CAD,538 26th STREET W 
+2,2,1044,.096,Residential,200000 CAD,223 1st AVENUE W 
+2,2,3351,g>10,Residential,219900 CAD,NW-32-60-25-W3 
+2,2,1024,.066,Residential,354900 CAD,1012 Snowberry WAY N 
+3,1,950,.143,Residential,200000 CAD,253 Cornwall STREET 
+2,2,990,,Residential,249900 CAD,110 Hampton CIRCLE 101
+3,2,1072,.163,Residential,284900 CAD,75 McGillivray CRESCENT 
+3,2,776,.149,Residential,229000 CAD,263 4th AVENUE SE 
+4,2,1700,,Residential,329000 CAD,417 Centre STREET 
+3,2,1000,.154,Residential,250000 CAD,112 MCCAUL CRESCENT 
+3,2,1069,,Residential,295900 CAD,1408 33rd STREET W 
+4,2,1044,.138,Residential,259900 CAD,511 103rd STREET 
+3,2,1300,0.01,Residential,379000 CAD,Border Acres 
+3,2,1164,.149,Residential,299900 CAD,2013 Grant DRIVE 
+3,2,1057,.096,Residential,254900 CAD,839 Athlone DRIVE N 
+5,3,1572,.238,Residential,269900 CAD,1172 111th STREET 
+3,2,935,.096,Residential,279900 CAD,2311 Elphinstone STREET 
+5,2,1536,6.18,Residential,300000 CAD,Zahorodin Acreage 
+4,2,1375,.126,Residential,309900 CAD,38 Bastedo CRESCENT 
+4,3,1276,.322,Residential,299900 CAD,37 Calder PLACE 
+5,2,1000,,Residential,299900 CAD,138 Galbraith CRESCENT 
+5,2,1076,.132,Residential,259000 CAD,304 10th AVENUE NW 
+3,1,8161,.143,Residential,215000 CAD,100 Ottawa STREET 
+6,3,1805,.316,Residential,325000 CAD,405 Main STREET 
+4,3,1450,>0.2,Residential,274500 CAD,320 3rd STREET E 
+3,2,796,.138,Residential,204900 CAD,412 Douglass STREET 
+5,3,1368,,Residential,329900 CAD,11 Crimp PLACE 
+4,3,1414,.132,Residential,389900 CAD,215 Alport CRESCENT 
+3,3,1068,.151,Residential,284900 CAD,114 Blake PLACE 
+3,3,1824,.172,Residential,349900 CAD,409 Maple BAY 
+4,3,1184,,Residential,399900 CAD,138 Batoche CRESCENT 
+5,3,1050,.115,Residential,309900 CAD,550 Fisher CRESCENT 
+2,2,1040,7.09,Residential,335000 CAD,Grant Acreage 
+3,2,1326,.103,Residential,269900 CAD,3139 Victoria AVENUE 
+4,2,1320,>1.3,Residential,280000 CAD,18/ 28 1St STREET 
+2,2,480,.077,Residential,208500 CAD,3929 Victoria AVENUE 
+4,2,922,0.08,Residential,349900 CAD,927 Dudley STREET 
+5,3,1247,0.18,Single,279000 CAD,3 McEwen Place 
+2,2,700,.121,Residential,259900 CAD,3125 Athol STREET 
+3,2,936,,Residential,234900 CAD,1543 Hastings STREET 
+3,3,1582,0.11,Residential,289900 CAD,102 6th AVENUE 
+5,2,1088,.164,Residential,229900 CAD,11360 Clark DRIVE 
+3,2,925,,Single,219900 CAD,90 4 Street E 
+5,2,1135,,Residential,379000 CAD,1313 12th STREET E 
+4,3,1884,.128,Residential,379900 CAD,47 Laubach AVENUE 
+3,2,1550,.138,Residential,299900 CAD,235 McCarthy BOULEVARD N 
+4,2,1192,,Residential,274900 CAD,1107 Lillooet STREET W 
+4,3,1768,1.03,Residential,390000 CAD,1728 La Ronge AVENUE 
+2,2,947,,Residential,324900 CAD,2339 St Patrick AVENUE 
+4,2,1040,.149,Residential,365000 CAD,1411 MACPHERSON AVENUE 
+3,2,1360,,Residential,255000 CAD,518 4th STREET N 
+3,2,1188,.135,Residential,269000 CAD,254 Duncan ROAD 
+3,2,855,.143,Residential,249900 CAD,362 Froom CRESCENT 
+4,2,999,.115,Single,269500 CAD,4733 18 Street 
+3,1,960,.143,Residential,219900 CAD,2215 7th AVENUE N 
+4,3,1474,9.84,Residential,349900 CAD,#219 RM of Longlaketon 
+5,2,1308,.138,Residential,365900 CAD,391 Dalgliesh DRIVE 
+5,3,1198,.142,Residential,335000 CAD,13 Telfer BAY 
+3,2,960,.145,Residential,349900 CAD,2500 Pasqua STREET 
+3,1,902,.126,Residential,239900 CAD,86 Plant CRESCENT 
+5,3,1664,>0.2,Residential,324900 CAD,209 Clarewood CRESCENT 
+4,2,816,.119,Residential,252000 CAD,807 Battel STREET N 
+3,2,1202,,Residential,379900 CAD,954 McFaull MANOR 
+4,2,1021,0.13,Single,289500 CAD,4726 46 Street 
+3,2,1559,,Residential,294900 CAD,605 Confederation DRIVE 
+4,3,1388,.158,Residential,285000 CAD,589 Poplar CRESCENT 
+4,3,1040,,Residential,314900 CAD,825 East CENTRE 
+3,3,1176,,Residential,299900 CAD,121 Second STREET NE 
+3,2,1040,,Residential,296500 CAD,531 Cook CRESCENT 
+2,1,814,.106,Residential,269900 CAD,5607 2nd AVENUE N 
+3,2,810,,Residential,258900 CAD,94 Patterson CRESCENT 
+3,3,1008,.116,Residential,314900 CAD,210 Mowat CRESCENT 
+1,1,933,,Residential,299900 CAD,2404 Wapoos PLACE 
+3,2,1308,,Residential,319900 CAD,126 Wheatland COURT 
+2,2,1272,,Residential,269000 CAD,1323 North Railway STREET E 
+4,2,1000,.099,Residential,239900 CAD,1922 Reynolds STREET 
+4,3,1440,g>20,Residential,289900 CAD,RM of Buffalo Acreage 
+3,2,1033,>0.1,Single,209999 CAD,2910 46 Avenue 
+4,2,924,,Residential,314900 CAD,1936 ATKINSON STREET 
+3,1,1235,.287,Residential,214900 CAD,209 2ND AVENUE 
+3,1,1217,.115,Residential,284900 CAD,3000 15th AVENUE 
+3,2,1088,,Residential,393637 CAD,506 Froese STREET 
+5,3,1434,.328,Single,334777 CAD,2311 46A Avenue 
+4,3,1242,.172,Residential,309000 CAD,207 Lonsdale STREET 
+4,2,1260,.137,Residential,267900 CAD,3001 GRANT ROAD 
+3,2,892,.095,Residential,254900 CAD,2535 Winnipeg STREET 
+3,2,1658,,Residential,324900 CAD,26 Redfield BAY 
+6,3,2156,,Residential,229900 CAD,670 Athabasca STREET W 
+6,2,960,,Residential,289900 CAD,2019 20th STREET W 
+3,2,1196,.125,Residential,269900 CAD,5 DEMARCO DRIVE 
+4,2,1179,,Residential,249900 CAD,332 F AVENUE S 
+2,2,880,.107,Residential,241900 CAD,467 York STREET 
+3,1,896,,Residential,229000 CAD,965 Caribou STREET W 
+3,3,1000,.179,Residential,290000 CAD,314 2nd AVENUE E 
+3,2,998,.164,Residential,259900 CAD,47 Yarnton CRESCENT 
+5,2,1039,,Residential,231900 CAD,629 5th AVENUE NW 
+3,2,978,.108,Residential,224900 CAD,375 Rae STREET 
+4,3,959,0.12,Single,344900 CAD,1811 47  Avenue 
+4,2,1630,.149,Residential,274900 CAD,5 Elm AVENUE 
+4,1,768,.001,Residential,280000 CAD,RM of Orkney Acreage 
+3,1,1152,.359,Residential,315000 CAD,825 Walsh AVENUE 
+3,1,1120,.143,Residential,220000 CAD,431 1st AVENUE 
+4,2,1040,.143,Residential,305000 CAD,3204 28th AVENUE 
+3,2,884,.143,Residential,290000 CAD,251 Scarth STREET 
+3,1,950,,Residential,324900 CAD,620 6th STREET E 
+3,1,1020,.143,Residential,259900 CAD,112 Garnet STREET 
+3,2,2061,10.1,Residential,395000 CAD,10 kms SW of Meadow Lake 
+3,1,1320,0.26,Residential,249500 CAD,72 Canary DRIVE 
+4,1,2080,5.13,Residential,239900 CAD,15.13 Acres-Elcapo Acreage PT NW 12-16-7 W2nd 
+5,2,1040,0.15,Residential,259900 CAD,341 29th STREET 
+4,2,936,,Residential,299000 CAD,189 Maple AVENUE 
+3,2,624,0.08,Residential,350000 CAD,1038 Osler STREET 
+3,1,1060,.143,Residential,279000 CAD,4116 McTavish STREET 
+5,2,1500,.248,Residential,209500 CAD,751 Mary STREET 
+4,2,1132,.255,Residential,289000 CAD,20 Macrae BAY 
+2,2,1359,,Residential,279000 CAD,203 & 210 1st AVENUE 
+4,2,1432,g>15,Residential,279900 CAD,Perrault Acreage 
+4,3,1152,.071,Residential,384900 CAD,118 Keedwell STREET 
+4,2,1126,,Residential,399900 CAD,2704 Ferguson AVENUE 
+3,2,820,,Residential,324900 CAD,365 McMaster CRESCENT 
+4,2,1086,.086,Residential,269900 CAD,206 TORONTO STREET 
+5,3,1454,.441,Residential,269000 CAD,318 Tiverton AVENUE 
+3,2,936,.155,Residential,229900 CAD,512 22nd STREET E 
+3,2,1362,3.78,Residential,249900 CAD,North Wiseton Acreage 
+3,2,996,,Residential,249900 CAD,214 7th STREET S 
+3,2,978,.124,Residential,269000 CAD,1503 Studer STREET 
+4,3,1386,.219,Residential,320000 CAD,219 10th AVENUE W 
+4,4,1616,3.19,Single,289900 CAD,PT. SE 1-45-26-W3 
+4,2,1108,0.11,Single,299900 CAD,403 4TH AvenueClose 
+4,2,864,.143,Residential,219900 CAD,817 3rd STREET S 
+3,2,646,.294,Residential,219900 CAD,304 1st AVENUE N 
+2,3,1642,.145,Residential,324900 CAD,78 METCALFE ROAD 
+4,2,1260,.151,Residential,359000 CAD,548 Milne CRESCENT 
+5,2,1040,.139,Residential,304900 CAD,32 Stewart AVENUE 
+5,3,1565,.298,Residential,289900 CAD,101 Halpenny STREET 
+3,2,936,0.17,Residential,287900 CAD,Sarvas Acreage 
+4,3,1090,.143,Residential,265000 CAD,315 3rd AVENUE W 
+2,1,1180,,Residential,294000 CAD,245 Sundale RIDGE W 
+4,2,945,.096,Residential,229000 CAD,219 1st AVENUE W 
+3,2,1494,.114,Residential,399000 CAD,104 Angus CRESCENT 
+4,3,1460,.034,Residential,349900 CAD,150 Burton STREET 
+3,1,1320,,Residential,239000 CAD,1433 Riverside AVENUE NE 
+4,3,1808,.165,Residential,359900 CAD,202 9th AVENUE E 
+3,2,1453,,Residential,224900 CAD,202 3rd STREET S 
+4,2,864,.131,Residential,274910 CAD,23 Ottawa PLACE 
+3,4,2004,.097,Residential,399900 CAD,2230 Rose STREET 
+5,4,1531,.341,Residential,349000 CAD,110 Spruce DRIVE 
+3,2,1441,0.15,Residential,285900 CAD,1800 Dufferin ROAD 
+3,3,1035,.154,Residential,359900 CAD,194 Windfield ROAD 
+5,3,1354,.134,Residential,379900 CAD,78 Lewry CRESCENT 
+2,2,1080,.143,Residential,339900 CAD,1316 E AVENUE N 
+4,2,1000,,Residential,364900 CAD,2106 Cairns AVENUE 
+2,1,896,.113,Residential,214900 CAD,505 Ottawa STREET 
+2,1,750,.152,Residential,269000 CAD,#9 Birch Street - Keeley Lake SK 
+3,1,1500,>0.2,Residential,269900 CAD,3180 Birch STREET 
+5,3,1163,.172,Residential,219900 CAD,210 Riverside DRIVE 
+3,3,1303,0.15,Single,279900 CAD,414 4 Street E 
+3,2,1735,1.29,Residential,399500 CAD,Milestone Acreage - 21.29 Acres 
+3,2,980,.165,Residential,238000 CAD,242 Lendrum STREET 
+4,3,1346,.192,Residential,243000 CAD,600 Choo-Foo CRESCENT 
+4,3,1134,.106,Residential,309900 CAD,817 L AVENUE S 
+4,3,1006,0.14,Residential,342500 CAD,203 Saskatchewan AVENUE 
+3,2,1036,.103,Residential,299900 CAD,310 Fulton DRIVE 
+4,3,1171,.138,Single,255000 CAD,79 3 Street E 
+3,2,1883,>0.5,Residential,299000 CAD,1511 Windover AVENUE 
+3,3,1245,,Residential,349900 CAD,2426 Clarence AVENUE S 
+4,2,1316,0.15,Residential,245000 CAD,27 CLAREWOOD CRESCENT 
+4,2,1608,,Residential,239900 CAD,137 1st AVENUE E 
+4,2,884,,Residential,279000 CAD,97 Burke CRESCENT 
+3,2,1050,0.11,Residential,276900 CAD,1421 1st AVENUE N 
+5,3,1232,.152,Residential,210000 CAD,112 Phillips STREET 
+3,3,1135,.557,Residential,298000 CAD,1132 112th STREET 
+2,1,825,.186,Residential,204900 CAD,4300 2nd AVENUE N 
+4,3,1168,0.17,Single,255000 CAD,4713 31 Street 
+1,1,608,,Residential,400000 CAD,114 U AVENUE N 
+5,2,1350,.144,Residential,265000 CAD,698 Elphinstone STREET 
+3,2,1258,,Residential,384900 CAD,513 30th STREET W 
+4,3,1584,8.16,Residential,319900 CAD,Adams acreage 
+4,2,989,.145,Residential,274500 CAD,1403 Ashley DRIVE 
+3,2,960,.204,Residential,234900 CAD,80 2nd STREET 
+4,3,1728,.135,Residential,339900 CAD,238 Hastings CRESCENT 
+5,3,1740,9.74,Residential,399000 CAD,Conacher Acreage 
+5,2,882,.119,Residential,284900 CAD,1931 7th AVENUE E 
+3,1,1451,0.09,Single,215000 CAD,4820 48 Street 
+3,3,1386,.074,Residential,389900 CAD,5185 Crane CRESCENT 
+3,2,997,.165,Residential,334900 CAD,210 McBurney DRIVE 
+4,2,1132,1.01,Residential,289000 CAD,405 Sherbrooke STREET N 
+4,1,1080,.107,Residential,289500 CAD,133 Ottawa STREET 
+2,2,1040,.275,Residential,230000 CAD,203 2nd STREET NW 
+2,2,952,.138,Residential,239000 CAD,417 6th STREET W 
+4,2,1007,.105,Residential,334900 CAD,1012 Wadey DRIVE 
+4,1,1060,0.13,Residential,224900 CAD,6 Woodward AVENUE 
+3,2,1745,0.03,Residential,390000 CAD,10 on 8 Acreage 
+4,3,1196,.153,Residential,289900 CAD,11344 Clark DRIVE 
+4,2,1040,0.16,Residential,280000 CAD,96 Hesford PLACE 
+5,3,1168,0.16,Single,364777 CAD,3301 43B Avenue 
+4,3,1384,1.93,Residential,275000 CAD,RM 40 Ashby Acreage 
+3,2,1310,,Residential,299900 CAD,1020 Weldon AVENUE 
+5,4,2105,.234,Residential,250000 CAD,1005 2nd STREET 
+4,3,1281,,Residential,359000 CAD,31 Frere STREET 
+5,2,1317,.189,Residential,269900 CAD,680 22nd STREET W 
+4,2,966,,Residential,369900 CAD,1015 Taylor STREET E 
+4,2,960,0.22,Residential,315000 CAD,615 8th AVENUE W 
+3,2,952,,Residential,304900 CAD,306 St Laurent CRESCENT 
+1,1,580,,Residential,235000 CAD,113 Hilliard STREET W 
+4,1,1141,,Residential,228900 CAD,1114 Main STREET 
+3,2,1242,.103,Residential,289900 CAD,267 Upland DRIVE 
+3,4,1848,,Residential,254900 CAD,203 Buffer AVENUE 
+4,2,919,.139,Residential,274900 CAD,3439 Fairlight DRIVE 
+5,2,1080,.182,Single,219000 CAD,5529 50 Avenue 
+3,3,1362,,Residential,394900 CAD,982 McFaull MANOR 
+5,3,1497,.151,Single,399900 CAD,4725 13 Street 
+4,2,936,.142,Residential,225000 CAD,807 107th AVENUE 
+5,3,1334,.164,Residential,349900 CAD,200 Diefenbaker AVENUE 
+3,2,1379,3.38,Residential,325000 CAD,Rural Address 
+5,2,1598,,Residential,315000 CAD,1121 Lillooet STREET SW 
+4,2,1720,11.2,Residential,225000 CAD,Annaheim Acreage 
+3,2,1680,,Residential,399000 CAD,1 Bridger DRIVE 
+3,1,925,.139,Residential,299000 CAD,110 Krauss STREET 
+4,3,1128,,Residential,289000 CAD,8 Marion CRESCENT 
+3,2,1216,.072,Residential,347700 CAD,243 St John STREET 
+5,2,720,,Residential,259000 CAD,1112 Algoma AVENUE 
+3,3,1484,.139,Residential,374900 CAD,2433 William AVENUE 
+3,1,1092,.143,Residential,319900 CAD,2776 Rothwell STREET 
+3,3,3030,.448,Residential,329000 CAD,108-110 Birch STREET 
+3,2,1877,.149,Residential,239900 CAD,402 Varennes STREET 
+3,1,850,.167,Residential,259900 CAD,203 112th STREET W 
+4,3,1040,ng>3,Residential,329900 CAD,Hazelnut Acres Acreage 
+5,4,1479,g>10,Residential,399900 CAD,Craig Acreage 
+3,2,895,.115,Residential,379900 CAD,1640 Edward AVENUE 
+4,2,1040,.218,Residential,369800 CAD,10 Oliver CRESCENT 
+5,4,1546,0.13,Residential,295000 CAD,Penner Acreage 
+5,2,1102,0.16,Residential,396000 CAD,45 Red River ROAD 
+4,2,1102,3.37,Residential,260000 CAD,"Waterfront Acreage, Cowan Lake "
+4,2,1604,0.35,Residential,359555 CAD,642 EAST STREET 
+5,2,1560,2.13,Residential,329000 CAD,Highway 13 Acreage 
+4,2,1007,.149,Residential,287900 CAD,95 Rothwell CRESCENT 
+5,4,1708,.258,Residential,375000 CAD,1033 Valley STREET 
+4,4,1664,4.98,Residential,399000 CAD,Lock Lomond - Reber Acreage 
+3,1,1276,3.52,Residential,274999 CAD,PT NE 34-05-22 W3 
+3,1,816,,Residential,230000 CAD,30 Makwa DRIVE 
+4,3,1472,2.61,Residential,279000 CAD,101 8th STREET W 
+3,2,1232,0.32,Residential,249000 CAD,186 Clarewood CRESCENT 
+3,1,1060,ng>3,Residential,224900 CAD,424 Highway 777 
+4,4,2452,g>10,Residential,310000 CAD,Carpenter Acreage 
+4,2,1550,.146,Residential,399900 CAD,208 Willard DRIVE 
+4,2,1040,,Residential,349900 CAD,410 Silverwood ROAD 
+3,2,840,.141,Residential,294900 CAD,211 Barber CRESCENT 
+5,2,1065,.072,Residential,254500 CAD,1626 Rae STREET 
+4,2,1134,0.24,Single,239900 CAD,5503 50th Avenue 
+4,2,1170,.155,Residential,319000 CAD,447 Woodlawn CRESCENT 
+5,2,1288,5.02,Single,399500 CAD,Blk B SW 29-47-23-W3 
+3,3,1393,,Residential,374900 CAD,168 Rosewood BOULEVARD E 
+5,3,1260,0.17,Residential,389900 CAD,122 Janet DRIVE 
+4,2,1112,.138,Single,229900 CAD,103 3 Avenue E 
+3,1,1404,.132,Residential,208000 CAD,601 1st STREET E 
+3,2,897,,Residential,259500 CAD,975 DOWNEY CRESCENT 
+4,3,1460,,Residential,264900 CAD,112 Coteau STREET E 
+3,2,1292,.095,Residential,284900 CAD,2308 Robinson STREET 
+3,2,905,0.15,Residential,209000 CAD,535 Poplar CRESCENT 
+4,3,1086,0.15,Residential,274900 CAD,2971 15th AVENUE E 
+4,2,1040,.193,Residential,279000 CAD,142 Circlebrooke DRIVE 
+3,4,1602,.084,Residential,399900 CAD,2010 Kensington ROAD 
+3,2,1296,g>60,Residential,319900 CAD,NE-7-27-25-W3 
+5,3,1150,.115,Residential,339000 CAD,278 6th AVENUE NW 
+3,3,1600,.863,Residential,219900 CAD,107 2nd AVENUE S 
+3,2,1060,.132,Residential,339000 CAD,2222 Easthill 
+3,2,1416,0.23,Residential,231500 CAD,121 5th STREET E 
+7,4,1448,,Residential,389900 CAD,538 Saskatchewan STREET W 
+3,3,1200,,Residential,369800 CAD,8 Sullivan STREET 
+4,2,1096,7.15,Residential,370000 CAD,Connor-McCarthy Acreage 
+4,3,1138,,Residential,254900 CAD,1207 SPADINA STREET 
+2,1,902,.096,Residential,219000 CAD,2425 Wallace STREET 
+3,2,1360,,Residential,349900 CAD,1932 Lorne AVENUE 
+5,2,1616,.114,Residential,399000 CAD,303 Corrigal CRESCENT 
+4,2,1240,>114,Residential,399900 CAD,PTN of NW 32 08 08 W2 
+3,2,1147,,Residential,285000 CAD,308 Hilliard STREET E 
+4,3,1096,.191,Residential,223000 CAD,900 28th STREET E 
+3,2,1095,.162,Residential,310000 CAD,2202 12th AVENUE N 
+3,2,1452,0.21,Residential,297000 CAD,1811 Eaglesham AVENUE 
+3,2,1296,.176,Residential,399000 CAD,1417 Birch DRIVE 
+3,1,1120,.138,Residential,229000 CAD,102 Maple STREET 
+4,3,1022,.159,Residential,369900 CAD,431 Highlands CRESCENT 
+5,2,1172,,Residential,259900 CAD,802 Mark AVENUE 
+5,3,1370,.154,Residential,349900 CAD,1011 McMillan AVENUE 
+4,2,1744,2.77,Residential,269000 CAD,29KM East of Meadow Lake 
+3,3,1744,.308,Residential,319000 CAD,704 2nd STREET W 
+4,2,1426,.241,Residential,235000 CAD,101 8th AVENUE W 
+4,2,1102,,Residential,260000 CAD,582 25th STREET W 
+6,3,2031,0.15,Residential,359000 CAD,222 27th STREET 
+5,3,1457,.321,Residential,285000 CAD,118 2nd AVENUE 
+3,2,884,.149,Residential,264900 CAD,6 TRIFUNOV CRESCENT 
+4,2,1084,.157,Residential,267000 CAD,41 Barnes CRESCENT 
+4,3,1322,,Residential,349900 CAD,26 Assiniboine DRIVE 
+3,2,1280,.275,Residential,375000 CAD,1150-1152 Katepwa LANE 
+3,2,1782,>1.1,Residential,279990 CAD,Parcel A 1st STREET 
+3,2,982,0.59,Residential,229900 CAD,501 Moody DRIVE 
+5,2,1182,,Residential,399900 CAD,112 Haichert STREET 
+2,1,768,.216,Residential,234900 CAD,34 Gaddesby CRESCENT 
+5,3,1594,.168,Residential,269000 CAD,29 Kasper CRESCENT 
+4,2,1216,0.17,Residential,269000 CAD,531 Cook ROAD 
+3,1,900,>0.1,Residential,249900 CAD,222 Adelaide STREET E 
+3,2,1613,.308,Residential,325000 CAD,120 Kay LANE 
+5,4,1733,.188,Residential,374900 CAD,935 2nd STREET 
+4,3,1200,.149,Residential,375000 CAD,124 Lakeview CRESCENT 
+4,4,1420,0.23,Residential,315000 CAD,141 Kay LANE 
+3,2,1008,0.21,Residential,255000 CAD,26 1st STREET E 
+3,2,760,,Residential,259000 CAD,911 23rd STREET W 
+4,1,1020,,Residential,205000 CAD,210 Main STREET E 
+4,2,936,.142,Residential,274900 CAD,1130 L AVENUE N 
+3,3,1496,0.65,Residential,349000 CAD,406 Macdonald STREET 
+3,2,1428,,Residential,325000 CAD,13 Katepwa AVENUE S 
+4,3,1120,0.26,Residential,289000 CAD,229 Vickers CRESCENT 
+4,1,1520,0.16,Residential,270000 CAD,429 Valley View ROAD 
+3,1,931,.606,Single,209900 CAD,215 6TH AVENUE 
+5,2,1176,2.34,Residential,389900 CAD,4107 Forest DRIVE 
+3,1,930,.141,Residential,349900 CAD,309 Guelph CRESCENT 
+4,3,1288,.143,Residential,399900 CAD,58 MARTIN STREET 
+3,2,1320,.072,Residential,214000 CAD,1879 St John STREET 
+4,3,1171,,Residential,279000 CAD,901 Gordon STREET 
+3,3,1087,.076,Residential,319900 CAD,8825 Herman CRESCENT 
+4,2,1041,.126,Residential,319500 CAD,348 Argyle STREET N 
+4,3,1602,,Residential,229000 CAD,203 4th AVENUE S 
+6,3,1320,.207,Residential,279900 CAD,5 Northfield BAY 
+3,3,1080,.265,Residential,215000 CAD,94 Cedar STREET 
+3,2,1040,.544,Residential,242000 CAD,327 1st AVENUE E 
+5,3,1170,.174,Residential,369000 CAD,24 Jackson DRIVE 
+3,2,1612,0.11,Residential,289900 CAD,531 F AVENUE S 
+4,2,2178,,Residential,220000 CAD,1021 2nd AVENUE NW 
+5,2,880,.146,Residential,349900 CAD,826 3rd AVENUE N 
+3,3,992,.144,Residential,299900 CAD,238 Witney AVENUE N 
+4,3,1304,0.17,Residential,368900 CAD,435 Curry CRESCENT 
+2,1,1444,.122,Residential,265000 CAD,1019 Edmonton STREET 
+3,1,1040,,Residential,315000 CAD,1713 Coy AVENUE 
+3,1,1000,.172,Residential,229900 CAD,1044 3rd STREET E 
+4,3,1230,.179,Residential,369900 CAD,15 MacDonald CRESCENT 
+5,2,1788,1.49,Residential,339900 CAD,Milestone Acreage 
+4,3,1288,.201,Residential,395900 CAD,24 Kingbird DRIVE 
+2,2,1341,.072,Residential,299900 CAD,2301 Rae STREET 
+4,2,1589,.174,Residential,259900 CAD,8905 19th AVENUE 
+5,4,1736,.224,Residential,389000 CAD,5 Marion CRESCENT 
+4,2,1722,,Residential,294500 CAD,133 McIntosh CRESCENT 
+3,2,1037,.185,Residential,239900 CAD,403 22nd STREET E 
+3,3,1311,,Residential,270000 CAD,278 3rd AVENUE NE 
+3,3,1597,.198,Residential,267000 CAD,616 6th AVENUE SE 
+5,4,2472,.187,Residential,355000 CAD,10812 Meighen CRESCENT 
+5,2,1114,0.15,Residential,349900 CAD,29 KNOWLES CRESCENT 
+4,3,1200,.143,Residential,299000 CAD,217 5th AVENUE W 
+3,2,1352,,Residential,234000 CAD,152 Hochelaga STREET W 
+4,3,1236,,Residential,289000 CAD,216 3rd STREET W 
+5,3,1155,.183,Residential,379900 CAD,86 Selkirk CRESCENT 
+4,2,1320,1.96,Residential,319000 CAD,LaCoste Acreage 
+4,2,1886,.003,Residential,282000 CAD,820 9TH STREET 
+3,3,1188,.193,Residential,269900 CAD,2178 Douglas AVENUE 
+4,2,1048,0.13,Residential,234900 CAD,607 20th STREET W 
+3,1,950,.134,Residential,209900 CAD,332 Royal STREET 
+4,3,2298,4.08,Residential,399900 CAD,Skotheim Acreage 
+4,2,930,.076,Residential,224900 CAD,763 Pasqua STREET 
+2,1,920,.073,Residential,245000 CAD,323 G AVENUE S 
+4,4,2010,.322,Residential,394900 CAD,537 Fir CRESCENT 
+4,3,1044,0.12,Residential,359900 CAD,151 Laurentian DRIVE 
+3,1,1200,.356,Residential,229000 CAD,250 Grey STREET 
+5,3,2080,.295,Residential,279000 CAD,28 Finch CRESCENT 
+3,1,1005,.143,Residential,259900 CAD,712 Empress STREET 
+5,2,1652,.245,Residential,289900 CAD,509 3rd AVENUE E 
+3,1,1072,.138,Residential,209900 CAD,55 ROBINSON CRESCENT 
+3,3,1664,,Residential,224900 CAD,102 Durham STREET 
+3,3,1344,.171,Residential,224000 CAD,319 3rd AVENUE 
+3,3,1025,.099,Residential,325000 CAD,3506 Cormorant DRIVE E 
+5,2,1128,,Residential,388000 CAD,46 Laurentian DRIVE 
+4,2,1004,.211,Residential,226900 CAD,879 5th AVENUE NE 
+5,2,980,.072,Residential,229900 CAD,848 Cameron STREET 
+3,3,1132,.124,Residential,339900 CAD,159 Kirkpatrick CRESCENT 
+5,4,1886,0.62,Residential,279000 CAD,220 Broadway AVENUE 
+2,2,829,,Residential,219000 CAD,"Lot 4, Elim Two, Lac Pelletier "
+3,2,1243,0.13,Residential,389900 CAD,289 Maccormack ROAD 
+3,2,954,4.42,Residential,265000 CAD,Debden Park Valley Acreage 
+4,3,1802,.144,Residential,294900 CAD,639 Argyle STREET 
+3,2,1316,.215,Residential,225000 CAD,106 6th AVENUE E 
+3,2,1610,0.77,Residential,289000 CAD,Frank Acreage 
+3,2,1204,.287,Residential,317500 CAD,437 Martin CRESCENT 
+4,2,1766,,Residential,254000 CAD,1015 2nd AVENUE NE 
+4,2,1072,,Residential,359900 CAD,44 Kirk CRESCENT 
+4,2,864,,Residential,258000 CAD,1534 Vaughan STREET SW 
+4,2,1224,.165,Residential,274900 CAD,1919 Foley DRIVE 
+3,2,864,.154,Single,219900 CAD,3304 48 AVENUE Avenue 
+3,2,936,,Residential,209900 CAD,50 Bowerman CRESCENT 
+2,2,912,,Residential,209900 CAD,845 Fairford STREET E 
+4,2,966,.153,Residential,289000 CAD,467 Russel CRESCENT 
+3,3,1521,.132,Residential,349900 CAD,5017 Telegraph STREET 
+3,2,1468,.143,Residential,347500 CAD,451 9th STREET E 
+5,2,980,.143,Residential,379000 CAD,325 W AVENUE N 
+7,3,2198,.161,Residential,275000 CAD,702 Main STREET 
+4,3,1047,.157,Residential,389900 CAD,423 Tennant WAY 
+3,1,728,0.18,Residential,350000 CAD,529 Dustin PLACE 
+5,2,960,.131,Residential,269900 CAD,1311 8th AVENUE N 
+2,1,701,.077,Residential,229000 CAD,701 BROADWAY AVENUE 
+3,2,936,.136,Single,259900 CAD,4905 21 Street 
+4,2,1042,.138,Residential,289900 CAD,321 Vancouver AVENUE N 
+4,2,1318,.138,Residential,269900 CAD,983 McCarthy BOULEVARD 
+3,1,864,,Residential,249900 CAD,977 MCCARTHY BOULEVARD 
+4,2,972,.122,Residential,349900 CAD,337 Main STREET 
+4,3,1353,9.69,Residential,299000 CAD,Prette Acreage 
+5,3,1588,0.17,Single,379900 CAD,36 Scenic Drive 
+3,2,1394,,Residential,389900 CAD,200 Willard DRIVE 
+2,2,930,.125,Residential,259900 CAD,1502 Vaughan STREET 
+5,2,1132,.413,Residential,299900 CAD,731 Bury STREET 
+3,2,1650,0.42,Residential,375000 CAD,643 Willow Point WAY 
+5,2,1040,.138,Residential,279900 CAD,3128 GRANT ROAD 
+2,2,1328,.102,Residential,309900 CAD,26 Hooper BAY 
+3,2,938,.094,Residential,319900 CAD,178 Paynter CRESCENT 
+4,3,1506,.125,Residential,389900 CAD,147 Pasqua STREET 
+4,2,1440,.143,Residential,225000 CAD,106 6th AVENUE W 
+4,2,856,.126,Residential,289900 CAD,6227 5th AVENUE 
+4,3,1180,.115,Residential,295000 CAD,205 Broad STREET N 
+6,3,1476,.147,Residential,399000 CAD,147 Stewart CRESCENT 
+2,1,784,.394,Residential,320000 CAD,203 Pelletier Drive 
+3,2,975,3.87,Residential,299000 CAD,Schoenfelder Acreage 
+4,3,1275,.122,Residential,309900 CAD,74 HATTON CRESCENT 
+3,2,850,.118,Residential,259900 CAD,818 Confederation DRIVE 
+3,2,816,.103,Residential,285900 CAD,105 Acadia COURT 
+5,1,1344,3.51,Residential,259900 CAD,NW 9-55-08-W3rd Big River RM 555 
+5,4,1782,0.21,Residential,265000 CAD,223 7th STREET W 
+4,2,912,.169,Residential,279000 CAD,444 McGillivray DRIVE 
+3,1,1240,,Residential,299900 CAD,917 6th AVENUE 
+3,2,960,.131,Residential,239000 CAD,111 McCannel STREET 
+4,1,1240,>160,Farm,309900 CAD,Beaver River RM622 Land 
+3,2,816,.104,Residential,314000 CAD,141 Acadia COURT 
+5,3,1242,,Residential,359500 CAD,301 Bell STREET 
+3,2,850,.108,Residential,241900 CAD,63 Borlase CRESCENT 
+4,2,1280,.143,Residential,324400 CAD,1840 Rupert STREET 
+3,3,1505,,Residential,358500 CAD,338 J AVENUE S 
+4,3,1976,.147,Residential,359000 CAD,19 Frere STREET 
+6,4,1163,.072,Residential,319900 CAD,475 Toronto STREET 
+3,3,1530,.107,Residential,399800 CAD,114 Meadows BOULEVARD 
+4,2,1122,,Residential,239900 CAD,319 Anglia CRESCENT 
+3,1,864,.126,Residential,219900 CAD,1517 Coteau STREET W 
+4,3,1272,,Residential,359900 CAD,11 Main BAY 
+4,3,1030,,Residential,379900 CAD,642 Kingsmere BOULEVARD 
+3,3,1046,.139,Residential,339900 CAD,14 JOYCE CRESCENT 
+4,2,1046,.153,Residential,219900 CAD,402 Main STREET 
+4,3,1522,.151,Residential,369000 CAD,95 Massey ROAD 
+8,3,6500,,Residential,289000 CAD,139 2nd AVENUE SW 
+4,2,1142,1.15,Residential,298900 CAD,Shellbrook Acreage 
+3,3,1092,.476,Residential,235900 CAD,7 E AVENUE NE 
+3,3,1444,4.89,Residential,399900 CAD,Just Acreage 
+3,2,1914,5.45,Residential,299900 CAD,Holbein Acreage 
+3,3,1280,.129,Residential,359900 CAD,310 Assiniboia STREET 
+3,3,2218,6.91,Residential,395000 CAD,Folstad Quarter 
+3,3,1100,0.27,Residential,279000 CAD,1351 McKay DRIVE 
+5,3,1815,1.22,Residential,328000 CAD,403 PERSSON STREET 
+3,2,1057,0.16,Residential,257900 CAD,1121 Hartney AVENUE NE 
+2,1,1088,.279,Residential,214900 CAD,911 Waskos DRIVE 
+5,2,1071,0.17,Residential,264900 CAD,313 26th STREET W 
+2,1,672,,Residential,219000 CAD,1 Bear Ridge ROAD 
+3,2,1298,8.59,Residential,260000 CAD,38 Acres Near Rapid View 
+3,2,643,,Residential,369500 CAD,1210 13th STREET E 
+4,2,976,.072,Residential,224900 CAD,1214 Robinson STREET 
+4,3,1288,.141,Residential,379900 CAD,1 Birch PLACE 
+2,1,926,,Residential,284900 CAD,318 Ruby DRIVE 
+5,3,2025,.096,Residential,259900 CAD,2070 Garnet STREET 
+3,1,976,.126,Residential,264000 CAD,266 Trifunov CRESCENT 
+3,2,1722,.186,Residential,379999 CAD,912 Sewell PLACE 
+4,2,1500,7.61,Residential,289900 CAD,Walker Acreage 
+2,1,800,.115,Residential,239900 CAD,3805 REGINA AVENUE 
+5,2,1074,.165,Residential,244900 CAD,1881 96th STREET 
+4,2,1133,g>20,Residential,283500 CAD,carlyle acreage - Hwy 13 East - Carlyle acreage 
+4,3,1420,,Residential,274900 CAD,432 Dennis STREET 
+3,3,1228,.081,Residential,389900 CAD,115 Thakur STREET 
+2,1,1061,.239,Residential,348000 CAD,116 Garwell DRIVE 
+3,2,146371,.244,Single,284900 CAD,4701 23RD STREET 
+3,2,2100,,Residential,389000 CAD,701 Pine DRIVE 
+5,3,1221,0.54,Residential,249900 CAD,49 2nd AVENUE E 
+5,2,1194,.139,Residential,324500 CAD,230 Conlin DRIVE 
+2,1,997,,Residential,334900 CAD,48 Martens CRESCENT 
+4,3,1246,.235,Residential,246000 CAD,1116 Carlton STREET 
+4,2,1596,g>13,Residential,248000 CAD,Risling Acreage 
+4,3,1112,.113,Residential,259900 CAD,1955 Reynolds STREET 
+3,2,1176,.107,Residential,226000 CAD,5918 Dalgliesh DRIVE 
+3,2,928,.147,Residential,239000 CAD,144 Montgomery CRESCENT 
+3,1,779,.089,Residential,249900 CAD,2549 WINNIPEG STREET 
+2,3,1688,>0.4,Residential,269900 CAD,202 4th STREET 
+3,2,682,,Residential,229900 CAD,1018 B AVENUE N 
+3,2,921,0.07,Residential,294900 CAD,928 Weldon AVENUE 
+,,21668,1.76,Residential,349900 CAD,209 First STREET E 
+5,4,1600,.165,Residential,379900 CAD,42 Gabruch CRESCENT 
+5,3,1380,.362,Residential,284900 CAD,218 1st AVENUE E 
+5,2,1360,.143,Residential,299000 CAD,318 5th AVENUE W 
+3,2,868,.134,Residential,286900 CAD,3459 Fairlight DRIVE 
+3,2,730,0.12,Residential,229900 CAD,1329 Aberdeen STREET 
+8,4,2620,0.17,Residential,289000 CAD,4631 4th AVENUE 
+3,2,1590,ng>5,Residential,259900 CAD,Freeman Place 
+4,2,1232,0.39,Single,249500 CAD,211 Hillview Crescent 
+3,1,1076,4.14,Residential,219900 CAD,Abbott Acreage 
+4,3,1792,.143,Residential,235000 CAD,312 1st AVENUE 
+5,4,2160,.185,Residential,392900 CAD,1518 Byers CRESCENT 
+3,3,1994,.186,Residential,369900 CAD,58 Spice DRIVE 
+3,3,1445,,Residential,220000 CAD,309 4th STREET W 
+3,2,1296,.243,Residential,225000 CAD,908 105th AVENUE 
+2,1,832,.141,Residential,218000 CAD,5 Downey STREET 
+4,2,952,,Residential,205000 CAD,517 10th STREET 
+3,2,1548,.298,Residential,329000 CAD,27 Herbert STREET 
+5,3,3000,,Residential,214900 CAD,628 Mayer STREET 
+5,2,2024,3.86,Residential,249000 CAD,SAND ROAD ACREAGE 
+3,1,1127,.074,Residential,250000 CAD,2240 QUEEN STREET 
+4,2,864,.152,Residential,223000 CAD,107 Redwood DRIVE 
+3,1,798,.115,Single,239900 CAD,43 Sandy Beach 
+4,2,745,.139,Residential,219900 CAD,237 Montreal AVENUE S 
+4,3,1104,.808,Residential,219000 CAD,103 McMurphy ROAD 
+5,2,1048,.202,Residential,299900 CAD,921 J AVENUE N 
+3,2,1056,.122,Residential,294900 CAD,439 Argyle STREET N 
+4,2,1558,.227,Single,275000 CAD,203 Old Jasper Highway 
+3,2,1184,5.77,Residential,298500 CAD,Sorensen Acreage 
+3,3,1607,.245,Residential,299000 CAD,745 Sunvalley DRIVE 
+4,3,1160,.192,Residential,349900 CAD,38 Elmwood PLACE 
+6,2,1313,.132,Residential,249900 CAD,302 3rd AVENUE NW 
+5,2,1133,.176,Residential,269900 CAD,8912 18th AVENUE 
+4,2,958,.088,Residential,289900 CAD,709 M AVENUE N 
+3,1,1248,.119,Residential,249900 CAD,1443 McIntosh STREET 
+5,3,1631,.287,Residential,299500 CAD,602 1st AVENUE S 
+4,2,1052,.139,Residential,269900 CAD,42 Charles CRESCENT 
+4,2,1484,>9.9,Residential,369900 CAD,Miller Acreage 
+2,2,1040,8.58,Farm,395000 CAD,Star Boom Farms 
+2,1,768,,Residential,339900 CAD,615 Tobeys CRESCENT 
+2,2,1330,.319,Residential,306900 CAD,201 Wapiti Road 
+4,2,864,.131,Residential,289000 CAD,83 Mollard CRESCENT 
+4,3,1224,.084,Residential,345900 CAD,211 Clarence AVENUE S 
+3,2,1232,,Residential,229000 CAD,398 Mountview ROAD 
+4,2,1176,>0.2,Residential,229900 CAD,232 Onstad CRESCENT 
+2,1,806,>0.2,Residential,239900 CAD,518 Osborne LANE 
+4,2,1076,.301,Residential,384900 CAD,165 Qu'appelle DRIVE W 
+4,3,728,,Residential,279900 CAD,630 Athabasca STREET W 
+4,2,998,0.15,Residential,285000 CAD,330 Aspen DRIVE 
+3,2,800,,Residential,299900 CAD,130 6TH STREET 
+4,3,2496,0.28,Residential,319900 CAD,122 24th STREET 
+3,1,1098,.077,Residential,274900 CAD,931 College AVENUE 
+6,3,1098,,Residential,285000 CAD,30 Dunfield CRESCENT 
+3,2,768,.128,Residential,319900 CAD,1117 Campbell STREET 
+3,1,975,.147,Residential,214910 CAD,16 St John PLACE 
+4,2,1023,,Residential,334900 CAD,1126 7th STREET E 
+4,2,1048,.196,Residential,259900 CAD,216 Onstad CRESCENT 
+4,2,1000,.136,Single,219500 CAD,4805 21 Street 
+3,3,1369,>0.2,Single,249500 CAD,214 5th Avenue W 
+2,1,988,.149,Residential,230000 CAD,332 Brunswick STREET 
+3,2,1025,.225,Residential,280000 CAD,323 Hill AVENUE 
+5,3,1091,0.19,Single,229000 CAD,110 5 Avenue W 
+3,2,1064,.126,Residential,309900 CAD,704 14th AVENUE SW 
+5,2,1100,.161,Residential,250000 CAD,856 Walsh AVENUE 
+3,2,1626,.168,Residential,369900 CAD,2524 GRANT ROAD 
+4,2,998,.161,Residential,229900 CAD,251 19th STREET 
+2,3,1120,5.31,Residential,230000 CAD,W M Acreage 
+1,1,794,,Residential,375000 CAD,201-202 Elim DRIVE 
+3,2,768,.145,Residential,237000 CAD,15 Harbour View DRIVE 
+3,2,960,.121,Residential,265000 CAD,6710 1st AVENUE N 
+2,1,768,.149,Residential,219900 CAD,136 PERCH CRESCENT 
+2,1,840,,Residential,224900 CAD,1811 Kilburn AVENUE 
+5,2,1100,,Residential,399900 CAD,2529 Hanover AVENUE 
+3,2,1265,.182,Residential,349900 CAD,203 North Shore DRIVE 
+5,3,1061,0.11,Residential,389900 CAD,304 Reddekopp CRESCENT 
+3,2,1430,,Residential,295000 CAD,1006 Birch AVENUE 
+3,2,1056,.173,Residential,284900 CAD,18 Marsh CRESCENT 
+3,3,1378,.135,Residential,379900 CAD,139 Dryburgh CRESCENT 
+3,4,2040,g>10,Residential,374900 CAD,Stoughton Acreage 
+5,3,1172,.127,Residential,349900 CAD,222 Cochin CRESCENT 
+3,2,1197,.172,Residential,288000 CAD,309 4th AVENUE 
+4,2,1197,0.16,Residential,309900 CAD,414 Brooks ROAD 
+4,3,1592,11.3,Residential,390000 CAD,Tuff Enuf Farms Ltd.  Ptn SW 26-22-24  W2nd 
+4,3,1240,0.15,Residential,379900 CAD,62 Blackwell CRESCENT 
+3,3,1353,,Residential,364900 CAD,2949 McClocklin ROAD 
+4,2,1032,.138,Residential,309000 CAD,74 Robinson CRESCENT 
+3,3,1440,0.48,Residential,349900 CAD,114 Sunset DRIVE 
+4,2,1044,,Residential,224900 CAD,216 5th STREET 
+3,2,1598,g>10,Residential,289900 CAD,Veltkamp Acreage 
+3,3,1700,0.15,Residential,239000 CAD,622 7th AVENUE W 
+2,1,736,0.31,Residential,339900 CAD,1102 Lorraine DRIVE 
+4,2,1004,.144,Residential,278000 CAD,736 Horace STREET 
+4,3,1188,.185,Residential,323500 CAD,362 34th STREET 
+6,3,1261,.296,Residential,229900 CAD,600 4th AVENUE W 
+3,2,770,.161,Residential,289900 CAD,226 W AVENUE N 
+3,2,1252,.138,Residential,259900 CAD,334 Hudson AVENUE 
+3,2,856,.089,Residential,379900 CAD,4525 PADWICK CRESCENT 
+5,2,1288,.198,Residential,239900 CAD,219 5th AVENUE W 
+2,2,1293,.051,Residential,399900 CAD,2213 Pasqua STREET 
+5,2,1344,g>80,Farm,400000 CAD,Gilroy Farm 
+5,3,2160,.165,Residential,279900 CAD,109 Assiniboia AVENUE 
+3,3,1267,.082,Residential,344000 CAD,216 27th STREET W 
+3,2,988,.154,Residential,229900 CAD,262 20th STREET 
+3,1,1500,.185,Residential,360000 CAD,12 Waseca AVENUE 
+4,2,846,.125,Residential,271900 CAD,65 Bannister AVENUE 
+4,3,1040,.128,Residential,295000 CAD,353 CAVENDISH STREET 
+4,2,1188,.182,Residential,245000 CAD,411 East DRIVE 
+3,2,1256,0.15,Residential,314900 CAD,315 McGregor STREET 
+2,1,1348,.179,Residential,229500 CAD,1203 6th AVENUE 
+5,3,1162,.145,Single,289000 CAD,418 3rd Street E 
+3,3,1461,,Residential,394900 CAD,970 McFaull MANOR 
+5,2,1009,,Residential,259900 CAD,1301 3rd AVENUE NW 
+4,2,1238,0.04,Residential,209900 CAD,202 26th STREET E 
+2,2,1325,,Residential,299900 CAD,86 Ferguson BAY 
+5,3,1420,.264,Residential,224999 CAD,508 4th AVENUE E 
+3,4,1457,.155,Single,339777 CAD,4811 20 StreetClose 
+4,3,2926,0.39,Residential,353000 CAD,Lewry Acres 
+3,1,936,0.17,Residential,209000 CAD,506 South Point TERRACE 
+3,1,1056,,Residential,219900 CAD,411 Craig STREET 
+2,3,900,.146,Residential,274900 CAD,104 Dryburgh CRESCENT 
+6,2,1928,.161,Residential,349900 CAD,2116 Macpherson AVENUE 
+3,2,924,.138,Residential,299900 CAD,130 Rothwell CRESCENT 
+3,2,960,.111,Residential,249000 CAD,203 1st AVENUE W 
+3,2,2050,.115,Residential,225000 CAD,12 Elm AVENUE 
+3,1,1318,,Residential,249900 CAD,910 Robison STREET 
+2,2,1280,.072,Residential,244900 CAD,2645 MCDONALD STREET 
+3,2,1008,.165,Residential,218000 CAD,554 Caribou CRESCENT 
+5,2,1266,.164,Residential,244900 CAD,525 Main STREET 
+3,3,1290,.083,Residential,399900 CAD,4367 Nicurity DRIVE 
+4,2,1024,.115,Single,314900 CAD,1507 48 Avenue 
+3,2,1536,,Residential,346900 CAD,312 9th AVENUE E 
+4,3,1344,.327,Residential,334000 CAD,520 8th AVENUE NW 
+5,3,1500,.195,Single,259900 CAD,302 1 Street E 
+5,2,855,.179,Single,209500 CAD,315 6 Avenue 
+3,2,1258,.149,Residential,389900 CAD,213 Hilliard STREET W 
+3,2,1228,.244,Residential,289000 CAD,613 Mountain STREET 
+5,4,1291,,Residential,369900 CAD,705 33rd STREET W 
+3,3,980,,Residential,339900 CAD,715 Kerr ROAD 
+4,3,1232,.182,Residential,330000 CAD,519 Carlyle AVENUE 
+3,2,1088,,Residential,376261 CAD,502 Froese STREET 
+2,2,977,.092,Residential,314900 CAD,462 Fulton DRIVE 
+4,3,1930,.232,Residential,369900 CAD,1653 Admiral CRESCENT 
+5,2,1344,,Residential,269000 CAD,516 1st STREET W 
+4,3,1253,>0.2,Residential,349900 CAD,10354 Bunce CRESCENT 
+3,2,1120,.187,Residential,204999 CAD,12 Mountain DRIVE 
+2,2,725,0.12,Residential,255000 CAD,1511 11th STREET W 
+5,3,1256,.156,Residential,339900 CAD,443 Poth WAY 
+5,3,1456,,Residential,399000 CAD,218 Maple DRIVE 
+7,4,2061,.344,Residential,399900 CAD,140 3rd STREET W 
+3,2,1407,0.14,Residential,355000 CAD,927 Hargreaves MANOR 
+3,3,2026,.232,Residential,215000 CAD,902 Windover AVENUE 
+3,3,1380,,Residential,299500 CAD,8 Marquis CRESCENT S 
+4,4,2046,.174,Residential,399900 CAD,2310 Henderson DRIVE 
+4,3,1657,.334,Residential,255000 CAD,29 2nd AVENUE E 
+3,2,1166,.168,Residential,309900 CAD,110 Assiniboine DRIVE 
+3,2,1344,5.42,Residential,295000 CAD,Shellbrook Acreage 
+4,4,1728,.262,Residential,209900 CAD,342 Torbay STREET 
+3,1,1400,,Residential,274900 CAD,76 Grove STREET 
+3,2,1200,0.35,Residential,259900 CAD,101 Mill AVENUE N 
+3,2,2318,,Residential,249900 CAD,847 Elgin AVENUE 
+4,3,1978,0.24,Residential,359000 CAD,821 Chester PLACE 
+3,1,844,,Residential,259900 CAD,107 Jacobson DRIVE 
+2,2,1032,0.52,Residential,239000 CAD,3 Anderson DRIVE 
+3,2,1262,.132,Residential,264000 CAD,475 6th AVENUE NW 
+3,1,864,.138,Residential,229900 CAD,Lot 9 Blk 4 Memorial Lake Regional Park 
+2,2,805,.132,Residential,245000 CAD,710 Centre STREET 
+2,2,1076,0.15,Residential,234000 CAD,1 Finch CRESCENT 
+3,2,1040,0.15,Residential,319900 CAD,12 Malone CRESCENT 
+3,2,1008,.138,Residential,281000 CAD,4113 19th AVENUE 
+3,1,780,.275,Residential,239000 CAD,520 3rd STREET W 
+3,2,1232,0.22,Residential,235000 CAD,106 Crescent Lake ROAD 
+3,4,1440,.143,Residential,229900 CAD,102 1st AVENUE N 
+3,2,1100,0.15,Residential,279900 CAD,1539 Helme CRESCENT 
+5,2,1228,.138,Residential,275000 CAD,912 8th STREET W 
+4,2,864,,Residential,220000 CAD,284 1ST AVENUE SW 
+4,2,919,.148,Residential,207500 CAD,825 4th STREET E 
+3,2,1624,0.37,Residential,349900 CAD,234 Young STREET 
+3,2,2410,.321,Residential,249900 CAD,149 Main STREET 
+4,2,928,,Residential,229900 CAD,818 B AVENUE N 
+3,2,1397,2.65,Residential,379900 CAD,3 Hills ESTATES 
+4,2,864,,Residential,264900 CAD,1516 Stadacona STREET W 
+4,2,1040,g>40,Residential,395000 CAD,Waverley Acreage 
+3,2,1100,,Residential,249900 CAD,2619 6th AVENUE W 
+4,2,1664,5.48,Residential,229000 CAD,PENNER ACREAGE 
+4,3,1392,0.19,Residential,399900 CAD,Siwak Acreage 
+3,2,824,.179,Residential,224000 CAD,541 5th AVENUE 
+2,2,721,.129,Residential,244800 CAD,2345 Atkinson STREET 
+4,3,1320,5.02,Residential,359000 CAD,Propp Acreage 
+5,2,1026,.071,Residential,314900 CAD,1445 Royal STREET 
+3,2,933,.132,Single,227900 CAD,1814 49  Avenue 
+4,2,1038,.151,Residential,259900 CAD,412 26th STREET W 
+3,3,1272,.131,Residential,339000 CAD,3225 29th AVENUE 
+4,1,1598,g>22,Residential,234900 CAD,Rogochewsky Acreage 
+5,2,100419,.151,Single,249900 CAD,2905 47 Avenue 
+2,2,945,,Residential,219000 CAD,304 Cross STREET N 
+5,3,1506,.168,Residential,379000 CAD,603 Forester CRESCENT 
+2,1,940,,Residential,399900 CAD,Lot 39/40 Lakeshore DRIVE 
+3,2,768,.143,Residential,215000 CAD,244 Smith STREET 
+3,2,1288,.143,Residential,255000 CAD,1300 Grey AVENUE 
+4,2,1050,.115,Residential,264900 CAD,2917 23rd STREET W 
+3,2,1008,,Residential,234900 CAD,205 Islay STREET 
+3,2,1040,>2.5,Residential,200000 CAD,PT SW 23-26-25 W3rd 
+5,2,1051,.128,Single,289000 CAD,4608 23 Street 
+4,1,1150,1.56,Residential,319900 CAD,270 & 298 Woodland AVENUE 
+2,,480,.165,Residential,349000 CAD,36 Birch CRESCENT 
+2,1,736,.176,Residential,296500 CAD,424 Last Mountain ROAD 
+4,3,1510,0.15,Residential,344000 CAD,434 Laurier DRIVE 
+4,3,1082,.143,Residential,319900 CAD,410 Winnipeg AVENUE S 
+3,2,1157,>9.8,Residential,219900 CAD,Douglas Acreage 
+5,3,1232,0.28,Residential,239900 CAD,140 Villa DRIVE 
+5,3,1470,.172,Residential,269900 CAD,300 Maple ROAD E 
+3,2,1689,3.41,Residential,260000 CAD,Wall acreage 
+3,1,1043,.151,Residential,289900 CAD,33 McNab CRESCENT 
+5,3,1486,0.16,Residential,399999 CAD,290 Symons BAY 
+3,2,1350,.482,Residential,259900 CAD,213 VICTORIA STREET 
+6,3,1360,.213,Residential,309900 CAD,611 Main STREET 
+2,1,1016,.165,Residential,309900 CAD,2803 Assiniboine AVENUE 
+3,3,1222,,Residential,285000 CAD,103 3rd STREET W 
+2,1,900,.138,Residential,209900 CAD,165 Roslyn AVENUE 
+5,2,1036,.115,Residential,292900 CAD,110 Scrivener CRESCENT 
+4,3,1178,,Residential,219900 CAD,620 Godkin AVENUE 
+4,2,1050,.119,Residential,305000 CAD,1164 Montgomery STREET 
+2,1,1008,8.35,Farm,349900 CAD,Metcalfe Farm 
+4,3,1282,.201,Residential,315000 CAD,36 Mountain DRIVE 
+5,2,1020,.152,Residential,254900 CAD,1260 Mckay DRIVE 
+4,3,1168,,Residential,264900 CAD,1252 113th STREET 
+4,2,1092,.138,Residential,319900 CAD,46 Lake STREET 
+3,2,1041,.115,Residential,299900 CAD,2335 Francis STREET 
+4,1,1060,.143,Residential,212000 CAD,317 7th AVENUE W 
+2,2,2000,0.36,Residential,399900 CAD,Lot 1 Sunrise BOULEVARD 
+4,2,1376,ng>9,Residential,339900 CAD,NW 01-62-25-West 3rd 
+4,3,1181,0.15,Residential,400000 CAD,520 Mackenzie DRIVE 
+5,4,1950,>0.5,Residential,299000 CAD,514 Parkdale STREET 
+4,2,933,0.14,Single,235000 CAD,4511 30A Street Close 
+3,3,1340,0.07,Residential,389900 CAD,5417 Aerodrome ROAD 
+4,2,846,.144,Residential,299900 CAD,2767 Mackay STREET St
+3,3,1440,.287,Residential,249900 CAD,319 First AVENUE E 
+2,1,864,.115,Residential,210000 CAD,6 Cocapa AVENUE 
+4,1,1024,9.98,Residential,285000 CAD,1 Francis Acreage 
+2,1,552,.189,Residential,329900 CAD,216 LAST MOUNTAIN ROAD 
+4,2,2108,.133,Residential,259900 CAD,67 Kasper CRESCENT 
+4,2,1138,ng>7,Residential,289000 CAD,"7 Acres, Highway 4 South "
+3,1,949,g>40,Residential,299000 CAD,Hwy 4 Acreage - RM of North Battleford 
+5,2,901,0.09,Residential,214900 CAD,1584 McIntosh DRIVE 
+2,2,1370,0.76,Residential,349900 CAD,Sprungala Acreage 
+5,3,1231,.244,Residential,299000 CAD,100 1st STREET 
+3,1,816,.122,Residential,214900 CAD,4605 4th AVENUE 
+4,3,1784,.344,Residential,225000 CAD,107 Railway AVENUE 
+4,4,1670,0.29,Residential,375000 CAD,802 Chickney AVENUE 
+4,2,1880,.132,Residential,249500 CAD,409 7th AVENUE E 
+4,4,1600,.172,Residential,214900 CAD,185 1st STREET E 
+1,1,1040,.228,Residential,219000 CAD,1 Shady Pine DRIVE 
+5,3,1700,,Residential,248800 CAD,304 1st STREET W 
+3,1,1488,.161,Residential,369900 CAD,206 Chitek DRIVE 
+2,2,1257,.072,Residential,259900 CAD,1937 Halifax STREET 
+5,3,1098,,Residential,229900 CAD,803 Ridpath ROAD 
+4,3,1315,.138,Residential,324900 CAD,7215 SHERWOOD DRIVE 
+4,5,1824,,Residential,325000 CAD,1337 Montague STREET 
+3,2,1228,.193,Residential,207000 CAD,730 Scotia STREET 
+5,3,1118,0.14,Single,229500 CAD,222 Main Street 
+1,3,1600,1.09,Residential,327000 CAD,1 1st AVENUE N 
+3,2,1000,.151,Residential,255000 CAD,2610 Morton ROAD 
+3,3,1376,,Residential,340000 CAD,106 4th AVENUE 
+2,2,903,0.14,Residential,269900 CAD,814 Lansdowne DRIVE N 
+3,2,1864,0.15,Residential,269900 CAD,221 30th STREET 
+3,2,1248,0.37,Residential,239000 CAD,207 Main STREET 
+2,1,702,.101,Residential,249900 CAD,320 1st STREET E 
+3,1,1715,3.05,Farm,279000 CAD,RM of Leask No. 464 
+4,2,1044,.134,Residential,289500 CAD,8 MENZIES PLACE 
+3,2,1282,.132,Residential,259900 CAD,222 2nd AVENUE W 
+3,1,1074,3.84,Single,399900 CAD,Pt SE 28-49-27 W3RD 
+4,2,960,.143,Residential,224900 CAD,660 ABERDEEN CRESCENT 
+4,2,1180,0.18,Residential,225000 CAD,1009 Carleton DRIVE 
+3,2,1201,,Residential,359900 CAD,88 Martens CRESCENT 
+4,3,1610,.112,Residential,379900 CAD,147 Fuhrmann CRESCENT 
+3,1,1198,.128,Residential,319900 CAD,133 MCCANNEL STREET 
+3,2,1711,.403,Residential,269900 CAD,202 Main STREET 
+2,1,1004,.138,Residential,240000 CAD,605 Mullin AVENUE E 
+3,2,1500,.126,Residential,219900 CAD,1431 Warner STREET 
+4,2,921,.127,Residential,279800 CAD,1301 20th STREET W 
+3,2,1136,.072,Residential,299999 CAD,2255 Lorne STREET 
+5,2,974,,Residential,227000 CAD,1134 Caribou STREET W 
+4,2,2589,.132,Residential,329000 CAD,253 4th AVENUE NW 
+6,2,1042,.143,Residential,269000 CAD,225 WASCANA STREET 
+3,3,1176,,Residential,379900 CAD,3802 Taylor STREET E 
+4,2,880,.275,Residential,249900 CAD,102 Ansley STREET 
+3,2,1840,,Residential,249900 CAD,204 12th STREET E 
+4,3,1210,.139,Residential,389900 CAD,2807 Neff ROAD E 
+4,2,988,.119,Residential,309900 CAD,110 McSherry CRESCENT 
+3,3,1536,.186,Residential,350000 CAD,3602 Walker STREET 
+5,3,1242,.107,Residential,378000 CAD,455 5th AVENUE 
+3,2,1231,,Residential,279900 CAD,605 Y AVENUE N 
+5,2,928,,Residential,219900 CAD,1146 7th AVENUE NW 
+3,2,1258,,Residential,399900 CAD,517 30th STREET 
+2,1,620,.149,Residential,269500 CAD,9 Grove LANE 
+2,2,932,.138,Residential,214900 CAD,567 25Th STREET E 
+4,2,1064,0.14,Residential,334900 CAD,9 Pinewood ROAD 
+4,1,1300,6.78,Residential,239000 CAD,Hill Acreage 
+3,1,1052,.149,Residential,209900 CAD,1805 Dieppe CRESCENT 
+3,3,1040,.146,Residential,262900 CAD,309 Henry STREET 
+5,3,1502,2.62,Residential,395000 CAD,2 795 Road Livelong SK 
+4,3,1120,.038,Residential,299900 CAD,814 Worobetz CRESCENT N 
+5,2,1092,.198,Residential,279000 CAD,761 3rd AVENUE NW 
+2,1,800,.137,Residential,219999 CAD,5521 3rd AVENUE 
+1,1,770,,Residential,225000 CAD,433 5th STREET E 
+5,4,2092,.275,Single,299900 CAD,218 5 Avenue 
+5,3,120434,.177,Single,279900 CAD,116 6 Avenue 
+4,3,1090,.151,Single,219777 CAD,4601 32 Street 
+5,2,2392,>160,Residential,260000 CAD,Dobson Acreage 
+3,2,704,.132,Residential,249000 CAD,309 9th AVENUE NW 
+4,2,1246,.288,Residential,315000 CAD,301 Macaskill AVENUE 
+4,2,960,.138,Residential,209900 CAD,130 Neeping AVENUE N 
+3,2,1008,,Residential,399900 CAD,2403 Tomlinson CRESCENT 
+4,4,2242,.185,Residential,399000 CAD,1015 1st STREET W 
+6,3,1230,.256,Residential,339000 CAD,12 George STREET 
+4,2,809,.143,Residential,237900 CAD,1164 CAMPBELL STREET 
+4,2,1283,0.16,Residential,279000 CAD,1113 Hudson ROAD 
+4,1,1040,g>10,Residential,325000 CAD,Usborne 10 Acre Acreage/PT SE-35-33-24-W2 
+3,2,850,.104,Residential,269900 CAD,14 ANTICKNAP BAY 
+3,2,881,,Residential,254900 CAD,510 Stadacona STREET W 
+5,3,1300,.135,Single,395000 CAD,3201 43a Avenue 
+4,3,1994,0.18,Residential,354900 CAD,3443 Jordan DRIVE 
+3,2,1100,,Residential,269900 CAD,106 MAXWELL CRESCENT 
+3,2,780,,Residential,219900 CAD,1122 Monk AVENUE NW 
+4,2,1396,.198,Residential,270000 CAD,141 1st STREET E 
+3,2,850,,Residential,279900 CAD,1072 McCormack ROAD 
+5,3,1140,.331,Residential,219900 CAD,218 Drake AVENUE 
+3,2,931,>0.2,Residential,259900 CAD,165 Hughes PLACE 
+3,3,1113,.121,Residential,235000 CAD,213 32nd STREET W 
+3,1,950,1.52,Residential,249900 CAD,21 Poundmaker TRAIL 
+4,3,2676,,Residential,299000 CAD,316-318 7th STREET E 
+2,1,781,.072,Residential,210000 CAD,2047 Athol STREET 
+4,4,2079,.189,Residential,220000 CAD,117 Diefenbaker CRESCENT 
+2,2,1440,,Residential,249900 CAD,501 Tatanka DRIVE 
+5,3,1680,,Residential,278000 CAD,703 Main STREET 
+3,2,1850,,Residential,249900 CAD,201 Aspen STREET 
+4,2,1200,0.11,Residential,215000 CAD,521 1st STREET E 
+3,2,2061,.287,Residential,270000 CAD,336 Russell STREET 
+2,2,1584,9.98,Residential,375000 CAD,Bell Acreage 
+4,3,1432,.337,Residential,364900 CAD,214 Perkins STREET 
+3,1,1193,.154,Residential,299900 CAD,2 Darke CRESCENT 
+4,2,1289,.081,Residential,365000 CAD,610 31st STREET W 
+4,2,1810,0.99,Farm,399000 CAD,Sliding Hills Home Quarter 
+4,3,1154,,Residential,389900 CAD,740 REDDEKOPP DRIVE 
+3,3,1080,.179,Residential,269000 CAD,501 Dennis STREET 
+5,3,1210,0.14,Residential,299900 CAD,113 Findlay STREET 
+4,2,1692,.241,Residential,279000 CAD,561 8th AVENUE W 
+5,1,851,.158,Residential,259900 CAD,810 X AVENUE N 
+3,2,1080,,Residential,215000 CAD,276 Circlebrooke DRIVE 
+5,2,968,.146,Single,274900 CAD,406 3 Street E 
+4,3,1232,.259,Residential,249900 CAD,200 Forget STREET 
+1,1,640,,Residential,250000 CAD,116 U AVENUE N 
+4,1,1600,0.23,Residential,249900 CAD,216 Ansley STREET 
+3,2,1560,.072,Residential,324900 CAD,2819 McDonald STREET 
+4,2,1430,.172,Residential,279000 CAD,1414 2nd STREET 
+3,3,760,.214,Residential,399000 CAD,1147 L AVENUE N 
+3,2,828,,Residential,248500 CAD,222 Cumming AVENUE 
+3,2,1159,2.68,Residential,230000 CAD,Zorn Acreag- 2.68 acres of SW-15-17-07-W2nd 
+3,4,161754,.181,Single,389900 CAD,118 6 Avenue 
+4,2,1288,.126,Residential,284900 CAD,833 Keith STREET 
+4,2,1050,.179,Single,289500 CAD,107 6 Avenue 
+3,2,1008,,Residential,262900 CAD,204 Witney AVENUE S 
+4,2,1040,.132,Residential,216000 CAD,607 5th AVENUE W 
+5,3,1140,.129,Residential,275000 CAD,5 Stack CRESCENT 
+5,4,1440,.194,Residential,325000 CAD,33 Lawrence ROAD 
+4,2,1092,.241,Residential,210000 CAD,333 Seventh AVENUE W 
+5,3,10351,.126,Single,339900 CAD,1308 47A Avenue 
+3,2,1025,.161,Residential,359000 CAD,1313 9TH STREET E 
+4,2,1630,0.57,Residential,249000 CAD,Wickenhauser Acreage 
+3,2,936,0.22,Residential,240000 CAD,14 Olds PLACE 
+4,2,1080,.207,Residential,274900 CAD,531 11th STREET NE 
+4,2,976,,Residential,299000 CAD,478 Matador DRIVE 
+3,1,1344,.146,Residential,369000 CAD,24 Rosedale AVENUE 
+4,3,1326,.296,Residential,231000 CAD,36 1st AVENUE 
+3,1,1166,g>10,Residential,279900 CAD,1 Battleridge Estates 
+4,2,1149,9.85,Residential,385000 CAD,Griffin Acreage 
+3,1,988,3.24,Residential,374900 CAD,8 Range Road 2275 
+1,1,928,.072,Residential,269900 CAD,2858 Retallack STREET 
+3,2,1118,.221,Residential,249900 CAD,118 Tate CRESCENT 
+4,3,1437,.133,Residential,314900 CAD,71 Alport CRESCENT 
+5,4,1524,5.24,Residential,379000 CAD,Skudesness Road Acreage 1/4 mile West of Davidson 
+5,3,1480,.115,Residential,239900 CAD,780 Stadacona STREET W 
+4,2,1315,g>17,Residential,269900 CAD,2505 4th AVENUE W 
+3,2,786,.155,Residential,375000 CAD,926 8th AVENUE N 
+5,3,2300,.386,Residential,349000 CAD,120 Main STREET 
+2,1,1280,.287,Residential,260000 CAD,348 3rd STREET E 
+6,3,1512,0.65,Residential,397000 CAD,Goossen Acreage 
+4,2,1065,,Residential,269900 CAD,1532 E AVENUE N 
+4,3,1195,.146,Residential,289900 CAD,96 CHAMP CRESCENT 
+5,4,1569,.266,Residential,249900 CAD,307 Finley AVENUE 
+3,2,1774,.182,Residential,254900 CAD,547 19th STREET W 
+3,2,1371,.154,Residential,299000 CAD,220 Taylor STREET 
+5,2,1428,.194,Residential,309900 CAD,214 21st STREET E 
+4,3,1549,0.31,Residential,365000 CAD,728 Stanley STREET 
+3,2,1488,.179,Residential,239000 CAD,222 Pine AVENUE 
+3,2,819,.072,Residential,209900 CAD,1028 Reynolds STREET 
+3,2,913,0.14,Residential,239900 CAD,717 Arthur AVENUE 
+3,2,900,.089,Residential,279000 CAD,120 Q AVENUE S 
+4,2,999,.201,Residential,269000 CAD,31 Mountain DRIVE 
+3,3,1512,6.59,Residential,249000 CAD,225 3rd AVENUE E 
+3,2,723,>0.1,Residential,319900 CAD,1410 Broadway AVENUE E 
+3,3,1002,.275,Residential,249900 CAD,1222 107th STREET 
+3,2,1322,.298,Residential,228000 CAD,8 Main STREET 
+3,2,852,.145,Residential,324000 CAD,809 31st STREET W 
+3,2,768,0.13,Residential,314900 CAD,1219 Broadway AVENUE 
+4,3,1460,.181,Single,319900 CAD,4802 40 Street 
+3,2,779,,Residential,309900 CAD,1123 11th STREET E 
+2,2,1000,.138,Residential,208000 CAD,215 Coteau STREET 
+3,2,864,.126,Residential,259900 CAD,1527 Grandview STREET W 
+4,3,1094,.115,Residential,289900 CAD,2304 Dewdney AVENUE E 
+3,1,960,.143,Residential,274900 CAD,942 Garry STREET 
+3,2,2256,,Residential,390000 CAD,715 Chitek DRIVE 
+3,3,1224,.224,Residential,289000 CAD,111 3rd AVENUE 
+2,1,755,,Residential,200000 CAD,411 25th STREET W 
+3,3,1356,.215,Residential,215000 CAD,310 Centennial AVENUE 
+4,2,1500,.111,Residential,334900 CAD,6606 Dalgliesh DRIVE 
+4,2,960,,Residential,209000 CAD,216 FIFTH STREET W 
+4,3,1276,.331,Residential,299900 CAD,707 Leeville DRIVE 
+4,4,1107,.086,Residential,369900 CAD,4155 33rd STREET W 
+4,2,1036,.072,Residential,272888 CAD,2023 Reynolds STREET 
+3,4,1944,.161,Residential,214000 CAD,322 1st AVENUE E 
+6,4,3600,0.13,Residential,325000 CAD,8 Round Lake ROAD 
+5,3,1273,.218,Residential,369000 CAD,62 Central AVENUE 
+2,1,711,.129,Residential,204900 CAD,2609 Lindsay STREET 
+4,2,1096,0.13,Residential,284900 CAD,14 Woodward AVENUE 
+4,2,864,.072,Residential,279900 CAD,619 Queen STREET 
+3,3,1304,.088,Residential,239900 CAD,650 Eva STREET 
+3,2,1005,,Residential,349900 CAD,100 Martens CRESCENT 
+3,2,976,.143,Residential,219900 CAD,2030 6th AVENUE N 
+4,1,1092,,Residential,225000 CAD,2401 Mcdonald AVENUE 
+3,2,1100,,Residential,229000 CAD,33 Stewart CRESCENT 
+3,2,1026,,Residential,240000 CAD,624 Boundary AVENUE S 
+5,3,1132,,Residential,375000 CAD,35 Dumont CRESCENT 
+4,2,1920,>3.5,Residential,334900 CAD,Conley Acreage 
+3,2,884,.149,Residential,242000 CAD,269 4th AVENUE SE 
+4,2,1160,.135,Residential,274900 CAD,1020 8th STREET W 
+2,1,758,.072,Residential,249900 CAD,2217 Princess STREET 
+3,2,1480,0.14,Residential,249000 CAD,231 Augusta PLACE 
+3,1,998,5.18,Residential,289900 CAD,132 Centennial STREET 
+2,1,800,.232,Residential,319000 CAD,109 Indian POINT 
+4,4,1343,.264,Residential,321900 CAD,416 Rustad AVENUE 
+5,3,2000,.233,Residential,259900 CAD,707 Railway AVENUE 
+5,2,987,.143,Residential,314800 CAD,266 Toronto STREET N 
+5,2,1260,9.99,Residential,299000 CAD,NORDICK ACREAGE 
+4,2,1053,.138,Residential,259900 CAD,2708 Grant ROAD 
+5,3,2037,.069,Residential,298000 CAD,405 27th STREET W 
+3,3,1542,.471,Residential,330000 CAD,8 Draper AVENUE 
+6,3,1412,.138,Residential,269000 CAD,1322 112th STREET 
+5,2,1108,.208,Residential,325000 CAD,15 Chow CRESCENT 
+4,2,1384,,Residential,272000 CAD,438 Stadacona STREET E 
+2,2,1152,.092,Residential,335000 CAD,42 Hiawatha STREET 
+5,2,1127,.138,Residential,249900 CAD,801 Eva STREET 
+6,3,1688,,Residential,305000 CAD,267 Hochelaga STREET W 
+4,3,1296,0.21,Single,229900 CAD,318 1st Street E 
+3,1,1200,,Residential,229900 CAD,380 Main STREET 
+4,4,1440,.069,Residential,379900 CAD,819 N AVENUE S 
+4,2,1076,.171,Residential,219900 CAD,1016 6th STREET E 
+3,2,1789,.121,Residential,369000 CAD,1889 Tedford WAY 
+2,1,1112,5.23,Residential,349500 CAD,101 Marine DRIVE 
+3,2,1021,0.31,Residential,249500 CAD,316-318 Sunset DRIVE 
+4,3,1070,.126,Single,355000 CAD,1306 47A Avenue 
+3,2,1114,,Residential,299900 CAD,104 Spruce DRIVE 
+5,3,1192,.258,Residential,289000 CAD,379 Henry STREET 
+4,2,1056,,Residential,259900 CAD,522 B AVENUE E 
+3,2,1408,.194,Residential,279900 CAD,99-10 Moose Rd 
+4,3,1170,.149,Residential,399900 CAD,83 Arlington STREET 
+4,2,910,.092,Residential,274900 CAD,178 THOMSON AVENUE 
+3,2,1056,0.17,Residential,285900 CAD,104 6th AVENUE 
+2,2,756,.121,Residential,215000 CAD,1317 North Railway STREET E 
+3,3,1091,,Residential,284900 CAD,102 Mackenzie CRESCENT 
+,,980,.258,Residential,295000 CAD,Cook Island 
+3,2,980,,Residential,235900 CAD,505 2nd AVENUE 
+1,1,580,g>10,Residential,319900 CAD,39 McDougall Acreage 
+,,,,Residential,275000 CAD,Log Cabin (To Be Removed) - Auction - 
+4,2,1344,.184,Residential,227500 CAD,20 Ontario AVENUE 
+3,3,1494,,Residential,394900 CAD,338 Kenaschuk LANE 
+5,3,1445,0.19,Single,329900 CAD,605 2 Street E 
+4,3,1238,0.52,Residential,229999 CAD,7 Anderson DRIVE 
+2,1,1064,.143,Residential,279000 CAD,2778 Broder STREET 
+5,2,936,0.07,Residential,285000 CAD,2123 Reynolds STREET 
+3,2,1059,.145,Residential,289900 CAD,6434 7th AVENUE N 
+5,3,1444,.165,Residential,359900 CAD,209 Carter STREET 
+3,3,1092,g>10,Residential,395000 CAD,Clemence Acreage 
+3,2,792,.114,Residential,345000 CAD,1112 Wiggins AVENUE S 
+4,2,1040,,Residential,239000 CAD,311 McTavish STREET 
+3,2,1698,.382,Residential,349900 CAD,128 Breen AVENUE 
+4,2,1076,,Residential,329000 CAD,807 Willow STREET 
+4,2,1109,.189,Residential,229000 CAD,119 Jubilee STREET 
+5,3,1135,.165,Single,278900 CAD,4717 28 Street 
+3,2,1401,0.07,Residential,299900 CAD,RM KELLROSS 247 - ZORN ACREAGE 
+3,2,1295,.105,Residential,399900 CAD,102 Bolstad WAY 
+3,2,1099,0.68,Single,249500 CAD,Lot 6 LAKESHORE DRIVE Drive 
+3,2,925,.165,Single,229900 CAD,3423 49 Avenue 
+3,2,903,.106,Residential,249990 CAD,7210 beamish DRIVE 
+3,2,1120,0.23,Residential,284900 CAD,41 Moffat PLACE 
+4,1,1042,.081,Residential,279900 CAD,1110 College AVENUE 
+3,2,1530,.194,Residential,249000 CAD,105 Joyce DRIVE 
+3,3,1483,0.11,Residential,379900 CAD,111 Stromberg CRESCENT 
+4,1,911,0.14,Residential,214900 CAD,563 27th STREET E 
+4,3,1194,,Residential,289900 CAD,233 Lorne STREET W 
+3,2,947,.072,Residential,290000 CAD,116 Smith STREET N 
+2,1,640,,Residential,225000 CAD,310 4th STREET W 
+4,2,1152,g>24,Residential,340000 CAD,17 Macrae BAY 
+2,1,1012,,Residential,269900 CAD,2 Hordern STREET 
+7,4,1948,.028,Residential,360000 CAD,912 Main STREET 
+1,2,880,,Residential,250000 CAD,133 Lloyd CRESCENT 
+4,2,1059,0.09,Single,247500 CAD,4706 48 Street 
+5,2,950,.119,Residential,299900 CAD,1319 DOVER AVENUE 
+6,3,1284,.176,Residential,279900 CAD,8904 Bowers DRIVE 
+5,3,1344,.163,Residential,379900 CAD,646 19th STREET W 
+3,2,1140,0.12,Residential,334900 CAD,1510 Grosvenor STREET 
+3,2,1400,0.16,Residential,249900 CAD,9013 Walker DRIVE 
+4,2,1156,,Residential,250000 CAD,1229 B AVENUE N 
+2,1,816,,Residential,249000 CAD,3154 33rd STREET W 
+3,2,1225,,Residential,279900 CAD,407 Thompson STREET 
+4,2,1034,,Residential,294900 CAD,2501 Tomlinson CRESCENT 
+2,2,1572,.234,Residential,375000 CAD,124 North Haven DRIVE 
+4,2,1040,,Residential,259900 CAD,10 Edelweiss CRESCENT 
+3,2,1484,.171,Residential,309900 CAD,24 Emerald Park ROAD 
+3,1,943,.187,Residential,269900 CAD,693 22nd STREET E 
+4,2,1040,.207,Residential,235000 CAD,408 Main STREET 
+3,2,1308,,Residential,219000 CAD,1059 Willow AVENUE 
+2,2,1028,,Residential,329000 CAD,32-34 Lakeview LANE 
+3,2,942,.129,Residential,319900 CAD,1109 Grace STREET 
+4,4,1135,0.17,Residential,399900 CAD,102 Olauson CRESCENT 
+3,2,1288,.165,Residential,299000 CAD,405 4th AVENUE E 
+3,2,1136,.193,Residential,325000 CAD,2422 37th STREET W 
+6,2,1680,>0.2,Residential,314900 CAD,73 Bradbrooke DRIVE 
+2,1,930,.072,Residential,274900 CAD,2340 Montague STREET 
+4,2,1408,.279,Residential,339000 CAD,104 2nd AVENUE SE 
+4,2,998,.163,Residential,284900 CAD,8 Burke CRESCENT 
+4,3,1495,,Residential,209900 CAD,216 6th AVENUE W 
+4,2,2193,.115,Residential,385000 CAD,42 Chamakese Resort 
+3,2,1260,ng>2,Residential,310000 CAD,Kolke Acreage 
+3,3,1324,.091,Residential,398900 CAD,418 Veltkamp CRESCENT 
+3,3,1380,3.44,Residential,240000 CAD,Craik Acreage 
+4,3,1672,>0.3,Residential,349000 CAD,320 Angus PLACE 
+5,3,1364,.206,Residential,359000 CAD,535 Carlyle AVENUE 
+2,1,992,.215,Single,224900 CAD,112 3 Street E 
+3,2,2315,.129,Single,324900 CAD,35B Sandy Beach 
+3,2,828,.138,Residential,234900 CAD,134 22nd STREET W 
+3,2,988,9.99,Residential,334000 CAD,818 Lempereur ROAD 
+5,3,1545,0.16,Residential,209900 CAD,246 14th STREET W 
+3,2,1318,.072,Residential,349900 CAD,2277 GARNET STREET 
+3,3,1175,.121,Residential,349900 CAD,384 Birch CRESCENT 
+2,2,768,.143,Residential,239900 CAD,834 Forget STREET 
+3,1,1040,0.19,Residential,209900 CAD,601 22nd STREET E 
+3,2,762,,Residential,214900 CAD,405 8th AVENUE NW 
+4,2,1216,,Residential,239900 CAD,501 4th STREET 
+3,4,1547,.164,Residential,334900 CAD,1569 Wahlmeier DRIVE 
+4,2,768,.149,Residential,279000 CAD,216 4th AVENUE SE 
+3,1,672,.152,Residential,249000 CAD,109 1st AVENUE 
+3,1,1280,,Residential,229900 CAD,1201 Montgomery STREET 
+3,2,2301,.078,Residential,242900 CAD,2932 Victoria AVENUE 
+5,2,1138,,Residential,259900 CAD,119 4th AVENUE N 
+1,1,1452,.126,Residential,315000 CAD,"208 Bekolay Avenue, Kopp's Cove "
+6,4,3450,,Residential,299900 CAD,1071 106th STREET 
+4,4,1936,.259,Residential,324000 CAD,400 Banbury PLACE 
+2,1,832,.106,Residential,220000 CAD,267 Froom CRESCENT 
+3,2,1120,.281,Residential,218900 CAD,94 Gilbert STREET 
+4,2,1656,,Residential,239000 CAD,540 7th AVENUE 
+5,4,1996,.308,Residential,399000 CAD,601 Queen STREET 
+4,2,1030,,Residential,289900 CAD,46 MERLIN CRESCENT 
+3,2,1260,.129,Residential,309900 CAD,959 Broad STREET N 
+3,3,1212,.167,Residential,329000 CAD,224 Tims CRESCENT 
+3,3,1536,,Residential,299900 CAD,1 Falcon STREET 
+3,2,744,,Residential,269900 CAD,417 Ave R N 
+4,2,1235,.321,Residential,349910 CAD,1169 Grand AVENUE 
+3,2,1524,.193,Residential,350000 CAD,319 King STREET 
+4,2,1725,6.79,Residential,239900 CAD,Musikov Acreage 
+6,3,1136,0.15,Residential,272900 CAD,503 20th STREET E 
+3,3,1090,.111,Residential,369900 CAD,831 McCarthy BOULEVARD N 
+4,3,1130,,Residential,359900 CAD,301 Balsam CRESCENT 
+4,2,1584,,Residential,379900 CAD,17 Latta STREET 
+4,3,1593,.181,Residential,379900 CAD,10603 Bennett CRESCENT 
+3,2,1120,.439,Residential,225000 CAD,106 Ash STREET 
+3,2,1200,.083,Residential,369900 CAD,139 Langlois WAY 
+4,3,1040,.141,Residential,229900 CAD,560 19th STREET E 
+5,2,1020,.137,Residential,249900 CAD,3014 6th STREET 
+4,2,1066,.151,Residential,324900 CAD,6407 7th AVENUE N 
+4,2,1352,g>10,Residential,375000 CAD,6.5 KM East of Meadow Lake 
+3,2,1360,0.27,Residential,359000 CAD,212 Kestrel COURT 
+5,3,1378,,Residential,369900 CAD,15 McCordick STREET 
+4,3,1870,.245,Residential,379900 CAD,2731 Corbett ROAD 
+4,1,1054,.249,Residential,259000 CAD,38 Archie Clampitt DRIVE 
+2,1,714,.072,Residential,209900 CAD,2027 Athol STREET 
+4,3,1139,.153,Residential,389900 CAD,1902 Ewart AVENUE 
+4,2,1192,0.25,Residential,349900 CAD,225 6th AVENUE N 
+2,2,610,.072,Residential,224900 CAD,2065 QUEEN STREET 
+3,3,1241,.117,Residential,319900 CAD,1242 James CRESCENT 
+3,3,1385,3.53,Residential,389000 CAD,411 Macdonald STREET 
+4,3,1216,.152,Residential,339000 CAD,709 12TH STREET 
+3,3,1515,.072,Residential,379000 CAD,2505 McDonald STREET 
+3,2,1430,.138,Residential,274900 CAD,907 North STREET 
+4,1,1064,.192,Residential,229000 CAD,354 Third AVENUE N 
+3,2,1228,.176,Residential,264900 CAD,50 McBurney DRIVE 
+4,2,1134,0.13,Residential,262900 CAD,1016 10th AVENUE E 
+5,3,1594,,Residential,374900 CAD,311 3rd STREET N 
+4,3,1688,.238,Residential,260000 CAD,116 McKenzie STREET 
+3,2,1064,.143,Residential,274900 CAD,1715 Broadway AVENUE 
+6,2,1114,.138,Residential,354900 CAD,120 James STREET 118
+3,2,1212,.144,Residential,399900 CAD,1305 Cairns AVENUE 
+3,2,720,.133,Residential,209910 CAD,4601 4th AVENUE 
+3,1,784,.143,Residential,219000 CAD,118 7th AVENUE W 
+4,2,1269,.198,Single,249900 CAD,104 Railway  Avenue W 
+3,1,768,,Residential,374955 CAD,6 Block 2 First Point Beach 
+4,3,2102,,Residential,384900 CAD,310 Loeppky AVENUE 
+5,2,845,0.12,Residential,218900 CAD,1429 Horace STREET 
+4,3,1024,,Residential,254900 CAD,2449 15th AVENUE E 
+3,2,1220,.161,Residential,255000 CAD,117 LAKEVIEW DRIVE 
+5,3,1359,.179,Residential,389900 CAD,424 Grey STREET 
+3,2,1203,,Residential,379900 CAD,355 Marlatte STREET 
+3,2,2058,.138,Residential,259000 CAD,1333 3rd STREET 
+2,1,782,,Residential,289900 CAD,2515 Hanover AVENUE 
+3,1,1160,,Residential,229000 CAD,708 Moose STREET 
+4,1,857,.128,Residential,229900 CAD,74 STICE CRESCENT 
+5,4,2000,.165,Residential,398000 CAD,290 Tims CRESCENT 
+3,2,1400,0.85,Residential,389000 CAD,43 Bessette LANE 
+5,3,1768,,Residential,219900 CAD,1692 102nd STREET 
+3,2,1538,0.01,Residential,259900 CAD,St. Brieux Acreage 
+4,2,1120,.245,Residential,274000 CAD,55 Eisenhower STREET 
+4,2,1372,0.15,Residential,204900 CAD,121 26th STREET 
+2,1,912,,Residential,349000 CAD,27 Poplar STREET 
+5,4,2116,.275,Residential,289000 CAD,614 First A STREET 
+3,1,850,.134,Residential,259900 CAD,28 Borlase CRESCENT 
+1,,212,4.66,Residential,359000 CAD,Valley Fairways Golf Course 
+3,2,997,.113,Residential,279900 CAD,2614 ALBERT STREET 
+3,1,1764,,Residential,269900 CAD,401 Y AVENUE N 
+4,2,1160,ng>8,Residential,390000 CAD,Geysen Acreage 
+3,2,1322,0.11,Residential,335000 CAD,Cederholm Acreage 
+5,3,1127,.188,Residential,255500 CAD,802 3rd AVENUE W 
+3,2,1800,.275,Residential,315000 CAD,409 3rd AVENUE E 
+5,3,1232,.226,Residential,279900 CAD,3007 Central AVENUE 
+3,1,1280,.321,Residential,225000 CAD,24 Moffat STREET 
+2,2,1184,.096,Residential,209500 CAD,334 Robinson STREET 
+3,3,2496,7.83,Residential,399900 CAD,BEAHM Acreage Souris Valley (37.83 acres) 
+3,3,2201,.553,Residential,400000 CAD,17 Veterans BOULEVARD 
+4,2,918,,Residential,225000 CAD,2012 7th STREET 
+3,1,1296,,Residential,229900 CAD,19 McCordick STREET 
+4,3,1267,,Residential,369900 CAD,1550 Smith STREET SW 
+5,3,1360,.186,Residential,329500 CAD,101 Fraser AVENUE 
+4,2,2016,g>15,Residential,225000 CAD,Manor Acreage 
+3,2,1132,0.21,Residential,219900 CAD,901 O AVENUE S 
+3,2,1093,.143,Residential,269300 CAD,1260 Elliott STREET 
+5,4,1740,,Residential,275000 CAD,200 4th STREET N 
+6,2,1030,0.18,Single,226800 CAD,202 4 Avenue E 
+3,1,1480,,Residential,264900 CAD,105 3rd AVENUE N 
+4,2,1602,.184,Residential,255000 CAD,439 4th STREET W 
+3,2,850,,Residential,264900 CAD,1211 Warner STREET SW 
+5,4,1291,,Residential,376400 CAD,703 33rd STREET W 
+4,3,1136,.165,Residential,349900 CAD,95 Macdonald CRESCENT 
+3,1,988,.258,Residential,323000 CAD,1012 LORIMER PLACE 
+4,2,854,.092,Residential,269000 CAD,70 Cartier CRESCENT 
+3,3,1346,.247,Residential,229000 CAD,302 Limit AVENUE 
+3,4,2015,.188,Residential,369900 CAD,211 Riverbend CRESCENT 
+3,2,1116,0.15,Residential,249000 CAD,1601 Grundeen CRESCENT 
+4,2,920,,Residential,243900 CAD,636 PRINCESS STREET 
+2,2,934,,Residential,289900 CAD,214 2nd STREET S 
+4,4,2112,.198,Residential,309000 CAD,536 Central AVENUE N 
+2,1,950,.138,Residential,249900 CAD,471 4th STREET W 
+5,3,1288,>0.2,Residential,324000 CAD,149 Wright CRESCENT 
+3,2,874,.095,Residential,229900 CAD,7312 Dewdney AVENUE 
+4,1,960,.143,Residential,234900 CAD,135 Cornwall STREET 
+5,3,2124,.275,Residential,385000 CAD,312 Main STREET 
+4,3,1412,.155,Residential,259900 CAD,102 Lundy PLACE 
+3,2,1300,0.96,Residential,245000 CAD,210 Assiniboia STREET 
+4,2,1192,.172,Residential,209000 CAD,595 9th STREET W 
+2,1,780,.139,Residential,214900 CAD,104 LAKESHORE DRIVE 
+3,2,1432,.207,Residential,384900 CAD,101 Jennifer COURT 
+4,2,1131,,Residential,259000 CAD,109 1st AVENUE 
+3,2,988,.116,Residential,319900 CAD,3417 McCallum AVENUE 
+5,3,1172,0.16,Single,310000 CAD,505 2ND STREET EAST 
+4,2,864,.161,Residential,289500 CAD,829 U AVENUE N 
+3,2,2067,1.19,Residential,260000 CAD,RM Lajord 
+2,1,732,.115,Residential,204900 CAD,909 King STREET 
+3,4,2152,0.16,Residential,299900 CAD,1410 3rd STREET E 
+2,1,958,.105,Single,244900 CAD,1707 49 Avenue 
+2,1,844,.179,Residential,349900 CAD,543 Mistusinne CRESCENT 
+3,3,1400,9.95,Residential,280000 CAD,Furseth Acreage 
+5,2,960,.183,Residential,200000 CAD,221 8th STREET W 
+3,2,1082,,Residential,224900 CAD,245 5th AVENUE N 
+4,1,1460,>0.1,Residential,254900 CAD,1133 Elliott STREET 
+3,2,1156,0.94,Residential,332000 CAD,Tenkink Acreage 
+3,1,1080,.076,Residential,249900 CAD,609 H AVENUE S 
+4,3,1118,,Residential,374000 CAD,423 Colonel Otter DRIVE 
+3,2,1650,.172,Residential,288000 CAD,821 Idylwyld DRIVE N 
+3,2,1147,.132,Residential,245000 CAD,708 Centre STREET 
+5,2,1092,.143,Residential,264900 CAD,77 Langley STREET 
+2,2,1544,,Residential,229000 CAD,322 2nd AVENUE NE 
+3,4,1344,.128,Residential,295000 CAD,732 Sunrise AVENUE 
+3,2,1120,.227,Residential,225000 CAD,215A 2nd STREET E 
+3,1,1542,>0.5,Residential,399900 CAD,416 Saskatchewan ROAD 
+3,2,877,0.13,Residential,279900 CAD,814 Carr PLACE 
+3,1,802,.098,Residential,269000 CAD,733 4th AVENUE N 
+4,3,1200,0.16,Single,288900 CAD,109  5th Avenue 
+5,3,1114,,Residential,229000 CAD,269 5th AVENUE NE 
+4,2,988,.107,Residential,349900 CAD,2534 Pasqua STREET 
+4,2,1400,.209,Residential,266000 CAD,W 311 1st STREET 
+3,2,768,,Residential,249500 CAD,1420 Chaplin STREET E 
+4,2,1092,.164,Residential,359900 CAD,2212 Grant ROAD 
+4,2,1300,.138,Residential,349900 CAD,6 Spinks DRIVE 
+3,2,1518,.154,Residential,355000 CAD,27 Anderson CRESCENT 
+4,4,1918,.072,Residential,340000 CAD,655 Montague STREET 
+4,2,960,.138,Residential,298000 CAD,9 Haultain CRESCENT 
+,,712,.145,Residential,239900 CAD,615 31st STREET W 
+3,2,832,.094,Residential,284900 CAD,210 FORSYTH CRESCENT 
+4,1,1210,6.21,Residential,389000 CAD,Stahl Acreage 
+3,2,1288,g>10,Residential,285000 CAD,NE 34-26-22W3 
+3,4,2556,.278,Residential,249000 CAD,516 Dennis STREET 
+4,1,1166,.328,Residential,375000 CAD,817 Main STREET 
+3,2,771,.129,Residential,294900 CAD,2950 Elphinstone STREET 
+3,2,960,,Residential,235000 CAD,1123 Athabasca STREET W 
+4,2,864,,Residential,299900 CAD,3338 Diefenbaker DRIVE 
+2,1,1290,0.22,Residential,245000 CAD,735 Centre STREET 
+4,2,864,.143,Residential,215000 CAD,311 8th AVENUE W 
+4,4,1320,.397,Residential,339000 CAD,363 Russell STREET 
+2,2,850,.104,Residential,299900 CAD,2817 Melrose AVENUE 
+6,2,1578,.217,Residential,210000 CAD,538 Railway AVENUE 
+4,1,1020,.143,Residential,299900 CAD,104 GARNET STREET 
+4,1,947,.143,Residential,209000 CAD,508 Stovel AVENUE W 
+5,3,1800,,Residential,289900 CAD,160 1st AVENUE N 
+3,2,1095,0.21,Single,289900 CAD,4707 38 Street 
+3,3,1630,.071,Residential,399900 CAD,8729 Hincks LANE 
+4,3,1392,,Single,249900 CAD,111 OLD JASPER HIGHWAY 
+3,2,1225,.124,Residential,209950 CAD,1163 King STREET 
+6,3,1949,.191,Residential,399900 CAD,737 Sun Valley DRIVE 
+3,2,2172,,Residential,254900 CAD,450 Cory STREET 
+4,2,902,,Residential,289000 CAD,150 Carter CRESCENT 
+3,2,1296,.103,Residential,227000 CAD,183 Trudelle CRESCENT 
+3,2,992,.149,Single,229500 CAD,4722 48 Street 
+5,3,1080,,Residential,257500 CAD,208 2nd AVENUE 
+3,2,1090,.236,Residential,297000 CAD,126 Matichuk AVENUE 
+5,3,1512,0.31,Residential,234000 CAD,407 Banbury PLACE 
+4,3,1775,.141,Residential,299900 CAD,2103 12th AVENUE N 
+3,1,1224,0.25,Residential,254900 CAD,701 5th AVENUE 
+5,3,1154,,Residential,339900 CAD,1212 21st STREET 
+4,3,1284,,Residential,279000 CAD,2101 BOYER AVENUE 
+3,2,1024,.151,Residential,314900 CAD,17 Hahn CRESCENT 
+4,2,931,,Residential,212900 CAD,1593 4th STREET E 
+5,3,1200,0.07,Residential,359900 CAD,544 J AVENUE N 
+4,2,864,.149,Residential,259000 CAD,274 1st AVENUE SW 
+5,3,1058,,Residential,220000 CAD,307 James STREET 
+6,4,1520,4.26,Residential,224500 CAD,Jansen Acreage 
+3,1,1050,25.1,Residential,264900 CAD,"Blk B, Plan# 102267480 Ext 0 "
+5,3,2128,0.35,Residential,349900 CAD,125 2nd AVENUE W 
+4,1,1135,,Residential,279900 CAD,330 Witney AVENUE N 
+4,2,1026,,Residential,249900 CAD,6 Blake CRESCENT 
+4,2,1599,,Residential,279900 CAD,302 34th STREET 
+4,2,972,,Single,229900 CAD,112 1 Street W 
+4,3,1232,.219,Residential,256000 CAD,565 Alberta STREET 
+5,2,990,.139,Residential,309900 CAD,18 Donahue AVENUE 
+4,3,1093,0.16,Residential,269900 CAD,921 Sanderson CRESCENT 
+6,2,1034,0.11,Residential,249000 CAD,1302 2nd AVENUE N 
+3,2,1011,.129,Residential,222000 CAD,210 Broadway AVENUE 
+3,2,2009,.396,Residential,249000 CAD,213-215 Garnet STREET 
+4,2,1710,0.32,Residential,395900 CAD,641 Woodland AVENUE 
+5,3,1856,.201,Residential,286000 CAD,20 Mountain DRIVE 
+7,3,1408,.136,Residential,375000 CAD,510 Redberry ROAD 
+3,2,851,,Residential,249000 CAD,364 Hayes DRIVE 
+3,2,840,,Residential,274900 CAD,1435 1st AVENUE N 
+4,2,960,.153,Residential,299900 CAD,3435 Patricia AVENUE 
+3,1,1080,.143,Residential,259900 CAD,1048 Campbell STREET 
+,1,3278,>2.9,Residential,207000 CAD,804 Elizabeth AVENUE 
+3,3,1284,0.17,Residential,290000 CAD,1385 Prince CRESCENT 
+4,3,2340,.201,Residential,345000 CAD,43 5 Street CRESCENT 
+3,3,1985,0.12,Single,369900 CAD,4530 24 Street 
+3,2,1543,.126,Residential,340000 CAD,36 CHAPA AVENUE 
+3,2,1048,.119,Residential,359900 CAD,24 Mayfair CRESCENT 
+4,4,1687,0.19,Residential,399000 CAD,160 Stewart CRESCENT 
+4,3,1347,.191,Residential,375000 CAD,261 Riverbend CRESCENT 
+4,1,880,1.98,Residential,259900 CAD,SE 18-52-05-W3 
+3,2,1172,.501,Residential,225000 CAD,544 Okanese AVENUE S 
+5,2,1426,.185,Residential,210000 CAD,724 4th STREET E 
+3,3,1170,,Residential,325000 CAD,13 Ling STREET 
+3,4,2150,1.47,Residential,265900 CAD,200 Benson AVENUE 
+4,3,1176,,Single,226500 CAD,205 3rd Avenue E 
+4,2,1060,,Residential,270000 CAD,809 Main STREET 
+3,1,850,.113,Residential,249900 CAD,10 Anticknap BAY 
+5,3,1396,.196,Residential,265000 CAD,209 5th AVENUE E 
+5,2,1040,.137,Residential,315000 CAD,211 McCannel STREET 
+4,2,1336,.545,Residential,264900 CAD,902 Assiniboia AVENUE 
+1,1,694,,Residential,239900 CAD,85 Proctor DRIVE 
+3,2,1006,.141,Residential,249900 CAD,59 Elmview ROAD 
+3,2,1358,,Residential,293500 CAD,596 1st AVENUE NE 
+4,2,1000,,Residential,210000 CAD,401 F AVENUE S 
+2,2,1300,.179,Residential,279500 CAD,197 Neeping AVENUE S 
+5,2,1040,.149,Residential,367000 CAD,1806 Argyle AVENUE 
+3,3,1168,.171,Residential,339900 CAD,596 Dalgliesh DRIVE 
+1,1,330,0.27,Residential,249900 CAD,609 Harbor PLACE 
+4,2,1120,.148,Residential,384900 CAD,1510 Lorne AVENUE 
+1,2,1575,,Residential,264900 CAD,125 Bryden CRESCENT 
+4,2,1076,,Residential,235000 CAD,308 2nd STREET E 
+5,2,1040,9.76,Residential,360000 CAD,Follensbee Acres 
+3,1,810,0.22,Residential,253200 CAD,216 1ST STREET E 
+3,2,1041,.143,Residential,239000 CAD,258 Montreal STREET N 
+5,2,2024,.207,Residential,255000 CAD,202 Labbie STREET 
+4,2,968,,Residential,318700 CAD,835 Glenview COVE 
+2,2,1059,0.23,Single,214998 CAD,308 6 Avenue 
+3,2,1498,.096,Residential,379900 CAD,2728 BRODER STREET 
+4,2,1016,,Residential,299900 CAD,2 Carss PLACE 
+5,3,1792,0.02,Residential,360000 CAD,5km West of Dorintosh 
+4,2,1292,.295,Residential,329900 CAD,214 3rd STREET NE 
+5,3,1312,.201,Residential,265000 CAD,11 5 Street CRESCENT 
+8,3,1694,.138,Residential,269900 CAD,801 King STREET 
+5,3,3262,8.19,Residential,394900 CAD,Key West Acreage 
+2,1,1266,.072,Residential,289900 CAD,2231 Cameron STREET 
+3,1,775,.129,Residential,235000 CAD,1160 Elliott STREET 
+5,3,1360,.126,Residential,379900 CAD,1163 Athabasca STREET W 
+3,3,1340,.115,Residential,309500 CAD,2340 Osler STREET 
+2,1,975,ng>6,Residential,235000 CAD,Clarion Acreage 
+3,2,1040,.132,Residential,225000 CAD,262 6th AVENUE NW 
+5,3,1080,.137,Single,319900 CAD,18 2 Street 
+4,3,1212,0.17,Residential,349900 CAD,1628 Barton DRIVE 
+3,1,1396,,Residential,289000 CAD,56 Birch CRESCENT 
+4,2,864,.108,Residential,295000 CAD,38 Forsyth CRESCENT 
+4,2,1362,g>10,Residential,309000 CAD,Acreage North of Makwa 
+3,2,1041,0.12,Residential,274900 CAD,2402 Dewdney AVENUE E 
+3,2,1096,.135,Residential,249000 CAD,419 4th AVENUE W 
+3,2,804,.111,Residential,260000 CAD,2533 Dewdney AVENUE E 
+6,3,1132,.184,Residential,389900 CAD,3202 Mountbatten STREET 
+1,2,988,.215,Residential,214900 CAD,17 Ontario STREET 
+3,2,875,,Residential,224900 CAD,1321 Pearsall PLACE 
+4,2,1870,12.2,Residential,224999 CAD,St. Gregor Acreage 
+3,3,1010,.139,Residential,249000 CAD,1011 campbell STREET 
+4,2,1100,0.31,Residential,229000 CAD,524 5th AVENUE SE 
+3,3,1362,,Residential,394900 CAD,966 McFaull MANOR 
+3,2,1027,,Residential,259900 CAD,2717 23rd STREET W 
+3,2,1682,.264,Residential,349900 CAD,14A Otter CRESCENT 
+4,2,836,,Residential,204900 CAD,905 Main STREET 
+4,3,1323,0.13,Single,389900 CAD,3712  41A Avenue 
+3,3,1076,.152,Residential,309000 CAD,6 Rutley DRIVE 
+2,1,1050,.241,Residential,204900 CAD,104 2nd AVENUE 
+3,1,1040,.138,Residential,239900 CAD,2816 Park STREET 
+4,2,992,.145,Residential,238000 CAD,209 Duncan ROAD 
+3,1,968,>0.1,Residential,299900 CAD,943 Glenview COVE 
+3,3,1300,.165,Residential,280000 CAD,588 6th AVENUE W 
+2,2,1036,.152,Residential,219900 CAD,524 22nd STREET E 
+4,2,1386,.138,Residential,280000 CAD,131 Nollet AVENUE 
+3,2,1090,.138,Residential,299900 CAD,1718 Royal STREET 
+3,1,816,.143,Residential,239900 CAD,5503 2nd AVENUE 
+4,2,1334,0.18,Residential,320000 CAD,18 Arcola PLACE 
+3,3,1212,.188,Single,289900 CAD,2701 47A Avenue 
+2,1,815,,Residential,209900 CAD,388 6th AVENUE SE 
+5,3,1284,0.17,Residential,380000 CAD,45 Qu'Appelle CRESCENT 
+4,2,1040,.179,Residential,269900 CAD,71 Centennial DRIVE 
+3,2,1182,.143,Residential,229000 CAD,300 5th AVENUE W 
+3,2,1466,.095,Residential,399000 CAD,517 Rusholme ROAD 
+3,3,1016,,Residential,256000 CAD,923 Hastings STREET 
+4,2,875,.092,Residential,264910 CAD,54 Stice CRESCENT 
+2,2,1010,.177,Residential,274900 CAD,1452 Ashley DRIVE 
+4,3,1700,.813,Residential,364900 CAD,Hamlet of Highgate 
+4,3,1407,.275,Residential,229999 CAD,201 Arthur STREET 
+2,1,1392,.172,Residential,235000 CAD,Lot 27 2nd AVENUE 
+2,2,1276,.111,Residential,274900 CAD,333 Johnson CRESCENT 
+2,1,860,,Residential,239900 CAD,848 5th AVENUE NW 
+2,1,1050,,Residential,279900 CAD,806 3rd AVENUE N 
+4,2,1517,.287,Residential,374000 CAD,606 Mountain STREET 
+4,3,1353,,Residential,334900 CAD,63 Davidson CRESCENT 
+4,2,1428,.287,Residential,210000 CAD,633 Beckwell AVENUE 
+4,2,1325,1.11,Residential,364900 CAD,19 West Park CRESCENT 
+3,2,807,,Residential,314900 CAD,241 Waterloo CRESCENT 
+3,2,1185,.084,Residential,354800 CAD,314 Bentley LANE 
+3,3,1477,.143,Residential,260000 CAD,833 Stadacona STREET E 
+2,2,1288,.537,Residential,239900 CAD,1303 Valley View STREET 
+4,3,1632,0.27,Residential,259900 CAD,2701 Steuart AVENUE 
+3,1,1058,.096,Residential,259900 CAD,2526 Wallace STREET 
+4,3,972,,Residential,314900 CAD,358 Laurier CRESCENT 
+3,3,1074,,Residential,269900 CAD,101 1st AVENUE 
+4,3,1776,.138,Residential,269900 CAD,417 5th AVENUE SE 
+4,2,864,,Residential,214900 CAD,110 15th AVENUE E 
+3,1,820,,Residential,264900 CAD,108 Pine BAY 
+2,1,768,0.24,Residential,249900 CAD,2180 McCrea ROAD 
+4,2,780,,Residential,229000 CAD,850 Saskatchewan STREET W 
+4,2,1093,.138,Residential,295000 CAD,331 4th AVENUE SE 
+4,2,1232,0.31,Residential,219000 CAD,103 2nd AVENUE S 
+3,1,910,.071,Residential,229900 CAD,1230 B AVENUE N 
+4,2,1316,.143,Residential,284900 CAD,510 King STREET 
+5,3,1312,0.22,Residential,312000 CAD,56 Vanier DRIVE 
+2,2,1360,.115,Residential,364900 CAD,Lot 31 Lakeview DRIVE 
+4,3,1326,8.73,Residential,330000 CAD,Portreeve Acreage 
+4,2,832,,Residential,339900 CAD,218 113th STREET 
+5,2,949,.121,Residential,319900 CAD,6814 1st AVENUE N 
+5,2,1020,,Residential,209900 CAD,1818 20TH STREET W 
+3,1,1299,9.82,Residential,229900 CAD,Cameo-Buckingham Road Acreage 
+2,2,1041,,Residential,389900 CAD,963 McFaull MANOR 
+4,2,1008,.138,Residential,249900 CAD,1906 2A STREET 
+3,3,1362,,Residential,394900 CAD,974 McFaull MANOR 
+4,2,960,.139,Residential,314900 CAD,3515 Lang AVENUE 
+3,2,1426,.229,Residential,349900 CAD,312 3rd STREET W 
+3,1,1184,1.74,Residential,289900 CAD,Barsby Acreage 
+2,2,1172,.072,Residential,289900 CAD,262 St John STREET 
+3,2,1533,0.11,Residential,339900 CAD,419 29th STREET W 
+4,2,625,.057,Residential,204000 CAD,401 25th STREET W 
+3,2,1258,,Residential,389900 CAD,515 30th STREET W 
+2,1,900,.111,Residential,219900 CAD,622 M AVENUE S 
+3,3,988,.413,Residential,269000 CAD,117 3rd STREET 
+4,3,1300,,Residential,369000 CAD,3911 PARKDALE ROAD 
+2,1,864,,Residential,339900 CAD,146 Carwin PARK 
+5,3,2504,.143,Residential,315555 CAD,3 2nd AVENUE SE 
+4,2,1136,0.22,Residential,379900 CAD,1814 Sommerfeld AVENUE 
+4,4,1578,,Residential,299000 CAD,505 1st STREET E 
+4,2,1792,0.13,Residential,230000 CAD,407 Main STREET 
+4,2,832,.117,Residential,299900 CAD,2624 Coronation STREET 
+6,2,1275,.143,Residential,399900 CAD,829 K AVENUE N 
+4,2,1852,0.26,Residential,239900 CAD,119 Stinsin STREET 
+4,4,1463,.072,Residential,339900 CAD,367 Ottawa STREET 
+4,2,1536,.164,Residential,329900 CAD,523 H AVENUE N 
+4,2,888,.208,Residential,235000 CAD,93 Lincoln AVENUE 
+3,2,1008,.138,Residential,239000 CAD,404 3rd AVENUE W 
+3,1,1176,g>10,Residential,319000 CAD,Quibell Acreage 
+3,2,968,.092,Residential,279900 CAD,2937 Cameron STREET 
+4,2,850,.103,Residential,264900 CAD,626 Fisher CRESCENT 
+3,2,2424,0.92,Residential,259000 CAD,Hwy 2 and 355  Spruce Home 
+4,4,1340,0.34,Residential,239900 CAD,178 3rd STREET W 
+3,2,1287,.138,Single,319900 CAD,102 4TH Street E 
+2,1,940,.049,Residential,249900 CAD,2301 Quebec STREET 
+3,3,1772,.253,Residential,399000 CAD,604 Kaposvar DRIVE 
+4,3,1132,.178,Residential,399000 CAD,307 Haight CRESCENT 
+3,3,1050,.241,Residential,264900 CAD,210 4th STREET W 
+4,3,1747,.149,Residential,249900 CAD,227 1st AVENUE SW 
+4,2,960,.172,Residential,219000 CAD,1428 Horace STREET 
+5,3,1001,.082,Residential,398000 CAD,206 Cornish ROAD 
+3,2,1468,0.12,Residential,298000 CAD,1158 Fleet STREET 
+2,1,1427,0.64,Residential,274900 CAD,116 CEYLON STREET 
+4,3,1066,.138,Single,319900 CAD,2611 42nd AvenueClose 
+4,2,1294,,Residential,249900 CAD,505 McLeod AVENUE 
+5,3,1129,0.24,Residential,309999 CAD,10201 Hamlin STREET 
+3,2,1306,0.07,Residential,397000 CAD,1004 Broder STREET 
+4,3,1242,.114,Residential,399900 CAD,2306 Herchmer STREET 
+3,2,954,.185,Residential,240000 CAD,218 Assiniboine TERRACE 
+3,2,780,,Residential,218000 CAD,1147 Main STREET N 
+4,3,1400,0.21,Single,274500 CAD,208 4th Street W 
+2,1,1100,0.11,Residential,299000 CAD,203 Birch DRIVE 
+3,2,2240,.256,Residential,349900 CAD,35 Lawrence ROAD 
+4,2,1176,.241,Residential,210000 CAD,411 9th AVENUE W 
+3,1,981,.215,Residential,209900 CAD,546 Scarth STREET 
+6,2,1292,.161,Residential,365000 CAD,2823 Sinton AVENUE 
+3,2,1560,.918,Residential,289000 CAD,107 35 HIGHWAY E 
+4,3,1002,.209,Residential,359900 CAD,203 Carter CRESCENT 
+5,3,1175,g>10,Residential,304900 CAD,SE-02-62-25-W3 
+2,2,1576,.112,Residential,314900 CAD,155 Fairview ROAD 
+3,2,950,0.34,Residential,244900 CAD,244 Duncan ROAD 
+3,2,864,98.4,Residential,259000 CAD,133 H AVENUE S 
+4,2,1060,.167,Residential,359900 CAD,605 Heritage LANE 
+2,2,896,.143,Residential,215000 CAD,503 Macleod AVENUE W 
+3,2,1156,.121,Residential,259900 CAD,947 Hall STREET W 
+3,4,1317,0.15,Residential,349900 CAD,39 Morin CRESCENT 
+3,1,850,.106,Residential,219900 CAD,2008 Dewdney AVENUE E 
+1,2,1244,>0.2,Residential,284910 CAD,228 Daly AVENUE 
+5,3,1386,0.15,Residential,395800 CAD,35 LINNER LANE 
+4,4,1566,.197,Residential,364900 CAD,10511 Bennett CRESCENT 
+6,3,1018,.072,Residential,259900 CAD,1135 Cameron STREET 
+3,2,986,,Residential,249000 CAD,331 6th STREET NE 
+3,2,1528,.149,Residential,235000 CAD,11 7th AVENUE 
+6,2,1666,.344,Single,209000 CAD,141 2nd Avenue W 
+3,3,1246,0.25,Residential,380000 CAD,803 Sussex AVENUE 
+3,2,1586,,Residential,219900 CAD,431 Vaughan STREET W 
+4,2,884,.139,Residential,219900 CAD,643 4th STREET E 
+3,2,1640,.001,Residential,265000 CAD,500 Main STREET 
+2,1,840,.134,Residential,229900 CAD,1009 J AVENUE N 
+3,2,740,.076,Residential,269000 CAD,929 5th AVENUE N 
+3,3,1014,.126,Residential,308000 CAD,208 MIKKELSON DRIVE 
+2,1,1217,>0.5,Residential,279000 CAD,1283 Veterans CRESCENT 
+2,1,988,.067,Residential,267500 CAD,310 J AVENUE N 
+5,4,1444,.204,Single,210000 CAD,207 1ST AVENUE WEST 
+3,2,862,,Residential,319900 CAD,32 2nd AVENUE 
+4,2,1405,0.15,Residential,232900 CAD,905 River STREET E 
+5,3,1224,.144,Residential,384900 CAD,11 Tibbits ROAD 
+3,2,780,,Residential,239000 CAD,859 5th AVENUE NE 
+5,2,1180,.178,Residential,374900 CAD,759 5th AVENUE NE 
+4,2,1520,ng>5,Residential,299000 CAD,Mailhiot Acreage 
+5,2,1348,,Residential,324900 CAD,1132 E AVENUE N 
+3,2,942,.158,Residential,205000 CAD,412 1st AVENUE E 
+3,1,1346,,Residential,289900 CAD,109 Duncairn Drive 
+4,2,1164,,Residential,257000 CAD,1011 Carlton STREET 
+5,2,960,.154,Residential,339000 CAD,24 O'Connor CRESCENT 
+4,1,982,.138,Residential,249000 CAD,236 10th STREET NE 
+2,1,852,.072,Residential,208700 CAD,2705 Reynolds STREET 
+3,1,1344,.264,Residential,399900 CAD,530 Coon AVENUE 
+4,1,1091,,Residential,279900 CAD,315 Qu'Appelle STREET 
+3,3,1536,.072,Residential,399900 CAD,2063 Retallack STREET 
+4,3,1432,30.9,Residential,350000 CAD,Pt. SE-07-51-21-W3 
+3,2,1042,.157,Residential,289900 CAD,88 Dryburgh CRESCENT 
+3,3,1368,.148,Residential,289900 CAD,724 8th STREET E 
+3,2,1092,0.22,Residential,249000 CAD,421 Park AVENUE 
+3,2,1280,.513,Residential,389000 CAD,147 Vickers CRESCENT 
+5,3,1420,.287,Residential,308000 CAD,231 8th STREET W 
+3,1,1570,0.49,Residential,229900 CAD,4 Whitewood DRIVE 
+3,1,1092,.072,Residential,289900 CAD,2273 Cameron STREET 
+3,2,864,0.14,Residential,239900 CAD,1385 7th STREET E 
+3,4,2014,0.19,Residential,399900 CAD,10703 Meighen CRESCENT 
+4,1,871,,Residential,259000 CAD,2949 Cameron STREET 
+4,3,1283,.151,Residential,249000 CAD,4 Olds PLACE 
+4,4,1414,,Residential,359000 CAD,2 Marion CRESCENT 
+3,3,1178,0.33,Residential,249900 CAD,111 Skye DRIVE 
+4,2,2100,>7.5,Residential,225000 CAD,Lily Plain Acreage 
+3,3,1196,,Residential,279000 CAD,1010 Carlton STREET 
+3,4,1148,.215,Residential,210000 CAD,1201 ASSINIBOIA AVENUE 
+4,2,972,.132,Residential,339900 CAD,322 Stacey CRESCENT 
+3,3,1006,.116,Residential,299900 CAD,94 Clermont CRESCENT 
+5,3,1249,0.23,Residential,214900 CAD,107 & 109 South AVENUE E 
+5,3,2232,.264,Residential,300000 CAD,310 4th AVENUE NW 
+5,3,1092,.139,Residential,364900 CAD,427 Cooper WAY 
+4,3,1920,.161,Residential,207500 CAD,328 3rd AVENUE 
+5,2,1300,.172,Residential,349900 CAD,108 Corrigal DRIVE 
+4,2,1132,,Residential,249000 CAD,1851 Gibbs ROAD 
+4,3,1981,.198,Residential,324900 CAD,841 2nd AVENUE NW 
+4,2,1562,0.22,Residential,287000 CAD,157 21st STREET E 
+4,2,1030,.131,Residential,374900 CAD,115 Cypress COURT 
+5,3,1390,.168,Single,265000 CAD,24 Scenic Drive 
+2,2,696,.143,Residential,209900 CAD,2265 Francis STREET 
+3,2,923,.152,Residential,298000 CAD,17 Henderson DRIVE 
+5,3,1842,,Residential,379000 CAD,110 Indian POINT 
+3,2,1007,.161,Residential,234500 CAD,218 Elder STREET 
+5,2,912,.132,Residential,228750 CAD,445 9th AVENUE NW 
+5,3,2027,.143,Residential,380000 CAD,210 Railway AVENUE W 
+3,1,824,.141,Residential,285900 CAD,247 Rothwell CRESCENT 
+4,2,1172,.158,Residential,209900 CAD,216 Dominion ROAD 
+4,3,968,,Residential,337000 CAD,863 Glenview COVE 
+4,2,1023,,Residential,379900 CAD,2582 Eastview 
+3,1,1313,0.26,Residential,229900 CAD,218 Alfred CRESCENT 
+5,3,1429,.203,Single,339800 CAD,4 Hill  Avenue 

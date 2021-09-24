@@ -1,0 +1,2468 @@
+Beds,Bath,Sqft,Lot_Size,Type,Price,Address,Province,Region
+4.0,4.0,3600.0,,Residential,1150000.0,20 WEST POINT Road ,NL,Atlantic region
+1.0,1.0,1788.0,,Residential,304900.0,2 Silver Birch Crescent ,NL,Atlantic region
+4.0,4.0,1731.0,,Residential,159000.0,192 Pleasant Street ,NL,Atlantic region
+4.0,3.0,2862.0,,Residential,219000.0,2 Church Street ,NL,Atlantic region
+4.0,3.0,2410.0,,Residential,339000.0,16 Zircon Place ,NL,Atlantic region
+3.0,2.0,2438.0,>0.7,Residential,359900.0,6 Crockers Cove Road ,NL,Atlantic region
+3.0,2.0,2000.0,,Residential,259900.0,16 Gambier Street ,NL,Atlantic region
+5.0,3.0,3400.0,,Residential,899000.0,5 MAYPARK Place ,NL,Atlantic region
+3.0,3.0,2400.0,,Residential,309900.0,11 Portland Place ,NL,Atlantic region
+3.0,1.0,2400.0,,Residential,289000.0,641 Topsail Road ,NL,Atlantic region
+3.0,1.0,1300.0,,Residential,175000.0,40 SCOTT Street ,NL,Atlantic region
+3.0,3.0,2496.0,,Residential,269000.0,8 Burkes Lane ,NL,Atlantic region
+4.0,4.0,3150.0,,Residential,379900.0,20 Glasgow Place ,NL,Atlantic region
+7.0,2.0,2048.0,,Residential,289900.0,246 ST THOMAS Line ,NL,Atlantic region
+5.0,2.0,2400.0,,Residential,279900.0,91 Ferryland Street West ,NL,Atlantic region
+5.0,2.0,2180.0,,Single,244900.0,71 Jordan Place ,NL,Atlantic region
+3.0,1.0,1000.0,,Residential,159900.0,20 Mercers Cove Rd ,NL,Atlantic region
+3.0,2.0,1472.0,,Single,212000.0,22 Argyle Street ,NL,Atlantic region
+5.0,4.0,2600.0,,Single,425000.0,7 BLUE JAY Place ,NL,Atlantic region
+2.0,2.0,2058.0,,Single,334900.0,29 Shriners Road ,NL,Atlantic region
+3.0,3.0,1754.0,,Single,389900.0,45 Yellow Wood Drive ,NL,Atlantic region
+3.0,4.0,1930.0,,Single,369900.0,76 Freshwater Road ,NL,Atlantic region
+5.0,3.0,2200.0,,Single,299000.0,5 Jubilee Court ,NL,Atlantic region
+3.0,3.0,2910.0,,Single,549900.0,40 Victoria Street ,NL,Atlantic region
+3.0,2.0,1148.0,,Single,249000.0,40 Raynham Avenue ,NL,Atlantic region
+3.0,3.0,2598.0,,Single,499900.0,11 Ballylee Crescent ,NL,Atlantic region
+3.0,2.0,2696.0,,Single,329900.0,1 Coaker Place ,NL,Atlantic region
+3.0,2.0,3556.0,,Single,349000.0,62 Bruce Boulevard ,NL,Atlantic region
+3.0,3.0,2243.0,,Single,349600.0,24 Alberton Drive ,NL,Atlantic region
+5.0,2.0,2001.0,,Single,319500.0,5 Montana Drive ,NL,Atlantic region
+4.0,4.0,3311.0,,Single,599900.0,92 Patrick Street ,NL,Atlantic region
+3.0,2.0,3156.0,,Residential,329900.0,9 Central St. ,NL,Atlantic region
+3.0,3.0,2600.0,,Residential,319900.0,28 Belfast Street ,NL,Atlantic region
+3.0,2.0,1680.0,,Residential,200000.0,107 Fahey Street ,NL,Atlantic region
+3.0,3.0,1627.0,,Single,474900.0,5 Ballylee Crescent ,NL,Atlantic region
+4.0,2.0,2440.0,,Single,269900.0,246 Mundy Pond Road ,NL,Atlantic region
+3.0,3.0,2299.0,,Single,324900.0,8 Jonathan Drive ,NL,Atlantic region
+3.0,2.0,2282.0,,Single,284500.0,56 Atlantic Street ,NL,Atlantic region
+3.0,4.0,2172.0,,Single,499900.0,1611 Topsail Road ,NL,Atlantic region
+3.0,1.0,3000.0,,Residential,119900.0,7 Hibbs Cove Road ,NL,Atlantic region
+2.0,1.0,1400.0,,Single,219900.0,42 Nine Mile Road ,NL,Atlantic region
+4.0,4.0,4185.0,,Single,975000.0,53 Nagles Place ,NL,Atlantic region
+2.0,2.0,2652.0,,Single,523000.0,45 Frampton Avenue ,NL,Atlantic region
+3.0,2.0,2010.0,,Single,314500.0,160 Airport Heights ,NL,Atlantic region
+3.0,1.0,1140.0,,Single,130000.0,29 Coronation Street ,NL,Atlantic region
+5.0,3.0,2508.0,,Single,329900.0,12 First Avenue ,NL,Atlantic region
+3.0,2.0,2160.0,,Single,309900.0,26 Cessna Street ,NL,Atlantic region
+5.0,2.0,2464.0,,Residential,308000.0,11 Doodys Lane ,NL,Atlantic region
+3.0,2.0,2808.0,,Residential,399900.0,24 Vale Drive ,NL,Atlantic region
+3.0,2.0,1590.0,,Residential,189000.0,7 Winter Place ,NL,Atlantic region
+4.0,2.0,2800.0,>0.5,Residential,99999.0,34 Rocky Pond Rd ,NL,Atlantic region
+3.0,2.0,2492.0,,Residential,269900.0,7 Batten Place ,NL,Atlantic region
+5.0,3.0,1688.0,,Residential,259000.0,25 Guy Street ,NL,Atlantic region
+3.0,2.0,2800.0,,Residential,269900.0,18 Admirals Cove Road ,NL,Atlantic region
+3.0,2.0,1400.0,,Residential,199900.0,3 Whelans Lane ,NL,Atlantic region
+3.0,1.0,1016.0,,Residential,204500.0,2 Grasbo Acres Road ,NL,Atlantic region
+4.0,3.0,2047.0,,Residential,525000.0,2 DUCKWORTH Street ,NL,Atlantic region
+6.0,4.0,5211.0,,Residential,279900.0,29 Church Drive ,NL,Atlantic region
+3.0,1.0,2000.0,,Residential,99900.0,399 Water Street ,NL,Atlantic region
+3.0,1.0,1200.0,,Residential,174900.0,78 Back Track Rd ,NL,Atlantic region
+3.0,2.0,2690.0,,Residential,359900.0,123 COUNTRY PATH Drive ,NL,Atlantic region
+4.0,2.0,3600.0,,Residential,950000.0,200 POINT ,NL,Atlantic region
+3.0,3.0,2292.0,,Residential,279000.0,2A Cumberland Crescent ,NL,Atlantic region
+3.0,3.0,2016.0,,Residential,249900.0,130 Old Petty Harbour Road ,NL,Atlantic region
+3.0,1.0,1093.0,,Residential,229900.0,1 Discovery ,NL,Atlantic region
+5.0,1.0,1702.0,,Residential,129900.0,62-64 Mint Cove Pond Road ,NL,Atlantic region
+3.0,2.0,2280.0,,Residential,229900.0,41-43 Glam Road ,NL,Atlantic region
+2.0,1.0,1316.0,,Residential,419900.0,46 Arneys Pond Road ,NL,Atlantic region
+3.0,2.0,2482.0,>0.6,Residential,289899.0,#44 Hubert's Place ,NL,Atlantic region
+3.0,3.0,2690.0,,Residential,319000.0,5 CORAL Heights ,NL,Atlantic region
+3.0,2.0,2474.0,,Residential,249900.0,154 Southside Road ,NL,Atlantic region
+4.0,2.0,1848.0,,Residential,89900.0,10 Bond Street ,NL,Atlantic region
+5.0,4.0,2620.0,,Residential,387900.0,28 Bridgeport Street ,NL,Atlantic region
+3.0,2.0,1500.0,,Residential,98500.0,183 Water Street ,NL,Atlantic region
+2.0,1.0,2016.0,,Residential,179900.0,111 Riverdale Crescent ,NL,Atlantic region
+2.0,1.0,852.0,,Residential,189000.0,15 Feild Street ,NL,Atlantic region
+3.0,2.0,1200.0,,Residential,199900.0,6 Lilly Pond Road ,NL,Atlantic region
+3.0,2.0,1940.0,,Residential,299900.0,2 Southside Estates ,NL,Atlantic region
+3.0,1.0,1340.0,,Residential,174900.0,57 Forest Pond Road ,NL,Atlantic region
+5.0,5.0,4712.0,,Residential,599900.0,40 Old Maddox Cove Road ,NL,Atlantic region
+3.0,2.0,1697.0,>0.5,Residential,499000.0,24 Jack Pine Place ,NL,Atlantic region
+5.0,2.0,2900.0,,Residential,239900.0,225-227 Shearstown Rd ,NL,Atlantic region
+2.0,2.0,1065.0,,Residential,299900.0,29 Jack Pine Place ,NL,Atlantic region
+3.0,2.0,1609.0,,Residential,214900.0,1661 Portugal Cove Road ,NL,Atlantic region
+,,,,Residential,144900.0,20 Glove Rd. ,NL,Atlantic region
+4.0,4.0,5500.0,,Residential,799900.0,50 Collingwood Crescent ,NL,Atlantic region
+4.0,5.0,2698.0,,Residential,790000.0,233-235 Conception Bay Highway ,NL,Atlantic region
+3.0,2.0,3432.0,,Residential,899900.0,50 Jack Pine Place ,NL,Atlantic region
+2.0,1.0,1780.0,,Residential,83500.0,2 Bennett's Cresent ,NL,Atlantic region
+4.0,2.0,1850.0,,Residential,254900.0,55 Forbes Street ,NL,Atlantic region
+3.0,2.0,1500.0,,Residential,89900.0,13 Mercers Lane ,NL,Atlantic region
+3.0,2.0,1544.0,,Residential,277700.0,7 Suez Street ,NL,Atlantic region
+6.0,2.0,2880.0,,Residential,224900.0,74 Water Street ,NL,Atlantic region
+3.0,1.0,3600.0,,Residential,199900.0,1 Kings Road ,NL,Atlantic region
+3.0,2.0,2690.0,,Residential,359900.0,102 COUNTRY PATH Drive ,NL,Atlantic region
+3.0,1.0,1154.0,>2.4,Residential,79900.0,5 Crockers Ave ,NL,Atlantic region
+3.0,1.0,1697.0,1.22,Residential,79900.0,1 Lanse Au Loupe Road ,NL,Atlantic region
+4.0,4.0,4912.0,,Residential,1150000.0,54 Vineyard Drive ,NL,Atlantic region
+3.0,1.0,3160.0,,Residential,317500.0,11 Greeley's Road ,NL,Atlantic region
+3.0,2.0,1651.0,,Residential,369900.0,1 Alec Moores Court ,NL,Atlantic region
+4.0,3.0,2421.0,,Residential,359900.0,1286 Thorburn Road ,NL,Atlantic region
+3.0,1.0,1200.0,,Residential,139900.0,197 Back Track Road ,NL,Atlantic region
+5.0,2.0,2376.0,,Residential,289900.0,208A Neck Road ,NL,Atlantic region
+3.0,3.0,2440.0,,Residential,369000.0,9 Walshs Lane ,NL,Atlantic region
+5.0,3.0,3400.0,,Residential,899000.0,5 MAYPARK Place ,NL,Atlantic region
+3.0,2.0,1500.0,,Residential,349900.0,1 Gradys Point Road ,NL,Atlantic region
+2.0,2.0,1795.0,,Residential,260000.0,68 Canterbury Drive ,NL,Atlantic region
+4.0,2.0,2100.0,,Residential,144900.0,10 Whites Road ,NL,Atlantic region
+2.0,1.0,744.0,0.89,Residential,119900.0,0 Fairhaven Road ,NL,Atlantic region
+3.0,1.0,1449.0,,Residential,89900.0,5 Main Road ,NL,Atlantic region
+3.0,2.0,2031.0,,Residential,309900.0,53 Erica Avenue ,NL,Atlantic region
+2.0,1.0,1050.0,,Residential,199000.0,23 Aylwards Road ,NL,Atlantic region
+4.0,1.0,1875.0,,Residential,167900.0,2 DEANERY Avenue ,NL,Atlantic region
+4.0,3.0,2215.0,,Residential,379900.0,5 ROSEGATE Place ,NL,Atlantic region
+3.0,2.0,1522.0,,Residential,149900.0,281- 285 Shearstown Main Road ,NL,Atlantic region
+3.0,1.0,1728.0,,Residential,329900.0,130 Country Road ,NL,Atlantic region
+3.0,2.0,2180.0,,Residential,262500.0,10 Golf Avenue ,NL,Atlantic region
+2.0,1.0,1776.0,,Residential,289900.0,49 Erica Avenue ,NL,Atlantic region
+5.0,4.0,4140.0,,Residential,524000.0,32 Atlantica Drive ,NL,Atlantic region
+1.0,1.0,575.0,,Residential,149900.0,19 Shelleys Road ,NL,Atlantic region
+3.0,2.0,1848.0,,Residential,159900.0,47-49 Bennys Road ,NL,Atlantic region
+4.0,4.0,2700.0,,Residential,399900.0,222 Northside Road ,NL,Atlantic region
+3.0,1.0,1122.0,,Residential,119900.0,231 Main Street ,NL,Atlantic region
+,,,,Residential,149900.0,8-12 Cross Road ,NL,Atlantic region
+5.0,2.0,1900.0,,Residential,259900.0,25 Lindburgh Crescent ,NL,Atlantic region
+3.0,2.0,2000.0,,Residential,215000.0,7 Bucklers Road ,NL,Atlantic region
+3.0,1.0,1920.0,,Residential,179900.0,18 Barnes Road ,NL,Atlantic region
+5.0,2.0,2220.0,,Residential,334900.0,48 FIRDALE Drive ,NL,Atlantic region
+4.0,3.0,3688.0,,Residential,599900.0,39 Greens Road ,NL,Atlantic region
+3.0,2.0,2480.0,0.24,Residential,99000.0,17 Captain Franks Lane ,NL,Atlantic region
+2.0,1.0,855.0,,Residential,199900.0,13 Discovery Place ,NL,Atlantic region
+5.0,2.0,2070.0,,Residential,249000.0,45 Barachois Street ,NL,Atlantic region
+,,,0.88,Residential,79900.0,2 - 10 Hierlihy Place ,NL,Atlantic region
+3.0,1.0,2730.0,,Residential,249900.0,69 Water Street East ,NL,Atlantic region
+2.0,1.0,1184.0,,Residential,149900.0,8A Hill Avenue ,NL,Atlantic region
+4.0,2.0,2000.0,>0.4,Residential,239900.0,273 Water Street ,NL,Atlantic region
+4.0,3.0,2880.0,,Residential,509000.0,70 Middle Ridge Road ,NL,Atlantic region
+3.0,1.0,1978.0,,Residential,149900.0,281-285 Shearstown Road ,NL,Atlantic region
+1.0,1.0,800.0,,Residential,75000.0,Admirals Cove Road ,NL,Atlantic region
+3.0,3.0,3800.0,,Residential,599900.0,10 TAMARACK Drive ,NL,Atlantic region
+3.0,2.0,1576.0,,Residential,249900.0,49 Country Road ,NL,Atlantic region
+3.0,3.0,2992.0,,Residential,399000.0,52 Cameron Place ,NL,Atlantic region
+3.0,2.0,2840.0,,Residential,397900.0,36 Vale Drive ,NL,Atlantic region
+3.0,1.0,1472.0,,Residential,59900.0,25-27 Groves Lane ,NL,Atlantic region
+2.0,1.0,1016.0,,Residential,269899.0,53B Pitchers Road ,NL,Atlantic region
+4.0,2.0,2700.0,,Residential,157500.0,8 Churley's Circle ,NL,Atlantic region
+3.0,2.0,2690.0,,Residential,349900.0,104 COUNTRY PATH Drive ,NL,Atlantic region
+3.0,1.0,748.0,,Other,79900.0,0 Paradise Valley Road ,NL,Atlantic region
+5.0,2.0,2460.0,,Residential,259900.0,53 Kelliview Crescent ,NL,Atlantic region
+3.0,3.0,3042.0,,Residential,398800.0,6 Mountain Crescent ,NL,Atlantic region
+2.0,1.0,740.0,0.08,Residential,149900.0,148 Water Street ,NL,Atlantic region
+5.0,3.0,2500.0,,Residential,385000.0,17 Hamlet Street ,NL,Atlantic region
+3.0,2.0,2200.0,,Residential,269900.0,350 Water Street ,NL,Atlantic region
+2.0,1.0,500.0,,Residential,70000.0,B168 Main Road ,NL,Atlantic region
+5.0,4.0,2060.0,,Residential,339900.0,21 Rotary Drive ,NL,Atlantic region
+5.0,2.0,2160.0,,Residential,200200.0,15 Gorman Avenue ,NL,Atlantic region
+3.0,3.0,2118.0,,Residential,294500.0,51 Cameron Place ,NL,Atlantic region
+3.0,1.0,963.0,,Residential,119900.0,45 Hill Road ,NL,Atlantic region
+4.0,1.0,2496.0,>0.6,Residential,99900.0,231B Country Rd ,NL,Atlantic region
+3.0,1.0,1800.0,,Residential,89900.0,76 Lemarchant Street ,NL,Atlantic region
+3.0,1.0,1600.0,,Residential,269900.0,8 WOODPATH Road ,NL,Atlantic region
+,,824.0,,Residential,79900.0,20 Northside Rd ,NL,Atlantic region
+3.0,1.0,900.0,>0.3,Residential,67000.0,8 Hard Path Rd ,NL,Atlantic region
+3.0,1.0,1100.0,0.39,Residential,149900.0,2 Beverly Road ,NL,Atlantic region
+5.0,2.0,1712.0,,Residential,329900.0,15 Regina Place ,NL,Atlantic region
+2.0,1.0,900.0,,Residential,75000.0,10 Druken Crescent ,NL,Atlantic region
+2.0,2.0,2896.0,>2.6,Residential,699900.0,182-186 Otterbury Road  ,NL,Atlantic region
+3.0,2.0,2208.0,,Residential,239900.0,140A Conception Bay Highway ,NL,Atlantic region
+3.0,4.0,3600.0,,Residential,499900.0,332 MAIN Road ,NL,Atlantic region
+2.0,1.0,1668.0,,Residential,269900.0,50-52 Red Point Road ,NL,Atlantic region
+3.0,2.0,1400.0,,Residential,179000.0,178 CONCEPTION BAY Highway ,NL,Atlantic region
+3.0,2.0,2848.0,,Residential,449900.0,276 Conception Bay Highway ,NL,Atlantic region
+2.0,1.0,984.0,,Residential,69900.0,39-43 Red Point Road ,NL,Atlantic region
+3.0,2.0,1470.0,,Residential,219900.0,2-4 Anderson Crescent ,NL,Atlantic region
+2.0,1.0,816.0,,Residential,64900.0,474 Main Road ,NL,Atlantic region
+3.0,1.0,1920.0,,Residential,229900.0,16 Knowling Street ,NL,Atlantic region
+4.0,3.0,2142.0,,Residential,279900.0,234 Hamilton Avenue ,NL,Atlantic region
+4.0,3.0,2620.0,,Residential,314900.0,48 Greeley Garden ,NL,Atlantic region
+4.0,3.0,3598.0,,Residential,399900.0,80 Badcock Boulevard ,NL,Atlantic region
+,,,,Residential,229900.0,41-43 Glam Road ,NL,Atlantic region
+3.0,2.0,1900.0,,Residential,479000.0,353 Middle Gull Pond ,NL,Atlantic region
+5.0,3.0,2400.0,,Residential,367900.0,131 Carlisle Drive ,NL,Atlantic region
+4.0,2.0,3700.0,,Residential,365000.0,108 Kildare Road ,NL,Atlantic region
+,,2200.0,,Other,125000.0,20-22 Victoria St. ,NL,Atlantic region
+2.0,1.0,860.0,0.16,Residential,149900.0,117A Old Track Rd ,NL,Atlantic region
+4.0,2.0,3688.0,1.06,Residential,599900.0,39 Greens Road ,NL,Atlantic region
+2.0,1.0,720.0,,Residential,199900.0,597 Beachy Cove Road ,NL,Atlantic region
+3.0,1.0,1600.0,,Residential,179999.0,6311 Main Highway A,NL,Atlantic region
+5.0,4.0,2478.0,,Residential,324900.0,99 Frecker Drive ,NL,Atlantic region
+1.0,1.0,628.0,,Residential,119500.0,12 Warford Road ,NL,Atlantic region
+4.0,2.0,2212.0,,Residential,425000.0,119 Cabot Avenue Extension ,NL,Atlantic region
+2.0,1.0,1200.0,,Residential,59900.0,12 Old Brigus Road ,NL,Atlantic region
+3.0,3.0,4160.0,ng>1,Residential,469900.0,136-140 Central Street ,NL,Atlantic region
+3.0,1.0,900.0,>2.5,Residential,139900.0,0 Main Hwy ,NL,Atlantic region
+3.0,2.0,1519.0,,Residential,295000.0,432 Water Street ,NL,Atlantic region
+3.0,1.0,1138.0,>0.9,Residential,179900.0,189C Country Road ,NL,Atlantic region
+,,3600.0,0.22,Residential,49900.0,36 Water Street ,NL,Atlantic region
+3.0,3.0,3600.0,,Residential,950000.0,200 Point Road ,NL,Atlantic region
+5.0,2.0,2600.0,,Residential,289900.0,17 Kennedy Place ,NL,Atlantic region
+3.0,1.0,2488.0,,Residential,204900.0,98-100 Conception Bay Highway ,NL,Atlantic region
+3.0,2.0,2550.0,,Residential,399900.0,303 Conception Bay Highway ,NL,Atlantic region
+2.0,1.0,1810.0,>0.5,Residential,199900.0,614 Water Street ,NL,Atlantic region
+3.0,1.0,2456.0,ng>4,Residential,374900.0,6-16 Love Lane ,NL,Atlantic region
+,,988.0,,Residential,174900.0,5-7 Gosses Road ,NL,Atlantic region
+3.0,3.0,3036.0,,Residential,259900.0,7 Martin's Pond Road ,NL,Atlantic region
+4.0,1.0,1330.0,.086,Residential,59900.0,3 Bulter's Lane ,NL,Atlantic region
+3.0,2.0,1963.0,,Residential,329900.0,38 Erica Avenue ,NL,Atlantic region
+4.0,2.0,1628.0,,Residential,249999.0,31 ASHGROVE Drive ,NL,Atlantic region
+3.0,1.0,1728.0,ng>1,Residential,115000.0,97 Bull Cove Rd ,NL,Atlantic region
+3.0,1.0,1000.0,,Residential,79900.0,15 Riverhead Road ,NL,Atlantic region
+,1.0,2850.0,,Residential,149900.0,8-12 Cross Road ,NL,Atlantic region
+5.0,3.0,2830.0,,Residential,279900.0,43-45 Seymours Rd ,NL,Atlantic region
+3.0,1.0,2408.0,,Residential,249900.0,208 Shearstown Main Road ,NL,Atlantic region
+2.0,1.0,1933.0,,Residential,249900.0,317 Main Road ,NL,Atlantic region
+2.0,2.0,1104.0,,Residential,175000.0,68 Livingstone Street ,NL,Atlantic region
+4.0,2.0,1152.0,,Residential,84900.0,217 Main Street ,NL,Atlantic region
+3.0,4.0,3554.0,,Residential,649900.0,76D Old Bay Bulls Road ,NL,Atlantic region
+3.0,2.0,2472.0,,Residential,229900.0,8 Hill Avenue ,NL,Atlantic region
+4.0,2.0,4616.0,,Residential,449000.0,38 North River Road ,NL,Atlantic region
+3.0,2.0,1640.0,,Residential,229000.0,57 Holden Street ,NL,Atlantic region
+3.0,2.0,1500.0,,Residential,499900.0,26 Gradys Point Road ,NL,Atlantic region
+6.0,3.0,2016.0,,Residential,219900.0,2 Morleys Lane A,NL,Atlantic region
+5.0,4.0,3800.0,,Residential,995000.0,1006 Indian Meal Line ,NL,Atlantic region
+3.0,2.0,2414.0,,Residential,329900.0,12 Shoreline Estates ,NL,Atlantic region
+3.0,3.0,2272.0,,Residential,299900.0,178 Main Road ,NL,Atlantic region
+3.0,,1096.0,0.25,Residential,34900.0,192 Church Road ,NL,Atlantic region
+7.0,2.0,3100.0,,Residential,269900.0,21 Suvla Street ,NL,Atlantic region
+3.0,2.0,2500.0,,Residential,499900.0,11 Filliers Lane ,NL,Atlantic region
+2.0,1.0,1842.0,,Residential,129900.0,11 Mayne Lane ,NL,Atlantic region
+3.0,2.0,2414.0,,Residential,339900.0,10 Shoreline Estates ,NL,Atlantic region
+2.0,1.0,1780.0,,Residential,83500.0,2 Bennetts Crescent ,NL,Atlantic region
+2.0,1.0,576.0,,Residential,99995.0,PENNEYS Lane ,NL,Atlantic region
+3.0,2.0,1071.0,,Residential,49500.0,11 Citadel Road ,NL,Atlantic region
+1.0,1.0,1000.0,,Residential,154900.0,73 Cabot Street ,NL,Atlantic region
+2.0,2.0,1185.0,,Residential,259900.0,23 Jack Pine Place ,NL,Atlantic region
+2.0,1.0,638.0,,Residential,79900.0,3 Path Road ,NL,Atlantic region
+3.0,1.0,730.0,,Residential,116500.0,Old Mill Road ,NL,Atlantic region
+5.0,4.0,2780.0,,Residential,399900.0,11 Sumac Street ,NL,Atlantic region
+3.0,2.0,3500.0,,Residential,600000.0,26 Lakeview Drive ,NL,Atlantic region
+4.0,1.0,1774.0,,Residential,179899.0,2 Bareneed Road ,NL,Atlantic region
+5.0,3.0,2726.0,,Residential,279900.0,42 NEPTUNE Road ,NL,Atlantic region
+,,2160.0,,Residential,99500.0,314-316 Conception Bay Highway ,NL,Atlantic region
+2.0,1.0,800.0,>2.7,Residential,99900.0,294 Southside Rd ,NL,Atlantic region
+5.0,3.0,3400.0,>0.4,Residential,899000.0,5 Maypark pl ,NL,Atlantic region
+3.0,1.0,1362.0,,Residential,199900.0,72 Seaforest Dr ,NL,Atlantic region
+,,2720.0,,Residential,389000.0,47 Glam Rd ,NL,Atlantic region
+4.0,2.0,2200.0,0.23,Residential,199900.0,31 Indian Meal Line ,NL,Atlantic region
+3.0,1.0,1136.0,ng>6,Residential,99900.0,Western Bay Line Rd ,NL,Atlantic region
+4.0,2.0,2464.0,,Residential,189900.0,29 Tom Pauls Hill ,NL,Atlantic region
+,,,,Residential,299900.0,101 Cross Road ,NL,Atlantic region
+2.0,1.0,550.0,,Residential,69900.0,59 Back Rd ,NL,Atlantic region
+2.0,1.0,450.0,,Residential,74900.0,384 Turkswater Road ,NL,Atlantic region
+4.0,2.0,2400.0,,Residential,89900.0,4 Kallies Road ,NL,Atlantic region
+3.0,3.0,2848.0,,Residential,449900.0,276 Conception Bay Highway ,NL,Atlantic region
+3.0,2.0,2572.0,>1.2,Residential,339900.0,27 Lemarchant Street ,NL,Atlantic region
+6.0,3.0,1932.0,,Residential,89900.0,166 Water Street ,NL,Atlantic region
+4.0,3.0,4600.0,,Residential,799000.0,41 Harbourview ,NL,Atlantic region
+3.0,3.0,3600.0,,Residential,950000.0,200 Point Road ,NL,Atlantic region
+5.0,1.0,2600.0,,Residential,379900.0,83 Hopedale Crescent ,NL,Atlantic region
+3.0,1.0,975.0,,Residential,169900.0,18 Martins Pond Road ,NL,Atlantic region
+2.0,2.0,2270.0,,Residential,239900.0,Russells Crescent ,NL,Atlantic region
+3.0,,1136.0,,Residential,224900.0,5 Discovery Pl ,NL,Atlantic region
+3.0,2.0,1600.0,,Residential,429900.0,74 Main Road ,NL,Atlantic region
+2.0,1.0,1156.0,,Residential,119900.0,8 Warrens Lane ,NL,Atlantic region
+4.0,4.0,3153.0,,Residential,439900.0,2 wembley Crescent ,NL,Atlantic region
+3.0,2.0,2880.0,,Residential,149900.0,101 Main Rd ,NL,Atlantic region
+3.0,1.0,1944.0,0.14,Residential,144900.0,20 Glovers Rd ,NL,Atlantic region
+3.0,1.0,1062.0,,Residential,84900.0,7 Fishers Lane ,NL,Atlantic region
+4.0,1.0,1040.0,,Residential,124999.0,184A Water Street ,NL,Atlantic region
+4.0,2.0,1960.0,,Residential,450000.0,4 Milbanke Street ,NL,Atlantic region
+2.0,1.0,1000.0,,Residential,129900.0,23 North Side Road ,NL,Atlantic region
+4.0,2.0,1400.0,,Residential,194000.0,21 Bennetts Hill ,NL,Atlantic region
+3.0,2.0,3000.0,,Residential,549900.0,34 Jack Pine Place ,NL,Atlantic region
+2.0,1.0,1666.0,,Residential,169900.0,56 Ridge Road ,NL,Atlantic region
+6.0,3.0,3804.0,,Single,199000.0,4 School Road ,NL,Atlantic region
+3.0,3.0,2400.0,,Single,325000.0,2 JEAN D'ARC Place ,NL,Atlantic region
+3.0,2.0,1480.0,,Single,185000.0,46 Doyle Street ,NL,Atlantic region
+3.0,2.0,950.0,,Single,188000.0,15 Baldwin Street ,NL,Atlantic region
+5.0,4.0,2770.0,,Single,684900.0,277 Veterans Drive ,NL,Atlantic region
+3.0,2.0,2079.0,,Single,179000.0,194-196 Conception Bay Highway ,NL,Atlantic region
+4.0,3.0,2575.0,,Single,399900.0,14 Fairwood Street ,NL,Atlantic region
+3.0,1.0,1700.0,,Single,224900.0,21 Seventh Avenue ,NL,Atlantic region
+6.0,2.0,2800.0,,Single,345000.0,12 Baltimore Street ,NL,Atlantic region
+5.0,4.0,2560.0,,Single,495000.0,218 Ladysmith Drive ,NL,Atlantic region
+4.0,2.0,2160.0,,Single,189000.0,21 Brock Crescent ,NL,Atlantic region
+3.0,2.0,2640.0,,Single,299900.0,307 Bauline Line Extension ,NL,Atlantic region
+4.0,3.0,2400.0,,Single,379900.0,24 Teakwood Drive ,NL,Atlantic region
+4.0,2.0,2188.0,,Single,259500.0,7 Park Lane ,NL,Atlantic region
+3.0,1.0,700.0,,Single,30000.0,1-3 Bayview Drive ,NL,Atlantic region
+4.0,4.0,3318.0,,Single,759900.0,231-233 Bauline Line Extension ,NL,Atlantic region
+4.0,2.0,2058.0,,Single,350000.0,890 Tamarack Drive ,NL,Atlantic region
+5.0,3.0,2580.0,,Single,375000.0,5 Burling Crescent ,NL,Atlantic region
+4.0,3.0,2027.0,,Single,369900.0,16 Starlight Drive ,NL,Atlantic region
+3.0,3.0,2428.0,,Single,279900.0,7 Guy Street ,NL,Atlantic region
+5.0,2.0,2048.0,,Single,342500.0,67 Whiteway Street ,NL,Atlantic region
+3.0,1.0,1268.0,,Single,115000.0,18 Winston Avenue ,NL,Atlantic region
+4.0,4.0,2247.0,,Single,449900.0,106 Harmsworth Drive ,NL,Atlantic region
+4.0,2.0,2635.0,,Single,384900.0,4 Grant Place ,NL,Atlantic region
+2.0,1.0,1020.0,,Single,144900.0,51 Nash Crescent ,NL,Atlantic region
+4.0,2.0,2120.0,,Single,370000.0,41 Edmonton Place ,NL,Atlantic region
+2.0,1.0,1000.0,,Single,138900.0,109 Main Street ,NL,Atlantic region
+2.0,2.0,1640.0,,Single,189900.0,81 Clarence Street ,NL,Atlantic region
+2.0,2.0,1638.0,,Single,259900.0,34 Stojko Place ,NL,Atlantic region
+5.0,3.0,3952.0,,Residential,499900.0,60 Karon Drive ,NL,Atlantic region
+3.0,1.0,1803.0,,Single,289000.0,165 Craigmillar Avenue ,NL,Atlantic region
+4.0,2.0,2508.0,,Single,299900.0,3 SEAWARD Lane ,NL,Atlantic region
+3.0,2.0,2688.0,,Single,159900.0,5 Main Street ,NL,Atlantic region
+3.0,2.0,2560.0,,Single,329900.0,58 Porters Road ,NL,Atlantic region
+4.0,4.0,7800.0,,Single,689000.0,144 Memorial Drive ,NL,Atlantic region
+4.0,2.0,2370.0,,Residential,199900.0,41 Country Road ,NL,Atlantic region
+4.0,2.0,2068.0,,Single,224900.0,11 Barbour Place ,NL,Atlantic region
+2.0,1.0,2044.0,,Single,238000.0,8 churchill Avenue ,NL,Atlantic region
+2.0,2.0,1710.0,,Residential,299900.0,1 Elk's Place ,NL,Atlantic region
+3.0,1.0,2022.0,,Single,229000.0,14 Fourth Pond Road ,NL,Atlantic region
+4.0,3.0,2400.0,,Residential,439900.0,45 Wagg Place ,NL,Atlantic region
+5.0,2.0,1900.0,,Single,249000.0,24 Anderson Avenue ,NL,Atlantic region
+3.0,2.0,1354.0,,Single,149900.0,1 Simms Brook Road ,NL,Atlantic region
+4.0,3.0,2312.0,,Single,239900.0,34 HAYSTACK Avenue ,NL,Atlantic region
+2.0,2.0,2128.0,,Single,188000.0,73 Hynes Road ,NL,Atlantic region
+3.0,1.0,1040.0,,Single,109900.0,182 MAIN Street ,NL,Atlantic region
+6.0,2.0,2356.0,,Single,319900.0,38 Vinnicombe Street ,NL,Atlantic region
+4.0,3.0,5300.0,,Single,580475.0,14 Dock Point ,NL,Atlantic region
+4.0,2.0,1774.0,,Single,99900.0,22 Crescent Heights ,NL,Atlantic region
+3.0,1.0,1600.0,,Single,179999.0,6311 Main Highway Unit A,NL,Atlantic region
+3.0,2.0,1500.0,,Single,214000.0,15 Pinedo Road ,NL,Atlantic region
+4.0,2.0,2080.0,,Single,289900.0,19 Greenspond Drive ,NL,Atlantic region
+3.0,3.0,1800.0,,Single,329900.0,43 Parade Street ,NL,Atlantic region
+2.0,2.0,1130.0,,Single,125000.0,5 Paddles Lane ,NL,Atlantic region
+5.0,2.0,2048.0,,Single,170000.0,14 Blackmore Road Unit A,NL,Atlantic region
+4.0,3.0,3083.0,,Single,449900.0,24 McLoughlan Street ,NL,Atlantic region
+2.0,1.0,880.0,,Single,29900.0,81 Conception Bay Highway ,NL,Atlantic region
+3.0,1.0,1128.0,,Single,79900.0,1 Main Street S ,NL,Atlantic region
+4.0,2.0,1815.0,,Single,269000.0,97 Stojko Place ,NL,Atlantic region
+4.0,4.0,3740.0,,Single,299000.0,15 SUNSET Drive ,NL,Atlantic region
+4.0,2.0,2124.0,,Single,274900.0,13 Tooton Place ,NL,Atlantic region
+3.0,3.0,2496.0,,Single,319900.0,7 Oaken Drive ,NL,Atlantic region
+5.0,2.0,2432.0,,Single,264500.0,15 Massey Crescent ,NL,Atlantic region
+4.0,5.0,6472.0,,Single,1499900.0,14 Ivy's Way ,NL,Atlantic region
+5.0,2.0,2160.0,,Single,259900.0,31 Canada Drive ,NL,Atlantic region
+4.0,3.0,3224.0,,Single,225000.0,149 West Valley Road ,NL,Atlantic region
+3.0,1.0,920.0,,Single,220000.0,31 Gambier Street ,NL,Atlantic region
+4.0,3.0,2080.0,,Single,299900.0,283 Bauline Line Extension ,NL,Atlantic region
+5.0,4.0,2810.0,,Single,479000.0,18 Woodrow Avenue ,NL,Atlantic region
+3.0,2.0,1960.0,,Single,332500.0,3 Bridgeport Street ,NL,Atlantic region
+3.0,4.0,1300.0,,Single,90000.0,14 BIRCH Street ,NL,Atlantic region
+3.0,1.0,904.0,,Single,45000.0,26 Malcolm Boulevard ,NL,Atlantic region
+3.0,2.0,2237.0,,Single,379900.0,158 Waterford Bridge Road ,NL,Atlantic region
+3.0,2.0,2250.0,,Single,309900.0,562 Newfoundland Drive ,NL,Atlantic region
+5.0,3.0,2348.0,,Single,424900.0,8 Sitka Street ,NL,Atlantic region
+4.0,1.0,896.0,,Single,95000.0,52 New Settlement Hill ,NL,Atlantic region
+4.0,4.0,3018.0,,Single,554900.0,21 Camrose Drive ,NL,Atlantic region
+5.0,4.0,2378.0,,Single,329900.0,77 Parkhill Street ,NL,Atlantic region
+4.0,2.0,2000.0,,Single,239900.0,1587 Topsail Road ,NL,Atlantic region
+4.0,4.0,3508.0,,Single,599900.0,146 Old Pennywell Road ,NL,Atlantic region
+4.0,3.0,2760.0,,Single,169900.0,95 Morgan Drive ,NL,Atlantic region
+5.0,2.0,2468.0,,Single,295000.0,14 Clements Lane ,NL,Atlantic region
+4.0,3.0,3675.0,,Single,780000.0,7 Exeter Avenue ,NL,Atlantic region
+4.0,4.0,3745.0,,Single,439900.0,34 Hayes Avenue ,NL,Atlantic region
+4.0,2.0,2352.0,,Single,179000.0,5 Steele Avenue ,NL,Atlantic region
+3.0,3.0,2160.0,,Single,344900.0,31 Spruce Grove Avenue ,NL,Atlantic region
+4.0,2.0,2520.0,,Single,425000.0,103 Pleasant Street ,NL,Atlantic region
+2.0,1.0,810.0,,Single,139900.0,35 Aldershot Street ,NL,Atlantic region
+4.0,2.0,2256.0,,Single,239000.0,71 Mt Bernard Avenue ,NL,Atlantic region
+4.0,3.0,2000.0,,Single,310000.0,4 Venice Heights ,NL,Atlantic region
+4.0,3.0,2630.0,,Residential,529000.0,205 Cheeseman Drive ,NL,Atlantic region
+3.0,1.0,1646.0,,Single,134500.0,15 Wireless Road ,NL,Atlantic region
+3.0,1.0,1026.0,,Single,114900.0,3 Temple Street ,NL,Atlantic region
+3.0,2.0,1760.0,,Single,219900.0,36 JUNCTION Road ,NL,Atlantic region
+3.0,2.0,2170.0,,Single,409900.0,181 Castle Bridge Drive ,NL,Atlantic region
+5.0,2.0,2400.0,,Single,374900.0,15 Reddy Drive ,NL,Atlantic region
+2.0,1.0,1080.0,,Single,185000.0,5 Mooney Crescent ,NL,Atlantic region
+4.0,2.0,2016.0,,Single,209000.0,58 Elizabeth Street ,NL,Atlantic region
+4.0,2.0,1950.0,,Single,329900.0,152 University Avenue ,NL,Atlantic region
+3.0,2.0,1788.0,,Single,169000.0,16 Greenwood Avenue ,NL,Atlantic region
+2.0,2.0,2020.0,,Single,289900.0,298 Blackmarsh Road ,NL,Atlantic region
+6.0,2.0,1614.0,,Single,58000.0,9 Hartigan Street ,NL,Atlantic region
+4.0,2.0,2250.0,,Single,269900.0,62 CHERRINGTON Street ,NL,Atlantic region
+5.0,3.0,2560.0,,Single,349900.0,25 Wabush Place ,NL,Atlantic region
+4.0,2.0,1117.0,,Single,299000.0,12 Diefenbaker Street ,NL,Atlantic region
+1.0,1.0,650.0,,Single,64900.0,17 Bryans Hole Road ,NL,Atlantic region
+4.0,2.0,2200.0,,Single,264500.0,44 Elizabeth Drive ,NL,Atlantic region
+4.0,4.0,2475.0,,Single,364900.0,38 Corporal Jamie Murphy Street ,NL,Atlantic region
+3.0,2.0,1116.0,,Single,175000.0,15-17 Mckendrick Street ,NL,Atlantic region
+4.0,3.0,2000.0,,Single,269000.0,85 Masons Road ,NL,Atlantic region
+2.0,2.0,1437.0,,Single,69900.0,28 Phillips Lane ,NL,Atlantic region
+2.0,1.0,950.0,,Single,69900.0,16 Ship Cove Crescent ,NL,Atlantic region
+3.0,2.0,2100.0,,Single,149900.0,47 Barn Hill Road ,NL,Atlantic region
+3.0,2.0,1608.0,,Single,250000.0,42 Gosse's and Rodgers Crescent ,NL,Atlantic region
+,2.0,3000.0,,Single,89000.0,157 BOND Road Unit4 LOT,NL,Atlantic region
+4.0,4.0,3948.0,,Residential,469000.0,30 Hayes Avenue ,NL,Atlantic region
+3.0,2.0,1460.0,,Single,249000.0,6 Topsail Pond Road ,NL,Atlantic region
+5.0,2.0,2368.0,,Single,289900.0,37 Convent Lane ,NL,Atlantic region
+4.0,2.0,2250.0,,Single,184900.0,26 Poplar Road ,NL,Atlantic region
+3.0,2.0,1200.0,,Single,209900.0,102 Quay Road ,NL,Atlantic region
+5.0,3.0,3300.0,,Single,459000.0,122 Harmsworth Drive ,NL,Atlantic region
+3.0,3.0,1250.0,,Single,599900.0,76 Vokey's Road ,NL,Atlantic region
+3.0,2.0,2158.0,,Single,160000.0,302 Main Street ,NL,Atlantic region
+3.0,2.0,1500.0,,Single,139900.0,82 Carters Hill ,NL,Atlantic region
+4.0,3.0,2348.0,,Single,300000.0,15 Churchill Avenue ,NL,Atlantic region
+2.0,2.0,884.0,,Single,85000.0,16 Newtown Road ,NL,Atlantic region
+4.0,1.0,2200.0,,Single,315000.0,55 Commonwealth Avenue ,NL,Atlantic region
+3.0,2.0,1876.0,,Single,229900.0,61 Commonwealth Avenue ,NL,Atlantic region
+3.0,3.0,2315.0,,Single,435000.0,13 Hartland Avenue ,NL,Atlantic region
+5.0,2.0,1960.0,,Single,277500.0,570 Logy Bay Road ,NL,Atlantic region
+3.0,2.0,1125.0,,Single,199900.0,18 William Street ,NL,Atlantic region
+3.0,2.0,1700.0,,Single,39900.0,176 George Mercer Drive ,NL,Atlantic region
+3.0,3.0,2742.0,,Single,294900.0,23 Gardner Street ,NL,Atlantic region
+5.0,2.0,2160.0,,Single,209900.0,6 Blackwood Place ,NL,Atlantic region
+3.0,1.0,2288.0,,Single,250000.0,33 Duffs Road ,NL,Atlantic region
+3.0,3.0,1004.0,,Single,119900.0,16 Parsons Lane ,NL,Atlantic region
+3.0,3.0,3230.0,0.65,Single,570000.0,261 Old Broad Cove Road ,NL,Atlantic region
+3.0,3.0,1616.0,,Single,434900.0,311 Pennywell Road ,NL,Atlantic region
+3.0,3.0,1992.0,,Single,364900.0,116 Ladysmith Drive ,NL,Atlantic region
+5.0,2.0,1940.0,,Single,269000.0,40 Mount Cashel Road ,NL,Atlantic region
+4.0,2.0,1750.0,,Single,212000.0,5 Hamilton Street ,NL,Atlantic region
+3.0,2.0,1682.0,,Single,239900.0,9 Wyatt Boulevard ,NL,Atlantic region
+4.0,4.0,2990.0,,Single,465000.0,18 Banyan Place ,NL,Atlantic region
+7.0,4.0,4200.0,,Single,630000.0,1 Howley Avenue ,NL,Atlantic region
+3.0,3.0,3356.0,,Single,339900.0,19 Crawley Avenue ,NL,Atlantic region
+3.0,1.0,1179.0,,Single,119900.0,46 Franklyn Avenue ,NL,Atlantic region
+3.0,1.0,840.0,,Single,135000.0,17 & 32 Ship Cove Crescent ,NL,Atlantic region
+4.0,2.0,1607.0,,Single,189000.0,54 HAWKER Crescent ,NL,Atlantic region
+3.0,3.0,1989.0,,Single,299900.0,190 Commonwealth Drive ,NL,Atlantic region
+5.0,2.0,2624.0,,Single,220000.0,22 Ville Marie Drive ,NL,Atlantic region
+4.0,2.0,2610.0,,Single,449000.0,836 Lakeside Drive ,NL,Atlantic region
+3.0,2.0,2416.0,,Single,379900.0,Lot 44A Ocean Pond Estates ,NL,Atlantic region
+5.0,3.0,2352.0,,Single,334000.0,14 Hennebury Place ,NL,Atlantic region
+4.0,4.0,3200.0,,Single,399900.0,6 Capulet Street ,NL,Atlantic region
+3.0,1.0,1090.0,,Single,150000.0,48 Cold Brook Road ,NL,Atlantic region
+4.0,4.0,5775.0,,Single,1190000.0,317 Three Island Pond Road ,NL,Atlantic region
+4.0,4.0,3119.0,,Single,750000.0,27 HarbourView Drive ,NL,Atlantic region
+4.0,3.0,1872.0,,Single,329900.0,6 ANNIE'S Place ,NL,Atlantic region
+3.0,2.0,2350.0,,Single,309900.0,15 Sauve Street ,NL,Atlantic region
+4.0,3.0,2050.0,,Single,329900.0,19 Martins and Doyles Lane ,NL,Atlantic region
+4.0,4.0,2544.0,,Single,259000.0,1 Water Street ,NL,Atlantic region
+5.0,6.0,8823.0,,Single,2799000.0,293 Buckingham Drive ,NL,Atlantic region
+4.0,2.0,2500.0,,Single,319900.0,34 Farmland Lane ,NL,Atlantic region
+2.0,1.0,855.0,,Single,174900.0,202 Bayview Street ,NL,Atlantic region
+2.0,2.0,1728.0,,Single,549000.0,35 Vokey's Road ,NL,Atlantic region
+3.0,3.0,2200.0,,Single,347000.0,154 Mallow Drive ,NL,Atlantic region
+3.0,3.0,1733.0,,Single,399900.0,1 Bermuda Lake Road ,NL,Atlantic region
+3.0,1.0,899.0,,Single,29900.0,13 Rink Road ,NL,Atlantic region
+6.0,7.0,5594.0,,Single,875000.0,6 Goodland Road ,NL,Atlantic region
+2.0,2.0,1491.0,,Single,250000.0,52-54 Freshwater Pond Road ,NL,Atlantic region
+3.0,2.0,3274.0,,Single,260000.0,265-267 Southeast Road ,NL,Atlantic region
+3.0,3.0,2300.0,,Single,495000.0,122 Motion Bay Road ,NL,Atlantic region
+3.0,2.0,1710.0,,Single,259000.0,67 Prince of Wales Street ,NL,Atlantic region
+5.0,3.0,2600.0,,Single,265000.0,10 Gower Street ,NL,Atlantic region
+3.0,1.0,1800.0,,Single,130000.0,8 Monkstown Road ,NL,Atlantic region
+3.0,2.0,4200.0,,Single,379500.0,44 DOCK Road ,NL,Atlantic region
+3.0,2.0,1340.0,,Single,329900.0,A8 Deer Park Road ,NL,Atlantic region
+3.0,1.0,1179.0,,Single,129900.0,92 Church Road ,NL,Atlantic region
+3.0,2.0,2268.0,,Single,249900.0,165 Water Street ,NL,Atlantic region
+4.0,3.0,3798.0,,Single,269900.0,38 Main Road ,NL,Atlantic region
+2.0,1.0,768.0,,Single,267500.0,41 Salmonier Line ,NL,Atlantic region
+5.0,3.0,2233.0,,Single,300000.0,27 Morris Avenue ,NL,Atlantic region
+3.0,1.0,1112.0,,Single,169900.0,12 Chapman Crescent ,NL,Atlantic region
+5.0,3.0,2300.0,,Single,425000.0,5 Mountbatten Drive ,NL,Atlantic region
+4.0,1.0,1944.0,,Single,99500.0,9 Bank Road ,NL,Atlantic region
+5.0,2.0,2588.0,,Single,329900.0,25 Paton Street ,NL,Atlantic region
+4.0,3.0,4292.0,,Single,279000.0,1 Russell Street ,NL,Atlantic region
+8.0,4.0,8247.0,,Single,950000.0,7 Waterford Bridge Road ,NL,Atlantic region
+3.0,1.0,1270.0,,Single,109500.0,25A Suez Street ,NL,Atlantic region
+4.0,3.0,2960.0,,Single,499900.0,9 Grove Garden ,NL,Atlantic region
+3.0,1.0,1000.0,,Single,175000.0,156 Beachy Cove Road ,NL,Atlantic region
+6.0,2.0,2400.0,,Single,269000.0,218 MAIN Street ,NL,Atlantic region
+5.0,2.0,1923.0,,Single,299900.0,1 Topaz Place ,NL,Atlantic region
+3.0,3.0,2550.0,,Single,259900.0,0 MAIN Road ,NL,Atlantic region
+3.0,2.0,2080.0,,Single,212500.0,1584 Random Island Road Road ,NL,Atlantic region
+4.0,1.0,,,Single,649900.0,52 Pitchers Path ,NL,Atlantic region
+2.0,1.0,820.0,,Single,79900.0,422 Main Street ,NL,Atlantic region
+5.0,3.0,2083.0,,Single,179900.0,12 Elizabeth Street ,NL,Atlantic region
+3.0,1.0,900.0,,Single,164900.0,39 Feild Street ,NL,Atlantic region
+5.0,3.0,2520.0,,Single,214900.0,10 Wiscombes Road ,NL,Atlantic region
+2.0,2.0,1200.0,,Single,199900.0,27 Dunfield Street ,NL,Atlantic region
+3.0,2.0,2450.0,,Single,359900.0,Lot 71 Ocean Pond Road ,NL,Atlantic region
+3.0,1.0,1362.0,,Single,124900.0,13 Valley Road ,NL,Atlantic region
+5.0,2.0,1600.0,,Single,219000.0,177 Commonwealth Avenue ,NL,Atlantic region
+3.0,3.0,2448.0,,Single,408500.0,Lot 2 Lailas Road ,NL,Atlantic region
+2.0,1.0,1703.0,,Single,99900.0,167 Water Street ,NL,Atlantic region
+3.0,1.0,945.0,,Single,134500.0,174A Marine Drive ,NL,Atlantic region
+2.0,1.0,800.0,,Single,79900.0,58 Main Street ,NL,Atlantic region
+3.0,1.0,1800.0,,Single,100000.0,20 Cabot Avenue ,NL,Atlantic region
+3.0,1.0,1680.0,,Single,200000.0,19B Chapman Crescent ,NL,Atlantic region
+3.0,3.0,2680.0,,Single,524900.0,146 Castle Bridge Drive ,NL,Atlantic region
+5.0,4.0,2352.0,,Single,309000.0,5 CAHILL Drive ,NL,Atlantic region
+2.0,1.0,1125.0,,Single,69000.0,284 BAYSIDE Drive ,NL,Atlantic region
+3.0,2.0,1620.0,,Single,239900.0,78 Marine Drive ,NL,Atlantic region
+4.0,5.0,3000.0,,Single,449000.0,88 Lakeside Street ,NL,Atlantic region
+3.0,3.0,2360.0,,Single,389500.0,114 Dogberry Hill Road ,NL,Atlantic region
+2.0,2.0,9500.0,,Single,75000.0,603 Main Road ,NL,Atlantic region
+2.0,1.0,1880.0,,Single,159000.0,99 Main Highway ,NL,Atlantic region
+1.0,1.0,1152.0,,Single,144900.0,140-144 MIDDLE THREE ISLAND Pond ,NL,Atlantic region
+2.0,1.0,1514.0,,Single,179900.0,61 Old Pennywell Road ,NL,Atlantic region
+3.0,1.0,1300.0,,Single,79000.0,208-210 Water Street ,NL,Atlantic region
+5.0,4.0,2244.0,,Single,319000.0,5 Hawker Crescent ,NL,Atlantic region
+2.0,1.0,1084.0,,Single,279000.0,79 Casey Street ,NL,Atlantic region
+2.0,1.0,985.0,,Single,155900.0,4041 Ashuanipi Crescent ,NL,Atlantic region
+3.0,1.0,1848.0,.046,Single,224900.0,812 Tamarack Drive ,NL,Atlantic region
+2.0,1.0,1790.0,,Single,189000.0,16A Cedar Drive ,NL,Atlantic region
+3.0,2.0,2500.0,,Single,379900.0,37 Whelan Crescent ,NL,Atlantic region
+5.0,4.0,3480.0,,Single,439500.0,20 Goldeneye Place ,NL,Atlantic region
+3.0,1.0,991.0,,Single,89000.0,16 Exploits Lane ,NL,Atlantic region
+2.0,1.0,920.0,,Single,114900.0,34 Main Road ,NL,Atlantic region
+1.0,1.0,624.0,,Single,97500.0,1 Whites Road ,NL,Atlantic region
+3.0,3.0,2520.0,,Single,310000.0,212 Bob Clark Drive ,NL,Atlantic region
+3.0,3.0,2540.0,,Single,469000.0,366 Grenfell Heights ,NL,Atlantic region
+3.0,2.0,2592.0,,Single,249000.0,14 Future Street ,NL,Atlantic region
+4.0,2.0,3584.0,,Single,255900.0,39 Old Cabot Road ,NL,Atlantic region
+3.0,2.0,1681.0,,Single,279900.0,87 Bauline Line Extension ,NL,Atlantic region
+2.0,1.0,1792.0,,Single,149500.0,179 Highway East Highway ,NL,Atlantic region
+4.0,2.0,1560.0,,Single,94900.0,12 CENTENNIAL Drive ,NL,Atlantic region
+4.0,3.0,2304.0,,Single,275000.0,147 Empire Avenue ,NL,Atlantic region
+3.0,1.0,1100.0,,Single,275000.0,615-621 Old Broad Cove Road ,NL,Atlantic region
+6.0,4.0,2440.0,,Single,328900.0,15 Northern Ranger Street ,NL,Atlantic region
+3.0,2.0,2287.0,,Single,549900.0,8 Pool Road ,NL,Atlantic region
+4.0,2.0,2006.0,,Single,245000.0,20 Riverhead Road ,NL,Atlantic region
+5.0,5.0,3600.0,,Single,450000.0,106 St. Thomas Line ,NL,Atlantic region
+3.0,2.0,1610.0,,Single,199000.0,4 Main Road ,NL,Atlantic region
+3.0,2.0,1803.0,,Single,229000.0,13 McGregor Lane ,NL,Atlantic region
+3.0,1.0,1200.0,,Single,74900.0,196 Main Road ,NL,Atlantic region
+4.0,3.0,2200.0,,Single,269900.0,3 Cabot Street ,NL,Atlantic region
+3.0,1.0,1090.0,,Single,90000.0,21 RIDGE Road ,NL,Atlantic region
+3.0,2.0,1860.0,,Single,289000.0,6 Dawes Avenue ,NL,Atlantic region
+5.0,4.0,4062.0,,Single,660000.0,22 Bugden Place ,NL,Atlantic region
+4.0,3.0,2820.0,,Single,439900.0,60 Palm Drive ,NL,Atlantic region
+3.0,3.0,2580.0,,Single,299900.0,31 Raynham Avenue ,NL,Atlantic region
+3.0,3.0,4294.0,,Single,349900.0,2-4 Brook Avenue ,NL,Atlantic region
+4.0,3.0,2200.0,,Single,299900.0,49 Main Highway ,NL,Atlantic region
+4.0,4.0,4500.0,,Single,374900.0,9 Stacey Crescent ,NL,Atlantic region
+3.0,2.0,1872.0,,Single,249900.0,28 Riverside Drive ,NL,Atlantic region
+5.0,3.0,2514.0,,Single,379900.0,9 Nerissa Place ,NL,Atlantic region
+4.0,2.0,2120.0,,Single,264900.0,21 Jerathon Place ,NL,Atlantic region
+5.0,3.0,2490.0,,Single,389900.0,126 Magee Drive ,NL,Atlantic region
+3.0,1.0,1463.0,,Single,99500.0,110 Lincoln Road ,NL,Atlantic region
+2.0,2.0,1248.0,,Single,359900.0,10 DINA Place ,NL,Atlantic region
+3.0,2.0,1600.0,,Single,309900.0,0 Thorburn Lake Road ,NL,Atlantic region
+4.0,3.0,2761.0,,Single,599900.0,13 MacGregor Place ,NL,Atlantic region
+4.0,1.0,1400.0,,Single,36900.0,0 Ridge Road ,NL,Atlantic region
+4.0,2.0,1512.0,,Single,249900.0,249 Southside Road ,NL,Atlantic region
+3.0,2.0,1746.0,,Single,130000.0,168 Marine Drive ,NL,Atlantic region
+4.0,4.0,2160.0,,Single,319900.0,262 St Thomas Line ,NL,Atlantic region
+4.0,2.0,2100.0,,Single,269900.0,718 Conception Bay Highway ,NL,Atlantic region
+3.0,2.0,1450.0,,Single,199900.0,227 Main Street ,NL,Atlantic region
+2.0,1.0,1090.0,,Single,149900.0,611 Wind Gap Road ,NL,Atlantic region
+3.0,2.0,1750.0,,Single,259900.0,101 Central Street ,NL,Atlantic region
+4.0,4.0,2304.0,,Single,374900.0,36 Teakwood Drive ,NL,Atlantic region
+2.0,1.0,1782.0,,Single,249900.0,70 Brigus South Road ,NL,Atlantic region
+3.0,1.0,768.0,,Single,139900.0,173 Main Street ,NL,Atlantic region
+3.0,4.0,3348.0,,Single,314900.0,79 cormack Drive ,NL,Atlantic region
+3.0,3.0,1946.0,,Single,574900.0,164 Castle Bridge Drive ,NL,Atlantic region
+3.0,2.0,1053.0,,Single,121000.0,58 Main Street ,NL,Atlantic region
+5.0,3.0,2012.0,,Single,359000.0,129 Rowsell Boulevard ,NL,Atlantic region
+5.0,2.0,2256.0,,Single,219000.0,182 Reid Street ,NL,Atlantic region
+4.0,3.0,2112.0,,Single,199000.0,22 Griffin Place ,NL,Atlantic region
+4.0,1.0,2080.0,,Single,274900.0,27 Gully Pond Road ,NL,Atlantic region
+4.0,2.0,1954.0,,Single,249900.0,103 Chamberlains Road ,NL,Atlantic region
+2.0,2.0,2390.0,,Single,419900.0,38 Dominic Drive ,NL,Atlantic region
+3.0,3.0,1900.0,,Single,248000.0,16 HARBOUR Drive ,NL,Atlantic region
+2.0,1.0,2206.0,,Single,120000.0,7 Redwood Road ,NL,Atlantic region
+2.0,2.0,1400.0,,Single,182000.0,57 Country Road ,NL,Atlantic region
+1.0,1.0,1452.0,,Single,259900.0,24 Larsen Street ,NL,Atlantic region
+4.0,4.0,3268.0,,Single,450000.0,148 Old Petty Harbour Road ,NL,Atlantic region
+5.0,3.0,2320.0,,Single,80000.0,10 Churchill Avenue ,NL,Atlantic region
+5.0,3.0,3250.0,,Single,484900.0,50 Francis Street ,NL,Atlantic region
+3.0,3.0,1746.0,,Single,609900.0,147 Amber Drive ,NL,Atlantic region
+3.0,2.0,2318.0,,Single,189900.0,8 Gladstone Road ,NL,Atlantic region
+4.0,3.0,3500.0,,Single,394900.0,426 Main Road ,NL,Atlantic region
+4.0,2.0,2200.0,,Single,235000.0,232 Elizabeth Drive ,NL,Atlantic region
+3.0,2.0,2145.0,,Single,159900.0,489 Main Street ,NL,Atlantic region
+3.0,2.0,1597.0,,Single,239900.0,59 Stojko Place ,NL,Atlantic region
+3.0,2.0,1845.0,,Single,310000.0,5 Cardero Place ,NL,Atlantic region
+1.0,1.0,1406.0,,Single,259900.0,26 Larsen Street ,NL,Atlantic region
+3.0,2.0,1350.0,,Single,70000.0,5 Main Street ,NL,Atlantic region
+4.0,2.0,2816.0,,Single,114000.0,55 Main Road ,NL,Atlantic region
+1.0,1.0,1123.0,,Single,267900.0,20 Karwood Drive Unit9 LOT,NL,Atlantic region
+2.0,2.0,3872.0,,Single,349900.0,6 Main Street ,NL,Atlantic region
+4.0,4.0,2970.0,,Single,324000.0,18 Lancaster Crescent ,NL,Atlantic region
+4.0,2.0,1576.0,,Single,339900.0,4 Chambers Cove Avenue ,NL,Atlantic region
+3.0,2.0,2356.0,,Single,279900.0,90-94 Conception Bay Highway ,NL,Atlantic region
+2.0,1.0,600.0,,Single,89900.0,197 Merrymeeting Road ,NL,Atlantic region
+4.0,4.0,1304.0,,Single,449900.0,38 Hobbs Street ,NL,Atlantic region
+3.0,2.0,2830.0,,Single,339000.0,41 Butlers Road ,NL,Atlantic region
+2.0,1.0,943.0,,Single,74500.0,54 Main Street ,NL,Atlantic region
+4.0,1.0,1584.0,,Single,250000.0,3 FLAVIN Street ,NL,Atlantic region
+5.0,6.0,2630.0,,Single,325000.0,120 Main Street ,NL,Atlantic region
+4.0,2.0,2265.0,,Single,289900.0,65 SPENCERS COVE Road ,NL,Atlantic region
+5.0,2.0,2740.0,,Single,299000.0,147 Memorial Drive ,NL,Atlantic region
+4.0,4.0,5356.0,,Single,349000.0,10 Canada Place ,NL,Atlantic region
+3.0,2.0,1883.0,,Single,149900.0,105 Water Street ,NL,Atlantic region
+2.0,2.0,1764.0,,Single,369000.0,49 Main Road ,NL,Atlantic region
+2.0,1.0,960.0,,Single,154900.0,105 Cross Road Unit A,NL,Atlantic region
+3.0,3.0,2687.0,,Single,469900.0,25 Malka Drive ,NL,Atlantic region
+3.0,4.0,2230.0,,Single,300000.0,2 Mountain View Road ,NL,Atlantic region
+4.0,1.0,1459.0,.186,Single,76000.0,46 Main Street ,NL,Atlantic region
+3.0,3.0,1454.0,,Single,285000.0,45C Goodridge Street ,NL,Atlantic region
+2.0,3.0,1950.0,,Single,319000.0,163 Empire Avenue ,NL,Atlantic region
+3.0,2.0,2020.0,,Single,269900.0,99 Church Street ,NL,Atlantic region
+4.0,2.0,2560.0,,Single,224900.0,74 Goodyear Avenue ,NL,Atlantic region
+4.0,2.0,2016.0,,Single,115900.0,23 Westside Drive ,NL,Atlantic region
+3.0,3.0,2874.0,,Single,399900.0,8 Victoria Street ,NL,Atlantic region
+1.0,1.0,829.0,,Single,240000.0,32 The Boulevard OTHER ,NL,Atlantic region
+2.0,1.0,1872.0,,Single,309900.0,11 Chloe Place ,NL,Atlantic region
+3.0,3.0,2034.0,,Single,348000.0,31 Henry Larsen Street ,NL,Atlantic region
+3.0,1.0,1056.0,,Single,220000.0,4039 Harrie Lake Drive ,NL,Atlantic region
+2.0,769.0,768.0,,Single,129000.0,0 Reg Keepings Road ,NL,Atlantic region
+5.0,6.0,7516.0,,Single,2400000.0,18 Ivy's Way ,NL,Atlantic region
+2.0,1.0,1680.0,,Single,125000.0,00 Lance Cove Road ,NL,Atlantic region
+3.0,1.0,965.0,,Single,120000.0,20 Burry Crescent ,NL,Atlantic region
+3.0,4.0,2865.0,,Single,434900.0,52 Seascape Drive ,NL,Atlantic region
+2.0,1.0,2000.0,,Single,134000.0,24 Spencer Road ,NL,Atlantic region
+6.0,2.0,1891.0,,Single,299000.0,1-3 Churchill Avenue ,NL,Atlantic region
+3.0,1.0,1130.0,,Single,339000.0,Lot 5 Lailas Road ,NL,Atlantic region
+3.0,1.0,1728.0,,Single,64900.0,16 TUNNEL Road ,NL,Atlantic region
+3.0,3.0,2590.0,,Single,529750.0,51 Frampton Avenue ,NL,Atlantic region
+2.0,1.0,720.0,,Single,179000.0,28 Rogers Road ,NL,Atlantic region
+3.0,2.0,2480.0,,Single,449000.0,820 Lakeside Drive ,NL,Atlantic region
+4.0,2.0,1152.0,,Single,189900.0,8 Magnolia Drive ,NL,Atlantic region
+2.0,2.0,1216.0,,Single,399000.0,125A Main Street ,NL,Atlantic region
+3.0,1.0,1000.0,,Residential,198600.0,2 Walshs Hill ,NL,Atlantic region
+3.0,1.0,900.0,,Single,59900.0,15 O'Keefe Street ,NL,Atlantic region
+3.0,1.0,1288.0,,Single,175000.0,29 Scott Street ,NL,Atlantic region
+4.0,5.0,3256.0,,Single,525000.0,170 Water Street ,NL,Atlantic region
+5.0,4.0,2418.0,,Single,379900.0,100 Great Eastern Avenue ,NL,Atlantic region
+4.0,2.0,2000.0,,Single,229000.0,17 Kent Place ,NL,Atlantic region
+3.0,3.0,2100.0,,Single,798000.0,53B SANDY POINT Road ,NL,Atlantic region
+4.0,2.0,2484.0,,Single,149900.0,160 Main Street ,NL,Atlantic region
+3.0,1.0,2112.0,,Single,254900.0,2 Shea Street ,NL,Atlantic region
+4.0,1.0,1170.0,,Single,229900.0,105 Military Road ,NL,Atlantic region
+3.0,1.0,1024.0,,Single,99900.0,12 Carolyn Drive ,NL,Atlantic region
+2.0,1.0,1588.0,,Single,259900.0,213 Gull Pond Road ,NL,Atlantic region
+3.0,3.0,1810.0,,Single,299500.0,2 Wiscombes Road ,NL,Atlantic region
+4.0,3.0,3397.0,,Single,370000.0,10 LaManche Place ,NL,Atlantic region
+4.0,2.0,1780.0,,Single,279500.0,32 Grieve Street ,NL,Atlantic region
+2.0,2.0,1140.0,,Single,299000.0,Lot 196A Bannock Street ,NL,Atlantic region
+4.0,2.0,1160.0,,Single,89900.0,1247 Main Road ,NL,Atlantic region
+3.0,2.0,1651.0,,Single,369900.0,1 Alec Moores Court ,NL,Atlantic region
+4.0,3.0,2250.0,,Single,239900.0,85 CORNWALL Avenue ,NL,Atlantic region
+4.0,3.0,2410.0,,Single,374000.0,4 Ridge Road ,NL,Atlantic region
+3.0,2.0,2480.0,,Single,99000.0,17 CAPTAIN FRANKS Lane ,NL,Atlantic region
+3.0,1.0,1136.0,,Single,99900.0,0 Western Bay Line Road ,NL,Atlantic region
+2.0,1.0,1800.0,,Single,264900.0,13 AGUSTUS Avenue ,NL,Atlantic region
+3.0,1.0,1280.0,,Single,234900.0,24 Nelson Avenue ,NL,Atlantic region
+3.0,3.0,2688.0,,Single,449900.0,Lot 302 Todd's Place ,NL,Atlantic region
+1.0,1.0,800.0,,Single,59000.0,37 LIGHTHOUSE Road ,NL,Atlantic region
+3.0,3.0,2244.0,,Single,389900.0,1-7 Ploughman Place ,NL,Atlantic region
+2.0,2.0,2448.0,,Single,396000.0,LOT 41 Ocean Pond Estates ,NL,Atlantic region
+3.0,3.0,2794.0,,Single,699900.0,Lot 2 Mary's Place ,NL,Atlantic region
+4.0,4.0,3626.0,,Single,447750.0,2 Gardiner Place ,NL,Atlantic region
+3.0,5.0,6967.0,,Single,899000.0,330 Main Street ,NL,Atlantic region
+4.0,3.0,2520.0,,Single,489000.0,39 Silver St Extension ,NL,Atlantic region
+2.0,1.0,1008.0,,Single,120000.0,00 Hydro Station Road ,NL,Atlantic region
+2.0,2.0,1854.0,,Single,329000.0,13 Middle Bight Road ,NL,Atlantic region
+5.0,3.0,2866.0,,Residential,317900.0,23 Brighton Road ,NL,Atlantic region
+3.0,1.0,860.0,,Single,179900.0,2 Beechnut Drive ,NL,Atlantic region
+2.0,2.0,1468.0,,Single,294000.0,28 Sunday Hill Road ,NL,Atlantic region
+3.0,2.0,1250.0,,Single,297900.0,303-309 Southeast Road ,NL,Atlantic region
+3.0,1.0,1755.0,,Single,129000.0,113 Water Street ,NL,Atlantic region
+5.0,4.0,2490.0,,Single,384900.0,38 Ladysmith Drive ,NL,Atlantic region
+4.0,1.0,1561.0,,Single,105000.0,75 Wireless Road ,NL,Atlantic region
+3.0,1.0,1200.0,,Single,134900.0,10 Cabot Road ,NL,Atlantic region
+3.0,2.0,1426.0,,Single,199900.0,22 Museum Road ,NL,Atlantic region
+3.0,3.0,2255.0,,Single,289900.0,2 RICHWOOD Hill ,NL,Atlantic region
+4.0,4.0,3250.0,,Single,539900.0,37 Piper Street ,NL,Atlantic region
+3.0,3.0,3347.0,,Single,649000.0,48 Remembrance Loop ,NL,Atlantic region
+2.0,2.0,1792.0,,Single,139900.0,15 Gillesporte Road ,NL,Atlantic region
+4.0,2.0,2248.0,,Single,289000.0,16 Old Mill Road ,NL,Atlantic region
+3.0,1.0,1176.0,,Single,254500.0,18 Collishaw Crescent ,NL,Atlantic region
+3.0,4.0,1906.0,,Single,429900.0,54 Claddagh Road ,NL,Atlantic region
+4.0,3.0,2779.0,,Single,499900.0,6 Maple Avenue ,NL,Atlantic region
+4.0,2.0,2325.0,,Residential,249900.0,2 Jensen Camp Place ,NL,Atlantic region
+3.0,2.0,1779.0,.064,Single,219900.0,16 Flynn Lane ,NL,Atlantic region
+3.0,4.0,4030.0,,Single,379999.0,11 Sunset Drive ,NL,Atlantic region
+5.0,2.0,2052.0,,Single,297900.0,25 MacDonald Drive ,NL,Atlantic region
+5.0,2.0,2288.0,,Single,229000.0,14 Random Crescent ,NL,Atlantic region
+4.0,1.0,1541.0,,Single,274900.0,60 Hoyles Avenue ,NL,Atlantic region
+3.0,2.0,2087.0,,Single,239000.0,22 Burnt Woods Place ,NL,Atlantic region
+6.0,2.0,2546.0,,Single,129500.0,281 Main Road ,NL,Atlantic region
+5.0,2.0,3430.0,,Single,369000.0,13 Oceanview Drive ,NL,Atlantic region
+4.0,4.0,700.0,,Single,219000.0,128 Greelytown Road ,NL,Atlantic region
+4.0,3.0,2338.0,,Single,242500.0,19 Hillview Road ,NL,Atlantic region
+3.0,5.0,2800.0,,Single,234786.0,68 Main Road ,NL,Atlantic region
+1.0,1.0,1434.0,,Single,259900.0,Lot 19 20 Karwood Drive ,NL,Atlantic region
+2.0,1.0,780.0,,Single,117500.0,9 LEGION Road ,NL,Atlantic region
+4.0,3.0,2400.0,,Single,409900.0,6 Quantum Drive ,NL,Atlantic region
+3.0,1.0,2250.0,,Single,175000.0,249 Trinity Drive ,NL,Atlantic region
+2.0,1.0,2050.0,,Single,175000.0,134 Conception Bay Highway ,NL,Atlantic region
+4.0,4.0,2208.0,,Single,439900.0,32 Townsview Place ,NL,Atlantic region
+3.0,3.0,3500.0,,Single,444900.0,15 Gosses Road ,NL,Atlantic region
+3.0,2.0,2464.0,,Single,80000.0,33 Ship Cove Road ,NL,Atlantic region
+4.0,3.0,2700.0,,Single,479900.0,2 Paul's Place ,NL,Atlantic region
+3.0,2.0,1700.0,,Single,259000.0,95 MUNDEN Drive ,NL,Atlantic region
+6.0,4.0,3190.0,,Single,945000.0,100 Doran's Lane ,NL,Atlantic region
+4.0,3.0,2418.0,,Single,374900.0,12 Fox Avenue ,NL,Atlantic region
+3.0,1.0,1135.0,,Single,169900.0,278 Pennywell Road ,NL,Atlantic region
+3.0,2.0,1764.0,,Single,345000.0,16 Kings Road ,NL,Atlantic region
+4.0,2.0,2632.0,,Single,299000.0,14 Church Road ,NL,Atlantic region
+5.0,2.0,2100.0,,Single,300000.0,29 Weymouth Street ,NL,Atlantic region
+3.0,1.0,2950.0,,Single,219900.0,63 Corporal Jamie Murphy Memorial Drive ,NL,Atlantic region
+3.0,1.0,894.0,,Single,89900.0,42 Spoon Cove Road Road ,NL,Atlantic region
+2.0,2.0,1400.0,,Single,234900.0,5 Clode Sound Drive ,NL,Atlantic region
+3.0,2.0,1760.0,,Single,149000.0,1 Clearys Road ,NL,Atlantic region
+3.0,3.0,2109.0,,Single,319900.0,164 Ladysmith Drive ,NL,Atlantic region
+3.0,2.0,2800.0,,Residential,384900.0,441 Main Street ,NL,Atlantic region
+4.0,2.0,2126.0,,Single,164000.0,91 Parkwood Drive ,NL,Atlantic region
+5.0,2.0,2300.0,,Single,169900.0,44 Prince Street ,NL,Atlantic region
+3.0,1.0,945.0,,Single,69900.0,0 Lance Cove Road ,NL,Atlantic region
+2.0,2.0,1684.0,,Residential,379900.0,2 Black Duck Pond Road ,NL,Atlantic region
+3.0,2.0,2440.0,,Single,399900.0,39 Dawes Place ,NL,Atlantic region
+2.0,2.0,2276.0,,Single,389900.0,32 Ballylee Crescent ,NL,Atlantic region
+3.0,4.0,2340.0,,Single,359900.0,34 Ridgemount Street ,NL,Atlantic region
+3.0,2.0,2356.0,,Single,369900.0,59 OAKEN Drive ,NL,Atlantic region
+4.0,2.0,1728.0,,Single,169000.0,19 George Street ,NL,Atlantic region
+3.0,3.0,2890.0,,Single,479900.0,352 Airport Heights Drive ,NL,Atlantic region
+,1.0,1650.0,,Single,178000.0,97B lot 5 Main Street ,NL,Atlantic region
+1.0,1.0,1434.0,,Single,259900.0,Lot 18 20 Karwood Drive ,NL,Atlantic region
+4.0,2.0,1970.0,,Single,289000.0,1 Macull Lane ,NL,Atlantic region
+5.0,3.0,2880.0,,Single,399900.0,44 ROSALIND Street ,NL,Atlantic region
+3.0,1.0,1891.0,,Single,95000.0,4 Point Road ,NL,Atlantic region
+4.0,2.0,1528.0,,Single,164900.0,99 New Harbour Road ,NL,Atlantic region
+4.0,2.0,1500.0,,Single,210000.0,163 Freshwater Road ,NL,Atlantic region
+5.0,2.0,2400.0,,Single,289900.0,37 Emerald Drive ,NL,Atlantic region
+4.0,2.0,3800.0,,Single,299000.0,16 Townview Drive ,NL,Atlantic region
+5.0,4.0,2100.0,,Single,289900.0,90-92 DUNNS HILL Road ,NL,Atlantic region
+3.0,2.0,1728.0,,Single,369000.0,299-305 Conception Bay Highway ,NL,Atlantic region
+3.0,1.0,1365.0,,Single,229900.0,1 Cairo Street ,NL,Atlantic region
+3.0,3.0,1840.0,,Single,269900.0,1 Wyatt Boulevard ,NL,Atlantic region
+3.0,3.0,1320.0,,Single,174900.0,74 Main Street ,NL,Atlantic region
+3.0,2.0,2880.0,,Single,275000.0,8 Bay Crescent ,NL,Atlantic region
+3.0,3.0,3500.0,,Single,669900.0,Lot 21 Middle Ledge OTHER ,NL,Atlantic region
+4.0,2.0,2200.0,,Single,239999.0,6 Orange Lane ,NL,Atlantic region
+4.0,2.0,1512.0,,Single,189000.0,139 Main Street ,NL,Atlantic region
+4.0,2.0,2178.0,,Single,474900.0,6 Donegal Place ,NL,Atlantic region
+3.0,2.0,2856.0,,Single,135000.0,275 Main Road ,NL,Atlantic region
+3.0,1.0,1000.0,,Residential,119900.0,1 Newfoundland Drive ,NL,Atlantic region
+4.0,3.0,3103.0,,Single,259900.0,50 Middle Arm Road ,NL,Atlantic region
+4.0,5.0,4400.0,,Single,899900.0,94 Waterford Bridge Road ,NL,Atlantic region
+3.0,3.0,2326.0,,Single,397900.0,11 Cape Ballard Place ,NL,Atlantic region
+4.0,2.0,3000.0,,Single,307000.0,72 Richs Place ,NL,Atlantic region
+4.0,2.0,2720.0,,Single,230000.0,70 Mint Cove Pond Road ,NL,Atlantic region
+6.0,4.0,4314.0,,Single,669900.0,29 Cordelia Crescent ,NL,Atlantic region
+4.0,2.0,1419.0,,Single,149500.0,6 Polygon Road ,NL,Atlantic region
+3.0,2.0,1440.0,,Single,499000.0,169 NEARYS POND Road ,NL,Atlantic region
+4.0,2.0,3570.0,,Single,259900.0,20-22 Majors Path ,NL,Atlantic region
+5.0,4.0,4300.0,,Single,620000.0,10 Weather Station Road ,NL,Atlantic region
+4.0,3.0,2595.0,,Single,359000.0,18-24 Farm Road ,NL,Atlantic region
+4.0,2.0,2208.0,,Single,179000.0,4 Brook Street ,NL,Atlantic region
+4.0,2.0,2350.0,,Single,189500.0,2 Prince Street ,NL,Atlantic region
+5.0,4.0,3263.0,,Single,579000.0,7 Sage Place ,NL,Atlantic region
+5.0,2.0,2240.0,,Single,218500.0,18 Haystack Avenue ,NL,Atlantic region
+2.0,2.0,2392.0,,Single,220000.0,137-139 West Street ,NL,Atlantic region
+4.0,4.0,2932.0,,Single,574900.0,7 Mt Sawyer Place ,NL,Atlantic region
+4.0,2.0,1872.0,,Single,239900.0,249 Mundy Pond Road ,NL,Atlantic region
+3.0,1.0,1820.0,,Single,72900.0,2 Crewes Road ,NL,Atlantic region
+3.0,3.0,2972.0,,Single,549900.0,7 Papenburg Street ,NL,Atlantic region
+3.0,2.0,2068.0,,Single,309900.0,18 Marions Garden Place ,NL,Atlantic region
+5.0,3.0,4926.0,,Single,779900.0,8 Riverview Avenue ,NL,Atlantic region
+4.0,4.0,3565.0,,Single,779900.0,12 Marina Drive ,NL,Atlantic region
+3.0,2.0,1630.0,,Single,97500.0,20 Tims Lane ,NL,Atlantic region
+2.0,1.0,720.0,,Single,169500.0,14 Flat Rock Road ,NL,Atlantic region
+5.0,2.0,1900.0,,Single,275000.0,26 Baird Place ,NL,Atlantic region
+3.0,2.0,1576.0,,Residential,249900.0,49 Country Road ,NL,Atlantic region
+1.0,1.0,1072.0,,Single,267900.0,20 Karwood Drive Unit8 LOT,NL,Atlantic region
+3.0,2.0,1502.0,,Single,179900.0,182 Hamilton Avenue ,NL,Atlantic region
+3.0,2.0,2060.0,,Single,179900.0,0 Lannon Place ,NL,Atlantic region
+4.0,2.0,1840.0,,Single,325000.0,24 Finlaystone Drive ,NL,Atlantic region
+3.0,2.0,1825.0,,Single,399000.0,13 DUTCHESS Drive ,NL,Atlantic region
+3.0,2.0,2178.0,,Single,249900.0,78 Park Avenue ,NL,Atlantic region
+5.0,2.0,2080.0,,Single,199000.0,533 Main Street ,NL,Atlantic region
+4.0,1.0,1150.0,,Single,87500.0,2 Whiffens Road ,NL,Atlantic region
+2.0,1.0,1119.0,,Single,209900.0,191 West Side Road ,NL,Atlantic region
+3.0,1.0,1278.0,,Single,70000.0,105 Creston Boulevard ,NL,Atlantic region
+3.0,2.0,1707.0,,Single,269900.0,13 McDonald Crescent ,NL,Atlantic region
+5.0,3.0,2258.0,,Single,334900.0,2 Mayfair Avenue ,NL,Atlantic region
+3.0,2.0,1150.0,,Single,79900.0,111B Harbour Road ,NL,Atlantic region
+3.0,1.0,1488.0,,Single,174900.0,2 Main Street ,NL,Atlantic region
+3.0,3.0,2180.0,,Single,355000.0,8 Fitzgerald Place ,NL,Atlantic region
+3.0,3.0,1620.0,,Single,199500.0,10 OLD CHURCH Road ,NL,Atlantic region
+4.0,3.0,2252.0,,Single,379000.0,28 Payette Street ,NL,Atlantic region
+2.0,2.0,1058.0,,Single,109900.0,24 Norman's Cove Lane ,NL,Atlantic region
+3.0,2.0,1200.0,,Single,299900.0,16 Albert Street ,NL,Atlantic region
+4.0,2.0,3310.0,,Single,189900.0,5 Riverview Avenue ,NL,Atlantic region
+3.0,3.0,4538.0,,Single,1490000.0,49 Barrows Road ,NL,Atlantic region
+4.0,5.0,2700.0,,Single,419900.0,16 Goldeneye Place ,NL,Atlantic region
+4.0,2.0,1732.0,,Single,263500.0,49 Princess Avenue ,NL,Atlantic region
+4.0,4.0,2480.0,,Single,339900.0,30 Imogene Crescent ,NL,Atlantic region
+4.0,2.0,1520.0,,Single,249000.0,25 Kelland Crescent ,NL,Atlantic region
+4.0,3.0,2046.0,,Single,315000.0,38 Cole Thomas Drive ,NL,Atlantic region
+2.0,1.0,910.0,,Single,110900.0,57 Goose Bay Drive ,NL,Atlantic region
+4.0,4.0,3052.0,,Single,599900.0,564 Thorburn Road ,NL,Atlantic region
+4.0,1.0,1430.0,,Single,125900.0,11 Blockhouse Road ,NL,Atlantic region
+2.0,1.0,1136.0,,Single,139000.0,1 Chomedy Drive ,NL,Atlantic region
+3.0,2.0,1327.0,,Single,209000.0,1 Rices Avenue ,NL,Atlantic region
+4.0,2.0,2646.0,,Single,155000.0,61 Main Street ,NL,Atlantic region
+3.0,3.0,2400.0,,Single,300000.0,4 Musgrave Street ,NL,Atlantic region
+,,2400.0,,Single,65000.0,9 Forest Road ,NL,Atlantic region
+4.0,2.0,1987.0,,Single,249900.0,42 Centennial Drive ,NL,Atlantic region
+5.0,3.0,3800.0,,Single,599900.0,233 Topsail Pond Road ,NL,Atlantic region
+4.0,3.0,3000.0,,Single,469900.0,8 Ednas' Road ,NL,Atlantic region
+3.0,3.0,1626.0,,Single,359000.0,2 Bank Road ,NL,Atlantic region
+4.0,4.0,3564.0,,Single,374900.0,30 Harrington Drive ,NL,Atlantic region
+3.0,1.0,1012.0,,Single,69000.0,3-11 Marsh Road ,NL,Atlantic region
+4.0,3.0,2833.0,,Single,409000.0,52 Bondar Street ,NL,Atlantic region
+3.0,3.0,1600.0,,Single,349900.0,11 Mayfair Avenue ,NL,Atlantic region
+4.0,1.0,1200.0,,Residential,99900.0,399 Creston Boulevard ,NL,Atlantic region
+4.0,4.0,4821.0,,Single,699900.0,136 Terra Nova Drive ,NL,Atlantic region
+4.0,2.0,2000.0,,Single,194900.0,3 Prince Street ,NL,Atlantic region
+5.0,4.0,4600.0,,Single,509900.0,101 MacDonald Brown Drive ,NL,Atlantic region
+2.0,1.0,2100.0,,Single,259900.0,1496 Conception Bay Highway ,NL,Atlantic region
+4.0,2.0,1729.0,,Single,115000.0,2 Pleasant Street ,NL,Atlantic region
+3.0,2.0,1734.0,,Single,369999.0,418 Grenfell Heights ,NL,Atlantic region
+3.0,2.0,1825.0,,Single,525000.0,456 Marine Drive ,NL,Atlantic region
+3.0,2.0,1392.0,,Single,180000.0,60 Kings Road ,NL,Atlantic region
+4.0,2.0,1822.0,,Single,319900.0,48 Carberrys Road ,NL,Atlantic region
+4.0,2.0,3465.0,,Single,229000.0,30 Bay Bulls Road ,NL,Atlantic region
+3.0,2.0,1400.0,,Single,149900.0,45-47 Spencers Cove Road ,NL,Atlantic region
+3.0,3.0,2900.0,,Single,379500.0,2 Hamlet Street ,NL,Atlantic region
+4.0,3.0,2056.0,,Single,239000.0,14 LESLIE Street ,NL,Atlantic region
+2.0,1.0,1592.0,,Single,110000.0,1522 Smith Sound Road ,NL,Atlantic region
+2.0,1.0,650.0,,Single,139900.0,26 Pine Bud Crescent ,NL,Atlantic region
+4.0,4.0,3400.0,,Single,449900.0,14-16 Emma's Place ,NL,Atlantic region
+4.0,3.0,2400.0,,Single,338500.0,85 Pratt Street ,NL,Atlantic region
+3.0,1.0,1120.0,,Single,79900.0,6 Tucker Place ,NL,Atlantic region
+3.0,3.0,1678.0,,Single,209500.0,497 Main Street ,NL,Atlantic region
+3.0,2.0,1125.0,,Single,219900.0,1 ASPEN Heights ,NL,Atlantic region
+4.0,5.0,4626.0,,Single,865000.0,Lot 49017 Duley Lake ,NL,Atlantic region
+5.0,2.0,1820.0,,Single,289000.0,49 Frontenac Avenue ,NL,Atlantic region
+5.0,4.0,2105.0,,Single,380000.0,4 Park Avenue ,NL,Atlantic region
+3.0,1.0,1720.0,,Single,219900.0,383 Blackmarsh Road ,NL,Atlantic region
+3.0,3.0,1780.0,,Single,449900.0,5 Mountain View Drive ,NL,Atlantic region
+3.0,3.0,2920.0,,Single,459900.0,44 Bayview Heights ,NL,Atlantic region
+3.0,3.0,2972.0,,Single,539900.0,6 Sparta Place ,NL,Atlantic region
+3.0,2.0,1904.0,,Single,239900.0,9 Carson Avenue ,NL,Atlantic region
+3.0,1.0,1608.0,,Single,209000.0,24 Nascopie Crescent ,NL,Atlantic region
+2.0,2.0,777.0,,Single,179900.0,51 Dock Road ,NL,Atlantic region
+3.0,3.0,2046.0,,Single,549000.0,53H Sandy Point Road ,NL,Atlantic region
+3.0,4.0,2072.0,,Single,394900.0,24 Shaw Street ,NL,Atlantic region
+3.0,3.0,3000.0,,Single,340000.0,158 Winterland Road ,NL,Atlantic region
+3.0,4.0,1906.0,,Single,429900.0,58 Claddagh Road ,NL,Atlantic region
+3.0,2.0,2225.0,,Single,315000.0,11 Golf Avenue ,NL,Atlantic region
+4.0,2.0,1766.0,,Single,219900.0,16 Channel Street ,NL,Atlantic region
+3.0,1.0,1986.0,,Single,94900.0,9 Frazer Road ,NL,Atlantic region
+4.0,2.0,1824.0,,Single,188900.0,74 WHITES Road ,NL,Atlantic region
+3.0,1.0,1350.0,,Single,259900.0,489 Conception Bay Highway ,NL,Atlantic region
+5.0,4.0,3250.0,,Single,449000.0,438 Main Street ,NL,Atlantic region
+5.0,3.0,2500.0,,Single,389900.0,13 Seminole Drive ,NL,Atlantic region
+5.0,2.0,2100.0,,Single,259900.0,1757 PORTUGAL COVE Road ,NL,Atlantic region
+4.0,3.0,2308.0,,Single,359900.0,45 Solomon Close ,NL,Atlantic region
+3.0,2.0,900.0,,Single,194000.0,194 Freshwater Road ,NL,Atlantic region
+3.0,1.0,1100.0,,Single,97500.0,28 BONAVENTURE Avenue ,NL,Atlantic region
+5.0,3.0,2526.0,,Single,359900.0,51 PETITE FORTE Drive ,NL,Atlantic region
+5.0,5.0,2412.0,,Single,295000.0,13 Pinetree Road ,NL,Atlantic region
+4.0,3.0,2600.0,,Single,399900.0,40 A Glam Road ,NL,Atlantic region
+3.0,3.0,2868.0,,Single,399900.0,31 Sgt  Craig Gillam Avenue ,NL,Atlantic region
+2.0,1.0,954.0,,Single,159900.0,18 Brigus Road ,NL,Atlantic region
+4.0,2.0,1440.0,,Single,189500.0,64 Flower Hill ,NL,Atlantic region
+3.0,3.0,3229.0,,Single,879000.0,Lot 3.09 Parsonage Drive ,NL,Atlantic region
+3.0,1.0,960.0,,Single,174900.0,11 Lombardy Place ,NL,Atlantic region
+4.0,1.0,2200.0,,Residential,164000.0,83 Central Street ,NL,Atlantic region
+3.0,2.0,1544.0,,Single,199000.0,41 Main Street ,NL,Atlantic region
+2.0,1.0,1520.0,,Single,149000.0,17 Back Road ,NL,Atlantic region
+3.0,1.0,960.0,,Single,139000.0,33 Cookstown Road ,NL,Atlantic region
+4.0,1.0,1794.0,,Single,299900.0,14 Tuxedo Road ,NL,Atlantic region
+3.0,3.0,3600.0,,Single,369000.0,190 North River Road ,NL,Atlantic region
+4.0,5.0,3070.0,,Single,459900.0,26 Tigress Street ,NL,Atlantic region
+4.0,2.0,2240.0,,Single,274900.0,10 Cannon Marsh Road ,NL,Atlantic region
+3.0,3.0,1460.0,,Single,339900.0,30 Leslie Street ,NL,Atlantic region
+4.0,2.0,2472.0,,Single,199900.0,4 WISEMANS Road ,NL,Atlantic region
+1.0,1.0,1072.0,,Single,267900.0,Lot 11 20 Karwood Drive ,NL,Atlantic region
+5.0,4.0,3024.0,,Single,389900.0,90 Pratt Street ,NL,Atlantic region
+4.0,2.0,3048.0,,Single,309900.0,93 Main Street Unit A,NL,Atlantic region
+3.0,2.0,1530.0,,Single,159900.0,94 Cumberland Crescent ,NL,Atlantic region
+3.0,2.0,1465.0,,Single,599000.0,1 Main Road ,NL,Atlantic region
+2.0,2.0,1200.0,,Single,172000.0,74 Mt Vincent Crescent ,NL,Atlantic region
+3.0,2.0,2023.0,,Single,264900.0,182 North River Road ,NL,Atlantic region
+3.0,3.0,1800.0,,Single,399000.0,60 Oceanview Crescent ,NL,Atlantic region
+2.0,1.0,1798.0,,Single,209000.0,290 Pennywell Road ,NL,Atlantic region
+3.0,4.0,2163.0,,Single,369900.0,8 Larner Street ,NL,Atlantic region
+4.0,3.0,1910.0,,Single,349900.0,32 Ridgemount Street ,NL,Atlantic region
+3.0,1.0,1836.0,,Single,239900.0,602 Tamarack Drive ,NL,Atlantic region
+3.0,1.0,2195.0,,Single,155000.0,55-57 Harvey Street ,NL,Atlantic region
+6.0,3.0,2191.0,,Single,419000.0,41 Queen's Road ,NL,Atlantic region
+5.0,2.0,2050.0,,Single,274500.0,99 larkhall Street ,NL,Atlantic region
+3.0,1.0,1728.0,,Single,189900.0,40 Marshall's Drive ,NL,Atlantic region
+5.0,2.0,2100.0,,Single,244900.0,28 Prince Street ,NL,Atlantic region
+4.0,1.0,1400.0,,Residential,36900.0,Ridge Road ,NL,Atlantic region
+5.0,4.0,2184.0,,Single,349900.0,19 Paddy Kay Drive ,NL,Atlantic region
+3.0,2.0,2020.0,,Single,299900.0,12 Blandford Place ,NL,Atlantic region
+3.0,1.0,2344.0,,Single,239000.0,27 Upper Evenings Path ,NL,Atlantic region
+3.0,2.0,3962.0,,Single,675000.0,11 Beech Place ,NL,Atlantic region
+2.0,1.0,1560.0,,Single,129900.0,172 Caribou Road ,NL,Atlantic region
+2.0,1.0,870.0,,Single,64900.0,10 Main Road ,NL,Atlantic region
+4.0,2.0,1628.0,,Single,115900.0,414 Main Drive ,NL,Atlantic region
+5.0,2.0,2250.0,,Single,299900.0,5 Long Pond Road ,NL,Atlantic region
+6.0,4.0,1990.0,,Single,269900.0,77 Seaborn Street ,NL,Atlantic region
+3.0,2.0,1980.0,,Single,352900.0,3 Electra Drive ,NL,Atlantic region
+4.0,2.0,1240.0,,Single,210000.0,125 Elizabeth Drive ,NL,Atlantic region
+4.0,4.0,2900.0,,Single,900000.0,8 Ivys Way ,NL,Atlantic region
+3.0,1.0,1052.0,,Single,249900.0,Lot 12 Ridgewood Crescent ,NL,Atlantic region
+2.0,1.0,1920.0,,Single,134900.0,14 Russann Street ,NL,Atlantic region
+4.0,4.0,4308.0,,Single,720000.0,22 Cordelia Crescent ,NL,Atlantic region
+3.0,2.0,3225.0,,Single,370000.0,121 Hynes Road ,NL,Atlantic region
+3.0,2.0,2400.0,,Single,395900.0,49 Oaken Drive ,NL,Atlantic region
+3.0,2.0,3182.0,,Single,4500000.0,486 Allandale Road ,NL,Atlantic region
+3.0,2.0,1611.0,,Single,209900.0,21 Edinburgh Street ,NL,Atlantic region
+3.0,2.0,1865.0,,Single,329000.0,9 Leggetters Lane ,NL,Atlantic region
+4.0,3.0,3030.0,,Single,285000.0,78 Circular Road ,NL,Atlantic region
+3.0,3.0,4380.0,,Single,859000.0,19 Railway Road ,NL,Atlantic region
+3.0,2.0,2464.0,,Single,289000.0,39 Cherry Crescent ,NL,Atlantic region
+4.0,2.0,2058.0,.057,Single,247500.0,301 Tamarack Drive ,NL,Atlantic region
+5.0,3.0,2861.0,,Single,384900.0,97 Acharya Drive ,NL,Atlantic region
+6.0,4.0,4920.0,,Single,469000.0,7 Topsail Road ,NL,Atlantic region
+2.0,1.0,936.0,,Single,55000.0,167 Marine Drive ,NL,Atlantic region
+8.0,6.0,8611.0,,Single,1660000.0,18 CIRCULAR Road ,NL,Atlantic region
+3.0,2.0,1822.0,,Single,199900.0,161 Main Road ,NL,Atlantic region
+3.0,2.0,1300.0,,Single,229900.0,5 Flynn Lane ,NL,Atlantic region
+4.0,3.0,2864.0,,Residential,349900.0,21 Hanlon Drive ,NL,Atlantic region
+3.0,2.0,2880.0,,Single,239000.0,118 Byrd Avenue ,NL,Atlantic region
+6.0,2.0,3964.0,,Single,260000.0,161-163 Harvey Street ,NL,Atlantic region
+4.0,3.0,3070.0,,Single,419900.0,90 Branscombe Street ,NL,Atlantic region
+3.0,2.0,1326.0,,Single,275000.0,19 Long run Road ,NL,Atlantic region
+5.0,3.0,2176.0,,Single,165000.0,16 Main Street ,NL,Atlantic region
+1.0,2.0,2150.0,,Single,289900.0,182 North Side Road ,NL,Atlantic region
+8.0,8.0,5070.0,,Single,499999.0,219 CONFEDERATION Drive ,NL,Atlantic region
+3.0,1.0,2400.0,,Single,139000.0,1 Tuff's Square ,NL,Atlantic region
+4.0,2.0,2436.0,,Single,329000.0,5 Cranley Place ,NL,Atlantic region
+4.0,2.0,2410.0,,Single,195000.0,27 Lowerview Road ,NL,Atlantic region
+4.0,2.0,2500.0,,Single,284500.0,266 Newfoundland Drive ,NL,Atlantic region
+4.0,2.0,1900.0,,Single,199900.0,33 Riverview Avenue ,NL,Atlantic region
+4.0,3.0,2191.0,,Single,400000.0,28 Trenton Drive ,NL,Atlantic region
+2.0,2.0,2106.0,,Single,89000.0,127 J.W. Pickersgill Boulevard ,NL,Atlantic region
+4.0,2.0,2026.0,,Single,229900.0,20 Grieve Street ,NL,Atlantic region
+3.0,2.0,3884.0,,Single,425000.0,69 SUNSET Drive ,NL,Atlantic region
+4.0,2.0,2723.0,,Single,372000.0,1 Islandview Place ,NL,Atlantic region
+3.0,2.0,1280.0,,Single,95000.0,12 Beachy Cove Road ,NL,Atlantic region
+6.0,2.0,2442.0,,Single,150000.0,60 Kitchens Hill ,NL,Atlantic region
+4.0,1.0,2415.0,,Single,159900.0,1 CONWAY Street ,NL,Atlantic region
+3.0,1.0,920.0,,Single,119000.0,34 Main Street ,NL,Atlantic region
+4.0,2.0,1863.0,,Single,279000.0,132-134 Greenwood Street W ,NL,Atlantic region
+3.0,2.0,2140.0,,Single,299500.0,30 MAIN Street ,NL,Atlantic region
+5.0,4.0,5000.0,,Single,799000.0,0 Main Road ,NL,Atlantic region
+5.0,4.0,3200.0,,Single,319000.0,10 Thorburn Road ,NL,Atlantic region
+4.0,2.0,2436.0,,Single,285000.0,35 Country Road ,NL,Atlantic region
+3.0,1.0,1296.0,,Single,180000.0,89 Watson Street ,NL,Atlantic region
+3.0,4.0,1906.0,,Single,429900.0,62 Claddagh Road ,NL,Atlantic region
+3.0,1.0,1042.0,,Single,129900.0,40 Farm Road ,NL,Atlantic region
+5.0,2.0,2280.0,,Residential,349900.0,61 Sgt Donald Lucas Drive ,NL,Atlantic region
+3.0,2.0,1998.0,,Single,299000.0,14 Richmond Street ,NL,Atlantic region
+2.0,2.0,1440.0,,Residential,379900.0,5 Quay Road ,NL,Atlantic region
+4.0,3.0,2403.0,,Single,359900.0,536 Indian Meal Line ,NL,Atlantic region
+4.0,2.0,2306.0,,Single,110000.0,29 Boncloddy Street ,NL,Atlantic region
+4.0,2.0,2966.0,,Single,193000.0,24 CARMELITE Road ,NL,Atlantic region
+3.0,3.0,2708.0,,Single,299900.0,27 Main Road ,NL,Atlantic region
+2.0,1.0,1562.0,,Single,312000.0,21 Prescott Street ,NL,Atlantic region
+3.0,3.0,2664.0,,Single,340000.0,9 McCutcheons Road ,NL,Atlantic region
+3.0,2.0,2295.0,,Single,499900.0,35 Pleasantview Road ,NL,Atlantic region
+4.0,3.0,1989.0,,Single,385000.0,77 Hopedale Crescent ,NL,Atlantic region
+5.0,3.0,2400.0,,Single,369000.0,83 Seascape Drive ,NL,Atlantic region
+4.0,3.0,2567.0,,Single,382900.0,127 Acharya Drive ,NL,Atlantic region
+4.0,2.0,4100.0,,Single,400000.0,92-92A Freshwater Road ,NL,Atlantic region
+2.0,1.0,704.0,,Single,169900.0,34 Hilltop Lane ,NL,Atlantic region
+4.0,2.0,2384.0,0.28,Single,459000.0,14 Reid Street ,NL,Atlantic region
+4.0,2.0,1638.0,,Single,265000.0,6 BAYVIEW ROAD Extension ,NL,Atlantic region
+4.0,4.0,2250.0,,Single,369900.0,24 Brad Gushue Crescent ,NL,Atlantic region
+3.0,2.0,1610.0,,Single,199900.0,19 Brook Street ,NL,Atlantic region
+4.0,2.0,2559.0,,Single,334900.0,71 Patrick Street ,NL,Atlantic region
+3.0,2.0,1960.0,,Single,184900.0,8 Beothic Road ,NL,Atlantic region
+3.0,2.0,1920.0,,Single,179900.0,12 Haystack Avenue ,NL,Atlantic region
+4.0,2.0,1029.0,,Single,169900.0,15 Rices Avenue ,NL,Atlantic region
+4.0,3.0,2356.0,,Single,299000.0,19 Brochen Street ,NL,Atlantic region
+4.0,4.0,3268.0,,Single,450000.0,148 Old Petty Harbour Road ,NL,Atlantic region
+5.0,4.0,3432.0,,Single,559900.0,6 Beatrix Place ,NL,Atlantic region
+3.0,2.0,2923.0,0.75,Single,597750.0,2 Bridle Path ,NL,Atlantic region
+2.0,1.0,1100.0,,Single,79800.0,63 Main Road ,NL,Atlantic region
+3.0,2.0,1950.0,,Single,329900.0,42 Fitzgibbon Street ,NL,Atlantic region
+4.0,2.0,1220.0,,Single,119900.0,13A Devonshire Road ,NL,Atlantic region
+2.0,1.0,1920.0,,Single,95900.0,25 Park Drive ,NL,Atlantic region
+3.0,2.0,2400.0,,Single,305000.0,91 Stirling Crescent ,NL,Atlantic region
+3.0,3.0,3036.0,,Single,649000.0,22 Gallipoli Street ,NL,Atlantic region
+2.0,1.0,1595.0,,Single,105000.0,23-25 Black Path Road ,NL,Atlantic region
+5.0,3.0,2480.0,,Single,329900.0,105 Larkhall Street ,NL,Atlantic region
+3.0,3.0,2242.0,,Single,319900.0,4 Kerry Avenue ,NL,Atlantic region
+3.0,2.0,1252.0,,Single,169900.0,3 Sugarloaf Road ,NL,Atlantic region
+3.0,1.0,1290.0,,Single,179900.0,181 Pennywell Road ,NL,Atlantic region
+4.0,4.0,3930.0,,Single,779900.0,251 Back Line ,NL,Atlantic region
+3.0,1.0,952.0,.087,Single,219900.0,3012 Quartzite Crescent ,NL,Atlantic region
+4.0,3.0,1430.0,,Single,379000.0,13 Carriage Lane ,NL,Atlantic region
+3.0,1.0,1088.0,,Single,239000.0,4031 Bartlett Drive ,NL,Atlantic region
+6.0,2.0,2044.0,,Single,299900.0,2 Paddon Place ,NL,Atlantic region
+3.0,2.0,2449.0,,Single,239000.0,544 Main Road ,NL,Atlantic region
+3.0,2.0,1064.0,,Single,119900.0,70 Circular Road ,NL,Atlantic region
+3.0,1.0,1186.0,,Single,99000.0,14 George Street ,NL,Atlantic region
+4.0,3.0,3917.0,,Single,405000.0,9 Beach Road ,NL,Atlantic region
+,,,,Single,210000.0,28 Penetanguishene Road ,NL,Atlantic region
+3.0,2.0,1824.0,,Single,254900.0,50 Bayview Road ,NL,Atlantic region
+3.0,1.0,1150.0,,Single,218900.0,8 Froude Avenue ,NL,Atlantic region
+5.0,3.0,2408.0,,Single,369900.0,6 Abbott Drive ,NL,Atlantic region
+2.0,2.0,2472.0,,Residential,279900.0,5 Bradbury Place ,NL,Atlantic region
+5.0,3.0,2480.0,,Single,394900.0,98 GREAT EASTERN Avenue ,NL,Atlantic region
+4.0,2.0,3048.0,,Residential,309900.0,93 Main Street A,NL,Atlantic region
+4.0,2.0,2250.0,,Single,289900.0,18 Frontenac Avenue ,NL,Atlantic region
+3.0,2.0,2048.0,,Single,259900.0,15 Montclair Street ,NL,Atlantic region
+6.0,2.0,2112.0,,Single,169000.0,39 Shaheen Crescent ,NL,Atlantic region
+4.0,2.0,1142.0,,Single,49900.0,16 Brook Road ,NL,Atlantic region
+4.0,4.0,4100.0,,Single,699900.0,333 Lanark Drive ,NL,Atlantic region
+3.0,2.0,2160.0,,Single,179000.0,16 Hospital Road ,NL,Atlantic region
+5.0,2.0,2441.0,.135,Single,315000.0,311 Banting Street ,NL,Atlantic region
+3.0,2.0,1186.0,.077,Single,229000.0,14 McGregor Lane ,NL,Atlantic region
+4.0,2.0,1280.0,,Single,169900.0,172 Main Highway ,NL,Atlantic region
+3.0,1.0,1020.0,,Single,59500.0,113A Main Road ,NL,Atlantic region
+2.0,1.0,840.0,,Single,153900.0,150 Hussey Drive ,NL,Atlantic region
+3.0,2.0,1856.0,,Single,185000.0,11 Monkstown Road ,NL,Atlantic region
+3.0,4.0,1906.0,,Single,429900.0,52 Claddagh Road ,NL,Atlantic region
+4.0,1.0,1750.0,,Single,275000.0,85 Springdale Street ,NL,Atlantic region
+4.0,3.0,2500.0,,Single,249000.0,584 JR Smallwood Boulevard ,NL,Atlantic region
+3.0,3.0,1743.0,,Single,299900.0,Lot 2 20 Karwood Drive ,NL,Atlantic region
+3.0,2.0,1914.0,,Single,599900.0,41 Old Witless Bay Line ,NL,Atlantic region
+2.0,1.0,980.0,,Single,190000.0,139 Greeleytown Road ,NL,Atlantic region
+3.0,3.0,2128.0,,Single,279900.0,99 Pleasant Street ,NL,Atlantic region
+4.0,4.0,4326.0,,Single,1100000.0,7 Commodore Place ,NL,Atlantic region
+2.0,2.0,1456.0,,Single,169000.0,218 O'Connell Drive ,NL,Atlantic region
+4.0,3.0,3700.0,,Single,388000.0,101 Highland Drive ,NL,Atlantic region
+3.0,3.0,3130.0,,Single,599900.0,70 Lanark Drive ,NL,Atlantic region
+2.0,1.0,2040.0,,Single,120000.0,82-86 East Street ,NL,Atlantic region
+5.0,2.0,2200.0,,Single,269900.0,24 Dundas Street ,NL,Atlantic region
+4.0,4.0,6006.0,,Single,1100000.0,148 Grenfell Heights ,NL,Atlantic region
+3.0,2.0,1483.0,,Single,159500.0,59 Main Street ,NL,Atlantic region
+3.0,2.0,1872.0,,Single,179900.0,5 Main Street ,NL,Atlantic region
+3.0,5.0,7930.0,,Single,689900.0,36 Smithville Crescent ,NL,Atlantic region
+3.0,3.0,2320.0,,Single,239500.0,6 Courtney Place ,NL,Atlantic region
+3.0,3.0,1911.0,,Residential,249900.0,4 Doyles Lane ,NL,Atlantic region
+4.0,2.0,2661.0,,Single,189000.0,5 Exploits Street ,NL,Atlantic region
+5.0,2.0,2146.0,,Single,179000.0,2 Greenwood Street E ,NL,Atlantic region
+5.0,2.0,2490.0,,Single,299000.0,69 Larkhall Street ,NL,Atlantic region
+4.0,2.0,2240.0,,Single,255000.0,9 Valleyview Heights ,NL,Atlantic region
+2.0,3.0,2160.0,,Single,305000.0,28 Welland Street ,NL,Atlantic region
+2.0,1.0,1223.0,,Single,183900.0,103 Humber Road ,NL,Atlantic region
+2.0,1.0,728.0,,Single,92900.0,8 CURRIE Avenue ,NL,Atlantic region
+4.0,3.0,2400.0,,Single,279900.0,9A George's Road ,NL,Atlantic region
+3.0,2.0,1200.0,,Single,309900.0,18 Albert Street ,NL,Atlantic region
+3.0,1.0,970.0,,Single,135000.0,1040 Main Road ,NL,Atlantic region
+4.0,3.0,2400.0,,Single,289900.0,30 Lanark Drive ,NL,Atlantic region
+3.0,4.0,3099.0,,Single,555000.0,568 Indian Meal Line ,NL,Atlantic region
+5.0,1.0,1444.0,0.93,Single,80000.0,1 Moores Road ,NL,Atlantic region
+3.0,2.0,1800.0,,Single,159000.0,92 Bayview Heights ,NL,Atlantic region
+3.0,2.0,1039.0,,Single,189900.0,192 Commonwealth Drive ,NL,Atlantic region
+3.0,2.0,1900.0,,Single,229900.0,92 Springdale Street ,NL,Atlantic region
+5.0,2.0,1220.0,,Single,279900.0,5 NIGHTINGALE Road ,NL,Atlantic region
+3.0,1.0,1228.0,,Single,49900.0,44 Noseworthy's Hill ,NL,Atlantic region
+2.0,1.0,550.0,,Single,79999.0,0 La Manche Road ,NL,Atlantic region
+3.0,2.0,1800.0,,Single,250000.0,13 Frobisher Avenue ,NL,Atlantic region
+4.0,3.0,2646.0,,Single,285000.0,241-243 Shearstown Road ,NL,Atlantic region
+3.0,2.0,2200.0,,Single,149900.0,7 Deerings Road ,NL,Atlantic region
+3.0,2.0,1824.0,,Single,234900.0,8 Clearview Street ,NL,Atlantic region
+3.0,1.0,900.0,,Single,58900.0,52 Gray Avenue ,NL,Atlantic region
+5.0,2.0,2550.0,,Single,259900.0,75 Freshwater Road ,NL,Atlantic region
+3.0,3.0,2700.0,,Single,364900.0,31 Dunn Drive ,NL,Atlantic region
+3.0,1.0,1100.0,,Single,169900.0,9 TACK'S BEACH Place ,NL,Atlantic region
+3.0,1.0,1600.0,,Single,119900.0,0 Garland Hill Road ,NL,Atlantic region
+5.0,2.0,1700.0,,Single,269900.0,115 Smallwood Drive ,NL,Atlantic region
+4.0,3.0,3250.0,,Single,419900.0,191 Ladysmith Drive ,NL,Atlantic region
+5.0,3.0,2250.0,,Single,269900.0,37 Harris Road ,NL,Atlantic region
+4.0,2.0,1762.0,,Single,79900.0,39 Fault Drive ,NL,Atlantic region
+2.0,1.0,2600.0,,Single,289900.0,149 Queens Road ,NL,Atlantic region
+4.0,4.0,3639.0,,Single,383000.0,38 Birmingham Street ,NL,Atlantic region
+3.0,1.0,704.0,,Single,62500.0,4 Lush's Road ,NL,Atlantic region
+6.0,2.0,2240.0,,Single,315000.0,33 Edgecombe Drive ,NL,Atlantic region
+4.0,2.0,2000.0,,Single,329900.0,60 Baffin Drive ,NL,Atlantic region
+3.0,1.0,1775.0,0.62,Single,220000.0,16 Hawses Road ,NL,Atlantic region
+2.0,2.0,2400.0,,Single,269000.0,16 Gull Pond Road ,NL,Atlantic region
+4.0,2.0,2038.0,,Residential,259000.0,59 Mcgrath Crescent ,NL,Atlantic region
+3.0,1.0,782.0,,Single,60000.0,9 Trapnells Lane ,NL,Atlantic region
+3.0,1.0,1700.0,,Single,190000.0,692 Main Road North Road ,NL,Atlantic region
+3.0,2.0,1800.0,,Single,289900.0,58 Coventry Way ,NL,Atlantic region
+3.0,1.0,1446.0,,Single,69996.0,9B Parsons Lane ,NL,Atlantic region
+4.0,3.0,2800.0,,Single,329000.0,30 Solberg Crescent ,NL,Atlantic region
+4.0,4.0,2145.0,,Single,379900.0,2 Fred W Brown Drive ,NL,Atlantic region
+3.0,1.0,1752.0,,Single,279900.0,Lot 59A Ocean Pond Road ,NL,Atlantic region
+3.0,3.0,2957.0,,Residential,419900.0,26 Sgt Donald Lucas Drive ,NL,Atlantic region
+4.0,3.0,4338.0,,Single,550000.0,5 Burns Place ,NL,Atlantic region
+3.0,1.0,1752.0,,Single,327900.0,Lot 24 Ocean Pond Road ,NL,Atlantic region
+4.0,3.0,2716.0,,Residential,399900.0,6 Mountainview Drive ,NL,Atlantic region
+3.0,2.0,2176.0,,Single,155000.0,6 Dalton Place ,NL,Atlantic region
+5.0,3.0,2580.0,,Single,419900.0,40 Bavidge Street ,NL,Atlantic region
+3.0,2.0,1071.0,,Residential,55000.0,11 Citadel Road ,NL,Atlantic region
+4.0,4.0,4480.0,,Single,599900.0,21 Collingwood Crescent ,NL,Atlantic region
+3.0,2.0,2400.0,,Single,115000.0,68 Main Road ,NL,Atlantic region
+4.0,3.0,3522.0,,Single,429000.0,57 Peddle Drive ,NL,Atlantic region
+5.0,3.0,2376.0,,Single,389900.0,5 Fred W. Brown Drive ,NL,Atlantic region
+3.0,2.0,2640.0,,Single,150000.0,3 Woods Street ,NL,Atlantic region
+3.0,3.0,2265.0,,Single,475000.0,160 Carlisle Drive ,NL,Atlantic region
+3.0,2.0,2470.0,,Single,279900.0,2 Carrick Drive ,NL,Atlantic region
+3.0,1.0,960.0,,Single,115000.0,186 Broad Lake Road ,NL,Atlantic region
+2.0,1.0,1000.0,,Single,169000.0,22 MacDonald Drive ,NL,Atlantic region
+3.0,2.0,1728.0,,Single,137800.0,96B Main Street ,NL,Atlantic region
+3.0,2.0,2696.0,,Single,459000.0,520 SMITH SOUND Road ,NL,Atlantic region
+3.0,2.0,1536.0,,Single,259000.0,24 Circular Road ,NL,Atlantic region
+5.0,3.0,2675.0,,Single,239900.0,110 Cornwall Avenue ,NL,Atlantic region
+2.0,1.0,850.0,,Single,159000.0,103 Main Street S ,NL,Atlantic region
+4.0,3.0,2050.0,,Single,189000.0,12 Crockers Road ,NL,Atlantic region
+3.0,1.0,2400.0,,Single,619000.0,248-250 Main Road ,NL,Atlantic region
+4.0,2.0,1714.0,,Single,235000.0,4-6 Stewart Avenue ,NL,Atlantic region
+4.0,1.0,1395.0,,Single,119900.0,11 Grandview Avenue ,NL,Atlantic region
+4.0,2.0,1600.0,,Single,209000.0,19 York Avenue ,NL,Atlantic region
+3.0,1.0,1380.0,,Residential,170000.0,181 Doyle Street ,NL,Atlantic region
+5.0,2.0,2284.0,,Single,265000.0,7 Flagstaff Lane ,NL,Atlantic region
+5.0,2.0,2450.0,,Single,299900.0,20 Parish Hall Hill ,NL,Atlantic region
+3.0,2.0,2190.0,,Single,359900.0,0 Conception Bay Highway ,NL,Atlantic region
+3.0,2.0,1130.0,,Single,80000.0,223 Main Street ,NL,Atlantic region
+3.0,2.0,1890.0,,Single,329900.0,43 Ridge Road ,NL,Atlantic region
+3.0,2.0,1360.0,,Single,139000.0,14 Water Street ,NL,Atlantic region
+3.0,1.0,988.0,,Single,189900.0,15 Leonard Place ,NL,Atlantic region
+4.0,2.0,2640.0,,Single,309000.0,3 Snow Crescent ,NL,Atlantic region
+4.0,3.0,1928.0,,Single,379000.0,1 Captain Franks Lane ,NL,Atlantic region
+3.0,2.0,1720.0,,Single,264000.0,68 Beauford Street ,NL,Atlantic region
+6.0,4.0,2550.0,,Residential,339900.0,509 Southside Road ,NL,Atlantic region
+4.0,2.0,1800.0,,Single,259900.0,88 Canterbury Drive ,NL,Atlantic region
+3.0,1.0,1968.0,,Single,89900.0,1649 Random Island Road ,NL,Atlantic region
+3.0,2.0,1984.0,,Single,169000.0,3 Pleasant Street ,NL,Atlantic region
+3.0,1.0,1532.0,,Single,279000.0,1 Winter's Pool Road ,NL,Atlantic region
+2.0,2.0,2170.0,,Single,189000.0,2 Church Hill ,NL,Atlantic region
+4.0,3.0,2150.0,,Single,279999.0,379 A JW Pickersgill Boulevard ,NL,Atlantic region
+5.0,3.0,6460.0,,Single,599000.0,25 Mill Road ,NL,Atlantic region
+5.0,2.0,2240.0,,Single,179000.0,26 Gregory Place ,NL,Atlantic region
+2.0,2.0,2100.0,,Single,331900.0,17 Lasalle Drive ,NL,Atlantic region
+6.0,7.0,7590.0,,Single,1275000.0,225 Waterford Bridge Road ,NL,Atlantic region
+3.0,3.0,2448.0,,Single,289900.0,2 Camelot Crescent ,NL,Atlantic region
+3.0,2.0,728.0,,Single,165000.0,461 Main Street ,NL,Atlantic region
+4.0,1.0,1800.0,,Single,999900.0,174 Tolt Road ,NL,Atlantic region
+4.0,1.0,1500.0,,Single,79900.0,32 Beaumont Street ,NL,Atlantic region
+4.0,3.0,2522.0,,Single,199900.0,339 Main Road ,NL,Atlantic region
+4.0,2.0,2200.0,,Single,299900.0,61 Sauve Street ,NL,Atlantic region
+4.0,2.0,1950.0,,Single,269900.0,13 Burgess Avenue ,NL,Atlantic region
+4.0,3.0,3574.0,,Single,339000.0,11 Terraview Drive N ,NL,Atlantic region
+3.0,2.0,2300.0,,Single,304900.0,Hopewell Garden Estates Conception Bay Highway ,NL,Atlantic region
+4.0,3.0,2584.0,,Single,329900.0,4 Gander Crescent ,NL,Atlantic region
+3.0,2.0,1295.0,,Single,189850.0,10 Fords Road ,NL,Atlantic region
+5.0,2.0,2025.0,,Single,169900.0,347-349 Conception Bay Highway ,NL,Atlantic region
+2.0,1.0,572.0,,Single,39900.0,0 Trinity South Highway ,NL,Atlantic region
+2.0,1.0,1473.0,,Single,159900.0,11 Barracks Road ,NL,Atlantic region
+3.0,3.0,2105.0,,Single,315000.0,7 TAMARA Place ,NL,Atlantic region
+3.0,2.0,1625.0,,Single,95900.0,336 Main Road ,NL,Atlantic region
+4.0,3.0,4800.0,,Residential,629000.0,250 Main Road ,NL,Atlantic region
+2.0,1.0,1148.0,,Single,175000.0,11 Mill Road ,NL,Atlantic region
+3.0,1.0,1792.0,,Single,174900.0,4 Fern Place ,NL,Atlantic region
+6.0,2.0,1780.0,,Single,150000.0,41 Harris Drive ,NL,Atlantic region
+3.0,2.0,1350.0,,Single,249000.0,17 Pennys Road ,NL,Atlantic region
+4.0,3.0,2808.0,,Single,150000.0,633 ST. THOMAS Line ,NL,Atlantic region
+4.0,2.0,2200.0,,Single,299900.0,5 Breeze Place ,NL,Atlantic region
+5.0,4.0,3480.0,,Single,339000.0,4 Clode Sound Road ,NL,Atlantic region
+3.0,3.0,1320.0,,Single,239000.0,9 LOCKE Street ,NL,Atlantic region
+3.0,1.0,1327.0,,Single,149900.0,41-43 Gullies Road ,NL,Atlantic region
+2.0,1.0,748.0,,Single,84500.0,294 Main Street ,NL,Atlantic region
+3.0,2.0,2124.0,,Single,234900.0,8 Wireless Road ,NL,Atlantic region
+5.0,3.0,2422.0,,Single,359900.0,19 Tigress Street ,NL,Atlantic region
+3.0,1.0,1728.0,,Single,250000.0,412 Grenfell Crescent ,NL,Atlantic region
+3.0,1.0,2020.0,,Single,112500.0,0 MAIN Road ,NL,Atlantic region
+2.0,1.0,1976.0,,Single,169000.0,146 Main Street ,NL,Atlantic region
+5.0,2.0,1964.0,,Single,250000.0,223 Topsail Road ,NL,Atlantic region
+3.0,4.0,3818.0,,Single,719000.0,360 Hamilton Avenue ,NL,Atlantic region
+5.0,2.0,2160.0,,Single,245000.0,140-142 Greenwood Street W ,NL,Atlantic region
+3.0,1.0,1971.0,,Single,149900.0,180 Main Street ,NL,Atlantic region
+5.0,2.0,2124.0,,Single,279000.0,46 Whiteway Street ,NL,Atlantic region
+3.0,1.0,1060.0,,Single,167500.0,47 Jackman Drive ,NL,Atlantic region
+2.0,3.0,1544.0,,Single,309000.0,34 Freshwater Road Unit B,NL,Atlantic region
+3.0,1.0,1941.0,,Single,260000.0,15-17 Elliotts Place ,NL,Atlantic region
+2.0,1.0,1728.0,,Single,149900.0,20 Learning Road ,NL,Atlantic region
+3.0,1.0,1176.0,,Single,169900.0,5 SEAWARDS Lane ,NL,Atlantic region
+3.0,1.0,924.0,,Single,119900.0,11 Evergreen Drive ,NL,Atlantic region
+3.0,3.0,2530.0,,Single,509900.0,8 Sparta Place ,NL,Atlantic region
+3.0,3.0,2234.0,,Single,438000.0,118 Ennis Avenue ,NL,Atlantic region
+3.0,1.0,884.0,,Single,69900.0,16 Sunset Drive ,NL,Atlantic region
+2.0,1.0,625.0,,Single,89500.0,175 Main Street North Street ,NL,Atlantic region
+2.0,1.0,800.0,,Single,40000.0,48 Fort Louis Road ,NL,Atlantic region
+3.0,2.0,2168.0,,Single,249000.0,17 Earhart Street ,NL,Atlantic region
+5.0,3.0,2600.0,,Single,449500.0,5 Appleton Place ,NL,Atlantic region
+3.0,2.0,3044.0,,Single,129000.0,12 Bayview Road ,NL,Atlantic region
+4.0,3.0,2297.0,,Single,359900.0,44 Comerfords Road ,NL,Atlantic region
+5.0,4.0,3051.0,,Single,700000.0,340B Conception Bay Highway ,NL,Atlantic region
+4.0,3.0,2065.0,,Single,259000.0,31 Bowater Drive ,NL,Atlantic region
+4.0,2.0,2175.0,,Single,280000.0,8 Evergreen Boulevard ,NL,Atlantic region
+2.0,2.0,1720.0,,Single,229900.0,2 Picea Lane ,NL,Atlantic region
+3.0,1.0,876.0,,Single,94600.0,29 Meadowbrook Park Road ,NL,Atlantic region
+3.0,2.0,1560.0,,Single,249900.0,56 Melville Place ,NL,Atlantic region
+5.0,3.0,3360.0,,Single,325000.0,32 TAVERNER Place ,NL,Atlantic region
+3.0,3.0,2343.0,,Single,309900.0,81 Cornwall Avenue ,NL,Atlantic region
+2.0,1.0,1196.0,,Single,149900.0,4 Hiscocks Road ,NL,Atlantic region
+3.0,2.0,2130.0,,Single,229900.0,5 Junction Heights ,NL,Atlantic region
+3.0,2.0,1950.0,,Single,329000.0,49 Montagnais Road ,NL,Atlantic region
+3.0,2.0,1538.0,,Single,349000.0,24 Palliser Crescent ,NL,Atlantic region
+5.0,3.0,2800.0,,Single,365000.0,7 Gower Street ,NL,Atlantic region
+3.0,3.0,1760.0,,Single,255000.0,49C Paradise Road ,NL,Atlantic region
+3.0,1.0,2028.0,,Residential,119900.0,14 Musgrave Street ,NL,Atlantic region
+4.0,2.0,2984.0,,Single,289900.0,14 GLASGOW Place ,NL,Atlantic region
+4.0,2.0,1799.0,,Single,224900.0,1 Whalens Lane ,NL,Atlantic region
+4.0,4.0,4155.0,,Single,549900.0,90 Lakeside Drive ,NL,Atlantic region
+5.0,2.0,2268.0,,Single,350000.0,354 Dogberry Hill Road ,NL,Atlantic region
+5.0,2.0,1600.0,,Single,209000.0,130 Greelytown Road ,NL,Atlantic region
+4.0,3.0,1026.0,,Single,379900.0,23 Nautilus Street ,NL,Atlantic region
+3.0,3.0,2327.0,,Single,189000.0,188 Lincoln Road ,NL,Atlantic region
+2.0,1.0,1840.0,,Single,141000.0,14 Overback Road ,NL,Atlantic region
+5.0,3.0,2410.0,,Single,349900.0,27 Brookside Drive ,NL,Atlantic region
+4.0,2.0,1110.0,,Single,279000.0,20 Corrigan Street ,NL,Atlantic region
+3.0,1.0,2352.0,,Single,197500.0,34 Wilcockson Crescent ,NL,Atlantic region
+5.0,2.0,2200.0,,Single,240000.0,63 Cornwall Avenue ,NL,Atlantic region
+4.0,4.0,3418.0,,Single,899900.0,15 Bluebell Bend ,NL,Atlantic region
+2.0,3.0,2523.0,,Single,749000.0,28 Church Road ,NL,Atlantic region
+3.0,3.0,1633.0,,Single,429900.0,29 Tipping Drive ,NL,Atlantic region
+5.0,2.0,1250.0,,Single,229000.0,212 PENNYWELL Road ,NL,Atlantic region
+2.0,1.0,1100.0,,Single,169000.0,280A Queen Street Extension ,NL,Atlantic region
+3.0,2.0,2840.0,,Single,184900.0,15 Long Lane ,NL,Atlantic region
+3.0,2.0,2800.0,,Single,499900.0,4 Sparta Place ,NL,Atlantic region
+5.0,2.0,1976.0,,Single,289900.0,47 Greens Pond Drive ,NL,Atlantic region
+4.0,4.0,2922.0,,Single,329900.0,14 Silverwood Drive ,NL,Atlantic region
+3.0,2.0,2192.0,,Single,339000.0,4 Shea Street ,NL,Atlantic region
+3.0,1.0,1408.0,,Single,169900.0,201 Empire Avenue ,NL,Atlantic region
+3.0,3.0,2470.0,,Single,209900.0,242 MARINE Drive ,NL,Atlantic region
+3.0,2.0,2148.0,,Single,339000.0,59A Military Road ,NL,Atlantic region
+8.0,3.0,2790.0,,Single,299900.0,22 Hamilton Avenue ,NL,Atlantic region
+5.0,4.0,3682.0,,Single,359000.0,12 Creedon Place ,NL,Atlantic region
+3.0,2.0,2080.0,,Single,279900.0,10-12 Rocky Pond Road ,NL,Atlantic region
+3.0,1.0,1848.0,.105,Single,249000.0,101 Burry Avenue ,NL,Atlantic region
+3.0,3.0,2940.0,,Single,139500.0,7 Circular Road ,NL,Atlantic region
+2.0,1.0,895.0,,Single,80000.0,696 Brake's Road ,NL,Atlantic region
+3.0,2.0,1197.0,.077,Single,229900.0,10 McGregor Lane ,NL,Atlantic region
+4.0,3.0,2148.0,,Single,177900.0,130 Main Highway ,NL,Atlantic region
+4.0,4.0,4065.0,,Single,649900.0,1 Exploits Avenue ,NL,Atlantic region
+3.0,3.0,2178.0,,Single,289900.0,7 Hayfield Place ,NL,Atlantic region
+5.0,2.0,1728.0,,Single,155000.0,45 Crockers Point Road ,NL,Atlantic region
+7.0,4.0,4040.0,,Single,649900.0,98 Cheeseman Drive ,NL,Atlantic region
+3.0,2.0,1625.0,,Single,399000.0,8-10 Harbourview Road ,NL,Atlantic region
+4.0,2.0,1152.0,,Single,189900.0,10-10A Magnolia Drive ,NL,Atlantic region
+1.0,2.0,1616.0,,Single,129900.0,5 CRANES Lane ,NL,Atlantic region
+8.0,6.0,5680.0,,Single,699900.0,21 School Road ,NL,Atlantic region
+3.0,2.0,1270.0,,Single,339900.0,39 Shriners Road ,NL,Atlantic region
+6.0,4.0,2892.0,,Single,459000.0,3 Dunn Drive ,NL,Atlantic region
+3.0,3.0,1824.0,,Single,333000.0,1B LYNCH Place ,NL,Atlantic region
+3.0,2.0,2304.0,,Single,175000.0,28 Forest Road ,NL,Atlantic region
+4.0,3.0,2081.0,,Single,429900.0,83 Pollux Drive ,NL,Atlantic region
+2.0,1.0,776.0,,Single,85000.0,25 Logwood Road ,NL,Atlantic region
+2.0,1.0,805.0,,Single,154900.0,40 Connors Hill ,NL,Atlantic region
+2.0,1.0,2008.0,,Single,99900.0,288 Three Island Pond Road ,NL,Atlantic region
+4.0,1.0,2000.0,,Single,189000.0,7 Normans Road ,NL,Atlantic region
+3.0,1.0,1010.0,,Single,159000.0,3007/3009 Harrie Lake Drive ,NL,Atlantic region
+4.0,2.0,3000.0,,Single,259000.0,35 O'Briens Drive ,NL,Atlantic region
+2.0,2.0,1900.0,,Single,240000.0,6 High Road ,NL,Atlantic region
+2.0,1.0,617.0,,Single,82900.0,295 Bayview Street ,NL,Atlantic region
+3.0,2.0,2200.0,,Single,339900.0,0 Conception Bay Highway ,NL,Atlantic region
+4.0,2.0,2350.0,,Single,349900.0,540 Marine Drive ,NL,Atlantic region
+5.0,2.0,2300.0,,Single,319900.0,15 Guy Street ,NL,Atlantic region
+3.0,2.0,1810.0,,Single,310000.0,67 Spruce Hill Road ,NL,Atlantic region
+3.0,2.0,1672.0,,Single,244900.0,37 Edison Place ,NL,Atlantic region
+5.0,3.0,4000.0,,Single,599500.0,294 Thorburn Road ,NL,Atlantic region
+4.0,3.0,2856.0,,Single,359900.0,6 Grassy Lane ,NL,Atlantic region
+3.0,2.0,2124.0,,Single,279900.0,1283 Conception Bay Highway ,NL,Atlantic region
+5.0,3.0,2500.0,,Single,275000.0,190 Shearstown Road ,NL,Atlantic region
+3.0,3.0,2940.0,,Single,605596.0,47-51 Hickory Place ,NL,Atlantic region
+4.0,2.0,1000.0,,Single,219000.0,33 Blackwood Drive ,NL,Atlantic region
+5.0,3.0,3030.0,,Single,299900.0,40 Main Road ,NL,Atlantic region
+5.0,2.0,2380.0,,Single,224900.0,19 Blossom Avenue ,NL,Atlantic region
+3.0,1.0,1098.0,,Single,248900.0,44 Monroe Street ,NL,Atlantic region
+5.0,4.0,2550.0,,Single,350000.0,11 Brentwood Avenue ,NL,Atlantic region
+4.0,1.0,2248.0,,Single,99900.0,0 Main Street ,NL,Atlantic region
+3.0,1.0,1232.0,,Single,89900.0,35 - 43 Park Avenue ,NL,Atlantic region
+3.0,1.0,1241.0,,Single,105000.0,24 Cove Road ,NL,Atlantic region
+3.0,1.0,850.0,,Single,114900.0,0 Main Street ,NL,Atlantic region
+3.0,2.0,2310.0,,Single,119900.0,57 Citizens Drive ,NL,Atlantic region
+4.0,4.0,3122.0,,Single,429900.0,1 Allens Road ,NL,Atlantic region
+3.0,1.0,1584.0,,Single,219900.0,342 Grenfell Heights ,NL,Atlantic region
+3.0,3.0,2364.0,,Single,299900.0,17 Edgecombe Drive ,NL,Atlantic region
+4.0,4.0,3800.0,,Single,549900.0,189-191 CORMACK Drive ,NL,Atlantic region
+3.0,1.0,2100.0,,Single,259900.0,7 Thetis Place ,NL,Atlantic region
+3.0,3.0,1369.0,,Single,304900.0,4 Canary Place ,NL,Atlantic region
+4.0,4.0,3255.0,,Single,379000.0,4 Noels Place ,NL,Atlantic region
+3.0,2.0,890.0,,Single,225000.0,27 Lighthouse Road ,NL,Atlantic region
+2.0,1.0,1482.0,,Single,199900.0,95 Craigmillar Avenue ,NL,Atlantic region
+4.0,5.0,3891.0,,Single,779900.0,6 Blue Puttee Drive ,NL,Atlantic region
+3.0,2.0,2185.0,,Single,214900.0,8 Gushue Place ,NL,Atlantic region
+5.0,3.0,3000.0,,Single,369900.0,10 Sunset Drive ,NL,Atlantic region
+2.0,1.0,620.0,,Single,134989.0,3 Eveleigh Lane ,NL,Atlantic region
+4.0,2.0,1775.0,,Single,169900.0,131 Cumberland Crescent ,NL,Atlantic region
+3.0,3.0,3310.0,,Single,549900.0,218 Buckingham Drive ,NL,Atlantic region
+3.0,2.0,1236.0,,Single,55000.0,30 College Street ,NL,Atlantic region
+3.0,2.0,2520.0,,Single,349900.0,Lot 9 Darryl Pye Drive ,NL,Atlantic region
+,,1551.0,,Single,64900.0,67 Lime Street ,NL,Atlantic region
+4.0,3.0,2800.0,,Single,549900.0,4A Sparta Place ,NL,Atlantic region
+4.0,4.0,3296.0,,Single,739900.0,48 Gallipoli Street ,NL,Atlantic region
+3.0,2.0,2610.0,,Single,209999.0,8 Blackwood Place ,NL,Atlantic region
+3.0,1.0,1500.0,,Single,89000.0,180 Main Street S ,NL,Atlantic region
+5.0,2.0,1976.0,,Single,334900.0,30 Dunrobin Street ,NL,Atlantic region
+4.0,2.0,2400.0,,Single,279000.0,18 Pinedo Road ,NL,Atlantic region
+3.0,1.0,1976.0,,Single,109900.0,5 Turners Road ,NL,Atlantic region
+3.0,2.0,1800.0,,Single,285000.0,7 Cardiff Place ,NL,Atlantic region
+4.0,3.0,2352.0,,Single,289900.0,100 Gulley Road ,NL,Atlantic region
+3.0,2.0,1700.0,,Single,219000.0,46 Main Street ,NL,Atlantic region
+3.0,1.0,1200.0,,Single,104900.0,139 N Hants Harbour Road ,NL,Atlantic region
+4.0,2.0,2160.0,,Residential,204900.0,296 Main Road ,NL,Atlantic region
+3.0,3.0,3050.0,,Single,529900.0,28 Craigmillar Avenue ,NL,Atlantic region
+2.0,1.0,728.0,,Single,109900.0,12 King's Road ,NL,Atlantic region
+3.0,1.0,1272.0,,Single,159900.0,2676 Topsail Road ,NL,Atlantic region
+5.0,2.0,2280.0,,Residential,299900.0,502 Main Road ,NL,Atlantic region
+4.0,2.0,2514.0,,Single,379900.0,13 Old Briton Crescent ,NL,Atlantic region
+4.0,2.0,2503.0,,Single,164000.0,7 Centennial Drive ,NL,Atlantic region
+3.0,1.0,927.0,,Single,179900.0,1 Vinehams Lane ,NL,Atlantic region
+3.0,2.0,1710.0,,Single,210000.0,18 Kawaja Drive ,NL,Atlantic region
+5.0,4.0,5853.0,,Single,1195000.0,123 Main Street ,NL,Atlantic region
+3.0,3.0,2178.0,,Residential,389900.0,57 Diamond Marsh Drive ,NL,Atlantic region
+3.0,2.0,1183.0,,Single,94900.0,27 Cobbs Arm Road ,NL,Atlantic region
+3.0,1.0,1872.0,,Single,359900.0,Lot 7 Ocean Pond Estates ,NL,Atlantic region
+4.0,2.0,1830.0,,Single,189900.0,76 Upper Jenkins Cove Road ,NL,Atlantic region
+3.0,1.0,935.0,,Single,129900.0,34 Woods Street ,NL,Atlantic region
+4.0,2.0,4780.0,,Single,784900.0,56 FOREST RIVER Road ,NL,Atlantic region
+3.0,1.0,1800.0,,Single,275000.0,6 Eric Street ,NL,Atlantic region
+3.0,3.0,3168.0,,Single,315000.0,57-61 Bannerman Lake Road ,NL,Atlantic region
+4.0,1.0,1834.0,,Single,179000.0,111 Lincoln Road ,NL,Atlantic region
+3.0,3.0,1450.0,,Single,359000.0,9 Antelope Street ,NL,Atlantic region
+3.0,2.0,1620.0,,Single,279900.0,62 Kennedys Lane ,NL,Atlantic region
+4.0,4.0,2554.0,,Single,375000.0,31 Belfast Street ,NL,Atlantic region
+5.0,3.0,2028.0,,Single,322500.0,33 Simcoe Drive ,NL,Atlantic region
+2.0,2.0,2000.0,,Single,309900.0,41 Dominic Drive ,NL,Atlantic region
+4.0,2.0,1360.0,,Single,69000.0,40 Seaview Drive ,NL,Atlantic region
+3.0,1.0,1316.0,,Single,229900.0,10 Beaumont Street ,NL,Atlantic region
+4.0,2.0,1843.0,,Single,419900.0,89 Hughs Pond Road ,NL,Atlantic region
+5.0,3.0,2766.0,,Single,329000.0,27 Bare Mountain Road ,NL,Atlantic region
+3.0,2.0,2350.0,,Single,189900.0,62 CORMACK Drive ,NL,Atlantic region
+2.0,1.0,1150.0,,Residential,179900.0,68 Pleasant Street ,NL,Atlantic region
+5.0,4.0,3600.0,,Single,469000.0,12 PARKSIDE Crescent ,NL,Atlantic region
+3.0,3.0,2464.0,,Single,219000.0,1 GARDEN Road ,NL,Atlantic region
+4.0,1.0,1200.0,,Single,159900.0,81 Conception Bay Highway ,NL,Atlantic region
+4.0,4.0,2708.0,,Single,425000.0,10 Larner Street ,NL,Atlantic region
+2.0,1.0,1460.0,,Single,289700.0,42 Alexander Street ,NL,Atlantic region
+4.0,2.0,1866.0,,Single,95000.0,14 Seventeenth Avenue ,NL,Atlantic region
+3.0,2.0,1443.0,,Single,250000.0,37 Meighen Street ,NL,Atlantic region
+3.0,3.0,1960.0,,Single,329900.0,104 Beaumont Street ,NL,Atlantic region
+3.0,2.0,1595.0,,Single,129900.0,4-6 Hollands Avenue ,NL,Atlantic region
+4.0,2.0,2400.0,,Single,239900.0,6 Goose Pond Road ,NL,Atlantic region
+2.0,1.0,768.0,,Single,232000.0,6 Saunders Street ,NL,Atlantic region
+4.0,3.0,3078.0,,Single,389000.0,61 Carrick Drive ,NL,Atlantic region
+4.0,2.0,1700.0,,Single,289000.0,10 Caprea Place ,NL,Atlantic region
+3.0,2.0,2680.0,,Single,279000.0,3 Saltwater Lane ,NL,Atlantic region
+5.0,3.0,2490.0,,Single,375000.0,160 Great Eastern Avenue ,NL,Atlantic region
+2.0,1.0,1920.0,,Single,99900.0,31 Old Cabot Highway ,NL,Atlantic region
+3.0,1.0,2352.0,,Single,39900.0,7 MAIN Road ,NL,Atlantic region
+2.0,2.0,1248.0,,Single,359900.0,6 DINA Place ,NL,Atlantic region
+3.0,1.0,1904.0,,Single,96900.0,6 Caribou Road ,NL,Atlantic region
+3.0,2.0,2504.0,,Single,239900.0,128A Main Street ,NL,Atlantic region
+2.0,1.0,1530.0,,Single,269900.0,88 Bond Street ,NL,Atlantic region
+3.0,3.0,2177.0,,Single,384900.0,79 Diamond Marsh Drive ,NL,Atlantic region
+4.0,2.0,3160.0,,Single,155000.0,42 Salisbury Street ,NL,Atlantic region
+2.0,1.0,840.0,,Single,179000.0,36 Johnson Crescent ,NL,Atlantic region
+3.0,2.0,2500.0,,Single,299500.0,15 Youth Valley Road ,NL,Atlantic region
+4.0,2.0,2430.0,,Single,259900.0,27 Terminal Road ,NL,Atlantic region
+5.0,5.0,6309.0,,Single,699900.0,142 Cheeseman Drive ,NL,Atlantic region
+3.0,2.0,3200.0,,Single,402000.0,Lot 4 Lailas Road ,NL,Atlantic region
+5.0,2.0,2150.0,,Single,314900.0,8 Dunfield Street ,NL,Atlantic region
+5.0,4.0,2500.0,,Single,309900.0,51 Kerry Avenue ,NL,Atlantic region
+3.0,3.0,2007.0,,Single,295000.0,45D Goodridge Street ,NL,Atlantic region
+3.0,2.0,1692.0,,Single,330000.0,41 Milton Road ,NL,Atlantic region
+2.0,1.0,700.0,,Single,89900.0,80 Thornes Park ,NL,Atlantic region
+3.0,3.0,2460.0,,Single,375000.0,4 Gainsborough Place ,NL,Atlantic region
+3.0,3.0,2634.0,,Single,369900.0,32 Mercers Drive ,NL,Atlantic region
+2.0,1.0,1624.0,,Single,159000.0,23 YOUNG Street ,NL,Atlantic region
+6.0,4.0,4328.0,,Single,974900.0,33 Topsail Road ,NL,Atlantic region
+5.0,4.0,1300.0,,Single,265000.0,11 Cartwright Place ,NL,Atlantic region
+3.0,2.0,3169.0,,Single,329900.0,568-570 Main Road ,NL,Atlantic region
+3.0,2.0,1350.0,,Single,25000.0,13 Beaumont Avenue ,NL,Atlantic region
+3.0,2.0,1840.0,,Single,284900.0,48 Nelder Drive ,NL,Atlantic region
+3.0,2.0,1400.0,,Single,339000.0,314 Scheffer Street ,NL,Atlantic region
+3.0,3.0,1950.0,,Single,325000.0,12 Bettney Place ,NL,Atlantic region
+4.0,2.0,1750.0,,Single,179000.0,170 Front Road ,NL,Atlantic region
+2.0,2.0,1248.0,,Single,359900.0,8 DINA Place ,NL,Atlantic region
+3.0,1.0,974.0,,Single,127000.0,53 Goulds Ridge Road ,NL,Atlantic region
+3.0,3.0,3335.0,,Single,535000.0,17 Titania Place ,NL,Atlantic region
+2.0,1.0,725.0,,Single,69900.0,2 Ladder Point Road ,NL,Atlantic region
+3.0,3.0,1874.0,,Single,359900.0,19 Phoenix Drive ,NL,Atlantic region
+3.0,1.0,1000.0,,Single,134900.0,3 LANES Road ,NL,Atlantic region
+6.0,2.0,1728.0,,Single,325000.0,6A Hamilton River Road ,NL,Atlantic region
+3.0,2.0,2968.0,,Residential,649000.0,14 Claddagh Road ,NL,Atlantic region
+4.0,2.0,3047.0,,Single,499000.0,15 Stoneyhouse Street ,NL,Atlantic region
+3.0,2.0,2360.0,,Single,465000.0,2 SAUL Drive ,NL,Atlantic region
+3.0,2.0,1605.0,,Single,269900.0,8 Delemere Place ,NL,Atlantic region
+4.0,3.0,3611.0,,Single,689900.0,3 Ozark Place ,NL,Atlantic region
+6.0,2.0,2050.0,,Single,245000.0,28 Butlers Road N ,NL,Atlantic region
+3.0,2.0,1254.0,,Single,379900.0,18 Cape Ballard Place ,NL,Atlantic region
+4.0,2.0,1900.0,,Single,238500.0,192 Harbour Drive ,NL,Atlantic region
+4.0,2.0,2233.0,,Single,279000.0,114 Station Road ,NL,Atlantic region
+2.0,1.0,884.0,,Single,72000.0,27 Brook Street ,NL,Atlantic region
+4.0,4.0,3426.0,,Single,325000.0,10-12 Rocky Hill Road ,NL,Atlantic region
+3.0,3.0,3951.0,,Single,775900.0,15 Claddagh Road ,NL,Atlantic region
+4.0,4.0,4000.0,,Single,799900.0,61 Kirkston Avenue ,NL,Atlantic region
+3.0,1.0,1824.0,,Single,119000.0,20 King Street ,NL,Atlantic region
+3.0,1.0,1152.0,,Single,139900.0,LOT 7 LITTLE RIVER Estates ,NL,Atlantic region
+4.0,5.0,1536.0,,Single,189900.0,10A Kellys Island Road ,NL,Atlantic region
+4.0,1.0,1672.0,,Single,210000.0,65 Jordan Place ,NL,Atlantic region
+4.0,2.0,3310.0,,Single,249500.0,22 Church Street ,NL,Atlantic region
+3.0,3.0,4640.0,,Single,359000.0,62 Bennett Drive ,NL,Atlantic region
+3.0,1.0,1330.0,,Single,157500.0,20 McFarlane Street ,NL,Atlantic region
+4.0,2.0,1368.0,,Single,439000.0,104 Raven Avenue ,NL,Atlantic region
+4.0,4.0,4170.0,,Single,649900.0,4 Wedgeport Road ,NL,Atlantic region
+3.0,2.0,1148.0,,Single,98500.0,7 Hicks Place ,NL,Atlantic region
+3.0,2.0,2200.0,,Single,254900.0,51-53 Water Street ,NL,Atlantic region
+4.0,3.0,3691.0,,Single,585000.0,13 Katie Place ,NL,Atlantic region
+3.0,1.0,834.0,,Single,129900.0,139 Town Circle ,NL,Atlantic region
+3.0,3.0,3148.0,,Single,399900.0,153 Main Road ,NL,Atlantic region
+3.0,3.0,2564.0,,Single,394500.0,19 MORRISSEY'S Lane ,NL,Atlantic region
+3.0,5.0,2624.0,,Single,339000.0,52B STATION Road ,NL,Atlantic region
+3.0,3.0,3580.0,,Single,749900.0,35 Tipping Drive ,NL,Atlantic region
+3.0,3.0,1960.0,,Single,349900.0,102 Beaumont Street ,NL,Atlantic region
+4.0,3.0,1875.0,,Single,329900.0,12 Lady Ann Place ,NL,Atlantic region
+3.0,2.0,2448.0,,Single,149900.0,4 Main Road ,NL,Atlantic region
+3.0,3.0,1795.0,,Single,499000.0,491 Water Street ,NL,Atlantic region
+3.0,2.0,1600.0,,Single,229900.0,11 Eric Street ,NL,Atlantic region
+6.0,5.0,4440.0,,Single,289000.0,2 Regional Street ,NL,Atlantic region
+2.0,1.0,1457.0,,Single,310000.0,91 Conception Bay Highway ,NL,Atlantic region
+2.0,1.0,1076.0,,Single,329000.0,100 Memorial Drive ,NL,Atlantic region
+3.0,3.0,1795.0,,Single,265000.0,34 Cholock Place ,NL,Atlantic region
+4.0,4.0,2525.0,,Single,334900.0,31 Serpentine Street ,NL,Atlantic region
+1.0,2.0,1076.0,,Single,289000.0,6 Our Cove Road ,NL,Atlantic region
+3.0,2.0,1710.0,,Single,98000.0,34 Hillview Avenue ,NL,Atlantic region
+3.0,1.0,2318.0,,Single,160000.0,2 Main Road ,NL,Atlantic region
+3.0,2.0,1872.0,,Single,289900.0,12 Forge Road ,NL,Atlantic region
+5.0,3.0,2695.0,,Single,319000.0,6 SUNSET Drive ,NL,Atlantic region
+4.0,3.0,1900.0,,Single,250000.0,28 Frontenac Avenue ,NL,Atlantic region
+3.0,2.0,1200.0,,Single,53499.0,22-24 Lakes Road ,NL,Atlantic region
+2.0,1.0,1050.0,,Single,499900.0,217-227 Conception Bay Highway ,NL,Atlantic region
+2.0,1.0,890.0,,Single,189000.0,6 SIXTEENTH Avenue ,NL,Atlantic region
+4.0,2.0,2969.0,,Single,299000.0,6 Hill Road ,NL,Atlantic region
+4.0,2.0,2396.0,,Single,169900.0,6 King's Crescent Extension ,NL,Atlantic region
+3.0,2.0,2108.0,,Single,349900.0,Lot 10 Darryl Pye Drive ,NL,Atlantic region
+3.0,3.0,2016.0,,Single,269900.0,7 Griffins Lane ,NL,Atlantic region
+3.0,1.0,864.0,,Single,119900.0,0 Harbourview Road ,NL,Atlantic region
+5.0,4.0,2640.0,,Single,324900.0,20 Frecker Place ,NL,Atlantic region
+5.0,3.0,3493.0,,Single,432000.0,1634 Topsail Road ,NL,Atlantic region
+3.0,1.0,1020.0,,Single,199900.0,23 CAMPBELL Avenue ,NL,Atlantic region
+4.0,2.0,1300.0,,Single,135000.0,143 Harvey Street ,NL,Atlantic region
+2.0,1.0,800.0,,Single,99900.0,294 Southside Road ,NL,Atlantic region
+3.0,1.0,1918.0,,Single,259900.0,11 Wheelers Road ,NL,Atlantic region
+3.0,2.0,1400.0,,Single,119900.0,240 Main Road ,NL,Atlantic region
+4.0,4.0,3895.0,,Single,424900.0,4 Covemans Lane ,NL,Atlantic region
+4.0,3.0,2340.0,,Single,385000.0,48 Payette Street ,NL,Atlantic region
+4.0,3.0,3030.0,,Single,249000.0,19 Jollievue Drive ,NL,Atlantic region
+4.0,2.0,1500.0,,Single,189000.0,39 Seal Cove Road ,NL,Atlantic region
+3.0,3.0,2330.0,,Single,269500.0,4 Dickinson Place ,NL,Atlantic region
+3.0,2.0,1200.0,,Single,299900.0,14 Albert Street ,NL,Atlantic region
+3.0,2.0,2304.0,,Single,392900.0,Lot 100 Ocean Pond Estates Road ,NL,Atlantic region
+4.0,5.0,,,Single,1499000.0,1 CASA BLUE JAY WAY ,NL,Atlantic region
+3.0,3.0,1404.0,,Single,309900.0,6 Padre Nangle Place ,NL,Atlantic region
+2.0,2.0,1728.0,,Single,795000.0,35-39 Vokey's Road ,NL,Atlantic region
+3.0,2.0,860.0,,Single,129000.0,210 Bob Clark Drive ,NL,Atlantic region
+3.0,3.0,2954.0,,Single,512000.0,9 MARY ANN Place ,NL,Atlantic region
+2.0,2.0,2240.0,,Single,219900.0,1252-1254 Thorburn Road ,NL,Atlantic region
+4.0,2.0,2310.0,,Single,169900.0,3 Richmond Street ,NL,Atlantic region
+4.0,2.0,2284.0,,Single,235000.0,20 American Drive ,NL,Atlantic region
+4.0,1.0,1500.0,,Single,139900.0,39 Carmelite Road ,NL,Atlantic region
+2.0,1.0,960.0,,Single,199900.0,1624 Conception Bay Highway ,NL,Atlantic region
+2.0,1.0,925.0,,Single,79900.0,267 Main Road ,NL,Atlantic region
+2.0,3.0,1920.0,,Single,129000.0,161 Marine Drive ,NL,Atlantic region
+3.0,2.0,1680.0,,Single,279900.0,31 Saffron Street ,NL,Atlantic region
+3.0,4.0,1906.0,,Single,429900.0,60 Claddagh Road ,NL,Atlantic region
+3.0,1.0,1102.0,,Single,169000.0,162 Main Street ,NL,Atlantic region
+3.0,2.0,2066.0,,Single,184000.0,29 Winterland Road ,NL,Atlantic region
+4.0,3.0,2280.0,,Single,349900.0,8 McCurdy Place ,NL,Atlantic region
+3.0,2.0,1050.0,,Residential,269000.0,40-42 Shaws Lane ,NL,Atlantic region
+4.0,4.0,2165.0,,Single,349900.0,82 Cape Pine Street ,NL,Atlantic region
+4.0,3.0,3376.0,,Single,389000.0,333 Stavanger Drive ,NL,Atlantic region
+2.0,1.0,1000.0,,Single,269000.0,7 Moses Point ,NL,Atlantic region
+4.0,2.0,1600.0,,Single,234900.0,7 Simmons Place ,NL,Atlantic region
+3.0,3.0,2301.0,,Single,299000.0,19 Park Road ,NL,Atlantic region
+3.0,3.0,1800.0,,Residential,349900.0,259 Pennywell Road ,NL,Atlantic region
+3.0,3.0,3020.0,,Single,299000.0,92 TRINITY Drive ,NL,Atlantic region
+3.0,2.0,2180.0,,Single,275000.0,10-12 The Old Road ,NL,Atlantic region
+4.0,3.0,4000.0,,Single,774900.0,7 Burns Place ,NL,Atlantic region
+3.0,1.0,1680.0,,Single,199900.0,34 Montague Street ,NL,Atlantic region
+4.0,2.0,1680.0,,Single,224900.0,54 Wishingwell Road ,NL,Atlantic region
+5.0,2.0,2090.0,,Single,359900.0,31 Daniels Road ,NL,Atlantic region
+3.0,1.0,1468.0,,Single,319000.0,64 Riverhead Road ,NL,Atlantic region
+3.0,1.0,1196.0,,Single,149900.0,7 Maple Street ,NL,Atlantic region
+5.0,3.0,2632.0,,Single,399900.0,14-20 O'Keefe's Lane ,NL,Atlantic region
+3.0,2.0,1352.0,,Single,265000.0,19 Dunphy Avenue ,NL,Atlantic region
+3.0,3.0,2185.0,,Single,399900.0,91 - 93 Dunns Hill Road ,NL,Atlantic region
+3.0,1.0,1088.0,,Single,115000.0,104 Main Street South Street ,NL,Atlantic region
+3.0,3.0,5216.0,,Single,599000.0,8 Beach Road ,NL,Atlantic region
+3.0,1.0,1952.0,,Single,109900.0,2 Rattles Road ,NL,Atlantic region
+3.0,2.0,2652.0,,Single,269000.0,181 Pleasant Street ,NL,Atlantic region
+3.0,1.0,2368.0,,Single,145000.0,47 Pleasant Avenue ,NL,Atlantic region
+2.0,1.0,1200.0,,Single,239900.0,437 Main Road ,NL,Atlantic region
+2.0,1.0,1008.0,,Single,159500.0,14 Memorial Drive ,NL,Atlantic region
+6.0,2.0,2268.0,,Single,349500.0,21 LEMAIRE ROAD Road ,NL,Atlantic region
+2.0,2.0,1008.0,,Single,154900.0,142 Main Street ,NL,Atlantic region
+2.0,1.0,727.0,,Single,48900.0,0 Vincent's Point ,NL,Atlantic region
+4.0,3.0,2644.0,,Single,247900.0,49 Janes Avenue ,NL,Atlantic region
+2.0,1.0,672.0,,Single,169000.0,8 Bensons Field ,NL,Atlantic region
+3.0,3.0,1950.0,,Single,329000.0,31 Kings Road ,NL,Atlantic region
+6.0,3.0,3440.0,,Single,329000.0,12 Blair Place ,NL,Atlantic region
+1.0,1.0,1442.0,,Single,259900.0,20 Karwood Drive Unit20 LOT,NL,Atlantic region
+5.0,2.0,2186.0,,Single,175000.0,53 Mount Vincent Crescent ,NL,Atlantic region
+3.0,2.0,1800.0,,Single,89000.0,37 2nd Avenue ,NL,Atlantic region
+6.0,2.0,2800.0,,Single,299999.0,561 Topsail Road ,NL,Atlantic region
+1.0,1.0,1114.0,,Single,157500.0,31A Main Street ,NL,Atlantic region
+2.0,1.0,650.0,,Single,45900.0,10 East Tickle Road ,NL,Atlantic region
+6.0,4.0,2520.0,,Single,419000.0,210-212 Bob Clark Drive ,NL,Atlantic region
+3.0,3.0,2694.0,,Single,325000.0,17 Birch Street ,NL,Atlantic region
+4.0,1.0,2363.0,,Single,135000.0,49 Webster Place ,NL,Atlantic region
+2.0,2.0,1440.0,,Single,210000.0,96 Timber Cove Road ,NL,Atlantic region
+6.0,2.0,2808.0,,Single,329900.0,40 Squires Avenue ,NL,Atlantic region
+5.0,2.0,1800.0,,Single,199000.0,33 Highroad North Road ,NL,Atlantic region
+3.0,2.0,2124.0,,Single,279900.0,1283 Conception Bay Highway ,NL,Atlantic region
+4.0,2.0,1500.0,,Single,370000.0,227 Waterford Bridge Road ,NL,Atlantic region
+4.0,1.0,1350.0,,Single,69900.0,501 Main Street ,NL,Atlantic region
+3.0,3.0,5019.0,,Single,579000.0,40-42 Valleyview Drive ,NL,Atlantic region
+3.0,2.0,1696.0,,Single,299000.0,55 Sandy Cove Road ,NL,Atlantic region
+6.0,3.0,1746.0,,Single,250000.0,4 Bannisters Road ,NL,Atlantic region
+3.0,2.0,1768.0,,Single,275000.0,273 A West Street ,NL,Atlantic region
+3.0,2.0,1260.0,,Single,239000.0,6 RIVERVIEW Drive ,NL,Atlantic region
+4.0,2.0,1900.0,,Single,149900.0,8 Blackberry Crescent ,NL,Atlantic region
+2.0,3.0,2400.0,,Single,179900.0,56 Old Cabot Highway ,NL,Atlantic region
+4.0,2.0,2500.0,,Single,329900.0,27 Conway Crescent ,NL,Atlantic region
+2.0,2.0,1140.0,,Single,259900.0,600 Southside Road ,NL,Atlantic region
+3.0,2.0,1850.0,,Single,249900.0,2 Country Lane ,NL,Atlantic region
+3.0,2.0,1248.0,,Single,239900.0,54 CORMACK Drive ,NL,Atlantic region
+2.0,1.0,1280.0,,Single,299000.0,156 Highway OTHER ,NL,Atlantic region
+2.0,1.0,1600.0,,Single,119000.0,12 Adeyville Road ,NL,Atlantic region
+2.0,3.0,2528.0,,Single,434000.0,670 Indian Meal Line ,NL,Atlantic region
+5.0,2.0,2400.0,,Single,335000.0,45 Goodridge Street ,NL,Atlantic region
+4.0,2.0,2912.0,,Single,185000.0,1 Lower Townsite OTHER ,NL,Atlantic region
+3.0,1.0,780.0,,Single,179000.0,56A Boom Siding Road ,NL,Atlantic region
+3.0,2.0,1500.0,,Single,179000.0,54 Blackwood Place ,NL,Atlantic region
+6.0,4.0,2400.0,,Single,299000.0,39 Haystack Avenue ,NL,Atlantic region
+3.0,2.0,1080.0,,Single,179000.0,13 Mooney Crescent ,NL,Atlantic region
+4.0,2.0,1314.0,,Single,155000.0,39 Adelaide Street ,NL,Atlantic region
+4.0,3.0,2682.0,,Single,239000.0,5 Wireless Road ,NL,Atlantic region
+3.0,2.0,1764.0,.074,Single,219900.0,10 Flynn Lane ,NL,Atlantic region
+4.0,2.0,1933.0,,Single,239000.0,6 Jackman Drive W ,NL,Atlantic region
+3.0,4.0,3758.0,,Single,1089000.0,9 Oceans Edge ,NL,Atlantic region
+3.0,2.0,1986.0,,Single,294900.0,96 Hibbs Road ,NL,Atlantic region
+3.0,1.0,1120.0,,Single,109900.0,3 Osbourne Street ,NL,Atlantic region
+3.0,2.0,1672.0,,Single,299500.0,413 Gillingham Avenue ,NL,Atlantic region
+3.0,3.0,1647.0,,Single,374900.0,149B Casey Street ,NL,Atlantic region
+4.0,1.0,1800.0,,Single,189000.0,16 Hunt's Lane ,NL,Atlantic region
+2.0,1.0,947.0,,Single,139900.0,18 Dove Crescent ,NL,Atlantic region
+3.0,2.0,1364.0,,Single,388000.0,82A & 80A Dock Road ,NL,Atlantic region
+2.0,1.0,966.0,,Single,89900.0,4 Little Muddy Hole Road ,NL,Atlantic region
+3.0,2.0,1216.0,,Single,234900.0,43 Harbour Drive ,NL,Atlantic region
+3.0,3.0,1655.0,,Single,474750.0,35 Ballylee Crescent ,NL,Atlantic region
+6.0,3.0,3800.0,,Single,299900.0,378 MAIN Road ,NL,Atlantic region
+3.0,2.0,2986.0,,Residential,274500.0,8 Newmans Hill ,NL,Atlantic region
+3.0,1.0,1240.0,,Single,169900.0,0 Lance Cove Road ,NL,Atlantic region
+4.0,2.0,1500.0,,Single,199000.0,16 Maple Avenue ,NL,Atlantic region
+2.0,2.0,1404.0,,Single,179900.0,14 Ferryland East Street ,NL,Atlantic region
+2.0,1.0,1904.0,,Single,219900.0,Lot 45 Lori Ann Place ,NL,Atlantic region
+3.0,1.0,1800.0,,Residential,159000.0,21 Clearview Street ,NL,Atlantic region
+4.0,3.0,4330.0,,Single,625000.0,33 Stack's Lane ,NL,Atlantic region
+2.0,2.0,1300.0,,Single,429000.0,802 Willow Drive ,NL,Atlantic region
+2.0,1.0,2140.0,,Single,325000.0,3 Main Road ,NL,Atlantic region
+3.0,2.0,1700.0,,Single,179900.0,150 Main Road ,NL,Atlantic region
+2.0,1.0,704.0,,Single,37000.0,887 Smith Sound Road ,NL,Atlantic region
+4.0,3.0,3530.0,,Single,749900.0,10 MUNICIPAL Square ,NL,Atlantic region
+5.0,2.0,1800.0,,Single,124900.0,563-565 Main Road ,NL,Atlantic region
+3.0,3.0,1690.0,,Single,149000.0,232 Main Road ,NL,Atlantic region
+3.0,3.0,2638.0,,Single,569900.0,8 Middle Ledge OTHER ,NL,Atlantic region
+11.0,7.0,5400.0,,Single,655000.0,119 Humber Road ,NL,Atlantic region
+2.0,1.0,1050.0,,Single,29900.0,3 CONCEPTION  BAY Highway ,NL,Atlantic region
+3.0,3.0,1760.0,,Single,255000.0,49A Paradise Road ,NL,Atlantic region
+3.0,1.0,1288.0,,Single,159900.0,5-7 Ridge Road ,NL,Atlantic region
+3.0,1.0,840.0,,Single,85000.0,16 Stadium Road ,NL,Atlantic region
+4.0,3.0,2440.0,,Single,369900.0,59 Lady Anderson Street ,NL,Atlantic region
+3.0,3.0,2757.0,,Single,539750.0,53 Frampton Avenue ,NL,Atlantic region
+4.0,2.0,2005.0,,Single,149900.0,9 Water Street W ,NL,Atlantic region
+5.0,2.0,1905.0,,Single,239000.0,236 Middle Cove Road ,NL,Atlantic region
+4.0,2.0,1277.0,,Single,139900.0,2 Empire Drive ,NL,Atlantic region
+3.0,2.0,1737.0,,Single,249000.0,58 East Valley Road ,NL,Atlantic region
+3.0,1.0,840.0,,Single,150000.0,126 Park Avenue ,NL,Atlantic region
+3.0,2.0,1295.0,,Single,55000.0,3 Burts Lane ,NL,Atlantic region
+3.0,2.0,1702.0,,Single,249000.0,80 Circular Road ,NL,Atlantic region
+5.0,4.0,2193.0,,Single,379900.0,4 Mccurdy Place ,NL,Atlantic region
+3.0,3.0,2637.0,,Single,455900.0,81 Diamond Marsh Drive ,NL,Atlantic region
+4.0,3.0,3833.0,,Single,500000.0,6 Kate Marie Place ,NL,Atlantic region
+3.0,2.0,1500.0,,Single,295000.0,97 Rodgers Cove Road ,NL,Atlantic region
+2.0,2.0,1160.0,,Single,249900.0,Lot 46 Lori Ann Place ,NL,Atlantic region
+3.0,1.0,1120.0,,Single,99900.0,18 Monchy Road ,NL,Atlantic region
+5.0,3.0,900.0,,Single,349900.0,172 Pennywell Road ,NL,Atlantic region
+3.0,3.0,3350.0,,Single,699900.0,94 Amber Drive ,NL,Atlantic region
+4.0,3.0,2908.0,,Single,284500.0,26 Collishaw Crescent ,NL,Atlantic region
+2.0,2.0,1700.0,,Single,219000.0,21 Billard Avenue ,NL,Atlantic region
+2.0,1.0,780.0,,Single,129900.0,19 Aspen Lane ,NL,Atlantic region
+4.0,2.0,2624.0,,Single,259000.0,51 Marshalls Drive ,NL,Atlantic region
+4.0,2.0,2550.0,,Single,319900.0,63 Holbrook Avenue ,NL,Atlantic region
+1.0,1.0,1442.0,,Single,259900.0,20 Karwood Drive Unit21 LOT,NL,Atlantic region
+4.0,4.0,3492.0,,Single,459900.0,12 Huntingdale Drive ,NL,Atlantic region
+5.0,2.0,2400.0,,Single,193500.0,88 Main Road ,NL,Atlantic region
+3.0,3.0,2840.0,,Single,439000.0,6 Doodys Lane ,NL,Atlantic region
+4.0,1.0,1950.0,,Single,179900.0,23 Nungesser Avenue ,NL,Atlantic region
+4.0,2.0,1672.0,,Single,249900.0,241 Mundy Pond Road ,NL,Atlantic region
+4.0,3.0,2230.0,,Single,213000.0,27 Main Road ,NL,Atlantic region
+2.0,1.0,600.0,,Single,199000.0,3 Flat Rock Road ,NL,Atlantic region
+3.0,1.0,2268.0,,Single,275000.0,4 Warbury Street ,NL,Atlantic region
+2.0,2.0,1200.0,,Single,299900.0,87-89 South East Road ,NL,Atlantic region
+3.0,2.0,1710.0,,Residential,209900.0,35 Noad Place ,NL,Atlantic region
+3.0,3.0,2753.0,,Single,437300.0,Lot 3 Lailas Road ,NL,Atlantic region
+3.0,3.0,1800.0,,Single,379000.0,18 Sunset Drive ,NL,Atlantic region
+2.0,1.0,1200.0,,Single,89900.0,1265 Main Road ,NL,Atlantic region
+3.0,1.0,1152.0,,Single,95000.0,5 Harry's Lane ,NL,Atlantic region
+2.0,1.0,1296.0,,Single,159000.0,40 Ferryland Street E ,NL,Atlantic region
+3.0,2.0,3076.0,,Single,249000.0,25A CIRCULAR Road ,NL,Atlantic region
+6.0,5.0,4995.0,,Residential,425000.0,22 Bartons Road ,NL,Atlantic region
+2.0,2.0,2860.0,,Single,523750.0,47 Frampton Avenue ,NL,Atlantic region
+2.0,2.0,2647.0,,Single,565000.0,18 Claddagh Road ,NL,Atlantic region
+3.0,1.0,937.0,,Single,110000.0,46A Harbour Drive ,NL,Atlantic region
+5.0,4.0,2560.0,,Single,389900.0,62 Lady Anderson Drive ,NL,Atlantic region
+3.0,1.0,931.0,,Single,50000.0,292 Creston Boulevard ,NL,Atlantic region
+5.0,6.0,6072.0,,Single,2200000.0,4 Halliday Place ,NL,Atlantic region
+3.0,1.0,1605.0,,Single,139900.0,14 CORMACK Drive ,NL,Atlantic region
+6.0,2.0,3026.0,,Single,175000.0,66 Merrymeeting Road ,NL,Atlantic region
+5.0,2.0,2240.0,,Single,599900.0,191 Tamarack Drive ,NL,Atlantic region
+3.0,3.0,2321.0,,Single,394900.0,48 Diamond Marsh Drive ,NL,Atlantic region
+5.0,2.0,1880.0,,Single,309000.0,6 Dammerills Lane ,NL,Atlantic region
+3.0,1.0,950.0,,Single,89000.0,145 Main Road ,NL,Atlantic region
+3.0,1.0,1070.0,,Single,115000.0,84 Orcan Drive ,NL,Atlantic region
+3.0,2.0,2576.0,.184,Single,349900.0,130 Raven Avenue ,NL,Atlantic region
+3.0,2.0,2604.0,,Single,159900.0,33-35 Crosbie Road ,NL,Atlantic region
+4.0,6.0,11044.0,,Single,2995000.0,355 Tolt Road ,NL,Atlantic region
+8.0,4.0,8247.0,,Single,775000.0,7 Waterford Bridge Road ,NL,Atlantic region
+2.0,1.0,866.0,,Single,79000.0,9A Snows Lane ,NL,Atlantic region
+4.0,3.0,2445.0,,Single,224900.0,8-10 Victor Pidgeon's Road ,NL,Atlantic region
+3.0,2.0,2850.0,,Single,250000.0,34 Grenfell Street ,NL,Atlantic region
+2.0,1.0,1872.0,,Single,309900.0,10 Chloe Place ,NL,Atlantic region
+4.0,3.0,2821.0,,Single,429000.0,20 Princess Avenue ,NL,Atlantic region
+3.0,2.0,2024.0,,Single,295500.0,47 Park Drive ,NL,Atlantic region
+3.0,1.0,996.0,,Single,199000.0,2 Willies Road ,NL,Atlantic region
+5.0,2.0,2100.0,,Residential,214900.0,31 Doyle Street ,NL,Atlantic region
+5.0,3.0,1306.0,,Single,359900.0,55 Viscount Street ,NL,Atlantic region
+4.0,2.0,968.0,,Single,42000.0,48 N Main Road ,NL,Atlantic region
+3.0,2.0,1662.0,,Single,159000.0,163 Water Street ,NL,Atlantic region
+4.0,2.0,2039.0,,Single,245000.0,30 Morgan Drive ,NL,Atlantic region
+3.0,4.0,3680.0,,Single,579900.0,131 Groves Road ,NL,Atlantic region
+3.0,3.0,1800.0,,Single,265900.0,133 MAIN Road ,NL,Atlantic region
+3.0,2.0,2400.0,,Single,309900.0,0 Hopewell Garden ,NL,Atlantic region
+3.0,2.0,2220.0,,Single,348900.0,1051 Indian Meal Line ,NL,Atlantic region
+6.0,3.0,4700.0,,Single,489000.0,130 Airport Boulevard ,NL,Atlantic region
+2.0,2.0,2240.0,,Single,269000.0,5 Sheaves Lane ,NL,Atlantic region
+3.0,3.0,1782.0,,Single,269900.0,10-12 Wildberry Lane ,NL,Atlantic region
+4.0,3.0,2392.0,,Single,324900.0,9 Paddy Kay Drive ,NL,Atlantic region
+3.0,3.0,2780.0,,Single,169000.0,8 OLD CHURCH Road ,NL,Atlantic region
+3.0,2.0,1320.0,,Single,159900.0,8 Burts Road ,NL,Atlantic region
+3.0,2.0,1960.0,,Single,174900.0,67 Second Avenue ,NL,Atlantic region
+3.0,2.0,2258.0,,Single,155000.0,33 second Avenue ,NL,Atlantic region
+4.0,3.0,3003.0,,Single,569900.0,Lot 45 Jensen Camp Road ,NL,Atlantic region
+3.0,1.0,2628.0,,Single,157000.0,58 Marine Drive ,NL,Atlantic region
+4.0,2.0,2000.0,,Single,289900.0,111 Duffs Crescent ,NL,Atlantic region
+,,1220.0,,Single,35000.0,23 Main Road ,NL,Atlantic region
+3.0,1.0,1350.0,,Single,142000.0,17 Kingsridge Road ,NL,Atlantic region
+4.0,2.0,2035.0,,Single,199000.0,84 Steve Neary Boulevard ,NL,Atlantic region
+5.0,3.0,4000.0,,Single,468000.0,37 Flower Hill ,NL,Atlantic region
+3.0,1.0,1384.0,,Single,49900.0,834 Main Road Road ,NL,Atlantic region
+4.0,3.0,2600.0,,Single,399900.0,40 B Glam Road ,NL,Atlantic region
+3.0,1.0,996.0,,Single,200000.0,396 West Side Road ,NL,Atlantic region
+3.0,2.0,1844.0,,Single,229900.0,44 Carmelite Road ,NL,Atlantic region
+2.0,1.0,864.0,,Single,109500.0,9 Lambe's Road ,NL,Atlantic region
+5.0,4.0,4480.0,,Single,579900.0,16 Miller Crescent ,NL,Atlantic region
+3.0,1.0,2239.0,,Single,249900.0,203 Pennywell Road ,NL,Atlantic region
+2.0,1.0,900.0,,Single,104900.0,2 Chow Place ,NL,Atlantic region
+4.0,3.0,2060.0,,Single,350000.0,3 Jacaranda Place ,NL,Atlantic region
+3.0,2.0,2369.0,,Single,314900.0,28 Mansfield Crescent ,NL,Atlantic region
+3.0,4.0,2196.0,,Residential,409900.0,2 Grove Garden ,NL,Atlantic region
+2.0,1.0,562.0,,Single,65000.0,25 Pond Side Road ,NL,Atlantic region
+5.0,2.0,2385.0,,Single,293900.0,27 Rutledge Crescent ,NL,Atlantic region
+4.0,4.0,2732.0,,Residential,359000.0,33 Octagon Heights ,NL,Atlantic region
+3.0,3.0,3024.0,,Single,219900.0,1-5 Filliers Lane ,NL,Atlantic region
+3.0,2.0,1418.0,,Single,149900.0,231 Route 350 Route ,NL,Atlantic region
+5.0,2.0,2021.0,,Single,319900.0,45 Lanark Drive ,NL,Atlantic region
+2.0,2.0,1050.0,,Single,147900.0,44 Chipmans Road ,NL,Atlantic region
+4.0,1.0,2374.0,,Single,279900.0,80 Michener Avenue ,NL,Atlantic region
+3.0,1.0,928.0,,Single,89900.0,214 Main Road ,NL,Atlantic region
+3.0,1.0,2260.0,,Residential,149500.0,7 Solomon's Road ,NL,Atlantic region
+2.0,2.0,2327.0,,Residential,449500.0,70 MARK NICHOLS Place ,NL,Atlantic region
+3.0,1.0,1752.0,,Single,299000.0,Lot 71A Ocean Pond Road ,NL,Atlantic region
+5.0,2.0,2308.0,,Single,249900.0,30 Bannister Street ,NL,Atlantic region
+4.0,1.0,1352.0,,Single,180000.0,128-134 Country Drive ,NL,Atlantic region
+3.0,1.0,893.0,,Single,84900.0,27 Second Avenue ,NL,Atlantic region
+3.0,1.0,2126.0,,Residential,84900.0,20 Gilbert Street ,NL,Atlantic region
+4.0,2.0,2608.0,.318,Single,314000.0,2 Jordan Place ,NL,Atlantic region
+3.0,1.0,713.0,,Single,114000.0,12 Sharp's Lane ,NL,Atlantic region
+4.0,2.0,1440.0,,Single,85000.0,59-61 Bayview Drive ,NL,Atlantic region
+4.0,4.0,2470.0,,Single,409900.0,16 Gil Eannes Drive ,NL,Atlantic region
+2.0,1.0,440.0,,Single,175000.0,42 Cabot Street ,NL,Atlantic region
+4.0,4.0,2578.0,,Single,389900.0,1 Weldon Place ,NL,Atlantic region
+5.0,2.0,1672.0,,Single,99500.0,8-10 Lakeshore Road ,NL,Atlantic region
+3.0,1.0,1220.0,,Single,139000.0,0 Conception Bay Highway N ,NL,Atlantic region
+4.0,3.0,2000.0,,Single,329900.0,1332 Thorburn Road ,NL,Atlantic region
+3.0,1.0,1125.0,,Single,189000.0,42 Main Street ,NL,Atlantic region
+3.0,2.0,1170.0,,Single,89900.0,5 Shorts Lane ,NL,Atlantic region
+3.0,2.0,1824.0,,Single,169900.0,52 Gibbons Avenue ,NL,Atlantic region
+4.0,5.0,3590.0,,Single,925000.0,146 Hamilton Avenue ,NL,Atlantic region
+3.0,1.0,939.0,,Single,99900.0,1 Rogers Cove Road ,NL,Atlantic region
+3.0,1.0,830.0,,Single,189900.0,166 Hussey Drive ,NL,Atlantic region
+3.0,1.0,1560.0,,Single,195000.0,72 Nascopie Crescent ,NL,Atlantic region
+5.0,3.0,4726.0,,Single,1295000.0,21 Pine Bud Avenue ,NL,Atlantic region
+4.0,4.0,2400.0,,Single,338000.0,63 Westminster Drive ,NL,Atlantic region
+5.0,2.0,2260.0,,Single,319900.0,11 Argus Place ,NL,Atlantic region
+4.0,3.0,2120.0,,Single,189900.0,13-15 Riverside Drive ,NL,Atlantic region
+2.0,2.0,1196.0,,Single,139900.0,395 Bay D'Espoir Highway ,NL,Atlantic region
+5.0,3.0,3100.0,,Single,304900.0,41 Valley Road ,NL,Atlantic region
+5.0,2.0,2220.0,,Single,279000.0,5 Roland Drive ,NL,Atlantic region
+2.0,1.0,820.0,,Single,109000.0,20-22 Boar Point Hill ,NL,Atlantic region
+4.0,3.0,2885.0,,Single,369900.0,60 CORMACK Drive ,NL,Atlantic region
+3.0,3.0,3390.0,,Single,394750.0,322 Topsail Road ,NL,Atlantic region
+3.0,3.0,1733.0,,Single,495000.0,8A Hillview Road ,NL,Atlantic region
+2.0,2.0,1344.0,,Single,199900.0,28 BARRETT'S Lane ,NL,Atlantic region
+3.0,1.0,1130.0,,Single,129000.0,3 Harbour Drive ,NL,Atlantic region
+3.0,1.0,1104.0,,Single,175000.0,43 Bennett Drive ,NL,Atlantic region
+4.0,3.0,2730.0,,Single,399900.0,88 Larkhall Street ,NL,Atlantic region
+3.0,2.0,1498.0,,Single,397900.0,147 Castle Bridge Drive ,NL,Atlantic region
+3.0,2.0,2386.0,,Single,194900.0,179 Main Road ,NL,Atlantic region
+3.0,2.0,2500.0,,Single,429900.0,26 Beach Path Road ,NL,Atlantic region
+5.0,2.0,2780.0,,Single,360000.0,82 Highland Drive ,NL,Atlantic region
+4.0,4.0,2271.0,,Single,539900.0,Lot 44 Jensen Camp Road ,NL,Atlantic region
+3.0,2.0,1500.0,,Single,289900.0,29 Newfound Lane ,NL,Atlantic region
+3.0,2.0,2000.0,,Single,179000.0,12-16 Doolans Lane ,NL,Atlantic region
+3.0,2.0,1612.0,,Single,235000.0,9 Main Road ,NL,Atlantic region
+5.0,4.0,3712.0,,Single,599000.0,80 CLEARWATER Drive ,NL,Atlantic region
+3.0,1.0,1738.0,,Single,220000.0,4 Church Road ,NL,Atlantic region
+3.0,3.0,1915.0,,Single,299900.0,85 Water Street E ,NL,Atlantic region
+2.0,2.0,3099.0,,Single,339900.0,47 Oaken Drive ,NL,Atlantic region
+3.0,3.0,2099.0,,Single,305000.0,45E Goodridge Street ,NL,Atlantic region
+3.0,1.0,1008.0,,Single,44900.0,112 Main Road ,NL,Atlantic region
+3.0,1.0,1970.0,,Single,179000.0,62 Massey Drive ,NL,Atlantic region
+4.0,3.0,2300.0,,Single,284500.0,84 Hibbs Road ,NL,Atlantic region
+3.0,2.0,1500.0,,Single,149900.0,12 Main Highway ,NL,Atlantic region
+3.0,2.0,2576.0,,Single,187500.0,47 Adams Avenue ,NL,Atlantic region
+4.0,2.0,2500.0,,Single,284500.0,266 Newfoundland Drive ,NL,Atlantic region
+2.0,2.0,908.0,,Single,239000.0,5 Hydro Station Lane ,NL,Atlantic region
+3.0,2.0,1470.0,,Single,200000.0,6 Montague Street ,NL,Atlantic region
+4.0,2.0,2392.0,,Single,174000.0,3 Adams Avenue ,NL,Atlantic region
+3.0,2.0,2192.0,,Single,199900.0,742 Sunset Drive ,NL,Atlantic region
+4.0,3.0,1316.0,,Single,410000.0,79 Pollux Drive ,NL,Atlantic region
+4.0,3.0,2520.0,,Single,649000.0,24 Battery Road ,NL,Atlantic region
+3.0,3.0,2033.0,,Single,118500.0,5-9 Point Bully Place ,NL,Atlantic region
+3.0,2.0,1468.0,,Single,99900.0,79 Swansea Road ,NL,Atlantic region
+5.0,3.0,2180.0,,Single,199900.0,17 Gregory Place ,NL,Atlantic region
+4.0,2.0,2070.0,,Single,295000.0,16 Crambrae Street ,NL,Atlantic region
+3.0,3.0,1884.0,,Single,245000.0,37 Faulkner Street ,NL,Atlantic region
+4.0,1.0,2226.0,,Single,87500.0,214-220 Blow-Me-Down Drive ,NL,Atlantic region
+4.0,1.0,1450.0,,Single,169900.0,12 Smiths Road ,NL,Atlantic region
+5.0,2.0,2150.0,,Single,219000.0,95 Goodyear Avenue ,NL,Atlantic region
+3.0,3.0,3600.0,,Single,729900.0,31 Tipping Drive ,NL,Atlantic region
+5.0,2.0,3008.0,,Single,199000.0,13 Cholock Place ,NL,Atlantic region
+3.0,2.0,1400.0,,Single,160000.0,40 Beaumont Street ,NL,Atlantic region
+3.0,1.0,1100.0,,Single,129000.0,233 Kippens Road ,NL,Atlantic region
+3.0,2.0,1200.0,,Single,309900.0,17 Albert Street ,NL,Atlantic region
+2.0,2.0,1518.0,,Single,317500.0,4 Phoenix Drive ,NL,Atlantic region
+6.0,4.0,5112.0,,Single,975000.0,47 Motion Drive ,NL,Atlantic region
+4.0,3.0,3756.0,,Single,579900.0,82 Anchorage Road ,NL,Atlantic region
+4.0,2.0,3800.0,,Residential,324900.0,288 Central Street ,NL,Atlantic region
+3.0,2.0,1280.0,,Residential,134500.0,3 Blackwoods Hill ,NL,Atlantic region
+2.0,1.0,850.0,,Single,165000.0,13 PRICES Road ,NL,Atlantic region
+3.0,1.0,790.0,,Single,89900.0,3 Back Cove Road ,NL,Atlantic region
+3.0,3.0,1680.0,,Single,269000.0,1 Oceanview Road ,NL,Atlantic region
+5.0,4.0,3217.0,,Single,279900.0,36 Viking Place ,NL,Atlantic region
+3.0,2.0,3784.0,,Single,599900.0,25 Flora Drive ,NL,Atlantic region
+4.0,1.0,1696.0,,Single,169000.0,729 Conception Bay Highway ,NL,Atlantic region
+2.0,2.0,1824.0,,Single,279900.0,24 Clearview Street ,NL,Atlantic region
+1.0,1.0,1406.0,,Single,259900.0,22 Larsen Street ,NL,Atlantic region
+2.0,2.0,1750.0,,Residential,129900.0,28 Crockers Cove Road ,NL,Atlantic region
+3.0,3.0,1138.0,,Single,330000.0,1A LYNCH Place ,NL,Atlantic region
+2.0,1.0,1008.0,.092,Single,229000.0,4034 Duley Crescent ,NL,Atlantic region
+3.0,1.0,2320.0,,Single,167000.0,12 Read Street ,NL,Atlantic region
+6.0,2.0,2200.0,,Single,289900.0,40 Alice Drive ,NL,Atlantic region
+3.0,2.0,1165.0,,Single,189900.0,20 Fraizes Avenue ,NL,Atlantic region
+6.0,4.0,3135.0,,Single,329900.0,2 Thetis Place ,NL,Atlantic region
+4.0,4.0,3300.0,,Single,359000.0,15-17 Lakewood Drive ,NL,Atlantic region
+3.0,2.0,1800.0,,Single,239900.0,53 Harnum's Hill ,NL,Atlantic region
+3.0,1.0,899.0,,Single,94900.0,6 Coopers Lane ,NL,Atlantic region
+5.0,3.0,5090.0,.876,Single,699900.0,97 Main Street ,NL,Atlantic region
+3.0,1.0,1800.0,,Single,269900.0,33 Richmond Street ,NL,Atlantic region
+3.0,2.0,1736.0,,Single,329900.0,10 Marions Garden Place ,NL,Atlantic region
+4.0,3.0,2225.0,,Single,179900.0,29 Circular Road ,NL,Atlantic region
+3.0,1.0,968.0,,Single,99900.0,266 J.R Smallwood Boulevard ,NL,Atlantic region
+2.0,1.0,934.0,,Single,164000.0,34 Greenhill Crescent ,NL,Atlantic region
+3.0,2.0,2419.0,,Single,429900.0,205 St. Thomas Line ,NL,Atlantic region
+3.0,1.0,1150.0,,Single,97500.0,18 Jordan Place ,NL,Atlantic region
+4.0,1.0,2100.0,,Residential,125000.0,9 Main Street ,NL,Atlantic region
+5.0,3.0,1580.0,,Single,228500.0,21 Lady Diana Crescent ,NL,Atlantic region
+5.0,4.0,4748.0,,Single,799900.0,297 Old Broad Cove Road ,NL,Atlantic region
+3.0,2.0,1694.0,,Single,255000.0,135 Green Acre Drive ,NL,Atlantic region
+4.0,2.0,2070.0,,Single,149900.0,0 Main Road ,NL,Atlantic region
+3.0,2.0,2376.0,,Single,179500.0,17 Random Crescent ,NL,Atlantic region
+3.0,2.0,1770.0,,Single,284900.0,15 Peterson Place ,NL,Atlantic region
+5.0,2.0,1250.0,,Single,74990.0,16-18 VALLEYVIEW Road ,NL,Atlantic region
+3.0,1.0,1040.0,,Single,99900.0,159 Main Highway NE ,NL,Atlantic region
+4.0,1.0,1200.0,,Single,169500.0,26 Bragg Crescent ,NL,Atlantic region
+3.0,4.0,4624.0,,Single,699000.0,16 Peter's Cove Road ,NL,Atlantic region
+2.0,1.0,1672.0,,Single,159000.0,16 Crewe's Road ,NL,Atlantic region
+3.0,3.0,2300.0,,Single,339000.0,29 Huntingdale Drive ,NL,Atlantic region
+4.0,3.0,1951.0,,Single,319500.0,15 Brenton Place ,NL,Atlantic region
+2.0,1.0,958.0,,Single,129900.0,1 Coozes Road ,NL,Atlantic region
+3.0,1.0,1584.0,,Single,179000.0,7 Keane Place ,NL,Atlantic region
+3.0,4.0,1906.0,,Single,429900.0,56 Claddagh Road ,NL,Atlantic region
+5.0,2.0,2327.0,,Single,69900.0,17 Monchy Road ,NL,Atlantic region
+3.0,1.0,1697.0,,Residential,79900.0,01 Lanse Au Loupe Road ,NL,Atlantic region
+3.0,2.0,1409.0,,Single,449000.0,Lot 185 Bannock Street ,NL,Atlantic region
+2.0,2.0,1922.0,,Single,275000.0,58 Cole Thomas Drive ,NL,Atlantic region
+2.0,1.0,805.0,,Single,49000.0,1 Clements Road ,NL,Atlantic region
+2.0,1.0,890.0,,Single,139900.0,108 farrell Drive ,NL,Atlantic region
+3.0,3.0,2387.0,,Single,369500.0,87 Acharya Drive ,NL,Atlantic region
+5.0,2.0,2003.0,,Single,259900.0,507 Conception Bay Highway ,NL,Atlantic region
+3.0,2.0,2016.0,,Single,215000.0,39 Main Road ,NL,Atlantic region
+4.0,2.0,2600.0,,Single,429900.0,558 Topsail Road ,NL,Atlantic region
+4.0,3.0,2828.0,,Single,379900.0,7 Cornwall Heights ,NL,Atlantic region
+4.0,1.0,1848.0,,Single,275000.0,115 Howley Avenue ,NL,Atlantic region
+2.0,1.0,1824.0,,Single,79900.0,13 Main Street ,NL,Atlantic region
+4.0,2.0,1240.0,,Single,169500.0,36 Lester Street ,NL,Atlantic region
+3.0,1.0,1000.0,,Single,39900.0,44 Merrymeeting Road ,NL,Atlantic region
+3.0,4.0,3609.0,,Single,300000.0,22 Lewington Place ,NL,Atlantic region
+4.0,1.0,1200.0,,Single,165000.0,5 Little Harbour Road ,NL,Atlantic region
+4.0,3.0,1888.0,,Single,239000.0,28 Percy Drive ,NL,Atlantic region
+5.0,3.0,1700.0,,Single,169000.0,119 Main Road ,NL,Atlantic region
+3.0,1.0,1298.0,,Single,119900.0,18 Junction Road ,NL,Atlantic region
+3.0,2.0,2856.0,,Single,219000.0,159 Hamilton River Road ,NL,Atlantic region
+4.0,3.0,2980.0,,Single,364900.0,47 duntara Crescent ,NL,Atlantic region
+4.0,2.0,2666.0,,Single,236900.0,2 Hill Road ,NL,Atlantic region
+5.0,3.0,3528.0,,Single,420000.0,2 Juniper Crescent ,NL,Atlantic region
+2.0,3.0,3116.0,,Single,289900.0,23 Cedar Drive ,NL,Atlantic region
+5.0,3.0,3416.0,,Single,319900.0,11 Wireless Road ,NL,Atlantic region
+4.0,2.0,2240.0,,Single,274900.0,10 Cannon Marsh Road ,NL,Atlantic region
+4.0,3.0,1960.0,,Single,279900.0,25 SILVERTON Street ,NL,Atlantic region
+3.0,2.0,1500.0,,Single,79000.0,198 Marine Drive ,NL,Atlantic region
+3.0,1.0,3136.0,,Single,179900.0,13 Welchs Lane ,NL,Atlantic region
+3.0,1.0,1717.0,,Single,82000.0,21 Pine Avenue ,NL,Atlantic region
+3.0,2.0,2200.0,,Single,325000.0,99 Cabot Street ,NL,Atlantic region
+5.0,2.0,2320.0,,Single,259900.0,5 McLoughlan Street ,NL,Atlantic region
+5.0,3.0,3000.0,,Single,199900.0,276 Main Road ,NL,Atlantic region
+3.0,2.0,900.0,,Single,209900.0,278 THORBURN Road ,NL,Atlantic region
+3.0,2.0,2160.0,,Residential,215000.0,233 Pennywell Road ,NL,Atlantic region
+3.0,4.0,2440.0,,Single,349900.0,36 Talcville Road ,NL,Atlantic region
+3.0,3.0,2760.0,,Single,140000.0,27 PREMIER Avenue ,NL,Atlantic region
+3.0,1.0,2208.0,,Single,199900.0,245 Portugal Cove Road ,NL,Atlantic region
+3.0,3.0,4200.0,,Single,599900.0,15 Lucston Avenue ,NL,Atlantic region
+5.0,2.0,2268.0,,Single,289000.0,21 Corrigan Street ,NL,Atlantic region
+5.0,2.0,2550.0,,Single,89000.0,151 Main Road ,NL,Atlantic region
+4.0,4.0,3200.0,,Single,439900.0,25 Ralph Drive ,NL,Atlantic region
+3.0,1.0,1300.0,,Single,159900.0,55 Brazil Street ,NL,Atlantic region
+3.0,1.0,2152.0,,Single,69999.0,0 Main Street ,NL,Atlantic region
+3.0,2.0,2480.0,,Single,234900.0,20 Raymond Drive ,NL,Atlantic region
+3.0,2.0,1134.0,,Single,54900.0,34 Blackburn Road ,NL,Atlantic region
+2.0,1.0,1471.0,,Single,92900.0,6A Caribou Road ,NL,Atlantic region
+3.0,2.0,1500.0,,Single,150000.0,7 Post Office Road ,NL,Atlantic region
+3.0,1.0,2100.0,,Single,139900.0,84 Main Street ,NL,Atlantic region
+3.0,2.0,1276.0,,Single,169900.0,31B Main Street ,NL,Atlantic region
+5.0,3.0,3434.0,,Single,289900.0,171 Conception Bay Highway ,NL,Atlantic region
+2.0,2.0,1290.0,,Single,277900.0,20 Great Southern Drive ,NL,Atlantic region
+3.0,2.0,2916.0,,Single,114900.0,Lot 12 Middle Pond Road ,NL,Atlantic region
+5.0,4.0,1800.0,,Single,349900.0,5 Vatcher Place ,NL,Atlantic region
+3.0,1.0,563.0,,Single,119900.0,01 OLD Road ,NL,Atlantic region
+3.0,3.0,3852.0,,Single,799900.0,7 O'Flynn Place ,NL,Atlantic region
+3.0,2.0,2198.0,,Single,309000.0,22 Mountainview Road ,NL,Atlantic region
+2.0,2.0,2880.0,,Single,299000.0,92 Main Street N ,NL,Atlantic region
+3.0,4.0,2228.0,,Single,399900.0,6 Hillside Drive ,NL,Atlantic region
+4.0,6.0,3655.0,,Single,440000.0,11 Mountain View Drive ,NL,Atlantic region
+5.0,4.0,9561.0,,Single,669000.0,20-42 Dwyer Street ,NL,Atlantic region
+3.0,1.0,1600.0,,Single,85000.0,6 Southside Road ,NL,Atlantic region
+3.0,2.0,3082.0,,Single,409999.0,13 Guy Street ,NL,Atlantic region
+4.0,3.0,3456.0,,Single,259900.0,44-48 Beach Avenue ,NL,Atlantic region
+8.0,9.0,3125.0,,Single,325000.0,60 Main Street ,NL,Atlantic region
+3.0,2.0,3436.0,,Single,359000.0,31 Bare Mountain Road ,NL,Atlantic region
+3.0,3.0,3088.0,,Single,184000.0,109 West Valley Road ,NL,Atlantic region
+4.0,3.0,4375.0,,Single,477000.0,45 MacPherson Avenue ,NL,Atlantic region
+4.0,1.0,1296.0,,Single,54000.0,53 Old Settlement Hill ,NL,Atlantic region
+2.0,2.0,1518.0,,Single,309700.0,11 Phoenix Drive ,NL,Atlantic region
+4.0,2.0,3570.0,,Single,259900.0,24-26 Majors Path ,NL,Atlantic region
+1.0,1.0,1304.0,,Single,259900.0,14 Larsen Street ,NL,Atlantic region
+4.0,2.0,2258.0,,Single,234000.0,54 Raynham Avenue ,NL,Atlantic region
+5.0,3.0,2800.0,,Single,255000.0,10 Memorial Drive ,NL,Atlantic region
+3.0,2.0,1320.0,,Single,229000.0,27 Hutchings Street ,NL,Atlantic region
+6.0,5.0,8700.0,,Single,1684950.0,9 Tranquil Place ,NL,Atlantic region
+5.0,2.0,2240.0,,Single,244900.0,207 Park Avenue ,NL,Atlantic region
+3.0,2.0,2636.0,,Residential,435000.0,36 Markham Drive ,NL,Atlantic region
+2.0,1.0,1038.0,,Single,169900.0,342 Conception  Bay Highway ,NL,Atlantic region
+4.0,3.0,2688.0,,Single,379000.0,1 Albert Lane ,NL,Atlantic region
+4.0,2.0,1100.0,,Single,249000.0,122 Brookfield Avenue ,NL,Atlantic region
+4.0,3.0,2198.0,,Single,259000.0,124 BENNETT Drive ,NL,Atlantic region
+3.0,2.0,1300.0,,Single,279500.0,16 Osmonds Avenue ,NL,Atlantic region
+6.0,2.0,2850.0,,Single,290000.0,160 Canada Drive ,NL,Atlantic region
+3.0,4.0,5362.0,,Single,2750000.0,45 Atkins Road - Burnt Island OTHER ,NL,Atlantic region
+5.0,3.0,2800.0,,Single,359900.0,2 Parade Street ,NL,Atlantic region
+4.0,2.0,2120.0,,Single,199500.0,192 Park Avenue ,NL,Atlantic region
+4.0,3.0,2480.0,,Single,359000.0,192 Road to the Isles OTHER ,NL,Atlantic region
+4.0,2.0,2000.0,,Single,249000.0,17 Cedar Drive ,NL,Atlantic region
+4.0,2.0,2322.0,,Single,274900.0,41 Fox Avenue ,NL,Atlantic region
+4.0,3.0,3111.0,,Single,149900.0,8 Erics Place ,NL,Atlantic region
+4.0,2.0,2281.0,,Single,224900.0,153 Prowse Avenue Extension ,NL,Atlantic region
+3.0,2.0,1671.0,,Single,294000.0,18 Kings Road ,NL,Atlantic region
+2.0,1.0,840.0,,Single,57500.0,4 Plumer Drive ,NL,Atlantic region
+3.0,2.0,1584.0,,Single,349000.0,4 Aspen Lane ,NL,Atlantic region
+3.0,2.0,1809.0,,Single,449000.0,7 North Side Road ,NL,Atlantic region
+3.0,1.0,960.0,,Single,139900.0,48 Main Street ,NL,Atlantic region
+3.0,2.0,2184.0,,Single,155000.0,4 Feltham Avenue ,NL,Atlantic region
+3.0,2.0,2914.0,,Single,499900.0,542 Logy Bay Road ,NL,Atlantic region
+2.0,1.0,950.0,,Single,79900.0,142 MAIN Street S ,NL,Atlantic region
+3.0,1.0,1440.0,,Single,109000.0,93 Main Road ,NL,Atlantic region
+5.0,3.0,2100.0,,Single,224900.0,59 Prince of Wales Street ,NL,Atlantic region
+2.0,1.0,768.0,,Single,119900.0,22 Lower Avenue ,NL,Atlantic region
+3.0,3.0,1296.0,,Single,799000.0,78 Bayview Road ,NL,Atlantic region
+3.0,2.0,1680.0,,Single,154900.0,1 Water Pond Road ,NL,Atlantic region
+3.0,2.0,1276.0,,Single,275000.0,194 George Mercer Drive ,NL,Atlantic region
+5.0,4.0,2680.0,,Single,375000.0,53 Palm Drive ,NL,Atlantic region
+3.0,1.0,2064.0,,Single,249900.0,38 Greeleytown Road ,NL,Atlantic region
+3.0,2.0,2830.0,,Single,169000.0,16 Gilbert Avenue ,NL,Atlantic region
+3.0,2.0,2142.0,,Single,259900.0,215 Conception Bay Highway ,NL,Atlantic region
+7.0,5.0,3048.0,,Single,369900.0,29 Atlantic Street ,NL,Atlantic region
+3.0,2.0,2400.0,,Single,479000.0,17 Quimby Place ,NL,Atlantic region
+3.0,2.0,1634.0,,Single,149000.0,21 Beaumont Avenue ,NL,Atlantic region
+3.0,2.0,2490.0,,Single,149900.0,34 Shoe Cove Road ,NL,Atlantic region
+3.0,1.0,1000.0,,Residential,99900.0,34 Salt Pond Drive ,NL,Atlantic region
+3.0,1.0,972.0,,Single,147500.0,7 Brooks Avenue ,NL,Atlantic region
+2.0,1.0,1004.0,,Single,129000.0,15 Squires Avenue ,NL,Atlantic region
+3.0,2.0,1277.0,,Single,399900.0,40 SNOWS Drive Unit62 LOT,NL,Atlantic region
+3.0,3.0,2222.0,,Single,464900.0,9 Ploughman Place Unit17 LOT,NL,Atlantic region
+5.0,2.0,1935.0,,Single,284900.0,96 ELIZABETH Drive ,NL,Atlantic region
+3.0,1.0,2319.0,,Single,289900.0,137 Main Road ,NL,Atlantic region
+2.0,2.0,2270.0,,Single,239900.0,0 Russells Crescent ,NL,Atlantic region
+6.0,2.0,2200.0,,Single,234900.0,10 Polina Road ,NL,Atlantic region
+4.0,3.0,3268.0,,Single,124900.0,Lot 9 Middle Pond Road ,NL,Atlantic region
+4.0,2.0,2000.0,,Residential,259900.0,16 Dunns Place ,NL,Atlantic region
+3.0,1.0,850.0,,Residential,115000.0,98 Freedom Road ,NL,Atlantic region
+3.0,1.0,1340.0,,Single,144900.0,489 Southside Road ,NL,Atlantic region
+3.0,2.0,2728.0,,Single,164900.0,1C Philpotts Road ,NL,Atlantic region
+4.0,2.0,2410.0,,Single,199900.0,5 Winter Place ,NL,Atlantic region
+4.0,3.0,2640.0,,Single,349900.0,20 Merlyn Place ,NL,Atlantic region
+2.0,1.0,811.0,,Single,134900.0,8 Roaches Line ,NL,Atlantic region
+3.0,2.0,1379.0,,Single,144000.0,33 Irishtown Road ,NL,Atlantic region
+3.0,2.0,1810.0,,Single,159900.0,4 PELLEYS Lane ,NL,Atlantic region
+5.0,2.0,2325.0,,Single,329900.0,119 Freshwater Road ,NL,Atlantic region
+5.0,2.0,1935.0,,Single,284900.0,96 ELIZABETH Drive ,NL,Atlantic region
+3.0,3.0,3307.0,,Single,550000.0,315 Tolt Road ,NL,Atlantic region
+2.0,1.0,1610.0,,Single,68000.0,51 Merasheen Crescent ,NL,Atlantic region
+3.0,2.0,1620.0,,Single,200000.0,18 Keane Place ,NL,Atlantic region
+3.0,3.0,2673.0,,Single,829000.0,8 Commodore Place ,NL,Atlantic region
+3.0,2.0,2200.0,.093,Single,304000.0,24-28 Wiscombe's Road ,NL,Atlantic region
+3.0,3.0,1743.0,,Single,299900.0,Lot 1 20 Karwood Drive ,NL,Atlantic region
+6.0,4.0,5447.0,,Single,699000.0,14 Marcelle Avenue ,NL,Atlantic region
+3.0,2.0,1386.0,,Single,262500.0,50 Jackman Drive ,NL,Atlantic region
+3.0,1.0,2948.0,,Single,279000.0,0 West Bottom Road ,NL,Atlantic region
+5.0,3.0,3270.0,,Single,295000.0,11 Riverside Road E ,NL,Atlantic region
+5.0,5.0,2380.0,,Residential,299900.0,2 Pennell's Lane ,NL,Atlantic region
+5.0,4.0,2865.0,,Single,479900.0,84-88 Cadigan's Road ,NL,Atlantic region
+5.0,3.0,3000.0,,Single,489900.0,9 Pepperwood Drive ,NL,Atlantic region
+6.0,4.0,4650.0,,Single,719000.0,461 Conception Bay Highway ,NL,Atlantic region
+3.0,2.0,1684.0,,Single,187000.0,37 REGIONAL Street ,NL,Atlantic region
+8.0,4.0,3162.0,,Residential,147900.0,74 WIGHTS Road ,NL,Atlantic region
+3.0,5.0,5041.0,,Single,1190000.0,351 Three Island Pond Road ,NL,Atlantic region
+4.0,2.0,1976.0,,Single,237500.0,574 Empire Avenue ,NL,Atlantic region
+3.0,2.0,2782.0,,Single,392000.0,15 BLAGDON Hill ,NL,Atlantic region
+5.0,2.0,1710.0,,Single,79000.0,8 Pauls Hill ,NL,Atlantic region
+3.0,1.0,1107.0,,Single,149000.0,317 West Side Road ,NL,Atlantic region
+4.0,3.0,4400.0,,Single,250000.0,2 Woodwynd Heights ,NL,Atlantic region
+5.0,2.0,1755.0,,Single,197500.0,23 Circular Road ,NL,Atlantic region
+2.0,2.0,1550.0,,Single,329000.0,40 Murdoch Drive ,NL,Atlantic region
+3.0,2.0,2304.0,,Single,344900.0,Lot 38A Ocean Pond Estates Road ,NL,Atlantic region
+3.0,2.0,2888.0,,Single,299900.0,1 Firehall Road ,NL,Atlantic region
+5.0,3.0,3600.0,,Single,689000.0,584 Main Road ,NL,Atlantic region
+4.0,2.0,3000.0,,Single,169900.0,39 Citizens Drive ,NL,Atlantic region
+3.0,4.0,2485.0,,Single,419000.0,9 RANDOM BROOK Road 8,NL,Atlantic region
+3.0,1.0,1068.0,,Single,174900.0,10 Lombardy Place ,NL,Atlantic region
+4.0,1.0,1200.0,,Single,149900.0,200 North River Road ,NL,Atlantic region
+3.0,2.0,1860.0,,Single,169900.0,8 Peronne Road ,NL,Atlantic region
+2.0,1.0,1000.0,,Single,169900.0,81 TOP Road ,NL,Atlantic region
+3.0,1.0,1459.0,,Single,189000.0,9 Boyd Street ,NL,Atlantic region
+4.0,3.0,4108.0,,Single,995000.0,10 Bowater Boulevard ,NL,Atlantic region
+3.0,2.0,2464.0,,Single,344900.0,Lot 69 Ocean Pond Estates Road ,NL,Atlantic region
+8.0,8.0,4220.0,,Single,1690000.0,9-13 Chalkers Lane ,NL,Atlantic region
+5.0,2.0,1225.0,,Single,229000.0,32 BALBO Drive ,NL,Atlantic region
+4.0,2.0,2290.0,,Single,119500.0,67 High Street ,NL,Atlantic region
+4.0,2.0,1921.0,,Single,239000.0,70 Carmen Avenue ,NL,Atlantic region
+3.0,5.0,4227.0,,Single,1199000.0,40 Cedar Brae Crescent ,NL,Atlantic region
+3.0,2.0,1800.0,,Single,179900.0,50 Alcock Crescent ,NL,Atlantic region
+4.0,2.0,1500.0,,Single,115000.0,13 School Lane ,NL,Atlantic region
+2.0,2.0,1247.0,,Single,374900.0,6 Leonard J. Crowley Street ,NL,Atlantic region
+5.0,3.0,2476.0,,Single,359900.0,21 Westport Drive ,NL,Atlantic region
+3.0,1.0,1350.0,,Single,209900.0,14 Irving Drive ,NL,Atlantic region
+3.0,2.0,1944.0,,Single,144900.0,20 Glover Road ,NL,Atlantic region
+6.0,6.0,2400.0,,Single,255000.0,71 Viking Road ,NL,Atlantic region
+3.0,1.0,2068.0,,Single,140000.0,12 Mountain Drive ,NL,Atlantic region
+5.0,4.0,2820.0,,Single,289500.0,25 Hoyles Road ,NL,Atlantic region
+4.0,2.0,3760.0,,Single,325000.0,582 Main Street ,NL,Atlantic region
+1.0,1.0,1452.0,,Single,259900.0,28 Larsen Street ,NL,Atlantic region
+2.0,1.0,1790.0,,Single,189000.0,16B Cedar Drive ,NL,Atlantic region
+6.0,3.0,2900.0,,Single,349900.0,9 Gilmore Street ,NL,Atlantic region
+3.0,3.0,2117.0,,Single,566750.0,166 Castle Bridge Drive ,NL,Atlantic region
+2.0,2.0,850.0,,Single,189000.0,192 Main Road ,NL,Atlantic region
+3.0,2.0,2184.0,,Single,230000.0,3 Christopher Drive ,NL,Atlantic region
+5.0,3.0,2263.0,,Residential,189900.0,1 Pitcher Place ,NL,Atlantic region
+5.0,3.0,2218.0,,Single,349000.0,85 MAGEE Drive ,NL,Atlantic region
+2.0,1.0,1000.0,,Single,159000.0,33 Harbourview Drive ,NL,Atlantic region
+4.0,2.0,1864.0,,Single,139999.0,5 Allens Avenue Unit A,NL,Atlantic region
+4.0,2.0,2777.0,,Single,139900.0,21 Main Street ,NL,Atlantic region
+3.0,2.0,2296.0,,Single,130000.0,3 Second Avenue ,NL,Atlantic region
+3.0,2.0,1900.0,,Single,109900.0,82 Main Street ,NL,Atlantic region
+5.0,4.0,3345.0,,Single,519900.0,3 Inglis Place ,NL,Atlantic region
+4.0,3.0,3500.0,,Single,625000.0,246 Dogberry Hill Road ,NL,Atlantic region
+4.0,4.0,4000.0,,Single,599900.0,14 Todds Place ,NL,Atlantic region
+4.0,2.0,1600.0,,Single,230000.0,2 Kitchener Avenue ,NL,Atlantic region
+3.0,2.0,1240.0,,Single,139000.0,20 Downing Street ,NL,Atlantic region
+3.0,1.0,920.0,,Residential,85000.0,1 Brookview Place ,NL,Atlantic region
+3.0,1.0,1000.0,,Single,219000.0,51 Bay Bulls Road ,NL,Atlantic region
+3.0,2.0,3360.0,,Single,329000.0,14 River Drive ,NL,Atlantic region
+4.0,3.0,3024.0,,Single,219000.0,0 Main Road ,NL,Atlantic region
+4.0,2.0,1864.0,,Residential,139999.0,5 Allens Avenue A,NL,Atlantic region
+3.0,2.0,3167.0,,Single,279900.0,42 Brookfield Avenue ,NL,Atlantic region
+3.0,1.0,2200.0,,Single,250000.0,41 Elizabeth Drive ,NL,Atlantic region
+2.0,2.0,2500.0,,Single,269900.0,334 Main Road ,NL,Atlantic region
+5.0,2.0,2360.0,,Single,319900.0,5 Donegal Place ,NL,Atlantic region
+3.0,1.0,1508.0,,Single,239900.0,3 Church Road ,NL,Atlantic region
+3.0,2.0,3820.0,,Single,389000.0,2 Church Road ,NL,Atlantic region
+7.0,6.0,3203.0,,Single,425000.0,4 Wembley Crescent ,NL,Atlantic region
+3.0,2.0,1228.0,,Single,179900.0,326 Main Road ,NL,Atlantic region
+3.0,3.0,1914.0,,Single,344900.0,37 Lasalle Drive ,NL,Atlantic region
+3.0,1.0,2668.0,,Single,175000.0,57 Main Road ,NL,Atlantic region
+3.0,2.0,2046.0,,Single,184900.0,33 Maple Street ,NL,Atlantic region
+3.0,2.0,1185.0,,Single,354900.0,50 Micnoel Place ,NL,Atlantic region
+3.0,2.0,2726.0,,Single,345000.0,34 Byrnes Road ,NL,Atlantic region
+5.0,3.0,2500.0,,Single,349900.0,66 Harrington Drive ,NL,Atlantic region
+4.0,2.0,1750.0,,Single,209000.0,1 Leander Place ,NL,Atlantic region
+3.0,3.0,2772.0,,Single,224900.0,88 Main Street ,NL,Atlantic region
+4.0,2.0,3000.0,,Single,229900.0,72 A 470 Route ,NL,Atlantic region
+5.0,1.0,1352.0,,Single,170000.0,15 Marine Drive ,NL,Atlantic region
+4.0,3.0,2592.0,,Single,173900.0,115-117 Laurentian Avenue ,NL,Atlantic region
+7.0,3.0,2241.0,,Single,157000.0,15 Bonavista Road ,NL,Atlantic region
+3.0,2.0,1420.0,,Single,209900.0,13 Old Cove Loop ,NL,Atlantic region
+2.0,1.0,1470.0,,Single,309000.0,50 Freshwater Road ,NL,Atlantic region
+3.0,2.0,1256.0,,Single,179900.0,5 Suvla Road ,NL,Atlantic region
+6.0,3.0,2400.0,.127,Single,289000.0,7 Annies Place ,NL,Atlantic region
+3.0,2.0,1862.0,,Single,324900.0,6 Kemerton Place ,NL,Atlantic region
+3.0,1.0,853.0,,Single,144900.0,52 Main Street ,NL,Atlantic region
+3.0,1.0,2016.0,,Single,79900.0,14 MAIN Street ,NL,Atlantic region
+3.0,2.0,1150.0,,Single,148900.0,25 Trenchards Lane ,NL,Atlantic region
+3.0,2.0,1152.0,,Single,99900.0,66 Grand Bay Road ,NL,Atlantic region
+5.0,3.0,2224.0,,Single,369900.0,29 Rosalind Street ,NL,Atlantic region
+4.0,2.0,2400.0,,Single,349900.0,22 Harcourt Road ,NL,Atlantic region
+3.0,1.0,740.0,,Single,49900.0,6 Bayview Road ,NL,Atlantic region
+3.0,3.0,2460.0,,Residential,499900.0,110B Forest Road ,NL,Atlantic region
+4.0,4.0,1947.0,,Single,359000.0,12 Rothermere Street ,NL,Atlantic region
+3.0,3.0,2019.0,,Single,289900.0,49 Paradise Road ,NL,Atlantic region
+3.0,2.0,1800.0,,Single,629000.0,Site 7 RR1 Main Street ,NL,Atlantic region
+4.0,2.0,1920.0,,Single,185000.0,52 Grenfell Avenue ,NL,Atlantic region
+5.0,2.0,1920.0,,Single,139900.0,26 Church Street ,NL,Atlantic region
+2.0,1.0,1505.0,,Single,145900.0,12 SIXTEENTH Avenue ,NL,Atlantic region
+3.0,2.0,1904.0,,Single,189900.0,16 Cox Avenue ,NL,Atlantic region
+3.0,3.0,1743.0,,Single,299900.0,20 Karwood Drive Unit4 LOT,NL,Atlantic region
+3.0,2.0,2320.0,,Single,289900.0,7 Joys Road ,NL,Atlantic region
+3.0,2.0,1832.0,,Single,335000.0,32 Shaw Street ,NL,Atlantic region
+5.0,2.0,2172.0,,Single,215000.0,17 Gorman Avenue ,NL,Atlantic region
+3.0,3.0,1874.0,,Single,359700.0,7 Phoenix Drive ,NL,Atlantic region
+3.0,1.0,974.0,,Single,80000.0,137 Bayview Road ,NL,Atlantic region
+4.0,2.0,1200.0,,Single,145000.0,1335 Main Street ,NL,Atlantic region
+2.0,1.0,1457.0,,Single,139000.0,76 Orcan Drive ,NL,Atlantic region
+4.0,4.0,2040.0,,Single,328900.0,4 Jill Drive ,NL,Atlantic region
+4.0,2.0,1200.0,,Single,124900.0,1 Greenridge Road ,NL,Atlantic region
+3.0,1.0,1350.0,,Single,225000.0,125 Craigmillar Avenue ,NL,Atlantic region
+3.0,2.0,1400.0,,Single,359000.0,30 World Pond Road ,NL,Atlantic region
+3.0,3.0,3211.0,,Single,585000.0,62 Peddle Drive ,NL,Atlantic region
+2.0,1.0,1540.0,,Single,184900.0,18 Prince of Wales Street ,NL,Atlantic region
+4.0,1.0,2596.0,,Single,194500.0,2 Larch Street ,NL,Atlantic region
+3.0,3.0,2082.0,,Residential,329900.0,24 Vambury Street ,NL,Atlantic region
+4.0,2.0,2448.0,,Single,259900.0,50 Airport Boulevard ,NL,Atlantic region
+2.0,2.0,2500.0,,Single,349000.0,4 Old Britan Crescent ,NL,Atlantic region
+3.0,1.0,1176.0,,Single,94500.0,16 TUCKER Place ,NL,Atlantic region
+3.0,3.0,1800.0,,Single,299900.0,187D Empire Avenue ,NL,Atlantic region
+3.0,2.0,2164.0,,Single,159000.0,5 McDonald Road ,NL,Atlantic region
+2.0,1.0,1920.0,,Single,209900.0,8A Porters Lane ,NL,Atlantic region
+4.0,3.0,2890.0,,Single,314900.0,165 Patrick Street ,NL,Atlantic region
+5.0,3.0,2848.0,,Single,189000.0,64A Frank Willis Drive ,NL,Atlantic region
+3.0,1.0,1185.0,,Single,139900.0,60 Circular Road ,NL,Atlantic region
+3.0,2.0,1979.0,,Single,179900.0,14 Caribou Road ,NL,Atlantic region
+5.0,3.0,2775.0,,Single,274900.0,15 Twomey Drive ,NL,Atlantic region
+3.0,2.0,1528.0,,Single,320000.0,9 Coventry Way ,NL,Atlantic region
+3.0,3.0,2420.0,,Single,289900.0,124 Hibbs Road ,NL,Atlantic region
+3.0,1.0,2000.0,,Single,149900.0,57 Roberts Arm Road ,NL,Atlantic region
+4.0,1.0,1800.0,,Single,180000.0,171 Balbo Drive ,NL,Atlantic region
+3.0,2.0,1718.0,,Single,219000.0,42 Sutherland Drive ,NL,Atlantic region
+4.0,2.0,2176.0,,Single,229900.0,96 Brazil Street ,NL,Atlantic region
+4.0,3.0,2800.0,,Single,439900.0,6 Marine Drive ,NL,Atlantic region
+3.0,2.0,1233.0,,Single,85000.0,8 West Street ,NL,Atlantic region
+3.0,2.0,2200.0,,Single,599000.0,287 A Westside Road ,NL,Atlantic region
+3.0,2.0,1544.0,,Single,81500.0,12 Ralph Street ,NL,Atlantic region
+3.0,2.0,1914.0,,Single,254000.0,171 Main Road ,NL,Atlantic region
+2.0,1.0,780.0,,Single,175000.0,15 MCFARLANE Street ,NL,Atlantic region
+3.0,2.0,1800.0,,Single,379000.0,67 Riverview Drive ,NL,Atlantic region
+3.0,1.0,1200.0,,Single,129900.0,22 Cabot Avenue ,NL,Atlantic region
+3.0,3.0,1028.0,,Single,269900.0,10B Jensen Camp Road ,NL,Atlantic region
+3.0,2.0,2472.0,,Single,375000.0,7 Petite Forte Drive ,NL,Atlantic region
+3.0,2.0,1245.0,,Single,119900.0,39 Grand Bay Road ,NL,Atlantic region
+2.0,1.0,900.0,,Single,214900.0,5-7 Williams Lane ,NL,Atlantic region
+3.0,2.0,2800.0,,Single,239000.0,756 Blackmarsh Road ,NL,Atlantic region
+5.0,4.0,4710.0,,Single,649900.0,2373 Topsail Road ,NL,Atlantic region
+2.0,1.0,920.0,,Single,159500.0,3 New Road Hill ,NL,Atlantic region
+9.0,4.0,4500.0,,Single,300000.0,81 Commonwealth Avenue ,NL,Atlantic region
+4.0,2.0,1824.0,,Single,253000.0,533 Empire Avenue ,NL,Atlantic region
+3.0,2.0,1564.0,,Single,259000.0,197 Main Road ,NL,Atlantic region
+6.0,3.0,2675.0,,Single,355000.0,158 Airport Heights Drive ,NL,Atlantic region
+3.0,3.0,2857.0,,Single,409000.0,1 Titania Place ,NL,Atlantic region
+5.0,3.0,2952.0,,Single,409900.0,10 Quantum Drive ,NL,Atlantic region
+3.0,1.0,1440.0,,Single,129000.0,9 Elizabeth Drive ,NL,Atlantic region
+3.0,1.0,828.0,,Single,147400.0,14 Green Street ,NL,Atlantic region
+4.0,2.0,3120.0,,Single,229900.0,166 Elizabeth Drive ,NL,Atlantic region
+4.0,2.0,6736.0,,Single,199900.0,0 Main Road ,NL,Atlantic region
+4.0,4.0,3750.0,,Single,499900.0,29 Lawton Crescent ,NL,Atlantic region
+3.0,1.0,1786.0,,Single,54900.0,0 Main Road ,NL,Atlantic region
+3.0,3.0,2110.0,,Single,354900.0,6 Eider Place ,NL,Atlantic region
+2.0,1.0,1000.0,,Single,109000.0,114 Main Road ,NL,Atlantic region
+3.0,2.0,1575.0,,Single,229900.0,86 Raven Avenue ,NL,Atlantic region
+5.0,3.0,5790.0,,Single,1099900.0,6 Ashkay Drive ,NL,Atlantic region
+4.0,2.0,1748.0,,Single,209000.0,240 Main Street ,NL,Atlantic region
+3.0,3.0,3380.0,,Single,349900.0,18-22 Bight Road ,NL,Atlantic region
+3.0,2.0,2300.0,,Single,315000.0,851 Hudson Drive ,NL,Atlantic region
+4.0,3.0,2170.0,,Residential,369900.0,161 Pouch Cove Highway ,NL,Atlantic region
+3.0,1.0,920.0,,Single,46999.0,5 Main Street ,NL,Atlantic region
+4.0,3.0,1988.0,,Single,284500.0,5 Seaview Crescent ,NL,Atlantic region
+3.0,2.0,1900.0,,Single,274900.0,80 Campbell Avenue ,NL,Atlantic region
+2.0,2.0,1400.0,,Single,234900.0,14 Clode Sound Drive South Drive ,NL,Atlantic region
+3.0,2.0,2074.0,,Single,275000.0,92 Pleasant Street ,NL,Atlantic region
+3.0,1.0,950.0,,Single,47300.0,6-8 Steve Neary Boulevard ,NL,Atlantic region
+5.0,3.0,2600.0,,Single,209900.0,861 Topsail Road ,NL,Atlantic region
+4.0,2.0,2192.0,,Single,279000.0,71 Grenfell Drive ,NL,Atlantic region
+7.0,4.0,3965.0,,Single,259900.0,182 Petries Street ,NL,Atlantic region
+3.0,2.0,2852.0,,Single,139900.0,69 Keatings Road ,NL,Atlantic region
+5.0,2.0,2442.0,,Single,214900.0,283 Empire Avenue ,NL,Atlantic region
+4.0,2.0,1847.0,,Single,254900.0,15 Fermeuse Street ,NL,Atlantic region
+4.0,3.0,2610.0,,Single,319000.0,10 Benson Place ,NL,Atlantic region
+3.0,2.0,2080.0,,Single,169000.0,01 ALBERT'S Lane ,NL,Atlantic region
+5.0,2.0,2430.0,,Single,324900.0,14 Alice Drive ,NL,Atlantic region
+6.0,4.0,4365.0,,Residential,599000.0,62 Cypress Street ,NL,Atlantic region
+2.0,1.0,928.0,,Single,110000.0,0 Main Road ,NL,Atlantic region
+2.0,1.0,900.0,,Residential,99900.0,29 South Street ,NL,Atlantic region
+5.0,2.0,2082.0,,Residential,344900.0,64 Reid Street ,NL,Atlantic region
+3.0,4.0,4000.0,,Single,95000.0,13 Memory Heights ,NL,Atlantic region
+3.0,2.0,2690.0,,Single,474900.0,7 Sparta Place ,NL,Atlantic region
+3.0,2.0,2100.0,,Single,139900.0,6 O'Keefe Street ,NL,Atlantic region
+3.0,4.0,2450.0,,Single,299900.0,32 MUNICIPAL Square ,NL,Atlantic region
+3.0,1.0,1100.0,,Single,119000.0,157 Main Road ,NL,Atlantic region
+4.0,1.0,2400.0,,Single,309000.0,14 Combden's Road ,NL,Atlantic region
+2.0,2.0,1140.0,,Single,299000.0,Lot 196B Bannock Street ,NL,Atlantic region
+5.0,3.0,3400.0,,Single,294000.0,58 Tavenor Place ,NL,Atlantic region
+4.0,3.0,3360.0,2.05,Single,399000.0,4-8 Laurentian Avenue ,NL,Atlantic region
+1.0,1.0,1072.0,,Single,267900.0,Lot 10 20 Karwood Drive ,NL,Atlantic region
+5.0,3.0,2482.0,,Single,399900.0,38 Maurice Putt Crescent ,NL,Atlantic region
+6.0,2.0,2400.0,,Single,249900.0,10 Pitcher Place ,NL,Atlantic region
+3.0,2.0,1486.0,,Single,129000.0,16 Rocky Point Road ,NL,Atlantic region
+2.0,1.0,840.0,,Single,74900.0,9 Gray Avenue ,NL,Atlantic region
+3.0,2.0,2692.0,,Single,369900.0,37 Castlebridge Drive ,NL,Atlantic region
+4.0,2.0,1872.0,,Single,245000.0,30 Fords Road ,NL,Atlantic region
+3.0,2.0,2500.0,,Single,195000.0,31 GRANDY Avenue ,NL,Atlantic region
+3.0,1.0,1612.0,,Single,129900.0,343 Swansea Road ,NL,Atlantic region
+3.0,2.0,2078.0,,Single,325000.0,12 Venice Heights ,NL,Atlantic region
+4.0,3.0,2732.0,,Single,208000.0,9 Main Street ,NL,Atlantic region
+4.0,2.0,2310.0,,Single,349900.0,10 Bawnmoor Street ,NL,Atlantic region
+3.0,1.0,2106.0,,Single,234900.0,170 Main Road ,NL,Atlantic region
+2.0,2.0,1547.0,,Single,296900.0,10 Phoenix Drive ,NL,Atlantic region
+4.0,3.0,3800.0,,Single,175000.0,12 Main Road ,NL,Atlantic region
+4.0,3.0,2400.0,,Single,325000.0,38 LINK POND Drive ,NL,Atlantic region
+5.0,2.0,2874.0,,Single,339900.0,22 GRENFELL Crescent ,NL,Atlantic region
+3.0,2.0,2300.0,,Single,219999.0,17 Crestfield Avenue ,NL,Atlantic region
+3.0,1.0,1510.0,,Single,219500.0,9 Winsor Drive ,NL,Atlantic region
+5.0,2.0,1824.0,,Single,279900.0,10 Collins Place ,NL,Atlantic region
+3.0,1.0,900.0,,Single,129900.0,0 Main Highway ,NL,Atlantic region
+4.0,3.0,3250.0,,Residential,419900.0,191 Ladysmith Drive ,NL,Atlantic region
+4.0,5.0,5249.0,,Single,569900.0,7 Kennedy Place ,NL,Atlantic region
+4.0,2.0,1600.0,,Single,399900.0,375 West Side Road ,NL,Atlantic region
+5.0,2.0,2200.0,,Single,244900.0,12 Pinsent Place ,NL,Atlantic region
+5.0,2.0,2480.0,,Single,395000.0,26 Cousens Place ,NL,Atlantic region
+,,,,Single,160000.0,3B Maple Crescent ,NL,Atlantic region
+2.0,1.0,908.0,,Single,55000.0,12 Flynn Street ,NL,Atlantic region
+2.0,1.0,1344.0,,Single,88000.0,198 Main Street ,NL,Atlantic region
+3.0,2.0,1040.0,,Single,159900.0,16 Forest Road ,NL,Atlantic region
+2.0,2.0,2457.0,,Single,249000.0,1-3 RICHARD Road ,NL,Atlantic region
+3.0,1.0,1450.0,,Single,425000.0,387 Bay Bulls Road ,NL,Atlantic region
+2.0,1.0,1530.0,,Single,217500.0,29 Mount Royal Avenue ,NL,Atlantic region
+3.0,2.0,1656.0,,Single,229000.0,52 Main Street ,NL,Atlantic region
+2.0,2.0,1900.0,,Single,384900.0,14 Vokeys Road ,NL,Atlantic region
+2.0,1.0,684.0,,Single,54000.0,3 Bennetts Lane ,NL,Atlantic region
+4.0,2.0,1700.0,,Single,169900.0,5 Bay Bulls Road ,NL,Atlantic region
+3.0,1.0,1232.0,,Single,219000.0,4056 Duley Crescent ,NL,Atlantic region
+3.0,1.0,2904.0,,Single,149000.0,5 Station Road ,NL,Atlantic region
+3.0,3.0,3410.0,,Single,519900.0,47 Blue Jay Place ,NL,Atlantic region
+4.0,1.0,1800.0,,Single,99900.0,14 Cable Avenue ,NL,Atlantic region
+3.0,3.0,3464.0,,Single,559000.0,28 WINTER Avenue ,NL,Atlantic region
+,,1080.0,,Single,179900.0,88 Amber Drive ,NL,Atlantic region
+3.0,3.0,1760.0,,Single,245000.0,49B Paradise Road ,NL,Atlantic region
+4.0,2.0,2109.0,,Single,270000.0,22 Evergreen Boulevard ,NL,Atlantic region
+3.0,2.0,2150.0,,Single,169000.0,85 Grenfell Heights ,NL,Atlantic region
+3.0,1.0,1320.0,,Single,62500.0,16 Oceanview Road ,NL,Atlantic region
+2.0,1.0,1050.0,,Single,399900.0,219-227 Conception Bay Highway ,NL,Atlantic region
+3.0,1.0,1248.0,,Single,139000.0,2 Hefferns Lane ,NL,Atlantic region
+2.0,2.0,1547.0,,Single,293900.0,9 Maple Oak Path ,NL,Atlantic region
+5.0,4.0,2700.0,,Single,364900.0,26 Bar Haven Street ,NL,Atlantic region
+3.0,2.0,1560.0,,Single,249900.0,9 Collier Place ,NL,Atlantic region
+5.0,2.0,2812.0,,Residential,269500.0,81 Forest Road ,NL,Atlantic region
+5.0,2.0,3025.0,,Single,299900.0,8 Batstones Road ,NL,Atlantic region
+4.0,3.0,2177.0,,Single,233500.0,274 Marine Drive ,NL,Atlantic region
+3.0,3.0,2360.0,,Single,365000.0,32 Hopedale Crescent ,NL,Atlantic region
+3.0,1.0,1600.0,,Single,119900.0,7 Bond Street ,NL,Atlantic region
+3.0,2.0,2128.0,,Single,269000.0,47 Logy Bay Road ,NL,Atlantic region
+4.0,1.0,1602.0,,Single,149900.0,27 Golf Avenue ,NL,Atlantic region
+5.0,6.0,2679.0,,Single,349992.0,2 Woods Street ,NL,Atlantic region
+3.0,2.0,1277.0,,Single,399900.0,42 SNOWS Drive Unit63 LOT,NL,Atlantic region
+4.0,4.0,2120.0,,Single,329900.0,12 Hermitage Place ,NL,Atlantic region
+4.0,4.0,3159.0,,Single,435000.0,57 Iceland Place ,NL,Atlantic region
+3.0,1.0,1036.0,,Single,68900.0,156 Caribou Road ,NL,Atlantic region
+6.0,2.0,1400.0,,Single,179900.0,201-211 MAIN Street ,NL,Atlantic region
+2.0,3.0,2190.0,,Single,499500.0,335 Tolt Road ,NL,Atlantic region
+3.0,1.0,1227.0,,Single,160000.0,10 Juniper Crescent ,NL,Atlantic region
+3.0,2.0,1800.0,,Single,499900.0,347 Conception Bay Highway ,NL,Atlantic region
+3.0,3.0,1743.0,,Single,299900.0,20 Karwood Drive Unit3 LOT,NL,Atlantic region
+5.0,3.0,4700.0,,Residential,789900.0,184 Summit Drive ,NL,Atlantic region
+2.0,2.0,1192.0,,Single,364900.0,8 Leonard J. Crowley Street ,NL,Atlantic region
+2.0,1.0,1861.0,,Single,239000.0,219 Grenfell Heights ,NL,Atlantic region
+5.0,3.0,2252.0,,Single,259900.0,297 Foxtrap Access Road ,NL,Atlantic region
+6.0,4.0,4365.0,,Residential,599000.0,62 Cypress Street ,NL,Atlantic region
+3.0,2.0,1092.0,,Single,129000.0,10 MERCERS Lane ,NL,Atlantic region
+4.0,3.0,3600.0,,Single,739000.0,12 Tolt Road ,NL,Atlantic region
+3.0,3.0,2020.0,,Single,429900.0,44 Foote Street ,NL,Atlantic region
+4.0,3.0,2250.0,,Single,219000.0,5 MacKay Street ,NL,Atlantic region
+3.0,2.0,2320.0,,Single,359900.0,39 Markham Drive ,NL,Atlantic region
+5.0,2.0,2386.0,,Single,289900.0,4 Barbour Drive ,NL,Atlantic region
+3.0,2.0,1807.0,,Single,99900.0,6 Exploits Avenue ,NL,Atlantic region
+2.0,1.0,916.0,,Single,69999.0,2 Brazils Lane ,NL,Atlantic region
+4.0,2.0,1128.0,,Single,249900.0,32 Thirteenth Avenue ,NL,Atlantic region
+4.0,2.0,1728.0,,Single,129500.0,12 Elizabeth Street ,NL,Atlantic region
+4.0,2.0,2108.0,,Single,309900.0,30 Cambridge Crescent ,NL,Atlantic region
+4.0,2.0,1332.0,,Single,100000.0,32 Brigus Road ,NL,Atlantic region
+5.0,2.0,2188.0,,Residential,330000.0,46 Vambury Street ,NL,Atlantic region
+4.0,4.0,4144.0,,Single,599000.0,8 Niagara Place ,NL,Atlantic region
+3.0,1.0,1850.0,,Residential,119000.0,39 Main Street ,NL,Atlantic region
+3.0,2.0,2400.0,,Single,119000.0,1 Wells Road ,NL,Atlantic region
+3.0,1.0,1600.0,,Single,135900.0,27 Pikes Lane ,NL,Atlantic region
+3.0,3.0,3400.0,,Single,429900.0,4 Base Line Road ,NL,Atlantic region
+4.0,2.0,2312.0,,Single,419000.0,870 Indian Meal Line ,NL,Atlantic region
+4.0,4.0,3414.0,,Single,299500.0,6 Greenwood Street ,NL,Atlantic region
+5.0,4.0,2754.0,,Single,469900.0,49 ROSE ABBEY Street ,NL,Atlantic region
+3.0,1.0,1100.0,,Single,137500.0,102 CHURCH Street ,NL,Atlantic region
+3.0,2.0,900.0,,Single,269000.0,0 Black Drung Road ,NL,Atlantic region
+2.0,1.0,975.0,,Single,183000.0,4013 Canning Avenue ,NL,Atlantic region
+2.0,1.0,2142.0,,Single,129500.0,17 Poplar Avenue ,NL,Atlantic region
+2.0,1.0,930.0,,Single,169000.0,48 Hussey Drive ,NL,Atlantic region
+5.0,3.0,2066.0,,Single,484900.0,43 Ballylee Crescent ,NL,Atlantic region
+3.0,1.0,1260.0,,Single,149900.0,20 Park Street ,NL,Atlantic region
+4.0,5.0,5081.0,,Single,989900.0,13 Ivys Way ,NL,Atlantic region
+3.0,1.0,1910.0,,Single,179900.0,14 Lidstones Drive ,NL,Atlantic region
+3.0,2.0,836.0,,Single,129900.0,158 Grenfell Heights ,NL,Atlantic region
+3.0,2.0,2754.0,,Single,289900.0,291 Indian Meal Line ,NL,Atlantic region
+3.0,1.0,955.0,,Single,49900.0,14 Bay Street ,NL,Atlantic region
+2.0,2.0,1620.0,,Single,240000.0,45 Gilbert Street ,NL,Atlantic region
+3.0,1.0,1200.0,,Single,229900.0,106 Main Street ,NL,Atlantic region
+6.0,2.0,2080.0,,Single,227500.0,134 Campbell Avenue ,NL,Atlantic region
+3.0,2.0,2132.0,,Single,179900.0,132 MAIN Street ,NL,Atlantic region
+4.0,3.0,2288.0,,Single,560000.0,1 Romans Drung ,NL,Atlantic region
+2.0,1.0,1428.0,,Single,175000.0,6 CEMETERY Road ,NL,Atlantic region
+1.0,1.0,1304.0,,Single,259900.0,16 Larsen Street ,NL,Atlantic region
+4.0,2.0,1995.0,,Single,134900.0,12 Eighth Avenue ,NL,Atlantic region
+3.0,2.0,1462.0,,Single,349900.0,24B Delaneys Avenue ,NL,Atlantic region
+4.0,3.0,2798.0,,Residential,379900.0,4 Bonia Avenue ,NL,Atlantic region
+3.0,1.0,1080.0,,Residential,95000.0,8 Hawkins Street ,NL,Atlantic region
+3.0,2.0,1186.0,,Single,254900.0,Lot 43 Lori Ann Place ,NL,Atlantic region
+2.0,2.0,1868.0,,Single,299900.0,18 Samuel Drive ,NL,Atlantic region
+4.0,3.0,2400.0,,Single,349900.0,11 Bar Haven Street ,NL,Atlantic region
+2.0,1.0,1126.0,,Single,89900.0,4 Holmes Road Unit A,NL,Atlantic region
+5.0,3.0,2500.0,,Single,254900.0,58 Rutledge Crescent ,NL,Atlantic region
+4.0,4.0,3350.0,,Single,469900.0,42 GOLD MEDAL Drive ,NL,Atlantic region
+3.0,2.0,1240.0,,Single,199900.0,74 Country Lane ,NL,Atlantic region
+5.0,2.0,2715.0,,Single,199900.0,45 MAIN Street ,NL,Atlantic region
+4.0,2.0,1920.0,,Single,249900.0,12 Sycamore Place ,NL,Atlantic region
+2.0,2.0,950.0,,Single,149000.0,65 Bowater Drive ,NL,Atlantic region
+5.0,3.0,2505.0,,Single,179900.0,116 Main Road ,NL,Atlantic region
+4.0,1.0,1656.0,,Single,79000.0,8 MAYNE Lane ,NL,Atlantic region
+2.0,1.0,1040.0,,Single,179900.0,1 Tompkins Street ,NL,Atlantic region
+3.0,2.0,1680.0,,Single,259000.0,40 Moss Heather Drive ,NL,Atlantic region
+3.0,2.0,872.0,,Single,179900.0,224-226 Main Road ,NL,Atlantic region
+,,1988.0,,Single,139900.0,12 Youden Place ,NL,Atlantic region
+6.0,3.0,2824.0,,Single,275000.0,7 Bennett Terrace ,NL,Atlantic region
+3.0,3.0,2870.0,,Single,359900.0,48 Bonaventure Avenue ,NL,Atlantic region
+3.0,1.0,836.0,,Single,99000.0,3 Mulrooney Avenue ,NL,Atlantic region
+6.0,7.0,3800.0,,Single,655000.0,24-36 Bread and Cheese Road ,NL,Atlantic region
+5.0,2.0,2280.0,,Single,175000.0,33 Indian Arm Road ,NL,Atlantic region
+3.0,1.0,2560.0,,Single,149000.0,63 MAIN Road ,NL,Atlantic region
+3.0,3.0,2034.0,,Single,348000.0,29 Henry Larsen Street ,NL,Atlantic region
+3.0,2.0,1718.0,,Single,169900.0,44-46 Cookstown Road ,NL,Atlantic region
+5.0,2.0,2080.0,,Single,209900.0,11 Johnson Crescent ,NL,Atlantic region
+4.0,2.0,2290.0,,Single,169777.0,23 Bank Road ,NL,Atlantic region
+3.0,3.0,3131.0,,Residential,625000.0,29 Spruce Hill Place ,NL,Atlantic region
+3.0,1.0,1444.0,,Single,134900.0,150 Main Street ,NL,Atlantic region
+3.0,2.0,1503.0,,Residential,199000.0,57 Bishops cove Shore Road ,NL,Atlantic region
+2.0,2.0,1055.0,,Single,264900.0,LOT 4 RIDGEWOOD Crescent ,NL,Atlantic region
+3.0,3.0,2612.0,,Single,329000.0,39 Sunset Drive ,NL,Atlantic region
+3.0,1.0,1152.0,,Residential,129900.0,148 Georgetown Road ,NL,Atlantic region
+4.0,4.0,3250.0,,Single,379999.0,54 Ville Marie Drive ,NL,Atlantic region
+5.0,2.0,3571.0,,Single,293000.0,152-154 Eldon Street ,NL,Atlantic region
+2.0,1.0,1008.0,,Single,79900.0,11 Caseys Lane ,NL,Atlantic region
+3.0,1.0,2400.0,,Residential,250000.0,68 Grenfell Avenue ,NL,Atlantic region
+3.0,1.0,1433.0,,Residential,89900.0,14-18 Church Lane ,NL,Atlantic region
+3.0,3.0,2500.0,,Residential,339900.0,27 School Road ,NL,Atlantic region
+3.0,2.0,900.0,,Single,94500.0,15 Woody Island Drive ,NL,Atlantic region
+3.0,2.0,1000.0,,Single,125900.0,63 Main Street ,NL,Atlantic region
+2.0,1.0,889.0,,Single,219900.0,LOT 17 RIDGEWOOD Crescent ,NL,Atlantic region
+3.0,2.0,1980.0,,Residential,314899.0,88 Greens Road ,NL,Atlantic region
+3.0,2.0,2030.0,,Residential,254900.0,45 Chaytors Road ,NL,Atlantic region
+3.0,2.0,900.0,,Single,99000.0,13 Woody Island Drive ,NL,Atlantic region
+2.0,1.0,2200.0,,Single,318500.0,24 Maple Oak Path ,NL,Atlantic region
+5.0,4.0,3203.0,,Single,435000.0,38 Fowlow Drive ,NL,Atlantic region
+3.0,3.0,1945.0,,Single,229900.0,7 PERCY Drive ,NL,Atlantic region
+4.0,2.0,1018.0,,Single,158900.0,54 Water Street ,NL,Atlantic region
+2.0,2.0,1376.0,,Residential,289900.0,78 Station Road ,NL,Atlantic region
+5.0,3.0,2466.0,,Residential,350000.0,7 Oakes Lane ,NL,Atlantic region
+3.0,2.0,2016.0,,Single,154900.0,30 Marshalls Drive ,NL,Atlantic region
+3.0,3.0,2200.0,,Residential,159900.0,28 Northside Road ,NL,Atlantic region
+3.0,2.0,2200.0,,Residential,309900.0,66 Remembrance Loop ,NL,Atlantic region
+4.0,2.0,2500.0,,Single,200000.0,49 Campbell Avenue ,NL,Atlantic region
+4.0,3.0,2720.0,,Residential,375000.0,9 Nolan Place ,NL,Atlantic region
+6.0,3.0,2763.0,,Single,289000.0,2 Dr. T Milton Green Square ,NL,Atlantic region
+2.0,1.0,860.0,,Single,94500.0,75 Water Street ,NL,Atlantic region
+3.0,2.0,2218.0,,Residential,289900.0,2 Frenchs Place ,NL,Atlantic region
+4.0,3.0,2552.0,,Residential,329900.0,451 Backline Road ,NL,Atlantic region
+5.0,2.0,2200.0,,Residential,289900.0,221 Topsail Road ,NL,Atlantic region
+2.0,2.0,2200.0,,Residential,325000.0,20 Brant Drive ,NL,Atlantic region
+4.0,1.0,2090.0,,Residential,155000.0,65 Main Road ,NL,Atlantic region
+4.0,2.0,2480.0,,Residential,319900.0,27 Yetman Drive ,NL,Atlantic region
+3.0,2.0,2928.0,,Residential,474900.0,216 Neck Road ,NL,Atlantic region
+3.0,2.0,2610.0,,Residential,322500.0,11 Bartletts Road ,NL,Atlantic region
+2.0,2.0,1015.0,,Single,244900.0,LOT 16 RIDGEWOOD Crescent ,NL,Atlantic region
+3.0,3.0,2158.0,,Residential,332080.0,17 Shriners Road ,NL,Atlantic region
+3.0,3.0,2136.0,,Residential,362800.0,18 BRANT Drive ,NL,Atlantic region
+2.0,2.0,1600.0,,Residential,154900.0,1 PARK Lane ,NL,Atlantic region
+6.0,5.0,6000.0,,Residential,599000.0,43 Vale Drive ,NL,Atlantic region
+3.0,1.0,998.0,,Residential,269900.0,353 School Road ,NL,Atlantic region
+4.0,4.0,3410.0,,Residential,429900.0,37 Baker Street ,NL,Atlantic region
+3.0,2.0,1178.0,,Single,309900.0,LOT 5 RIDGEWOOD Crescent ,NL,Atlantic region
+3.0,3.0,2136.0,,Residential,370000.0,4 Lawn Point Avenue ,NL,Atlantic region
+2.0,2.0,2106.0,,Residential,319900.0,6 Shriners Road ,NL,Atlantic region
+4.0,5.0,3024.0,,Single,189900.0,284-286 Main Street ,NL,Atlantic region
+3.0,2.0,2150.0,,Residential,339900.0,177 INDIAN MEAL Line ,NL,Atlantic region
+3.0,3.0,1928.0,,Single,319900.0,6 Larsen Street ,NL,Atlantic region
+2.0,1.0,1506.0,,Single,269000.0,5 Holland Place ,NL,Atlantic region
+3.0,2.0,1738.0,,Single,249900.0,18 Mayor Avenue ,NL,Atlantic region
+3.0,2.0,1880.0,,Residential,335000.0,143A Empire Avenue ,NL,Atlantic region
+2.0,1.0,1108.0,,Residential,74900.0,28 Irishtown Road ,NL,Atlantic region
+4.0,2.0,1493.0,,Single,70000.0,5 Church Street ,NL,Atlantic region
+2.0,1.0,840.0,,Single,219900.0,LOT 18 RIDGEWOOD Crescent ,NL,Atlantic region
+3.0,1.0,2296.0,,Single,299900.0,367 Torbay Road ,NL,Atlantic region
+3.0,2.0,1920.0,,Single,147000.0,2 PATEYVILLE Road ,NL,Atlantic region
+4.0,4.0,2200.0,,Residential,1150000.0,"2 Lakeside Drive, South Dildo ",NL,Atlantic region
+4.0,3.0,2494.0,,Residential,359900.0,72 Sunvalley Drive ,NL,Atlantic region
+6.0,3.0,2717.0,.187,Single,174500.0,15 Barrisway Road ,NL,Atlantic region
+3.0,2.0,1796.0,0.54,Residential,429900.0,20 Duncan Road ,NL,Atlantic region
+3.0,1.0,2300.0,0.13,Residential,109900.0,94 Main Road ,NL,Atlantic region
+3.0,1.0,1295.0,,Single,99900.0,17 Back Cove Road N ,NL,Atlantic region
+3.0,2.0,2704.0,,Residential,99000.0,21 Park Drive ,NL,Atlantic region
+3.0,3.0,2475.0,,Residential,749900.0,1 Top Battery Road ,NL,Atlantic region
+4.0,3.0,5012.0,,Residential,1148000.0,Lot 2 Lakeside Drive ,NL,Atlantic region
+3.0,4.0,1648.0,,Residential,355000.0,20 St. Joseph's Lane ,NL,Atlantic region
+5.0,3.0,2426.0,,Residential,379000.0,48 Paddy Kay Drive ,NL,Atlantic region
+4.0,3.0,2784.0,,Single,289900.0,5 MIDWAY Road ,NL,Atlantic region
+3.0,2.0,2800.0,ng>1,Residential,369000.0,54 Red Cliff Road ,NL,Atlantic region
+6.0,4.0,3353.0,,Single,349900.0,23 New Cove Road ,NL,Atlantic region
+3.0,2.0,2062.0,,Residential,159900.0,MAIN Road ,NL,Atlantic region
+3.0,2.0,2160.0,,Residential,189000.0,92 Cross Road ,NL,Atlantic region
+3.0,3.0,2600.0,,Single,849000.0,28 Robins Place ,NL,Atlantic region
+3.0,2.0,3192.0,,Residential,329900.0,3 Simon Place ,NL,Atlantic region
+4.0,5.0,2815.0,,Single,335000.0,204 MAIN Street ,NL,Atlantic region
+4.0,3.0,2184.0,,Residential,199900.0,269 Main Road ,NL,Atlantic region
+4.0,3.0,2350.0,,Single,314900.0,21 New Cove Road ,NL,Atlantic region
+2.0,1.0,700.0,>1.5,Residential,165000.0,317 Hodgewater Line ,NL,Atlantic region
+3.0,2.0,1770.0,,Residential,314900.0,29 Cochrane Street ,NL,Atlantic region
+4.0,2.0,800.0,,Single,205000.0,7 THISTLE Street ,NL,Atlantic region
+6.0,2.0,3130.0,,Single,195000.0,94 Bob Clark Drive ,NL,Atlantic region
+3.0,2.0,1350.0,,Single,309000.0,Lot 11 Spruceland Drive ,NL,Atlantic region
+3.0,1.0,1508.0,,Residential,224900.0,36 Wyatt Boulevard ,NL,Atlantic region
+3.0,2.0,1802.0,,Residential,245000.0,132 Edison Place ,NL,Atlantic region
+4.0,2.0,2025.0,,Single,245500.0,27 Robertson Avenue ,NL,Atlantic region
+3.0,2.0,1500.0,,Residential,98500.0,183 Water Street ,NL,Atlantic region
+,,1400.0,,Residential,179999.0,40 Greens Road ,NL,Atlantic region
+4.0,2.0,3200.0,,Residential,329000.0,39 St. Michaels Avenue ,NL,Atlantic region
+3.0,2.0,3008.0,0.64,Residential,269900.0,16-24 James Road ,NL,Atlantic region
+2.0,1.0,621.0,,Residential,189900.0,14-16 East Road ,NL,Atlantic region
+3.0,2.0,2968.0,,Residential,649000.0,Lot #17 Claddagh Road ,NL,Atlantic region
+3.0,3.0,2070.0,,Residential,264650.0,2 Saffron Street ,NL,Atlantic region
+4.0,2.0,2082.0,,Single,65000.0,14 Water Street E ,NL,Atlantic region
+4.0,1.0,2475.0,,Residential,199900.0,22 Level Pond Road ,NL,Atlantic region
+2.0,2.0,2430.0,,Residential,389900.0,6 Trosa Street ,NL,Atlantic region
+5.0,3.0,1300.0,,Residential,285000.0,132 Old Petty Harbour Road ,NL,Atlantic region
+2.0,2.0,1736.0,,Residential,249000.0,53 Winslow Street ,NL,Atlantic region
+5.0,2.0,2880.0,,Single,379900.0,946 Indian Meal Line ,NL,Atlantic region
+2.0,2.0,1700.0,,Residential,350000.0,560 Windgap Road ,NL,Atlantic region
+4.0,3.0,2500.0,,Residential,309000.0,8 Marconi Place ,NL,Atlantic region
+3.0,3.0,1475.0,,Residential,89500.0,11 Pleasant Street ,NL,Atlantic region
+2.0,2.0,1796.0,,Residential,399900.0,13 Waterside Place ,NL,Atlantic region
+2.0,1.0,853.0,,Single,199900.0,lot 10 Spruceland Drive ,NL,Atlantic region
+6.0,2.0,2542.0,,Residential,289900.0,6 Weymouth Street ,NL,Atlantic region
+3.0,2.0,3600.0,,Residential,494000.0,311 Central St. ,NL,Atlantic region
+2.0,1.0,1020.0,,Residential,165500.0,25 Barnes Road ,NL,Atlantic region
+3.0,1.0,2400.0,,Residential,169500.0,104 Circular Road ,NL,Atlantic region
+3.0,1.0,2550.0,,Residential,169900.0,93 Lady Lake Rd. ,NL,Atlantic region
+3.0,2.0,1215.0,,Residential,109900.0,120 Main Street E ,NL,Atlantic region
+3.0,1.0,2184.0,,Residential,249900.0,90 St. Thomas Line ,NL,Atlantic region
+3.0,1.0,2392.0,,Single,134900.0,21 George Street ,NL,Atlantic region
+4.0,4.0,3346.0,,Residential,575000.0,25 Brooklyn Avenue ,NL,Atlantic region
+3.0,1.0,798.0,,Residential,99900.0,55 Southern Shore Highway ,NL,Atlantic region
+2.0,,800.0,>0.5,Residential,62900.0,0 Second Pond Road ,NL,Atlantic region
+4.0,3.0,3956.0,,Single,649900.0,140 Road to the Isles OTHER ,NL,Atlantic region
+3.0,1.0,2400.0,,Residential,159900.0,182 Bareneed Road ,NL,Atlantic region
+4.0,3.0,2440.0,,Residential,314900.0,5 STAPLETON'S Road ,NL,Atlantic region
+3.0,2.0,3268.0,,Residential,275000.0,5-7 Diamond's Road ,NL,Atlantic region
+2.0,1.0,990.0,,Residential,69900.0,731 Main St. ,NL,Atlantic region
+3.0,3.0,1944.0,,Single,319900.0,2 Larsen Street ,NL,Atlantic region
+3.0,2.0,1318.0,,Single,299000.0,Lot 9 Spruceland Drive ,NL,Atlantic region
+2.0,1.0,1108.0,0.25,Residential,74900.0,28 Irishtown Road ,NL,Atlantic region
+3.0,3.0,4384.0,,Residential,869900.0,64 SHELBURNE Street ,NL,Atlantic region
+3.0,2.0,1476.0,,Single,219900.0,1 MAIN Road ,NL,Atlantic region
+3.0,1.0,1139.0,,Residential,79900.0,1 Lench Lane ,NL,Atlantic region
+2.0,2.0,865.0,,Single,59900.0,54 Parkwood Drive ,NL,Atlantic region
+3.0,1.0,1268.0,,Residential,159900.0,624 Cranes Road ,NL,Atlantic region
+2.0,1.0,780.0,,Single,105000.0,6 MacKay Avenue ,NL,Atlantic region
+3.0,1.0,1440.0,,Residential,115000.0,32 Ocean View Drive ,NL,Atlantic region
+5.0,3.0,2070.0,,Single,332900.0,16 Humber Drive ,NL,Atlantic region
+3.0,2.0,2414.0,,Residential,339000.0,10 Shoreline Estates ,NL,Atlantic region
+3.0,2.0,2378.0,,Single,299000.0,lot 15 spruceland Drive ,NL,Atlantic region
+3.0,2.0,2200.0,,Residential,189900.0,109 SEAFOREST Drive ,NL,Atlantic region
+3.0,4.0,4088.0,,Residential,545000.0,22-28 Jendarmie Place ,NL,Atlantic region
+4.0,2.0,2856.0,,Residential,159500.0,78 Hillside Crescent ,NL,Atlantic region
+4.0,3.0,2288.0,,Single,179000.0,9 Russann Street ,NL,Atlantic region
+2.0,2.0,944.0,,Single,269900.0,24 Duckworth Street ,NL,Atlantic region
+,,,,Residential,329900.0,3 Simon Place ,NL,Atlantic region
+4.0,2.0,1526.0,,Residential,169200.0,16 Berry Hill Drive ,NL,Atlantic region
+3.0,3.0,2238.0,,Single,289000.0,Lot 13 Spruceland Drive ,NL,Atlantic region
+3.0,1.0,2782.0,,Residential,99000.0,117 Old Track Road ,NL,Atlantic region
+3.0,1.0,1526.0,,Residential,169900.0,144 Southern Shore Highway ,NL,Atlantic region
+3.0,1.0,1420.0,,Single,139900.0,215 Citizens Drive ,NL,Atlantic region
+3.0,1.0,1000.0,,Residential,85000.0,1 Brookview Place ,NL,Atlantic region
+4.0,3.0,2700.0,,Residential,279900.0,21 Badcock Boulevard ,NL,Atlantic region
+2.0,2.0,1904.0,,Single,219000.0,57 HAWKER Crescent ,NL,Atlantic region
+2.0,1.0,720.0,,Single,99900.0,220 Main Street ,NL,Atlantic region
+3.0,1.0,2200.0,,Residential,74900.0,28 Spoon Cove Road ,NL,Atlantic region
+4.0,4.0,1152.0,,Residential,84900.0,217 Main Street ,NL,Atlantic region
+3.0,3.0,1928.0,,Single,319900.0,8 Larsen Street ,NL,Atlantic region
+3.0,3.0,1900.0,,Residential,189900.0,27 Parish Hall Hill ,NL,Atlantic region
+3.0,1.0,2300.0,>1.1,Residential,234900.0,165 Bareneed Road ,NL,Atlantic region
+2.0,2.0,2340.0,,Residential,332575.0,21 Shriners Road ,NL,Atlantic region
+4.0,1.0,950.0,,Single,59999.0,21 Smiths Lane ,NL,Atlantic region
+3.0,3.0,2800.0,,Residential,333000.0,11 Shea Place ,NL,Atlantic region
+3.0,2.0,1040.0,,Residential,210000.0,13 Fiddler Drive ,NL,Atlantic region
+3.0,1.0,1980.0,,Residential,129900.0,7-13 Goulds Road ,NL,Atlantic region
+4.0,3.0,5314.0,,Residential,359900.0,189-191 Conception Bay Highway Highway ,NL,Atlantic region
+3.0,1.0,2100.0,,Single,239900.0,369 Torbay Road ,NL,Atlantic region
+3.0,2.0,2156.0,,Residential,424900.0,80 Chipmans Road ,NL,Atlantic region
+3.0,2.0,1561.0,,Single,94500.0,18 Ship Cove Crescent ,NL,Atlantic region
+3.0,2.0,1840.0,,Single,239000.0,5 MAPLE Street ,NL,Atlantic region
+3.0,2.0,1300.0,,Single,299900.0,LOT 6 RIDGEWOOD Crescent ,NL,Atlantic region
+5.0,2.0,2618.0,,Single,220000.0,21 Water Street W ,NL,Atlantic region
+3.0,2.0,1578.0,.067,Residential,249900.0,#126 Edison Place ,NL,Atlantic region
+3.0,2.0,1926.0,,Single,289000.0,LOT 16 SPRUCELAND Drive ,NL,Atlantic region
+5.0,2.0,2100.0,,Residential,259900.0,348 TOPSAIL Road ,NL,Atlantic region
+4.0,3.0,2880.0,,Residential,509000.0,70 Middle Ridge Road ,NL,Atlantic region
+3.0,1.0,750.0,,Residential,52000.0,42 Pinch Marsh Road ,NL,Atlantic region
+3.0,3.0,2254.0,,Residential,289000.0,399 St. Thomas Line ,NL,Atlantic region
+5.0,2.0,2002.0,,Residential,269900.0,5 Moores Drive ,NL,Atlantic region
+2.0,1.0,800.0,,Residential,69900.0,9 Drakes Hill ,NL,Atlantic region
+3.0,1.0,2056.0,,Residential,149900.0,27 Gladstone Road ,NL,Atlantic region
+3.0,1.0,1000.0,,Single,60000.0,13 Merasheen Crescent ,NL,Atlantic region
+3.0,1.0,2480.0,,Residential,299900.0,40 Mint Cove Pond Road ,NL,Atlantic region
+4.0,2.0,1904.0,,Residential,199500.0,5 Frecker Place Extension ,NL,Atlantic region

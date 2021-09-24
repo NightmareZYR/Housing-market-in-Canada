@@ -1,0 +1,2373 @@
+Beds,Bath,Sqft,Lot_Size,Type,Price,Address,Province,Region
+,,,,Residential,249900.0,"32 Louis Sud  Néguac, E9G 1K7 ",NB,Atlantic region
+3.0,1.0,1181.0,,Residential,195900.0,"5257 Route 440, Acadieville, E4Y 2M8 ",NB,Atlantic region
+3.0,3.0,3200.0,.354,Residential,399900.0,96 Mathilde street ,NB,Atlantic region
+,,1556.0,,Residential,399000.0,207 Morris Rd ,NB,Atlantic region
+,,1152.0,,Residential,349900.0,"24 Cedar Ridge Rd, Blackville, E9B 0C7 ",NB,Atlantic region
+4.0,2.0,1440.0,0.19,Residential,219900.0,346 Radio Street ,NB,Atlantic region
+,,,,Residential,259900.0,"5114 Route 108 Municipality:\tMillerton, E1V 7K5 ",NB,Atlantic region
+2.0,1.0,191.0,5.16,Other,199500.0,Glebe Road ,NB,Atlantic region
+3.0,2.0,1600.0,1.98,Residential,1150000.0,110 Paradox Point Rd ,NB,Atlantic region
+5.0,1.0,1515.0,.198,Residential,95000.0,107 Kerr St ,NB,Atlantic region
+3.0,1.0,1400.0,1.71,Residential,282000.0,4395 Route 127 ,NB,Atlantic region
+3.0,1.0,2002.0,g>29,Residential,599000.0,"6183 Route 15, Woodside, NB ",NB,Atlantic region
+2.0,1.0,1425.0,11.6,Residential,265000.0,4764 Route 127 ,NB,Atlantic region
+4.0,3.0,2028.0,>0.3,Residential,499000.0,22 Charlotte Street ,NB,Atlantic region
+3.0,1.0,3000.0,0.31,Residential,799000.0,268 Parr Street ,NB,Atlantic region
+4.0,2.0,,.153,Residential,499900.0,255 Mataya Street ,NB,Atlantic region
+4.0,2.0,3600.0,>1.7,Residential,1295000.0,12 O'Neill Farm Rd ,NB,Atlantic region
+1.0,1.0,600.0,,Residential,149000.0,31 Gowan Road ,NB,Atlantic region
+3.0,3.0,1460.0,,Single,200000.0,7 Hospital Lane ,NB,Atlantic region
+5.0,1.0,1257.0,0.99,Single,55000.0,1779 Route 205 ,NB,Atlantic region
+3.0,1.0,,>0.5,Single,169900.0,268 Lakeside Rd ,NB,Atlantic region
+2.0,3.0,1514.0,,Single,169900.0,101 Connolly ST ,NB,Atlantic region
+5.0,2.0,1008.0,,Single,269900.0,208 Summer AVE ,NB,Atlantic region
+2.0,1.0,,.247,Single,114900.0,8 Wright Road ,NB,Atlantic region
+4.0,1.0,1500.0,.014,Single,350000.0,64 Neck Road ,NB,Atlantic region
+,,400.0,,Single,94900.0,Lot & Camp Route 126 ,NB,Atlantic region
+4.0,1.0,,,Single,94900.0,237 Drurys Cove Road ,NB,Atlantic region
+3.0,2.0,,>3.9,Single,249900.0,5357 Route 108 ,NB,Atlantic region
+4.0,3.0,,3.01,Single,899900.0,381 Titusville Road ,NB,Atlantic region
+4.0,2.0,2996.0,,Single,249900.0,2948 Main ST ,NB,Atlantic region
+3.0,1.0,988.0,,Single,140000.0,255 Niagara RD ,NB,Atlantic region
+2.0,2.0,1179.0,,Single,139900.0,139 Leblanc AVE ,NB,Atlantic region
+3.0,3.0,2060.0,,Single,529900.0,10 Louis-Arthur CRT ,NB,Atlantic region
+3.0,3.0,1784.0,,Single,365000.0,515 Glencairn ,NB,Atlantic region
+6.0,3.0,4300.0,1.25,Residential,649900.0,342 Des Chene street ,NB,Atlantic region
+5.0,2.0,2040.0,,Single,524900.0,23 Bellefield RD ,NB,Atlantic region
+3.0,2.0,,.079,Single,174900.0,276 Tripp Settlement Road ,NB,Atlantic region
+3.0,2.0,1152.0,g>50,Single,165000.0,975 Drurys Cove Road ,NB,Atlantic region
+4.0,2.0,,.172,Single,249900.0,55 Glenwood Drive ,NB,Atlantic region
+4.0,3.0,3200.0,8.14,Single,1200000.0,484 Route 11 ,NB,Atlantic region
+3.0,1.0,,.073,Single,159900.0,26 Dewar Street ,NB,Atlantic region
+4.0,3.0,1750.0,0.45,Single,239900.0,217 St George Street ,NB,Atlantic region
+2.0,1.0,815.0,,Single,374900.0,46 Seaview ,NB,Atlantic region
+3.0,2.0,1412.0,.102,Single,130000.0,13586 Route 105 Route ,NB,Atlantic region
+3.0,1.0,1032.0,,Single,169900.0,3672 Route 505 ,NB,Atlantic region
+4.0,3.0,1361.0,.016,Single,499900.0,79 Donat Croissant ,NB,Atlantic region
+3.0,2.0,3930.0,,Single,475000.0,123 Old Post RD ,NB,Atlantic region
+3.0,2.0,1300.0,,Single,189900.0,252 Ryan ST ,NB,Atlantic region
+3.0,1.0,912.0,.988,Single,74900.0,Camp Nashwaak Lake ,NB,Atlantic region
+2.0,2.0,1120.0,,Single,109900.0,31 Sophie LANE ,NB,Atlantic region
+2.0,2.0,,6.04,Single,350000.0,2548 Route 103 ,NB,Atlantic region
+3.0,3.0,,.322,Single,949000.0,49 Gentleman Drive ,NB,Atlantic region
+3.0,2.0,,>0.4,Single,299000.0,201 Cari Street ,NB,Atlantic region
+5.0,2.0,,.194,Single,119900.0,296 Route 134 ,NB,Atlantic region
+3.0,2.0,1800.0,>1.1,Single,369999.99,95 Fisher Avenue ,NB,Atlantic region
+3.0,3.0,1460.0,,Single,330000.0,15 Guimond CRT ,NB,Atlantic region
+3.0,2.0,,.487,Single,489000.0,160 Rue Centre ,NB,Atlantic region
+3.0,2.0,2734.0,5.69,Single,600000.0,23898 Route 134 ,NB,Atlantic region
+4.0,1.0,1490.0,0.18,Single,89900.0,49 St Antoine Street ,NB,Atlantic region
+5.0,3.0,,.157,Single,399900.0,18 Briar Brook Place ,NB,Atlantic region
+4.0,4.0,3350.0,.396,Single,399900.0,8 Rivercrest Drive ,NB,Atlantic region
+3.0,2.0,,>0.2,Single,139000.0,151 15e Street ,NB,Atlantic region
+1.0,1.0,900.0,>6.5,Single,249900.0,40 Wheaton Lane ,NB,Atlantic region
+3.0,2.0,1300.0,,Single,139900.0,12 Coronation ST ,NB,Atlantic region
+2.0,1.0,,.126,Single,149900.0,35 Currie Avenue ,NB,Atlantic region
+3.0,2.0,,.459,Single,225000.0,865 Latimore Lake Road ,NB,Atlantic region
+4.0,2.0,,1.75,Single,119900.0,6936 Route 107 ,NB,Atlantic region
+4.0,3.0,3200.0,,Residential,449900.0,60 Guylaine ,NB,Atlantic region
+3.0,1.0,1431.0,.108,Residential,299900.0,22 Clarendon ,NB,Atlantic region
+5.0,3.0,2000.0,,Single,359900.0,46 Fairway ,NB,Atlantic region
+3.0,2.0,1440.0,,Single,349900.0,50 Greenhaven DR ,NB,Atlantic region
+2.0,1.0,,.218,Single,59900.0,83 Theater Street ,NB,Atlantic region
+3.0,2.0,1587.0,.035,Single,159900.0,29 Longview Court ,NB,Atlantic region
+3.0,1.0,,.204,Single,289000.0,161 Union Street ,NB,Atlantic region
+3.0,1.0,1088.0,,Single,105000.0,21 Asa LANE ,NB,Atlantic region
+6.0,3.0,3034.0,g>14,Single,199900.0,14 Birch Street ,NB,Atlantic region
+4.0,2.0,,,Single,85500.0,65 Jacob Street ,NB,Atlantic region
+4.0,3.0,2250.0,ng>1,Single,329000.0,85 Somerville Road ,NB,Atlantic region
+2.0,1.0,,0.22,Single,129000.0,461 Saulnier Est ,NB,Atlantic region
+4.0,3.0,1568.0,0.16,Single,525000.0,102 William Street ,NB,Atlantic region
+2.0,1.0,,.516,Single,119900.0,178 Upton Street ,NB,Atlantic region
+4.0,2.0,2345.0,.119,Single,239900.0,42 Sewell Street ,NB,Atlantic region
+4.0,2.0,1380.0,,Single,195000.0,98 Lefurgey ,NB,Atlantic region
+6.0,2.0,,0.57,Single,224900.0,31 Avon Road ,NB,Atlantic region
+4.0,2.0,1690.0,1.07,Single,345000.0,422 Darling Island Road ,NB,Atlantic region
+4.0,1.0,2400.0,.171,Residential,449900.0,31 Manse St. ,NB,Atlantic region
+,,,,Residential,59900.0,120 Hectres (296 acres) ,NB,Atlantic region
+,,2.0,,Residential,159900.0,3205 Route 108 ,NB,Atlantic region
+3.0,1.0,1277.0,,Residential,329900.0,Coming Spring 2021 - ABM Homes Ltd - 110 Marc Court ,NB,Atlantic region
+2.0,2.0,1316.0,0.34,Residential,299000.0,363 Ledge Road ,NB,Atlantic region
+3.0,2.0,2408.0,.377,Residential,659900.0,975 Melanson ,NB,Atlantic region
+3.0,2.0,1438.0,,Residential,99000.0,"3195 Route 108, Renous, E9E 2M2 ",NB,Atlantic region
+2.0,1.0,872.0,0.19,Residential,199000.0,18 Kerrs Lake ,NB,Atlantic region
+,,,,Residential,119900.0,"Acerage off of O""Keefe Rd ",NB,Atlantic region
+,,,,Residential,29995.0,"Johnson Road; Renous, New Brunswick ",NB,Atlantic region
+,,900.0,,Residential,269900.0,"3086 108 Hwy Renous, E9E 2M7 ",NB,Atlantic region
+2.0,2.0,1379.0,,Residential,374000.0,Coming Spring 2021 - ABM Homes Ltd - 98 Marc Court ,NB,Atlantic region
+,,,,Residential,30000.0,"Sillikers, New Brunswick ",NB,Atlantic region
+3.0,1.0,,,Residential,289900.0,4791 Route 3 ,NB,Atlantic region
+,,800.0,,Residential,39900.0,1.7 Hec Route 420 Matthews Settlement ,NB,Atlantic region
+,,,,Residential,79901.0,347 Halcomb Rd ,NB,Atlantic region
+3.0,2.0,,,Residential,274000.0,457 Route 735 ,NB,Atlantic region
+4.0,2.0,1962.0,,Residential,444900.0,Coming Spring 2021 - BDL Quality Homes Ltd - 283 Chatellerault ,NB,Atlantic region
+3.0,1.0,1800.0,1.48,Residential,359900.0,788 Portage Vale Rd. ,NB,Atlantic region
+,,,,Residential,44500.0,"9720 sq m Sorel Rd, Wayerton, E9E 0A4 ",NB,Atlantic region
+4.0,1.0,760.0,,Residential,79900.0,"14 Marconi, St Margarets, E1N 5A9 ",NB,Atlantic region
+3.0,2.0,,,Residential,479000.0,34 Nancy Avenue ,NB,Atlantic region
+,,1397.0,,Residential,179500.0,725 Route 435 Highway ,NB,Atlantic region
+,,,,Residential,119900.0,1120 Route 420 Cassilis ,NB,Atlantic region
+,,836.0,,Residential,141000.0,106 Tardy Ave ,NB,Atlantic region
+2.0,1.0,686.0,,Residential,74900.0,"11263 Highway 8Blackville, E9B 1Y9 ",NB,Atlantic region
+3.0,1.0,1250.0,.605,Residential,168900.0,"6 Spring Street, Port Elgin, NB ",NB,Atlantic region
+2.0,1.0,806.0,,Residential,254900.0,"46/50 Haemmerich Lane, Acadieville, E4Y 2W7 ",NB,Atlantic region
+3.0,2.0,1423.0,,Residential,304900.0,Coming Spring 2021 - BDL Quality Homes Ltd - 96 Sebastien ,NB,Atlantic region
+2.0,1.0,,,Residential,349000.0,466 Milltown Boulevard ,NB,Atlantic region
+3.0,1.0,1423.0,,Residential,304900.0,Coming Spring 2021 - BDL Quality Homes Ltd - 277 Chatellerault ,NB,Atlantic region
+2.0,2.0,,,Residential,334900.0,652 Royal Oaks Boulevard Model Unit ,NB,Atlantic region
+,,390000.0,,Residential,390000.0,"144 Wolf Dr, Cains River, E9B 2H6 ",NB,Atlantic region
+2.0,1.0,1170.0,.736,Residential,134900.0,"1801 Route 16, Baie Verte, NB ",NB,Atlantic region
+,,,,Residential,60000.0,1.1 Hecta Big Ferry Rd ,NB,Atlantic region
+,,,,Residential,159900.0,"3.3 Hec Route 118, Gray Rapids, E9B 1G2 ",NB,Atlantic region
+1.0,1.0,,,Residential,79900.0,589 St. David Ridge Road ,NB,Atlantic region
+3.0,1.0,1012.0,,Residential,174900.0,25 Reeder Road ,NB,Atlantic region
+,,1152.0,,Residential,159900.0,2230 Weldfield Collette ,NB,Atlantic region
+3.0,2.0,3424.0,,Residential,239900.0,48 Corey Street ,NB,Atlantic region
+,,,,Residential,59900.0,Riverside Dr ,NB,Atlantic region
+,,,,Residential,159900.0,"Camp Bettsburg Road, Doaktown ",NB,Atlantic region
+2.0,1.0,2328.0,.122,Residential,159900.0,"10 Second Westcock Road, Frosty Hollow, NB ",NB,Atlantic region
+,,,,Residential,169900.0,5340 Route 117 ,NB,Atlantic region
+1.0,,624.0,3.45,Other,119900.0,56  Lakeshore Drive ,NB,Atlantic region
+1.0,,320.0,0.66,Residential,51999.0,35 Morey Brow Road ,NB,Atlantic region
+3.0,,,,Residential,194500.0,"81 Bremner Dr, Miramichi ",NB,Atlantic region
+4.0,2.0,,,Residential,139000.0,39 Lawrence Road ,NB,Atlantic region
+4.0,2.0,2264.0,.302,Residential,195000.0,15 Bridge St. ,NB,Atlantic region
+3.0,2.0,1900.0,.255,Residential,539900.0,226 Leopold F Belliveau ,NB,Atlantic region
+4.0,1.0,2625.0,.792,Residential,134900.0,"590 Route 16, Point de Bute, NB ",NB,Atlantic region
+,,1225.0,,Residential,99800.0,643 Beaverbrook Rd ,NB,Atlantic region
+,,768.0,,Residential,54000.0,"60 Schofield Lane, Renous, E9E 2E8 ",NB,Atlantic region
+,,,,Residential,99900.0,"198 Northwest Rd, Sunny Corner, E9E 1K8 ",NB,Atlantic region
+2.0,2.0,1560.0,,Residential,375000.0,Coming Spring 2021 - ABM Homes Ltd - 108 Marc Court ,NB,Atlantic region
+1.0,1.0,900.0,.349,Residential,134900.0,4 Sea Farm Road ,NB,Atlantic region
+,,672.0,,Residential,179900.0,6 hec Urquhart Rd ,NB,Atlantic region
+,,,,Residential,19900.0,2 Hec. Dan Brook Lane ,NB,Atlantic region
+2.0,2.0,1379.0,,Residential,379900.0,Coming Spring 2021 - 360 Degree Homes  - 47 Laforest ,NB,Atlantic region
+3.0,2.0,1522.0,,Residential,379900.0,Coming Spring 2021 - BDL Quality Homes Ltd - 50 Guy ,NB,Atlantic region
+3.0,1.0,1423.0,,Residential,356000.0,Coming Spring 2021 - ABM Homes Ltd - 107 Marc Court ,NB,Atlantic region
+,,2112.0,,Residential,249999.0,248 Duke St ,NB,Atlantic region
+2.0,3.0,2802.0,.305,Residential,610000.0,824 Pinewood Road Riverview ,NB,Atlantic region
+,,,,Residential,12900.0,30 Deepwood Avenue ,NB,Atlantic region
+,,800.0,,Residential,149900.0,80 MacTavish Rd ,NB,Atlantic region
+3.0,1.0,1664.0,,Residential,169000.0,302 Route 735 ,NB,Atlantic region
+3.0,1.0,,,Residential,229000.0,2475-2477 Route 127 ,NB,Atlantic region
+2.0,1.0,1536.0,,Residential,379900.0,Coming Spring 2021 - 360 degree Homes - 91 Dominique ,NB,Atlantic region
+,,,,Residential,45000.0,"21 Robertson Brook Road; Brantville, New Brunswick E9H 1M1 ",NB,Atlantic region
+,,,,Residential,39900.0,"- Route 11.  Glenelg, E1N 5C7 ",NB,Atlantic region
+,,600.0,,Residential,99700.0,"2065 Route 108, Renous, E9E 2N3 ",NB,Atlantic region
+,,1080.0,,Residential,229900.0,"465 Williston Dr, Miramichi, E1V 5X8 ",NB,Atlantic region
+,,,,Residential,164900.0,"2560 King George Highway. Miramichi, E1V 6W9 ",NB,Atlantic region
+3.0,1.0,936.0,ng>4,Residential,169500.0,800 Route 465 ,NB,Atlantic region
+,,,,Residential,80000.0,"2299 Route 118; Mckinleyville, E9E 2H7 ",NB,Atlantic region
+3.0,21.0,2400.0,.231,Residential,459000.0,756 Route 148 ,NB,Atlantic region
+,,,,Residential,99900.0,3204 Sq M Murdock Beach Road ,NB,Atlantic region
+,,,,Residential,30000.0,"lot 27 Gulliver St, Miramichi, E1N 3A7 ",NB,Atlantic region
+3.0,2.0,,,Residential,149900.0,660 Route 755 ,NB,Atlantic region
+3.0,2.0,1141.0,,Residential,199900.0,"326 Halcomb Road\tHalcomb, E9E 1W6 ",NB,Atlantic region
+4.0,4.0,4681.0,ng>2,Residential,989900.0,21 Rodeo Way ,NB,Atlantic region
+3.0,1.0,1036.0,,Residential,81000.0,5120 Highway 108 Millerton ,NB,Atlantic region
+4.0,2.0,2000.0,,Residential,499900.0,"25 Wilson Dr, Miramichi, E1N 4A1 ",NB,Atlantic region
+4.0,2.0,4400.0,ng>2,Residential,975000.0,42-46 Burrell Rd. ,NB,Atlantic region
+,,1104.0,,Residential,489800.0,2570 King George Highway ,NB,Atlantic region
+,,,,Residential,129900.0,261 Main St Blackville ,NB,Atlantic region
+,,540.0,,Residential,118498.0,"97 Hambrook Point Rd, Renous, E9E 2P1 ",NB,Atlantic region
+,,1261.0,,Residential,69900.0,"279 Northwest Rd, Exmoor, E9E 1L7 ",NB,Atlantic region
+,,928.0,,Residential,229900.0,42 Flett St ,NB,Atlantic region
+3.0,1.0,1152.0,,Residential,234900.0,244 Ryan St. ,NB,Atlantic region
+,,1130.0,,Residential,114900.0,"688 King George Hwy, Miramichi, E1V 1P3 ",NB,Atlantic region
+5.0,1.0,1960.0,.223,Residential,69900.0,41 Juniper Road ,NB,Atlantic region
+3.0,1.0,4152.0,>1.5,Residential,355555.0,"73 Breau Creek Road, Memramcook, NB ",NB,Atlantic region
+2.0,1.0,654.0,.092,Residential,134900.0,28 Copp ,NB,Atlantic region
+3.0,1.0,1033.0,,Residential,299900.0,Coming Spring 2021 - 360 degree Homes - 46 Laforest ,NB,Atlantic region
+,,1600.0,,Residential,249900.0,11123 Rue Principale ,NB,Atlantic region
+4.0,2.0,3426.0,,Residential,329000.0,2372 3 Route ,NB,Atlantic region
+4.0,2.0,,,Residential,254900.0,128 Main Street ,NB,Atlantic region
+,,,,Residential,49900.0,2680 420 Route ,NB,Atlantic region
+,,800.0,,Residential,74900.0,"181 Main St Blackville, New Brunswick ",NB,Atlantic region
+,,966.0,,Residential,144500.0,3445 Route 118 ,NB,Atlantic region
+4.0,1.0,1232.0,.252,Residential,149900.0,2327 Route 305 ,NB,Atlantic region
+,,2562.0,,Residential,249900.0,"62 Schofield Lane, Renous, E9E 2E8 ",NB,Atlantic region
+4.0,2.0,,,Residential,139000.0,16 Victoria Street ,NB,Atlantic region
+2.0,2.0,,,Residential,469000.0,3576 Route 127 ,NB,Atlantic region
+3.0,1.0,920.0,0.48,Other,249000.0,3 Haley Lane ,NB,Atlantic region
+3.0,1.0,3426.0,,Residential,205000.0,579 Route 735 ,NB,Atlantic region
+,,1245.0,,Residential,249900.0,87 Percy Kelly Dr ,NB,Atlantic region
+3.0,1.0,1488.0,,Residential,368000.0,Coming Spring 2021 - ABM Homes Ltd - 109 Marc Court ,NB,Atlantic region
+,,,,Residential,649800.0,1189 Beaverbrook Rd ,NB,Atlantic region
+,,574.0,,Residential,134900.0,"135 Main St, Doaktown, E9C 1A3 ",NB,Atlantic region
+,,722.0,,Residential,74500.0,"898 Hwy 118, Gray Rapids, E9B 1G2 ",NB,Atlantic region
+2.0,1.0,917.0,,Residential,149900.0,"73 Hilltop, Hilltop, E9E 1K6 ",NB,Atlantic region
+4.0,3.0,3790.0,ng>8,Residential,975000.0,47 Reeder ,NB,Atlantic region
+,,813.0,,Residential,135000.0,2292 Route 420 Hwy ,NB,Atlantic region
+3.0,2.0,2500.0,0.43,Residential,309000.0,16 Elm Street ,NB,Atlantic region
+,,,,Residential,135000.0,Quarry Road ,NB,Atlantic region
+,,,,Residential,109000.0,94-1 Route 108 ,NB,Atlantic region
+3.0,1.0,1152.0,g>32,Residential,299000.0,"178 Duguay Point Road, Shemogue, NB ",NB,Atlantic region
+,,1000.0,,Residential,115000.0,"18 Centrale St, Rogersville, E4Y 0A4 ",NB,Atlantic region
+4.0,2.0,237.0,,Residential,229000.0,25 Victoria Street ,NB,Atlantic region
+,,,,Residential,97500.0,60/62 Queensway ,NB,Atlantic region
+,,,,Other,128500.0,DIGDEGUASH LAKE ,NB,Atlantic region
+,,,,Residential,62500.0,950 Route 772 ,NB,Atlantic region
+,,,,Residential,13900.0,74-5 Jacqueline Dr. lot ,NB,Atlantic region
+,,,,Residential,329900.0,614 Wellington St. Miramichi ,NB,Atlantic region
+,,1766.0,,Residential,299900.0,72-74 Tweedie St ,NB,Atlantic region
+2.0,1.0,,,Residential,199900.0,420 Upper Towerhill Road ,NB,Atlantic region
+,,,,Residential,54900.0,"380 Halcomb RdHalcomb, E9E 1W6 ",NB,Atlantic region
+5.0,1.0,2100.0,0.31,Residential,139900.0,2511 Route 774 ,NB,Atlantic region
+4.0,1.0,1178.0,.999,Residential,265000.0,45 Llangollen Rd ,NB,Atlantic region
+3.0,1.0,1336.0,,Residential,179900.0,"961 Royal Road, Memramcook, NB ",NB,Atlantic region
+,,,,Residential,45000.0,Sorel Rd ,NB,Atlantic region
+,5.0,10800.0,.319,Residential,1200000.0,"131 Main Street, Sackville, NB ",NB,Atlantic region
+,,,,Residential,129900.0,9350 sqm Point Aux Carr Road ,NB,Atlantic region
+4.0,1.0,840.0,,Residential,119900.0,22 Island View Dr ,NB,Atlantic region
+,,,,Residential,109900.0,"94-1 Route 108; Renous, New Brunswick ",NB,Atlantic region
+,,5688.0,,Residential,14860.0,- O'Keefe Rd ,NB,Atlantic region
+,,701.0,,Residential,169500.0,"168 Brown Rd Miramichi, E1V 3L3 ",NB,Atlantic region
+3.0,2.0,1500.0,>2.5,Residential,449900.0,85 Mollins Rd. ,NB,Atlantic region
+4.0,3.0,1522.0,,Residential,599900.0,79 Sebastien ,NB,Atlantic region
+3.0,2.0,,,Residential,429900.0,14 Moran Lane ,NB,Atlantic region
+4.0,2.0,,,Residential,89500.0,151 Union Street ,NB,Atlantic region
+4.0,3.0,,,Residential,799000.0,336 Ledge Road ,NB,Atlantic region
+,,968.0,,Residential,69900.0,74 Main St ,NB,Atlantic region
+3.0,2.0,,,Residential,574900.0,2724 Route 148 ,NB,Atlantic region
+2.0,1.0,970.0,3.38,Residential,254900.0,19 Hannah Road ,NB,Atlantic region
+3.0,1.0,1246.0,,Residential,299900.0,Coming Spring 2021 - ABM Homes Ltd - 97 Marc Court ,NB,Atlantic region
+,,,,Residential,59900.0,Rte 118 Doyles Brook ,NB,Atlantic region
+2.0,1.0,,,Residential,165000.0,13 Bates Road ,NB,Atlantic region
+,,2112.0,,Residential,259800.0,"248 Duke St Miramichi, E1N 1J8 ",NB,Atlantic region
+,,900.0,,Residential,114900.0,"4000 sqm MacLaggan Dr, Blackville ",NB,Atlantic region
+3.0,2.0,,,Residential,439000.0,16 Stanley Oliver Road ,NB,Atlantic region
+4.0,4.0,,,Residential,519900.0,39 & 44 Pine Street ,NB,Atlantic region
+3.0,4.0,2288.0,,Residential,650000.0,149 MacLean Crossroad ,NB,Atlantic region
+3.0,1.0,1736.0,0.71,Residential,139900.0,33 Richardson Road ,NB,Atlantic region
+3.0,2.0,,,Residential,229900.0,3006 Woodstock Road ,NB,Atlantic region
+4.0,2.0,2100.0,1.01,Single,429000.0,12 Krista Drive ,NB,Atlantic region
+5.0,3.0,3392.0,,Single,664500.0,415 Vanier ,NB,Atlantic region
+6.0,3.0,,.378,Single,345000.0,38 Belair ,NB,Atlantic region
+4.0,1.0,1352.0,ng>1,Single,149900.0,13 Warren Road ,NB,Atlantic region
+4.0,3.0,1570.0,>1.7,Single,319900.0,712 South Napan Road ,NB,Atlantic region
+5.0,2.0,,,Single,279000.0,55 Sheriff Street ,NB,Atlantic region
+4.0,3.0,3857.0,,Single,599000.0,1922 Route 106 ,NB,Atlantic region
+3.0,1.0,,.371,Single,169900.0,18 Kennedy Lane ,NB,Atlantic region
+3.0,1.0,,>1.4,Single,189900.0,695 Cumberland Point Road ,NB,Atlantic region
+4.0,1.0,1360.0,0.42,Single,109000.0,1197 Boulevard de la Mer ,NB,Atlantic region
+2.0,2.0,1080.0,,Single,269900.0,617 Latour ST ,NB,Atlantic region
+4.0,4.0,1690.0,,Single,439000.0,12 Solaire Passage ,NB,Atlantic region
+2.0,2.0,960.0,,Single,239000.0,29 Westwood DR ,NB,Atlantic region
+2.0,2.0,,.302,Single,299000.0,361 McCormick Street ,NB,Atlantic region
+5.0,3.0,2574.0,,Single,349000.0,3367 Route 134 ,NB,Atlantic region
+3.0,2.0,,,Single,49900.0,604 Charleston Road ,NB,Atlantic region
+5.0,2.0,,0.29,Single,289900.0,56 Islandview Drive ,NB,Atlantic region
+5.0,3.0,3319.0,.423,Single,589900.0,94 Mataya Drive ,NB,Atlantic region
+4.0,2.0,,.255,Single,179900.0,4682 Juniper Road ,NB,Atlantic region
+5.0,2.0,1224.0,,Single,399900.0,202 Moulin ST ,NB,Atlantic region
+4.0,1.0,,.238,Single,129900.0,46 Mechanic Street ,NB,Atlantic region
+3.0,2.0,,.374,Single,385000.0,9 Whitetail Lane ,NB,Atlantic region
+5.0,2.0,,.204,Single,314900.0,23 Amberwood Lane ,NB,Atlantic region
+3.0,2.0,1350.0,,Single,284900.0,1033 Rte 525 ,NB,Atlantic region
+5.0,7.0,,.404,Single,259900.0,54 Broad Street ,NB,Atlantic region
+5.0,4.0,4601.0,1.47,Single,624900.0,69 Valleyview Crescent ,NB,Atlantic region
+3.0,1.0,1500.0,.181,Single,239900.0,37 Brookview Crescent ,NB,Atlantic region
+4.0,2.0,1728.0,.312,Single,115000.0,21 Pleasant Street ,NB,Atlantic region
+3.0,2.0,2500.0,9.46,Single,799900.0,245 Hunter Road ,NB,Atlantic region
+3.0,2.0,,.594,Single,445000.0,289 Point Road ,NB,Atlantic region
+1.0,1.0,608.0,>6.5,Single,169900.0,3270 Route 440 ,NB,Atlantic region
+4.0,3.0,2360.0,0.37,Single,499000.0,7 Crestline Road ,NB,Atlantic region
+3.0,2.0,,.344,Single,289900.0,37 Millican ,NB,Atlantic region
+2.0,2.0,1689.0,,Single,219000.0,40 Winter ,NB,Atlantic region
+4.0,,1240.0,,Single,44900.0,4972 Main ST ,NB,Atlantic region
+4.0,2.0,1430.0,.026,Single,359000.0,182 Lakeside DR ,NB,Atlantic region
+1.0,3.0,,,Single,79000.0,198 Victoria Street ,NB,Atlantic region
+2.0,1.0,720.0,1.01,Single,49000.0,2 Dubé Road ,NB,Atlantic region
+6.0,3.0,,.148,Single,299900.0,2310 Route 620 ,NB,Atlantic region
+3.0,1.0,,>3.2,Single,104900.0,1150 Route 616 ,NB,Atlantic region
+3.0,2.0,,>1.5,Single,149900.0,51 Manor Road ,NB,Atlantic region
+4.0,2.0,,.657,Single,399900.0,116 French Village Road ,NB,Atlantic region
+3.0,1.0,1232.0,,Single,259900.0,23 Angus DR ,NB,Atlantic region
+5.0,3.0,1250.0,,Single,275000.0,67 Green Briar ,NB,Atlantic region
+3.0,3.0,,1.83,Single,675000.0,29 Lakeview Lane ,NB,Atlantic region
+4.0,2.0,,0.18,Single,234900.0,6 Primrose Avenue ,NB,Atlantic region
+3.0,1.0,970.0,,Single,244900.0,101 Morningside DR ,NB,Atlantic region
+6.0,2.0,,0.24,Single,199500.0,60-62 Elm Park ,NB,Atlantic region
+2.0,1.0,782.0,,Single,137500.0,33 Macaleese Unit 37,NB,Atlantic region
+2.0,1.0,936.0,,Single,220000.0,80 Islandview Beach RD ,NB,Atlantic region
+1.0,1.0,1150.0,,Single,299000.0,800 Gorge RD ,NB,Atlantic region
+2.0,2.0,,.107,Single,164900.0,355 Red Bridge Road ,NB,Atlantic region
+3.0,2.0,,1.08,Single,279900.0,2264 Route 760 ,NB,Atlantic region
+3.0,1.0,1072.0,,Single,89900.0,6 Carouge ST ,NB,Atlantic region
+3.0,2.0,748.0,,Single,189900.0,58 Jeannette ,NB,Atlantic region
+3.0,1.0,,.086,Single,159900.0,64 Woolastook Drive ,NB,Atlantic region
+4.0,3.0,2788.0,>1.1,Single,999999.0,7 Katy's Lane ,NB,Atlantic region
+3.0,3.0,,,Single,169900.0,364 Main Street ,NB,Atlantic region
+3.0,3.0,,.254,Single,649000.0,38 Jordan Street ,NB,Atlantic region
+7.0,7.0,,.625,Single,649900.0,357 Dufferin Row ,NB,Atlantic region
+3.0,2.0,,0.31,Single,169900.0,1069 Woodland ,NB,Atlantic region
+2.0,1.0,1040.0,,Single,259900.0,3639 Route 134 ,NB,Atlantic region
+2.0,2.0,,>6.9,Single,185000.0,208 des Acadiens Boulevard ,NB,Atlantic region
+3.0,1.0,,.115,Single,149900.0,271 Mount Pleasant Ave E ,NB,Atlantic region
+3.0,2.0,1800.0,,Single,359900.0,106 L'Acayen ,NB,Atlantic region
+2.0,1.0,660.0,,Single,229000.0,110 York ST ,NB,Atlantic region
+5.0,3.0,2140.0,,Single,359900.0,275 Memramcook East RD ,NB,Atlantic region
+5.0,2.0,1400.0,g>10,Single,139900.0,10722 Route 10 ,NB,Atlantic region
+3.0,2.0,,>4.1,Single,139000.0,1342 Grattan Road ,NB,Atlantic region
+3.0,2.0,,0.04,Single,125000.0,386 Molson Avenue ,NB,Atlantic region
+4.0,2.0,,.892,Single,329900.0,11 Forest Hill Street ,NB,Atlantic region
+3.0,2.0,,.124,Single,85000.0,270 Main Street ,NB,Atlantic region
+2.0,1.0,,ng>5,Single,269900.0,982 Route 124 ,NB,Atlantic region
+2.0,1.0,980.0,,Single,89900.0,3 View Lane ,NB,Atlantic region
+2.0,1.0,1140.0,,Single,229900.0,5668 Route 134 ,NB,Atlantic region
+1.0,1.0,,,Single,59900.0,307 Maple ,NB,Atlantic region
+7.0,1.0,1623.0,,Single,229900.0,19 Anne ST ,NB,Atlantic region
+3.0,3.0,1342.0,,Single,219900.0,309 Wedgewood AVE ,NB,Atlantic region
+2.0,2.0,,.009,Single,229900.0,1170 Route 555 ,NB,Atlantic region
+4.0,1.0,,3.08,Single,229900.0,34 Route 890 ,NB,Atlantic region
+2.0,1.0,,0.35,Single,94900.0,1102 Green Road ,NB,Atlantic region
+3.0,4.0,2077.0,,Single,380000.0,39 Labelle ST ,NB,Atlantic region
+5.0,4.0,,.317,Single,525000.0,19 Grafton Drive ,NB,Atlantic region
+3.0,1.0,968.0,,Single,249900.0,23 Willow LANE ,NB,Atlantic region
+5.0,3.0,2651.0,,Single,549000.0,23 Marlene CRES ,NB,Atlantic region
+4.0,2.0,1574.0,.023,Single,130000.0,203 Tobique Road ,NB,Atlantic region
+4.0,2.0,1125.0,,Single,279900.0,198 Bulman ,NB,Atlantic region
+3.0,4.0,1260.0,,Single,284900.0,101 Arlington DR ,NB,Atlantic region
+4.0,3.0,1836.0,.522,Single,185000.0,20 Route 560 Access Road ,NB,Atlantic region
+3.0,2.0,,,Single,99900.0,12 Todd Street ,NB,Atlantic region
+2.0,2.0,,.756,Single,420000.0,54 & 56 Moss Glen Shore Road Lane ,NB,Atlantic region
+3.0,2.0,,.394,Single,409000.0,2649 Rothesay Road ,NB,Atlantic region
+3.0,3.0,1718.0,,Single,330000.0,28 Satleville CRES ,NB,Atlantic region
+4.0,3.0,3023.0,0.63,Single,749000.0,88 Ernest Street ,NB,Atlantic region
+4.0,3.0,1800.0,,Single,299900.0,1995 Wellington ,NB,Atlantic region
+2.0,1.0,1276.0,,Single,234900.0,4753 Route 134 ,NB,Atlantic region
+4.0,2.0,2100.0,.177,Single,264900.0,597 Maple Street ,NB,Atlantic region
+3.0,1.0,,.988,Single,159900.0,45 Good Corner Road ,NB,Atlantic region
+3.0,1.0,850.0,,Single,219900.0,2128 Route 133 ,NB,Atlantic region
+4.0,3.0,2525.0,,Single,328000.0,314 Intervale RD ,NB,Atlantic region
+4.0,3.0,2000.0,0.47,Single,425000.0,18 Country Club Drive ,NB,Atlantic region
+3.0,3.0,,.048,Single,189900.0,14 B Scribner ,NB,Atlantic region
+5.0,2.0,1060.0,,Single,279000.0,86 Mount Royal BLVD ,NB,Atlantic region
+5.0,2.0,2525.0,.207,Single,257000.0,44 Lionel-Lajoie Avenue ,NB,Atlantic region
+3.0,2.0,2067.0,g>13,Single,550000.0,210 Meadow Drive ,NB,Atlantic region
+2.0,1.0,1000.0,.241,Single,124900.0,148 St Marys Street ,NB,Atlantic region
+2.0,1.0,,.119,Single,169900.0,610 Brunswick ,NB,Atlantic region
+3.0,2.0,1156.0,,Single,325000.0,39 Manon ,NB,Atlantic region
+4.0,1.0,,.988,Single,124900.0,331 Kelly Road ,NB,Atlantic region
+4.0,2.0,1085.0,,Single,419000.0,54 Isabelle Anne CRES ,NB,Atlantic region
+2.0,1.0,910.0,,Single,165000.0,780 Route 933 ,NB,Atlantic region
+2.0,2.0,913.0,.318,Single,149000.0,2 Glen Drive ,NB,Atlantic region
+4.0,3.0,,0.21,Single,129900.0,403 Main Street ,NB,Atlantic region
+3.0,1.0,1200.0,.161,Single,175000.0,12 Sherwood Drive ,NB,Atlantic region
+3.0,1.0,,>0.1,Single,239000.0,91 Louisa Lane ,NB,Atlantic region
+5.0,2.0,2462.0,>0.8,Single,349900.0,84 Aiton Road ,NB,Atlantic region
+4.0,4.0,3136.0,,Single,429900.0,71 Park ST ,NB,Atlantic region
+3.0,2.0,2120.0,,Single,439900.0,1527 Amirault ,NB,Atlantic region
+2.0,2.0,1272.0,1.74,Single,464900.0,267 Principale ,NB,Atlantic region
+4.0,2.0,2800.0,1.25,Single,428000.0,236 MRG Lang Street ,NB,Atlantic region
+3.0,2.0,,.995,Single,119900.0,5 Heather Lane ,NB,Atlantic region
+,1.0,,,Single,22500.0,6617 Route  11 ,NB,Atlantic region
+4.0,2.0,,0.82,Single,189900.0,114 Pleasant Street ,NB,Atlantic region
+3.0,1.0,1060.0,,Single,224900.0,31 Anne ST ,NB,Atlantic region
+3.0,2.0,,0.46,Single,199900.0,15 MacDonald Road ,NB,Atlantic region
+4.0,2.0,1737.0,.425,Single,199000.0,12 Colebrooke Road ,NB,Atlantic region
+3.0,2.0,1344.0,,Single,625000.0,23 Brinner RD ,NB,Atlantic region
+5.0,4.0,,.497,Single,649000.0,27 Shipyard Road ,NB,Atlantic region
+3.0,1.0,,,Single,49900.0,122 MCGEE Street ,NB,Atlantic region
+3.0,1.0,,3.36,Single,325000.0,115 French Village Road ,NB,Atlantic region
+4.0,3.0,,0.15,Single,349900.0,31 Centennial Road ,NB,Atlantic region
+,1.0,370.0,,Single,139900.0,1438 Route 530 ,NB,Atlantic region
+3.0,2.0,1600.0,.258,Single,379900.0,12 Thorndale Court ,NB,Atlantic region
+3.0,1.0,960.0,>2.5,Single,169900.0,25 Crescent Lane ,NB,Atlantic region
+2.0,3.0,,.124,Single,164900.0,1091 Westbrook ,NB,Atlantic region
+4.0,2.0,1848.0,ng>1,Single,239000.0,261 Route 172 ,NB,Atlantic region
+3.0,1.0,1061.0,,Single,124900.0,1916 Champlain ST ,NB,Atlantic region
+5.0,2.0,,.195,Single,375000.0,7976 Route 17 ,NB,Atlantic region
+15.0,15.0,9180.0,23.1,Single,548000.0,385 Eglise Road ,NB,Atlantic region
+3.0,2.0,,.333,Single,299900.0,17 Country Crescent ,NB,Atlantic region
+3.0,1.0,1380.0,,Single,169900.0,6 Spring ST ,NB,Atlantic region
+4.0,2.0,1088.0,,Single,349000.0,68 Millwood ,NB,Atlantic region
+4.0,2.0,1344.0,,Single,189900.0,67 Emery ST ,NB,Atlantic region
+5.0,2.0,,ng>2,Single,729000.0,38 Thrope Road ,NB,Atlantic region
+3.0,1.0,840.0,,Single,47500.0,27 Daisy Street ,NB,Atlantic region
+4.0,2.0,1554.0,.092,Single,72500.0,44 Saint Catherine Street ,NB,Atlantic region
+5.0,2.0,2300.0,.374,Single,235000.0,68 Vincent Road ,NB,Atlantic region
+3.0,3.0,1450.0,,Single,365000.0,298 Rennick RD ,NB,Atlantic region
+5.0,2.0,,.086,Single,139000.0,2 Gerrard ,NB,Atlantic region
+1.0,,,.186,Single,49900.0,Lot & Camp Kilmarnock Road ,NB,Atlantic region
+3.0,2.0,1711.0,0.29,Single,269900.0,140 Stothart Drive ,NB,Atlantic region
+3.0,2.0,,.316,Single,149000.0,132 School Street ,NB,Atlantic region
+3.0,3.0,2320.0,,Single,449900.0,17 Tanglewood DR ,NB,Atlantic region
+3.0,2.0,1600.0,4.86,Single,299900.0,811 Route 715 ,NB,Atlantic region
+3.0,1.0,1150.0,.367,Single,89900.0,66 Jones Forks Road ,NB,Atlantic region
+4.0,2.0,1178.0,,Single,139900.0,155 Route 535 ,NB,Atlantic region
+2.0,1.0,2032.0,>5.1,Single,275000.0,123 Centre Glassville Road ,NB,Atlantic region
+5.0,2.0,2200.0,.089,Single,199000.0,217 Millidge Avenue ,NB,Atlantic region
+2.0,1.0,900.0,,Single,475000.0,28 Ernest Boucher ,NB,Atlantic region
+3.0,3.0,2270.0,,Single,479900.0,25 Hutchinson LANE ,NB,Atlantic region
+4.0,2.0,2154.0,,Single,509900.0,5668 Route 505 ,NB,Atlantic region
+4.0,5.0,4650.0,.534,Single,865000.0,234 BEDELL Avenue ,NB,Atlantic region
+2.0,1.0,850.0,,Single,125000.0,77 Leslie ,NB,Atlantic region
+3.0,1.0,1056.0,,Single,114900.0,102 Sophie DR ,NB,Atlantic region
+4.0,3.0,2860.0,>0.4,Single,339000.0,315 Sheriff Street ,NB,Atlantic region
+3.0,2.0,1161.0,,Single,244900.0,42 Pointe aux Bouleaux ,NB,Atlantic region
+2.0,2.0,,ng>2,Single,149900.0,2319 ROUTE 102 ,NB,Atlantic region
+2.0,1.0,1000.0,,Single,189900.0,65 Diamond Head CRT Unit 205,NB,Atlantic region
+4.0,2.0,1104.0,,Single,239900.0,91 Communication RD ,NB,Atlantic region
+3.0,1.0,,.546,Single,165000.0,503 Route 322 ,NB,Atlantic region
+5.0,2.0,1444.0,.203,Single,169000.0,55 Church Road ,NB,Atlantic region
+2.0,1.0,,.798,Single,149900.0,933 Route 111 ,NB,Atlantic region
+3.0,1.0,1024.0,,Single,68900.0,8 Canvas Back Way ,NB,Atlantic region
+5.0,5.0,,,Single,249900.0,1321 Tobique Road ,NB,Atlantic region
+3.0,2.0,1536.0,,Single,235000.0,109 Hampton ST ,NB,Atlantic region
+2.0,2.0,1285.0,,Single,289900.0,7 School ST ,NB,Atlantic region
+3.0,3.0,2300.0,.445,Single,369900.0,34 Florence Drive ,NB,Atlantic region
+3.0,2.0,,.114,Single,129900.0,467 Golf ,NB,Atlantic region
+5.0,2.0,,0.85,Single,119900.0,38 Church Street ,NB,Atlantic region
+3.0,2.0,1993.0,.156,Single,229900.0,815 Irvine Street ,NB,Atlantic region
+3.0,1.0,1188.0,,Single,69900.0,236 Robichaud ,NB,Atlantic region
+4.0,2.0,,>1.4,Single,349000.0,647 Breau ,NB,Atlantic region
+1.0,1.0,1225.0,,Single,129900.0,3565 Route 505 ,NB,Atlantic region
+3.0,2.0,1250.0,,Single,399900.0,14 Coachmen ST ,NB,Atlantic region
+4.0,1.0,1573.0,.682,Single,249900.0,1040 Pouvoir Road ,NB,Atlantic region
+3.0,1.0,,0.99,Single,64900.0,1443 Porter Cove Road ,NB,Atlantic region
+6.0,1.0,,0.32,Single,124900.0,1166 Route 3 ,NB,Atlantic region
+4.0,3.0,3600.0,,Single,789900.0,147 Valley Ranch RD ,NB,Atlantic region
+5.0,3.0,1331.0,,Single,399900.0,237 Du Moulin ,NB,Atlantic region
+1.0,1.0,,.144,Single,30000.0,9 HUNTS Lane ,NB,Atlantic region
+4.0,2.0,1000.0,,Single,289900.0,327 Twin Oaks DR ,NB,Atlantic region
+4.0,1.0,1176.0,,Single,339900.0,3801 Route 115 ,NB,Atlantic region
+3.0,2.0,1554.0,.002,Single,234900.0,5156 Route 105 ,NB,Atlantic region
+10.0,5.0,5708.0,,Single,100000.0,389 Principale Street ,NB,Atlantic region
+4.0,4.0,,.823,Single,319900.0,118 Knorr Road ,NB,Atlantic region
+3.0,1.0,1248.0,,Single,169000.0,182 Nixon RD ,NB,Atlantic region
+3.0,1.0,1566.0,,Single,219900.0,73 John ,NB,Atlantic region
+2.0,1.0,,.688,Single,188500.0,- Williston Beach Road ,NB,Atlantic region
+2.0,2.0,,0.26,Single,139900.0,10 Cedar Street ,NB,Atlantic region
+5.0,2.0,1958.0,ng>1,Single,184500.0,1366 St. Mary's Street ,NB,Atlantic region
+3.0,3.0,2176.0,,Single,479900.0,140 Aspendale DR ,NB,Atlantic region
+2.0,2.0,,ng>1,Single,159900.0,52 Gordon Shore Road ,NB,Atlantic region
+6.0,3.0,2340.0,.995,Single,189900.0,45 Damascus ,NB,Atlantic region
+5.0,3.0,,.459,Single,265000.0,143 des Montagnes Street ,NB,Atlantic region
+3.0,1.0,1000.0,,Single,199900.0,60 Mount Pleasant RD ,NB,Atlantic region
+3.0,2.0,1700.0,1.84,Single,395000.0,25 Oak Lane ,NB,Atlantic region
+3.0,2.0,,.063,Single,425000.0,128 Country Wood Lane ,NB,Atlantic region
+4.0,2.0,,.026,Single,169000.0,190 Durepos Street ,NB,Atlantic region
+2.0,1.0,1100.0,ng>1,Single,189900.0,218 Lakefield Road ,NB,Atlantic region
+3.0,2.0,2040.0,,Single,474900.0,2818 Route 480 ,NB,Atlantic region
+3.0,2.0,1542.0,,Single,369900.0,34 Jason ST ,NB,Atlantic region
+4.0,4.0,1690.0,,Single,439000.0,10 Solaire Passage ,NB,Atlantic region
+3.0,1.0,1125.0,,Single,129900.0,59 Schooner Cove Road ,NB,Atlantic region
+3.0,2.0,,1.37,Single,195000.0,2250 Sormany ,NB,Atlantic region
+2.0,1.0,784.0,,Single,87500.0,41 Sainte  Marie LANE ,NB,Atlantic region
+3.0,2.0,,>1.3,Single,259000.0,22 Glen Drive ,NB,Atlantic region
+3.0,2.0,1584.0,,Single,180000.0,56 Scotch Settlement RD ,NB,Atlantic region
+3.0,1.0,2225.0,.138,Single,179900.0,781 King George Highway ,NB,Atlantic region
+3.0,1.0,952.0,,Single,109500.0,8 Mackol ,NB,Atlantic region
+3.0,1.0,,.254,Single,474900.0,49 Kingshurst Lane ,NB,Atlantic region
+2.0,1.0,,.112,Single,64900.0,868 Route 850 ,NB,Atlantic region
+3.0,4.0,2250.0,,Single,629900.0,43 Patriot CRT ,NB,Atlantic region
+4.0,2.0,,.188,Single,179000.0,4 Glenburn Court ,NB,Atlantic region
+3.0,2.0,682.0,,Single,209900.0,57 Clarendon DR ,NB,Atlantic region
+3.0,2.0,1435.0,,Single,219900.0,31 Alexander AVE ,NB,Atlantic region
+2.0,1.0,,.011,Single,234900.0,671 McLeod Avenue ,NB,Atlantic region
+4.0,2.0,2972.0,.372,Single,259900.0,1731 Manawagonish Road ,NB,Atlantic region
+4.0,2.0,,.007,Single,559000.0,11 Lydia's Ledge Lane ,NB,Atlantic region
+4.0,1.0,,3.46,Single,249900.0,4194 Route 640 ,NB,Atlantic region
+4.0,2.0,,.203,Single,349900.0,51 Birmingham Court ,NB,Atlantic region
+4.0,2.0,,.182,Single,259900.0,6 Ray Street ,NB,Atlantic region
+3.0,1.0,,.104,Single,109000.0,5 Regent Street ,NB,Atlantic region
+4.0,2.0,1063.0,,Single,369000.0,35 Miquelon ST ,NB,Atlantic region
+4.0,3.0,2100.0,.164,Single,199900.0,25 Northumberland Avenue ,NB,Atlantic region
+5.0,2.0,1340.0,,Single,349900.0,23 Melba ST ,NB,Atlantic region
+2.0,1.0,1480.0,>1.3,Single,169000.0,473 de l'Eglise Street ,NB,Atlantic region
+3.0,2.0,,.177,Single,259900.0,169 Coventry Crescent ,NB,Atlantic region
+4.0,4.0,2209.0,,Single,649900.0,12 Highgate ,NB,Atlantic region
+3.0,2.0,1960.0,.282,Single,159900.0,126 Charlotte Street ,NB,Atlantic region
+3.0,2.0,690.0,,Single,209900.0,28 Whisperwood ,NB,Atlantic region
+3.0,3.0,2000.0,.146,Single,324500.0,43 Eatman Avenue ,NB,Atlantic region
+3.0,2.0,,.171,Single,279000.0,2 Robin Drive ,NB,Atlantic region
+2.0,1.0,400.0,.544,Single,169000.0,149 Beaulieu Road ,NB,Atlantic region
+2.0,2.0,,.098,Single,74900.0,3980 Route 104 ,NB,Atlantic region
+3.0,3.0,2362.0,.286,Single,159000.0,272 Portage Road ,NB,Atlantic region
+2.0,2.0,2262.0,2.29,Single,179900.0,1409 Bridge Drive ,NB,Atlantic region
+3.0,2.0,1600.0,.137,Single,350000.0,49 Hollynorth Street ,NB,Atlantic region
+3.0,1.0,792.0,.106,Single,139900.0,111 Cedar Lane ,NB,Atlantic region
+2.0,2.0,1227.0,,Single,335900.0,16-87 Sedona CRES Unit L,NB,Atlantic region
+3.0,2.0,2173.0,1.04,Single,525000.0,154 Main Street ,NB,Atlantic region
+1.0,1.0,900.0,,Single,134900.0,4 Sea Farm LANE ,NB,Atlantic region
+3.0,2.0,,0.41,Single,186900.0,35 Elm Street ,NB,Atlantic region
+3.0,1.0,,1.01,Single,79900.0,7691 Route 8 ,NB,Atlantic region
+3.0,1.0,,>1.8,Single,219000.0,99 CNR Road ,NB,Atlantic region
+2.0,1.0,,13.5,Single,269000.0,507 Platin-Des-Albert Road ,NB,Atlantic region
+3.0,4.0,2700.0,.507,Single,620000.0,69 Green Road ,NB,Atlantic region
+3.0,1.0,,.126,Single,139000.0,51 Campbell Hill Road ,NB,Atlantic region
+5.0,2.0,2100.0,.218,Single,189000.0,24 Simpson Drive ,NB,Atlantic region
+3.0,3.0,2054.0,,Single,439900.0,116 Savannah DR ,NB,Atlantic region
+3.0,2.0,1150.0,15.3,Single,199900.0,19 Carten Lane ,NB,Atlantic region
+2.0,3.0,1617.0,0.35,Single,225000.0,549 Victoria Street ,NB,Atlantic region
+2.0,1.0,690.0,,Single,129900.0,781 Route 465 ,NB,Atlantic region
+2.0,1.0,,,Single,139900.0,132 Court Street ,NB,Atlantic region
+2.0,2.0,1400.0,,Single,346500.0,6 Post Road ,NB,Atlantic region
+5.0,2.0,1374.0,.149,Single,325000.0,696 Victoria Street ,NB,Atlantic region
+2.0,1.0,,,Single,109900.0,337 Foster Road ,NB,Atlantic region
+4.0,4.0,3900.0,,Single,698000.0,23 Willowdale CRT ,NB,Atlantic region
+3.0,3.0,2363.0,,Single,549900.0,21 Harvard CRT ,NB,Atlantic region
+4.0,1.0,1104.0,>0.5,Single,120000.0,275 Acadie ,NB,Atlantic region
+4.0,3.0,2278.0,,Single,499000.0,261 Shediac RD ,NB,Atlantic region
+3.0,2.0,3400.0,.275,Single,788000.0,2196 Queen Elizabeth Drive ,NB,Atlantic region
+5.0,2.0,,.042,Single,139900.0,120 Route 6894,NB,Atlantic region
+4.0,3.0,2016.0,,Single,375000.0,17 Brock LANE ,NB,Atlantic region
+3.0,2.0,3263.0,,Single,980000.0,4862 Route 505 ,NB,Atlantic region
+2.0,1.0,656.0,,Single,169900.0,455 Murray RD ,NB,Atlantic region
+3.0,1.0,810.0,.285,Single,75000.0,210 Newburg Road ,NB,Atlantic region
+2.0,2.0,,1.02,Single,159900.0,266 Lake N Road ,NB,Atlantic region
+2.0,2.0,764.0,.133,Single,199000.0,127 Route Unit# 8 2840,NB,Atlantic region
+3.0,2.0,1320.0,,Single,379900.0,480 Route 465 ,NB,Atlantic region
+2.0,3.0,1934.0,,Single,850000.0,16 Lemenager RD ,NB,Atlantic region
+2.0,1.0,672.0,,Single,115000.0,763 Chemin Rivière à la Truite ,NB,Atlantic region
+2.0,1.0,834.0,,Single,89000.0,"30 Rue John McLaughlin, Val-Comeau ",NB,Atlantic region
+3.0,1.0,,.289,Single,69900.0,482 Main Street ,NB,Atlantic region
+2.0,2.0,,,Single,359000.0,Lot 13 Sea Street ,NB,Atlantic region
+4.0,2.0,,>1.5,Single,349000.0,1048 North Road Welshpool ,NB,Atlantic region
+4.0,3.0,3136.0,.137,Single,649900.0,80 Printz Cove Lane ,NB,Atlantic region
+5.0,3.0,,3.03,Single,799000.0,233 Bunker Hill Road ,NB,Atlantic region
+4.0,3.0,,.272,Single,474900.0,140 Talisman Crescent ,NB,Atlantic region
+,1.0,,0.25,Single,40000.0,269 Summerfield Road ,NB,Atlantic region
+4.0,3.0,1550.0,,Single,332900.0,849 Ryan ST ,NB,Atlantic region
+3.0,3.0,1392.0,.031,Single,339900.0,7 Andal Lane ,NB,Atlantic region
+4.0,2.0,1946.0,.388,Single,288000.0,2 Carmacks Court ,NB,Atlantic region
+4.0,4.0,4800.0,,Single,850000.0,223 Hills Point Road ,NB,Atlantic region
+3.0,3.0,,.203,Single,219900.0,1105 Mercury ,NB,Atlantic region
+2.0,1.0,,2.64,Single,89900.0,37218 Route 10 ,NB,Atlantic region
+2.0,,,5.19,Single,45000.0,- Odell Road ,NB,Atlantic region
+2.0,1.0,,.046,Single,270000.0,25 Harding Street ,NB,Atlantic region
+3.0,2.0,,.838,Single,169900.0,335 French Village Road ,NB,Atlantic region
+3.0,2.0,2011.0,.421,Single,446000.0,35 Robert Ross Boulevard ,NB,Atlantic region
+2.0,1.0,,1.33,Single,599900.0,242 Fiander Road ,NB,Atlantic region
+3.0,3.0,1086.0,,Single,349000.0,19 Miller DR ,NB,Atlantic region
+3.0,2.0,888.0,,Single,234900.0,242 Jones ,NB,Atlantic region
+4.0,4.0,,.035,Single,499000.0,420 Route 390 ,NB,Atlantic region
+3.0,1.0,1017.0,.115,Single,169900.0,105 St. James Street ,NB,Atlantic region
+6.0,3.0,,0.28,Single,199000.0,22 des Robins Est Street ,NB,Atlantic region
+4.0,2.0,,.103,Single,179000.0,24 26 Westmorland Road ,NB,Atlantic region
+3.0,2.0,,.378,Single,279900.0,16 Stonehurst Avenue ,NB,Atlantic region
+6.0,6.0,,,Single,249000.0,110 Maple Street ,NB,Atlantic region
+2.0,1.0,,>2.5,Single,69900.0,Camp A & Lot Foster Road ,NB,Atlantic region
+5.0,5.0,,6.92,Single,148000.0,382 St Pierre Ouest Boulevard ,NB,Atlantic region
+2.0,1.0,,,Single,440000.0,65 Wells Brook ,NB,Atlantic region
+3.0,2.0,2370.0,,Residential,279900.0,1425 Amirault Street ,NB,Atlantic region
+3.0,1.0,,.202,Single,185000.0,365 Sheriff Street ,NB,Atlantic region
+2.0,1.0,,.385,Single,39000.0,21 Robertson Brook Road ,NB,Atlantic region
+4.0,2.0,1874.0,,Single,339000.0,5051 Route 105 ,NB,Atlantic region
+3.0,2.0,1380.0,,Single,174900.0,5 Maple ST ,NB,Atlantic region
+2.0,2.0,1512.0,,Single,389900.0,75 Rosebank CRES ,NB,Atlantic region
+3.0,1.0,,.124,Single,124900.0,39 Warren Avenue ,NB,Atlantic region
+6.0,2.0,1050.0,,Single,299900.0,35 Birchmount ,NB,Atlantic region
+3.0,2.0,,.234,Single,379900.0,9 Amanda Street ,NB,Atlantic region
+4.0,4.0,2928.0,,Single,394900.0,929 Amirault ,NB,Atlantic region
+4.0,1.0,,.497,Single,219000.0,6 Bushville Drive ,NB,Atlantic region
+3.0,2.0,,6.05,Single,199900.0,18 & 20 Burns Lane ,NB,Atlantic region
+3.0,1.0,,0.52,Single,285000.0,23 Moulin ,NB,Atlantic region
+3.0,4.0,6894.0,,Single,830960.0,1036 Route 108 ,NB,Atlantic region
+4.0,2.0,1782.0,.022,Single,159500.0,1239 Rte 595 Central Waterville ,NB,Atlantic region
+5.0,2.0,,.344,Single,415000.0,208 Olivier Boucher Road ,NB,Atlantic region
+2.0,1.0,,>7.9,Single,249900.0,7616 Route 112 ,NB,Atlantic region
+4.0,2.0,,.323,Single,395000.0,25 Paquin Street ,NB,Atlantic region
+4.0,3.0,2200.0,.198,Single,550000.0,108 Marlin Drive ,NB,Atlantic region
+2.0,2.0,1989.0,0.18,Single,215000.0,59 Guerrette Street ,NB,Atlantic region
+3.0,1.0,,.251,Single,179900.0,885 Route 102 ,NB,Atlantic region
+4.0,4.0,1540.0,,Single,475000.0,121 Salengro CRES ,NB,Atlantic region
+2.0,1.0,867.0,,Single,115000.0,22 Lainey Street ,NB,Atlantic region
+3.0,2.0,,ng>2,Single,499000.0,3455 Woodstock Road ,NB,Atlantic region
+2.0,2.0,940.0,,Single,174900.0,56 Driftwood ,NB,Atlantic region
+3.0,1.0,1170.0,,Single,89000.0,7742 Rue St-Paul ,NB,Atlantic region
+4.0,2.0,,.913,Single,129900.0,130 Larley Road ,NB,Atlantic region
+16.0,8.0,,7.19,Single,1965000.0,122 Route 4104,NB,Atlantic region
+5.0,2.0,1661.0,.012,Single,119900.0,469 Greenfield Road ,NB,Atlantic region
+4.0,2.0,1142.0,,Single,129900.0,11191 Main ST ,NB,Atlantic region
+2.0,2.0,,.689,Single,129900.0,20 Chemin Camp Ectus ,NB,Atlantic region
+2.0,1.0,840.0,,Single,69900.0,169 Mechanic Lake RD ,NB,Atlantic region
+3.0,2.0,2328.0,.035,Single,549000.0,61 O'Neill Road ,NB,Atlantic region
+3.0,1.0,,.988,Single,260000.0,180 Route 242,NB,Atlantic region
+5.0,1.0,3132.0,,Single,65900.0,146 Water ST ,NB,Atlantic region
+4.0,2.0,,.988,Single,234000.0,4854 Route 108 ,NB,Atlantic region
+2.0,2.0,,,Single,359000.0,Lot 14 Sea Street ,NB,Atlantic region
+3.0,2.0,,.147,Single,339900.0,4 Ayerscliffe Court ,NB,Atlantic region
+4.0,2.0,,.115,Single,324900.0,31 Thompson Road ,NB,Atlantic region
+3.0,1.0,1600.0,,Single,204900.0,4810 Route 106 ,NB,Atlantic region
+3.0,1.0,1108.0,,Single,234900.0,21 des Cerisiers ,NB,Atlantic region
+6.0,3.0,3193.0,.128,Single,235000.0,2 ième rue 145,NB,Atlantic region
+4.0,2.0,1900.0,>1.6,Single,599900.0,1310 Bridge Drive ,NB,Atlantic region
+3.0,2.0,1260.0,.169,Single,139900.0,25 Terrace Street ,NB,Atlantic region
+1.0,1.0,444.0,,Single,139900.0,11 Gazebo ,NB,Atlantic region
+3.0,2.0,1500.0,,Single,449900.0,8 Waterfront LANE ,NB,Atlantic region
+3.0,2.0,1580.0,,Single,339900.0,44 David ST ,NB,Atlantic region
+3.0,3.0,2400.0,.387,Single,375000.0,36 Church Street ,NB,Atlantic region
+4.0,4.0,5060.0,,Single,799000.0,4 Admiralty Drive ,NB,Atlantic region
+3.0,2.0,1388.0,,Single,204900.0,31 Arthur ST ,NB,Atlantic region
+5.0,3.0,,.188,Single,210000.0,133 Ridgeway Street ,NB,Atlantic region
+4.0,1.0,2031.0,.417,Single,129900.0,770 Central Street ,NB,Atlantic region
+,1.0,,.803,Single,349900.0,2271 Route 127 ,NB,Atlantic region
+4.0,2.0,1920.0,.193,Single,335000.0,41 Bristol Street ,NB,Atlantic region
+4.0,2.0,,,Single,196660.0,168 Gillespie Road ,NB,Atlantic region
+3.0,2.0,960.0,,Single,110000.0,12 ième rue 125,NB,Atlantic region
+3.0,2.0,1702.0,,Single,166000.0,270 Bourgoin Road ,NB,Atlantic region
+2.0,2.0,,,Single,109900.0,59 Bayberry Street ,NB,Atlantic region
+4.0,3.0,2736.0,,Single,259900.0,938 Kennebecasis Drive ,NB,Atlantic region
+4.0,2.0,1948.0,.367,Single,299900.0,305 Main Street ,NB,Atlantic region
+3.0,3.0,,,Single,329900.0,123 Eastwood Drive ,NB,Atlantic region
+11.0,4.0,4160.0,,Single,375000.0,5482 Route 114 ,NB,Atlantic region
+5.0,4.0,2817.0,,Single,795000.0,16087 Route 105 ,NB,Atlantic region
+3.0,,,,Single,85500.0,35 Duffy Road ,NB,Atlantic region
+3.0,3.0,2700.0,.721,Single,540000.0,5191 Route 105 ,NB,Atlantic region
+5.0,2.0,,,Single,298400.0,711 Victoria Street ,NB,Atlantic region
+3.0,1.0,1300.0,,Single,199000.0,296 Mountain RD ,NB,Atlantic region
+2.0,1.0,288.0,.356,Single,79900.0,60 Marine Drive ,NB,Atlantic region
+1.0,,,.529,Single,69900.0,292 Nelson Street ,NB,Atlantic region
+5.0,2.0,,ng>1,Single,369000.0,78 Gérard Street ,NB,Atlantic region
+5.0,2.0,,,Single,195000.0,219 Victoria Road ,NB,Atlantic region
+2.0,1.0,1229.0,,Single,89900.0,664 Albert Mines RD ,NB,Atlantic region
+3.0,1.0,858.0,0.49,Single,135000.0,282 Larley Road ,NB,Atlantic region
+5.0,2.0,,,Single,399000.0,337 Terrace Street ,NB,Atlantic region
+6.0,3.0,,.203,Single,249000.0,183 Forest Hill Road ,NB,Atlantic region
+3.0,4.0,,.205,Single,399900.0,62 Wilfred Avenue ,NB,Atlantic region
+4.0,2.0,2232.0,,Single,288500.0,23 Weldon ,NB,Atlantic region
+3.0,2.0,900.0,,Single,249900.0,153 Drummond ,NB,Atlantic region
+3.0,1.0,1000.0,.002,Single,119900.0,197 Route 175 ,NB,Atlantic region
+3.0,1.0,,ng>1,Single,172000.0,2037 Chatillon Street ,NB,Atlantic region
+3.0,1.0,1248.0,.161,Single,69000.0,639 Savoie ,NB,Atlantic region
+2.0,2.0,752.0,1.33,Single,274900.0,8220 Route 112 ,NB,Atlantic region
+4.0,4.0,3290.0,0.44,Single,324900.0,2 Leedo Court ,NB,Atlantic region
+3.0,2.0,2100.0,12.1,Single,595000.0,47 Knapp Lane ,NB,Atlantic region
+4.0,2.0,1500.0,,Single,529900.0,72 Hanington RD ,NB,Atlantic region
+4.0,1.0,863.0,,Single,269000.0,105 Sackville ST ,NB,Atlantic region
+,,,,Single,49900.0,1321 Rue Principal ,NB,Atlantic region
+3.0,3.0,2000.0,.143,Single,324500.0,39 Eatman Avenue ,NB,Atlantic region
+4.0,1.0,,ng>1,Single,79900.0,1276 Route 107 ,NB,Atlantic region
+2.0,1.0,1058.0,.187,Single,289000.0,27 Ouellette Road ,NB,Atlantic region
+4.0,3.0,,.915,Single,489000.0,122 Riverside Drive ,NB,Atlantic region
+3.0,1.0,855.0,,Single,225000.0,40 Ashburn AVE ,NB,Atlantic region
+8.0,4.0,4000.0,,Single,699900.0,278-280 Chemin Des Breau RD ,NB,Atlantic region
+4.0,1.0,1120.0,>3.2,Single,84900.0,3393 Route 103 ,NB,Atlantic region
+5.0,3.0,2542.0,.183,Single,274999.0,1861 Route 108 ,NB,Atlantic region
+4.0,2.0,,.114,Single,114500.0,406 Main Street ,NB,Atlantic region
+4.0,3.0,,40.5,Single,189000.0,1429 des Boudreau Street ,NB,Atlantic region
+3.0,2.0,,0.34,Single,159000.0,1290 Route 776 ,NB,Atlantic region
+3.0,2.0,1490.0,,Single,194999.0,"18 Rue du Quai, Val-Comeau ",NB,Atlantic region
+,2.0,1700.0,,Single,189900.0,921 B Back Tracy Road ,NB,Atlantic region
+5.0,3.0,,.343,Single,229500.0,556 Saint-François Street ,NB,Atlantic region
+5.0,3.0,2600.0,,Single,639000.0,1586 Elmwood DR ,NB,Atlantic region
+4.0,1.0,,.549,Single,234900.0,1603 Canada Street ,NB,Atlantic region
+,1.0,240.0,,Single,26000.0,1037 Route 103 Unit B,NB,Atlantic region
+5.0,2.0,,.433,Single,389900.0,14 Impressive Way ,NB,Atlantic region
+6.0,3.0,,>1.7,Single,240000.0,129 Haut-Shippagan Road ,NB,Atlantic region
+4.0,3.0,,.075,Single,299900.0,45 Irishtown Road ,NB,Atlantic region
+2.0,,,6.46,Single,79900.0,- Lisson Settlement Road ,NB,Atlantic region
+2.0,1.0,1167.0,,Single,258800.0,4 Rita ,NB,Atlantic region
+3.0,1.0,,.232,Single,159000.0,109 Riley Brook Road ,NB,Atlantic region
+3.0,2.0,1756.0,,Single,439000.0,20 Parkwood AVE ,NB,Atlantic region
+4.0,2.0,1000.0,0.22,Single,165000.0,5 Scott Road ,NB,Atlantic region
+4.0,3.0,3734.0,,Single,489000.0,1 Church ST ,NB,Atlantic region
+4.0,2.0,2520.0,,Single,399900.0,1307 Hillsborough RD ,NB,Atlantic region
+3.0,3.0,2028.0,.451,Single,675000.0,396 2nd Eel River Lake Lane ,NB,Atlantic region
+3.0,1.0,1056.0,,Single,109900.0,11 Florida DR ,NB,Atlantic region
+4.0,2.0,,>5.1,Single,589000.0,8 Comeau ,NB,Atlantic region
+4.0,3.0,1825.0,,Single,598500.0,406 Alfred Leger ,NB,Atlantic region
+2.0,2.0,959.0,,Single,239900.0,924 Victoria Street ,NB,Atlantic region
+1.0,1.0,1271.0,,Single,149900.0,53 Killam DR ,NB,Atlantic region
+5.0,3.0,2400.0,.201,Single,549900.0,561 Gondola Point Road ,NB,Atlantic region
+2.0,3.0,,ng>1,Single,299900.0,16 Davidson Lane ,NB,Atlantic region
+5.0,4.0,,0.41,Single,525000.0,5 Aucoin Street ,NB,Atlantic region
+5.0,2.0,3634.0,.257,Single,249900.0,147 Connell Street ,NB,Atlantic region
+3.0,2.0,1293.0,,Single,104900.0,8 Soleil Levant ,NB,Atlantic region
+3.0,3.0,,,Single,750000.0,115 St-Pierre Est Boulevard ,NB,Atlantic region
+3.0,3.0,2080.0,,Single,369900.0,579 Saint - Athanase RD ,NB,Atlantic region
+2.0,2.0,3400.0,0.38,Single,1350000.0,2246 Queen Elizabeth Drive ,NB,Atlantic region
+3.0,2.0,1157.0,,Single,299000.0,35 Thibodeau ST ,NB,Atlantic region
+6.0,2.0,3600.0,.238,Single,259900.0,37-39 Wright Street ,NB,Atlantic region
+12.0,11.0,5940.0,,Single,499900.0,4941 Route 114 ,NB,Atlantic region
+4.0,3.0,2560.0,,Single,349900.0,836 Julia CRT ,NB,Atlantic region
+3.0,2.0,2560.0,,Single,245000.0,11757 Route 126 ,NB,Atlantic region
+5.0,3.0,,2.05,Single,269000.0,646 Route 565 ,NB,Atlantic region
+3.0,2.0,,0.29,Single,319000.0,111 Vincent Road ,NB,Atlantic region
+2.0,2.0,1038.0,,Single,175000.0,645 Acadie AVE ,NB,Atlantic region
+4.0,2.0,1500.0,,Single,129900.0,111 WHITE HEAD Road ,NB,Atlantic region
+3.0,2.0,1875.0,.348,Single,269900.0,129 French Village Road ,NB,Atlantic region
+3.0,1.0,932.0,,Single,199900.0,14 Carroll ST ,NB,Atlantic region
+4.0,2.0,,0.15,Single,185000.0,3 Sirois Road ,NB,Atlantic region
+4.0,3.0,1473.0,,Single,419000.0,1200 Ryan ST ,NB,Atlantic region
+3.0,2.0,1466.0,,Single,500000.0,323 Johnston Point RD ,NB,Atlantic region
+3.0,1.0,2688.0,>0.9,Single,339000.0,112 Lucille ,NB,Atlantic region
+2.0,2.0,1438.0,,Single,335900.0,16-84 Sedona CRES Unit L,NB,Atlantic region
+3.0,2.0,1841.0,,Single,125000.0,5094 Route 120 ,NB,Atlantic region
+3.0,3.0,2105.0,2.03,Single,523500.0,15574 Route 105 ,NB,Atlantic region
+2.0,2.0,1455.0,,Single,249900.0,856 Prosser Brook RD ,NB,Atlantic region
+3.0,2.0,,.988,Single,129900.0,7 Titus Drive ,NB,Atlantic region
+4.0,1.0,1200.0,2.46,Single,268000.0,11070 Route 144 ,NB,Atlantic region
+2.0,2.0,918.0,,Single,224900.0,20 Gary AVE ,NB,Atlantic region
+5.0,2.0,3600.0,.194,Single,199000.0,423 Prince Street ,NB,Atlantic region
+4.0,2.0,,.184,Single,167000.0,10 Depot Street ,NB,Atlantic region
+3.0,2.0,,.029,Single,165000.0,22 Windsor Manor ,NB,Atlantic region
+3.0,2.0,1750.0,1.16,Single,159900.0,77 Welshpool Back Road ,NB,Atlantic region
+2.0,1.0,,,Single,59000.0,46 Dwayne Avenue ,NB,Atlantic region
+5.0,2.0,1692.0,0.18,Single,75000.0,118 chemin Canada ,NB,Atlantic region
+3.0,2.0,,.107,Single,69000.0,68 46e Avenue ,NB,Atlantic region
+4.0,2.0,2029.0,g>76,Single,349000.0,406 Ledge Road ,NB,Atlantic region
+2.0,2.0,2184.0,,Single,394900.0,355 Cornwall ,NB,Atlantic region
+4.0,2.0,,>187,Single,729000.0,1725 Route 860 ,NB,Atlantic region
+4.0,2.0,2268.0,,Single,249000.0,1980 Route 380 ,NB,Atlantic region
+1.0,1.0,,0.35,Single,139000.0,665 St Pierre Ouest Boulevard ,NB,Atlantic region
+3.0,1.0,1288.0,,Single,214900.0,35 Shanklin Road ,NB,Atlantic region
+2.0,2.0,,,Single,589000.0,24 Principale Street ,NB,Atlantic region
+4.0,4.0,,>2.7,Single,739900.0,411 Bayshore ,NB,Atlantic region
+3.0,2.0,2209.0,,Single,328900.0,1384 Baisley Road ,NB,Atlantic region
+3.0,3.0,,5.07,Single,1299000.0,51 Spur #2 Road ,NB,Atlantic region
+2.0,2.0,1809.0,,Single,250000.0,439 Storeytown Road ,NB,Atlantic region
+4.0,2.0,,.211,Single,409900.0,807 Main Street ,NB,Atlantic region
+2.0,1.0,,,Single,149000.0,60 Pinet Road ,NB,Atlantic region
+3.0,2.0,2944.0,1.27,Single,558000.0,19 Edgewater Lane ,NB,Atlantic region
+5.0,2.0,1800.0,,Single,159900.0,2531 Route 132 ,NB,Atlantic region
+2.0,2.0,1227.0,,Single,335900.0,16-84 Sedona CRES Unit R,NB,Atlantic region
+5.0,3.0,3600.0,,Single,675000.0,2179 Clark Road ,NB,Atlantic region
+4.0,1.0,,,Single,235000.0,355 Price Road ,NB,Atlantic region
+5.0,3.0,,2.69,Single,449900.0,3893 Route 127 ,NB,Atlantic region
+2.0,1.0,,5.16,Single,199500.0,- Glebe Road ,NB,Atlantic region
+2.0,2.0,2280.0,g>39,Single,300000.0,880 Sport's Landing Road ,NB,Atlantic region
+1.0,1.0,,.383,Single,149900.0,290 Yoho Lake Road ,NB,Atlantic region
+3.0,1.0,,,Single,56000.0,423 Milltown Boulevard ,NB,Atlantic region
+4.0,2.0,1680.0,0.17,Single,169000.0,45 2E Avenue ,NB,Atlantic region
+2.0,1.0,950.0,.606,Single,99900.0,48 Jack Street ,NB,Atlantic region
+4.0,2.0,2050.0,,Single,139900.0,87 Chaleur Street ,NB,Atlantic region
+4.0,2.0,1988.0,,Single,432000.0,398 Main ST ,NB,Atlantic region
+3.0,1.0,925.0,,Single,39500.0,12 Ch Tilley Road ,NB,Atlantic region
+3.0,1.0,826.0,,Single,124900.0,890 Principal Street ,NB,Atlantic region
+2.0,2.0,,,Single,285000.0,240 Martin Street ,NB,Atlantic region
+3.0,1.0,,>2.5,Single,199900.0,20 Charleston Road ,NB,Atlantic region
+1.0,1.0,,.975,Single,67700.0,1436 Bois de la Rivière Verte Road ,NB,Atlantic region
+5.0,1.0,1680.0,,Single,119900.0,70 Main Street ,NB,Atlantic region
+2.0,2.0,1283.0,,Single,334900.0,607 Royal Oaks BLVD ,NB,Atlantic region
+6.0,3.0,4200.0,,Single,319000.0,732 Canada Road ,NB,Atlantic region
+3.0,1.0,,.427,Single,99900.0,198 Northwest Road ,NB,Atlantic region
+,1.0,,.076,Single,54000.0,60 Schofield Lane ,NB,Atlantic region
+3.0,3.0,2000.0,.079,Single,330000.0,162 Arlington Crescent ,NB,Atlantic region
+3.0,4.0,,.337,Single,519900.0,10 Perry Court ,NB,Atlantic region
+3.0,2.0,1019.0,,Single,299900.0,45 Clement AVE ,NB,Atlantic region
+4.0,2.0,2241.0,.401,Single,279000.0,312 Allain Street ,NB,Atlantic region
+1.0,1.0,,,Single,49900.0,236 Birchgrove ,NB,Atlantic region
+2.0,1.0,,.861,Single,199900.0,5804 Route 102 ,NB,Atlantic region
+3.0,3.0,1947.0,>304,Single,1299000.0,328 River Street ,NB,Atlantic region
+3.0,4.0,3100.0,,Single,790000.0,148 Meadow Cove Road ,NB,Atlantic region
+3.0,2.0,864.0,.161,Single,159900.0,1632 Sunset ,NB,Atlantic region
+,1.0,,.172,Single,99000.0,850 Principale Street ,NB,Atlantic region
+2.0,3.0,1588.0,,Single,399900.0,109 Albee RD ,NB,Atlantic region
+2.0,2.0,,,Single,359000.0,Lot 15 Sea Street ,NB,Atlantic region
+2.0,2.0,1209.0,0.23,Single,139900.0,91 Rue Du Parc ,NB,Atlantic region
+5.0,2.0,2000.0,.023,Single,189000.0,35 32e Avenue ,NB,Atlantic region
+5.0,1.0,,0.61,Single,69900.0,4 Sloan Road ,NB,Atlantic region
+3.0,3.0,1300.0,,Single,174900.0,15 Breau Avenue ,NB,Atlantic region
+4.0,4.0,,,Single,549900.0,554 Rockland Road ,NB,Atlantic region
+4.0,3.0,2085.0,,Single,319000.0,5894 King ST ,NB,Atlantic region
+4.0,2.0,1661.0,.358,Single,245000.0,61 Léopold-Couturier Avenue ,NB,Atlantic region
+3.0,2.0,1210.0,.056,Single,194000.0,41 River ,NB,Atlantic region
+3.0,4.0,1914.0,,Single,419900.0,182 Chatellerault ST ,NB,Atlantic region
+4.0,3.0,1194.0,,Single,359900.0,64 Wakefield ST ,NB,Atlantic region
+5.0,4.0,2300.0,.347,Single,549900.0,29 Carriage Way ,NB,Atlantic region
+4.0,3.0,3000.0,.017,Single,289900.0,11 Willow Roadway ,NB,Atlantic region
+5.0,3.0,2659.0,g>25,Single,475000.0,37 Chemin Point Campbell ,NB,Atlantic region
+3.0,1.0,,.077,Single,166900.0,8058 Route 102 ,NB,Atlantic region
+3.0,2.0,1050.0,,Single,89500.0,751 Chemin Leblanc ,NB,Atlantic region
+2.0,1.0,1152.0,,Single,199900.0,5710 Route 515 ,NB,Atlantic region
+3.0,2.0,,>5.4,Single,119000.0,8190 St Paul ,NB,Atlantic region
+4.0,3.0,1408.0,,Single,250000.0,55 Lancefield ,NB,Atlantic region
+2.0,1.0,,,Single,385000.0,40 Riverview Drive ,NB,Atlantic region
+3.0,2.0,1728.0,,Single,178000.0,13 St-Jean Street ,NB,Atlantic region
+3.0,1.0,921.0,,Single,199900.0,15 Bois Joli RD ,NB,Atlantic region
+2.0,1.0,936.0,>0.3,Single,180000.0,277 B de l'Ile ,NB,Atlantic region
+4.0,3.0,2816.0,,Single,522500.0,21 Schoodic Street ,NB,Atlantic region
+3.0,3.0,3200.0,,Single,449900.0,69 Leblanc ,NB,Atlantic region
+3.0,3.0,2231.0,,Single,439900.0,62 Thistlevale DR ,NB,Atlantic region
+3.0,1.0,850.0,,Single,162500.0,126 Cleveland ,NB,Atlantic region
+1.0,1.0,936.0,,Single,229000.0,94 Surette RD ,NB,Atlantic region
+4.0,2.0,1404.0,,Single,169900.0,10 Champlain ,NB,Atlantic region
+4.0,2.0,2600.0,>1.5,Single,324900.0,5 Sunpoke Road ,NB,Atlantic region
+3.0,2.0,,.687,Single,189900.0,122 Route 134 ,NB,Atlantic region
+,1.0,,,Single,139900.0,190 Scott Siding Road ,NB,Atlantic region
+2.0,2.0,,ng>2,Single,349900.0,24 Cedar Ridge Road ,NB,Atlantic region
+3.0,2.0,1792.0,.172,Single,195000.0,544 Rue Suzanne ,NB,Atlantic region
+2.0,1.0,,.129,Single,249900.0,23 Mechanic Street ,NB,Atlantic region
+3.0,1.0,1100.0,,Single,277800.0,106 Muncey DR ,NB,Atlantic region
+3.0,3.0,2160.0,,Single,126000.0,5707 King ST ,NB,Atlantic region
+5.0,2.0,,.278,Single,169000.0,156 Madawaska Road ,NB,Atlantic region
+2.0,1.0,,,Single,99900.0,19 Thompson Road ,NB,Atlantic region
+3.0,2.0,1362.0,0.18,Single,55000.0,829 St Francois Street ,NB,Atlantic region
+5.0,3.0,,,Single,335000.0,227 St Pierre Est Boulevard ,NB,Atlantic region
+4.0,1.0,1274.0,,Single,259900.0,60 Scotch Settlement RD ,NB,Atlantic region
+3.0,1.0,800.0,,Single,329900.0,8536 Main ST ,NB,Atlantic region
+1.0,1.0,902.0,1.73,Single,125000.0,16410 Route 105 ,NB,Atlantic region
+2.0,1.0,,,Single,369000.0,251 Fork Stream Road ,NB,Atlantic region
+5.0,4.0,1830.0,,Single,539900.0,50 Doiron ,NB,Atlantic region
+3.0,2.0,1364.0,,Single,269000.0,33 Ringwood ST ,NB,Atlantic region
+3.0,2.0,3055.0,>3.5,Single,234900.0,623 Route 605 ,NB,Atlantic region
+2.0,3.0,1377.0,,Single,489000.0,26 Forest Grove RD ,NB,Atlantic region
+4.0,2.0,2345.0,>0.5,Single,264000.0,4 Saindon Street ,NB,Atlantic region
+2.0,1.0,1152.0,2.32,Single,189900.0,511 Route 755 ,NB,Atlantic region
+3.0,2.0,,1.93,Single,219900.0,95 Bassin ,NB,Atlantic region
+4.0,2.0,,0.29,Single,525000.0,37 Prince William Street ,NB,Atlantic region
+2.0,1.0,,.184,Single,125000.0,16 By Road  4,NB,Atlantic region
+3.0,2.0,,ng>1,Single,229000.0,885 North Road ,NB,Atlantic region
+3.0,3.0,2000.0,.144,Single,324500.0,41 Eatman Avenue ,NB,Atlantic region
+4.0,2.0,1448.0,,Single,249900.0,101 Hedgewood ,NB,Atlantic region
+2.0,1.0,909.0,ng>2,Single,189000.0,127 Route 4576,NB,Atlantic region
+3.0,2.0,1270.0,0.69,Single,169900.0,40 Gregg Settlement Road ,NB,Atlantic region
+2.0,,600.0,,Single,144900.0,700 St Sosime RD ,NB,Atlantic region
+4.0,2.0,,,Single,379000.0,33 rue MRG-Gagnon ,NB,Atlantic region
+5.0,5.0,5000.0,0.48,Single,950000.0,74 Mgr Lacroix Avenue ,NB,Atlantic region
+5.0,2.0,,.266,Single,215000.0,1755 Route 118 (Kersey Lane) ,NB,Atlantic region
+4.0,7.0,4336.0,0.94,Single,397000.0,1262 Bridge Drive ,NB,Atlantic region
+5.0,5.0,6000.0,,Single,598000.0,10 Braun Street ,NB,Atlantic region
+3.0,2.0,,>1.5,Single,359000.0,127 Route 3297,NB,Atlantic region
+3.0,3.0,2979.0,,Single,979900.0,66 Allee Des Faisans ,NB,Atlantic region
+3.0,3.0,1516.0,,Single,319900.0,179 Oakfield DR ,NB,Atlantic region
+5.0,3.0,,0.62,Single,239000.0,23 du Portage Street ,NB,Atlantic region
+3.0,1.0,1211.0,,Single,259000.0,4 Dugal Street ,NB,Atlantic region
+4.0,2.0,,,Single,132000.0,51 39e Avenue ,NB,Atlantic region
+3.0,1.0,,>0.6,Single,145000.0,740 North Road ,NB,Atlantic region
+3.0,2.0,2904.0,.537,Single,185000.0,2413 Centrale Street ,NB,Atlantic region
+3.0,3.0,,,Single,289700.0,31 Hubert Street ,NB,Atlantic region
+4.0,3.0,1536.0,,Single,330000.0,869B Ryan RD ,NB,Atlantic region
+3.0,2.0,,>4.3,Single,239900.0,2726 Main ,NB,Atlantic region
+9.0,4.0,3875.0,2.06,Single,475000.0,820 Montagne a Comeau ,NB,Atlantic region
+3.0,2.0,1606.0,,Single,379000.0,179 Coriander ST ,NB,Atlantic region
+9.0,2.0,3040.0,.114,Single,270000.0,869 Charlotte Street ,NB,Atlantic region
+3.0,2.0,1920.0,.268,Single,29500.0,14 Deacon Lane ,NB,Atlantic region
+3.0,1.0,1004.0,,Single,197000.0,321 McLaughlin ,NB,Atlantic region
+3.0,1.0,,1.14,Single,250000.0,260 West Tennants Cove Road ,NB,Atlantic region
+3.0,1.0,,,Single,424900.0,101 GREEN STREET ,NB,Atlantic region
+3.0,1.0,,.114,Single,79900.0,98 21st Avenue ,NB,Atlantic region
+4.0,2.0,1340.0,,Single,215000.0,75 North ST ,NB,Atlantic region
+2.0,2.0,1450.0,,Single,380000.0,145 Grande Digue ,NB,Atlantic region
+4.0,3.0,3200.0,>3.3,Single,749900.0,481 Shore Road ,NB,Atlantic region
+4.0,2.0,2304.0,1.64,Single,534900.0,68 Webster Road Unit# A & B ,NB,Atlantic region
+3.0,1.0,1230.0,,Single,199900.0,359 Cap Saint Louis ,NB,Atlantic region
+3.0,1.0,1008.0,0.93,Single,142500.0,9129 Route 107 ,NB,Atlantic region
+4.0,2.0,1800.0,.329,Single,235000.0,745 Main Street ,NB,Atlantic region
+3.0,2.0,1282.0,,Single,179900.0,14 Nevers DR ,NB,Atlantic region
+4.0,2.0,,ng>1,Single,159900.0,6067 Route 10 ,NB,Atlantic region
+4.0,2.0,2521.0,0.43,Single,215000.0,49 Marks Street ,NB,Atlantic region
+3.0,1.0,,.115,Single,249500.0,48 NATURE'S Way ,NB,Atlantic region
+2.0,1.0,1081.0,,Single,299900.0,21 Georges ST ,NB,Atlantic region
+3.0,1.0,,.459,Single,199900.0,855 Route 105 ,NB,Atlantic region
+1.0,1.0,1074.0,ng>3,Single,165900.0,1128 Ennishone Road ,NB,Atlantic region
+4.0,1.0,,.142,Single,289900.0,4 Walker Road ,NB,Atlantic region
+2.0,1.0,,g>57,Single,299900.0,1184 ROUTE 104 ,NB,Atlantic region
+1.0,1.0,328.0,0.22,Single,69900.0,42 Rue Forbes ,NB,Atlantic region
+3.0,3.0,2075.0,ng>2,Single,379000.0,703 Bayview Drive ,NB,Atlantic region
+3.0,2.0,1850.0,,Single,264900.0,142 North ST ,NB,Atlantic region
+2.0,2.0,1042.0,,Single,249900.0,101 Irving BLVD ,NB,Atlantic region
+3.0,2.0,,0.23,Single,239000.0,497 de L'Eglise ,NB,Atlantic region
+3.0,2.0,2271.0,ng>2,Single,279900.0,5920 Route 117 ,NB,Atlantic region
+2.0,1.0,,.468,Single,199900.0,115 McGregor Brook Road ,NB,Atlantic region
+2.0,3.0,2380.0,1.96,Single,699900.0,10 Chantler Drive ,NB,Atlantic region
+2.0,2.0,,,Single,419900.0,69 Old Lake Trail Road ,NB,Atlantic region
+3.0,2.0,,,Single,120500.0,300 Price Road ,NB,Atlantic region
+2.0,1.0,1636.0,0.57,Single,149000.0,1614 Chatillon ,NB,Atlantic region
+3.0,1.0,1440.0,ng>1,Single,219900.0,371 Ross ,NB,Atlantic region
+3.0,4.0,3500.0,,Single,749000.0,145 Weldon ,NB,Atlantic region
+2.0,2.0,1200.0,,Single,159900.0,7277 Route 134 ,NB,Atlantic region
+3.0,5.0,3400.0,4.77,Single,599900.0,966 Main Street ,NB,Atlantic region
+2.0,1.0,964.0,,Single,349900.0,1536 Route 114 ,NB,Atlantic region
+4.0,3.0,1724.0,.183,Single,314500.0,58 Aitken Avenue ,NB,Atlantic region
+3.0,1.0,1100.0,.022,Single,97500.0,504 Highmeadow Drive ,NB,Atlantic region
+3.0,1.0,,1.37,Single,124500.0,4606 Route 108 Bryenton ,NB,Atlantic region
+4.0,2.0,2860.0,.399,Single,274900.0,550 Route 605 ,NB,Atlantic region
+2.0,1.0,,,Single,155000.0,505 rue Breau ,NB,Atlantic region
+3.0,1.0,1200.0,,Single,194900.0,20 Des Allains ,NB,Atlantic region
+2.0,2.0,,ng>3,Single,119000.0,2504 Route 104 ,NB,Atlantic region
+6.0,3.0,,0.37,Single,459900.0,2 Porter Street ,NB,Atlantic region
+3.0,1.0,1886.0,0.21,Single,119700.0,11069 Rue Principale ,NB,Atlantic region
+3.0,1.0,,0.83,Single,129000.0,7578 St Paul Street ,NB,Atlantic region
+4.0,2.0,,.802,Single,150000.0,4985 Route 108 ,NB,Atlantic region
+3.0,2.0,1760.0,0.81,Single,169900.0,90 Highland Road ,NB,Atlantic region
+4.0,1.0,1173.0,,Single,172900.0,604 Elmwood DR ,NB,Atlantic region
+6.0,5.0,4369.0,,Single,1375000.0,61 Dixson Road ,NB,Atlantic region
+4.0,3.0,2500.0,.289,Single,225000.0,976 Main Street ,NB,Atlantic region
+3.0,2.0,1072.0,,Single,99900.0,48 Jacob Street ,NB,Atlantic region
+3.0,3.0,,0.17,Single,299900.0,83 Hawthorne Avenue ,NB,Atlantic region
+2.0,2.0,,.031,Single,314900.0,8 Rockingstone Drive ,NB,Atlantic region
+5.0,5.0,4912.0,.339,Single,499500.0,18 Talisman Crescent ,NB,Atlantic region
+3.0,1.0,,.344,Single,149900.0,224 Milford Road ,NB,Atlantic region
+2.0,1.0,520.0,1.23,Single,42900.0,118 Klokkedahl Hill Rd ,NB,Atlantic region
+3.0,4.0,3700.0,,Single,665000.0,27 Highgate ,NB,Atlantic region
+4.0,2.0,,.761,Single,450000.0,66 Mgr-Lang Street ,NB,Atlantic region
+2.0,2.0,,,Single,359000.0,Lot 12 Sea Street ,NB,Atlantic region
+3.0,2.0,1829.0,,Single,299900.0,5 Stoney Creek RD ,NB,Atlantic region
+4.0,2.0,,1.01,Single,269900.0,7568 Route 104 ,NB,Atlantic region
+4.0,2.0,,,Single,399900.0,1171 Route 776 ,NB,Atlantic region
+6.0,2.0,,.063,Single,249900.0,24 Jones Forks Road ,NB,Atlantic region
+1.0,1.0,,,Single,159900.0,Camp Bettsburg Road ,NB,Atlantic region
+1.0,1.0,592.0,,Single,139900.0,110 Pointe du Chene RD ,NB,Atlantic region
+3.0,1.0,1135.0,,Single,168000.0,210 Route 215 Route ,NB,Atlantic region
+2.0,2.0,,.165,Single,195000.0,61 Champlain Drive ,NB,Atlantic region
+5.0,4.0,3600.0,,Single,279900.0,55 Birchwood ,NB,Atlantic region
+2.0,2.0,,.657,Single,359000.0,1370 Route 390 ,NB,Atlantic region
+2.0,1.0,,,Single,76900.0,1201 King ,NB,Atlantic region
+3.0,2.0,,.356,Single,198900.0,8 Centennial Drive ,NB,Atlantic region
+3.0,4.0,4296.0,,Single,750000.0,154 Caissie AVE ,NB,Atlantic region
+8.0,3.0,,.092,Single,449000.0,239 Princess Street ,NB,Atlantic region
+2.0,1.0,,,Single,269900.0,312 ch Waddell ,NB,Atlantic region
+3.0,2.0,1303.0,.175,Single,129900.0,29 Rooth Road ,NB,Atlantic region
+2.0,1.0,1100.0,.008,Single,184900.0,716 Royal Road ,NB,Atlantic region
+3.0,2.0,1360.0,,Single,200000.0,71 Sawgrass DR ,NB,Atlantic region
+2.0,1.0,1056.0,,Single,180000.0,555 Champlain ST ,NB,Atlantic region
+3.0,2.0,,.234,Single,635000.0,40 Barcroft Drive ,NB,Atlantic region
+3.0,1.0,,0.17,Single,200000.0,602 Westmorland Road ,NB,Atlantic region
+2.0,1.0,1040.0,>1.4,Single,149900.0,1279 Route 455 ,NB,Atlantic region
+2.0,1.0,,,Single,15000.0,68 Lester Road ,NB,Atlantic region
+2.0,1.0,670.0,.826,Single,119000.0,981 Route 395 ,NB,Atlantic region
+3.0,3.0,1448.0,.156,Single,424900.0,Lot 2017-16 A & J Crescent ,NB,Atlantic region
+3.0,3.0,1300.0,,Single,350000.0,118 Tamarack TERR ,NB,Atlantic region
+3.0,2.0,,3.63,Single,449900.0,1999 Lakeview Road ,NB,Atlantic region
+1.0,1.0,640.0,,Single,99900.0,788 Champlain ,NB,Atlantic region
+3.0,1.0,,.344,Single,99900.0,359 Eric ,NB,Atlantic region
+3.0,1.0,,,Single,415000.0,16&20 Shiloh Lane ,NB,Atlantic region
+2.0,2.0,1227.0,,Single,335900.0,16-88 Sedona CRES Unit R,NB,Atlantic region
+3.0,2.0,2109.0,,Single,159900.0,3 St. Antoine Street ,NB,Atlantic region
+3.0,2.0,,ng>1,Single,349900.0,1053 Route 776 ,NB,Atlantic region
+3.0,1.0,,1.08,Single,499900.0,50 Hampton Road ,NB,Atlantic region
+3.0,2.0,1242.0,,Single,335000.0,2065 Route 950 ,NB,Atlantic region
+2.0,2.0,,4.59,Single,285000.0,186 Sand Brook Road ,NB,Atlantic region
+5.0,4.0,3200.0,.559,Single,399000.0,153 Eriskay Drive ,NB,Atlantic region
+4.0,3.0,,.185,Single,299000.0,32 Highland Road ,NB,Atlantic region
+2.0,2.0,,,Single,139900.0,7533 ROUTE 102 ,NB,Atlantic region
+4.0,3.0,,,Single,299000.0,184 Doherty Road ,NB,Atlantic region
+2.0,1.0,1043.0,,Single,140000.0,411 Forks Stream RD ,NB,Atlantic region
+4.0,2.0,2394.0,,Single,749000.0,1379 Route 525 ,NB,Atlantic region
+5.0,2.0,2444.0,0.46,Single,189900.0,126 Route 134 ,NB,Atlantic region
+2.0,2.0,1227.0,,Single,335900.0,16-85 Sedona CRES Unit L,NB,Atlantic region
+4.0,2.0,,.129,Single,134900.0,732 Main Street ,NB,Atlantic region
+7.0,4.0,1600.0,.417,Single,359000.0,25 Lyden Drive ,NB,Atlantic region
+4.0,2.0,2600.0,,Single,289900.0,109 Old Route 2 ,NB,Atlantic region
+4.0,3.0,3530.0,,Single,699000.0,765 Price Rd ,NB,Atlantic region
+2.0,2.0,,,Single,449000.0,443 B St Pierre Ouest Boulevard ,NB,Atlantic region
+3.0,2.0,,ng>2,Single,379900.0,40 KLONDIKE Road ,NB,Atlantic region
+4.0,3.0,1622.0,,Single,299900.0,40 Fleming ST ,NB,Atlantic region
+2.0,2.0,,,Single,145000.0,1467 Golden Grove Road ,NB,Atlantic region
+2.0,1.0,,,Single,56900.0,21 Parc P'Tiso Street ,NB,Atlantic region
+3.0,2.0,1127.0,,Single,449900.0,164 Route 470 ,NB,Atlantic region
+4.0,2.0,,,Single,249000.0,88 Hubert Street ,NB,Atlantic region
+2.0,1.0,,.449,Single,74900.0,3631 Rte 540 ,NB,Atlantic region
+2.0,1.0,1092.0,.932,Single,180000.0,412 Route 365 ,NB,Atlantic region
+6.0,4.0,2600.0,.349,Single,429900.0,36 Homestead Drive ,NB,Atlantic region
+3.0,1.0,,.247,Single,47500.0,371 Carrolls Crossing Road ,NB,Atlantic region
+2.0,1.0,1188.0,,Single,119000.0,34 Killam DR ,NB,Atlantic region
+2.0,1.0,945.0,,Single,110000.0,287 Glenburn Road ,NB,Atlantic region
+3.0,1.0,974.0,,Single,649900.0,3938 Route 134 ,NB,Atlantic region
+4.0,3.0,1800.0,,Single,749900.0,130-132 Lewisville RD ,NB,Atlantic region
+4.0,1.0,1500.0,,Single,89900.0,2507 Route 111 ,NB,Atlantic region
+3.0,2.0,2550.0,>1.5,Single,434900.0,76 Drummond Road ,NB,Atlantic region
+2.0,1.0,884.0,g>54,Single,949000.0,36 Edwards Road ,NB,Atlantic region
+2.0,2.0,,,Single,359000.0,Lot 11 Sea Street ,NB,Atlantic region
+4.0,2.0,,.564,Single,139900.0,107 Route 8572,NB,Atlantic region
+2.0,3.0,1401.0,,Single,610000.0,824 Pinewood RD ,NB,Atlantic region
+3.0,2.0,,,Single,109500.0,94 Sheriff ,NB,Atlantic region
+3.0,1.0,1100.0,,Single,130000.0,1863 Route 895 ,NB,Atlantic region
+3.0,4.0,1716.0,,Single,749900.0,47 Riverbend RD ,NB,Atlantic region
+4.0,3.0,1673.0,,Single,325000.0,605 Wedgewood ,NB,Atlantic region
+2.0,1.0,,.541,Single,30500.0,24 Route 8 ,NB,Atlantic region
+3.0,1.0,1323.0,,Single,234900.0,82 Kensington DR ,NB,Atlantic region
+4.0,2.0,1500.0,0.23,Single,184900.0,126 Normandie ,NB,Atlantic region
+3.0,3.0,,0.43,Single,380000.0,113 Horsler Drive ,NB,Atlantic region
+3.0,2.0,,0.16,Single,179900.0,495 Rivervalley Drive ,NB,Atlantic region
+3.0,1.0,,0.25,Single,275000.0,69 Holiday Lane ,NB,Atlantic region
+4.0,3.0,,ng>1,Single,499900.0,25 Wilson Drive ,NB,Atlantic region
+3.0,1.0,,,Single,81000.0,5120 Highway 108 ,NB,Atlantic region
+1.0,1.0,553.0,,Single,139900.0,3 Bastarache ST ,NB,Atlantic region
+4.0,1.0,,.253,Single,64900.0,83 Harrison Street ,NB,Atlantic region
+3.0,1.0,930.0,.144,Single,168500.0,229 Chambers Street ,NB,Atlantic region
+3.0,2.0,,.018,Single,143000.0,110 Lake Shore Lane ,NB,Atlantic region
+3.0,1.0,,0.23,Single,159000.0,888 Robertville Road ,NB,Atlantic region
+3.0,2.0,1500.0,,Single,339900.0,5 William AVE ,NB,Atlantic region
+2.0,2.0,,,Single,359000.0,Lot 1 Sea Street ,NB,Atlantic region
+3.0,1.0,1200.0,.041,Single,145000.0,3943 Rue Principale ,NB,Atlantic region
+6.0,3.0,,0.89,Single,210000.0,46 Champs ,NB,Atlantic region
+2.0,1.0,880.0,0.13,Single,144900.0,65 31e Avenue ,NB,Atlantic region
+4.0,1.0,,2.82,Single,129000.0,1319 Route 345 ,NB,Atlantic region
+3.0,2.0,1474.0,,Single,239900.0,103 Milner RD ,NB,Atlantic region
+2.0,1.0,,0.25,Single,180000.0,12 Brewer Lane ,NB,Atlantic region
+5.0,2.0,1800.0,.515,Single,334900.0,318 Hampton ,NB,Atlantic region
+7.0,3.0,3500.0,>0.2,Single,269900.0,366-368 Beaconsfield Crescent ,NB,Atlantic region
+3.0,1.0,1232.0,,Single,1500000.0,113 & 119 Renaissance ,NB,Atlantic region
+5.0,2.0,,,Single,269900.0,3541 Westfield Road ,NB,Atlantic region
+4.0,4.0,,.001,Single,449900.0,32 Corey Street ,NB,Atlantic region
+,,,,Single,96900.0,5105 Route 105 ,NB,Atlantic region
+4.0,3.0,2706.0,0.99,Single,248000.0,2982 Route 205 ,NB,Atlantic region
+4.0,2.0,1827.0,>1.1,Single,299900.0,94 Landing Road ,NB,Atlantic region
+,2.0,960.0,,Single,164900.0,10 East Main ST ,NB,Atlantic region
+2.0,1.0,942.0,.847,Single,350000.0,102 Route 9385,NB,Atlantic region
+3.0,1.0,,1.15,Single,159000.0,62 McGraw Road ,NB,Atlantic region
+4.0,1.0,,,Single,45000.0,65 Ward Settlement Road ,NB,Atlantic region
+2.0,1.0,1382.0,,Single,199900.0,39 Indian Point RD ,NB,Atlantic region
+4.0,2.0,2020.0,.109,Single,232000.0,127-129 Molson Avenue ,NB,Atlantic region
+3.0,2.0,1000.0,,Single,254900.0,24 Anne ,NB,Atlantic region
+3.0,1.0,,.084,Single,109900.0,631 Hall Road ,NB,Atlantic region
+2.0,1.0,1050.0,ng>2,Single,144900.0,2980 Route 540 ,NB,Atlantic region
+1.0,2.0,,,Single,250000.0,Lot Washademoak Lane ,NB,Atlantic region
+3.0,1.0,,g>56,Single,239900.0,5636 Rte. 104,NB,Atlantic region
+3.0,2.0,1456.0,,Single,199900.0,10 Cooks Lane ,NB,Atlantic region
+3.0,2.0,,.367,Single,265000.0,28 RIVERSIDE PARK Road ,NB,Atlantic region
+5.0,4.0,2969.0,32.3,Single,999900.0,1562 Canada Street ,NB,Atlantic region
+4.0,3.0,1600.0,,Single,484800.0,74 Noble CRES ,NB,Atlantic region
+2.0,1.0,,0.84,Single,74900.0,11263 Highway 8 ,NB,Atlantic region
+3.0,3.0,,.988,Single,239900.0,65 Grove Avenue ,NB,Atlantic region
+2.0,1.0,,.199,Single,134900.0,135 Main Street ,NB,Atlantic region
+5.0,1.0,3200.0,0.96,Single,179900.0,36 Michelle Drive ,NB,Atlantic region
+3.0,2.0,1432.0,,Single,989900.0,455 Desherbiers ,NB,Atlantic region
+7.0,4.0,4404.0,.083,Single,699900.0,309 Model Farm Road ,NB,Atlantic region
+2.0,1.0,,.593,Single,129000.0,2138 Route 350 ,NB,Atlantic region
+2.0,1.0,800.0,,Single,99900.0,1923 Route 776 ,NB,Atlantic region
+3.0,2.0,1367.0,44.5,Single,449900.0,3818 Route 710 ,NB,Atlantic region
+3.0,3.0,4200.0,8.15,Single,1690000.0,3479 Lower Cambridge Road ,NB,Atlantic region
+3.0,1.0,,.531,Single,139000.0,105 Route 13725,NB,Atlantic region
+2.0,1.0,,0.18,Single,49900.0,17 Brook Street ,NB,Atlantic region
+4.0,2.0,,2.09,Single,229900.0,15 Penobsquis Loop ,NB,Atlantic region
+4.0,2.0,2647.0,.181,Single,218000.0,21 Rue des Seigneurs ,NB,Atlantic region
+5.0,3.0,,0.99,Single,489000.0,151 Pointe-a-Tom ,NB,Atlantic region
+3.0,2.0,1534.0,ng>1,Single,248000.0,15 Back California Road ,NB,Atlantic region
+3.0,5.0,3517.0,,Single,650000.0,135 Cochrane RD ,NB,Atlantic region
+3.0,2.0,,,Single,189900.0,17 Summit ,NB,Atlantic region
+4.0,2.0,1584.0,,Single,179000.0,79 rue D'Amours ,NB,Atlantic region
+3.0,2.0,1040.0,,Single,359500.0,339 Chemin des Lapins ,NB,Atlantic region
+5.0,2.0,2700.0,0.59,Single,299900.0,1101 Route 776 ,NB,Atlantic region
+3.0,1.0,1025.0,,Single,149900.0,24 Rue De L'Eglise ,NB,Atlantic region
+3.0,3.0,2600.0,,Single,599000.0,38 Birch Hill CRES ,NB,Atlantic region
+2.0,1.0,720.0,,Single,95000.0,3545 Rue Centenaire ,NB,Atlantic region
+3.0,1.0,1676.0,,Single,239900.0,3106 Route 465 ,NB,Atlantic region
+4.0,3.0,3074.0,.053,Single,350000.0,53 Keating Road ,NB,Atlantic region
+4.0,2.0,1450.0,1.67,Single,369900.0,9 Chateau Drive ,NB,Atlantic region
+4.0,4.0,3100.0,,Single,999900.0,115 Draco Road ,NB,Atlantic region
+5.0,2.0,,.193,Single,239900.0,854 Manawagonish Road ,NB,Atlantic region
+3.0,2.0,1683.0,,Single,459900.0,73 Guy ,NB,Atlantic region
+4.0,2.0,2262.0,,Single,649900.0,1390 Route 114 ,NB,Atlantic region
+3.0,2.0,,.711,Single,1200000.0,22 Du Boisé ,NB,Atlantic region
+3.0,1.0,,.189,Single,199000.0,62 West Street ,NB,Atlantic region
+3.0,2.0,1632.0,,Single,234900.0,7 Fifth ST ,NB,Atlantic region
+6.0,5.0,,.373,Single,429000.0,71 Donlyn Drive ,NB,Atlantic region
+5.0,4.0,1620.0,,Single,1500000.0,5526 Route 114 ,NB,Atlantic region
+6.0,3.0,2350.0,.344,Single,258000.0,1962 Route 104 ,NB,Atlantic region
+2.0,1.0,,,Single,69900.0,2 Dwayne Avenue ,NB,Atlantic region
+3.0,2.0,2320.0,,Single,779500.0,710 Chemin Desherbiers ,NB,Atlantic region
+,1.0,,>5.3,Single,59900.0,Camp Marks Road ,NB,Atlantic region
+3.0,1.0,1836.0,g>55,Single,239700.0,2241 St Charles Sud ,NB,Atlantic region
+3.0,1.0,1092.0,,Single,89900.0,62 Marcus Drive ,NB,Atlantic region
+4.0,2.0,2066.0,.146,Single,259000.0,69 Foley Court ,NB,Atlantic region
+4.0,3.0,,0.34,Single,374900.0,71 Chasse Street ,NB,Atlantic region
+3.0,3.0,,.378,Single,179900.0,200 Broadway Street ,NB,Atlantic region
+3.0,2.0,1360.0,,Single,189900.0,20 Pokiok Road ,NB,Atlantic region
+3.0,3.0,1568.0,,Single,625000.0,51 Thomas ,NB,Atlantic region
+3.0,3.0,1718.0,,Single,349900.0,36 Satleville CRES ,NB,Atlantic region
+3.0,1.0,803.0,.401,Single,115000.0,9 des Galeries Street ,NB,Atlantic region
+2.0,2.0,1710.0,,Single,269900.0,960 Bristol RD ,NB,Atlantic region
+4.0,1.0,,0.14,Single,169900.0,865 O'Neil ,NB,Atlantic region
+2.0,1.0,1200.0,,Single,268900.0,54 Bellerive RD ,NB,Atlantic region
+4.0,2.0,1900.0,>1.2,Single,269000.0,16050 RTE 105 ,NB,Atlantic region
+2.0,1.0,1120.0,>1.5,Single,68000.0,5276 Route 160 ,NB,Atlantic region
+3.0,1.0,,3.13,Single,259000.0,751 North Napan Road ,NB,Atlantic region
+4.0,2.0,,ng>1,Single,179900.0,3703 Route 102 ,NB,Atlantic region
+3.0,2.0,1300.0,,Single,285000.0,27 Richard ,NB,Atlantic region
+4.0,2.0,,>4.4,Single,249000.0,693 St Pierre Ouest ,NB,Atlantic region
+4.0,1.0,,.561,Single,195900.0,5257 Route 440 ,NB,Atlantic region
+5.0,5.0,2234.0,,Single,450000.0,9 Grenville RD ,NB,Atlantic region
+2.0,1.0,1657.0,,Single,259000.0,411 Highfield ST ,NB,Atlantic region
+4.0,2.0,,,Single,124900.0,33 Clarence Crescent ,NB,Atlantic region
+,,987.0,,Single,49900.0,49 Goguen ,NB,Atlantic region
+2.0,1.0,800.0,,Single,169900.0,48 Chevarie ,NB,Atlantic region
+1.0,,,1.71,Single,39900.0,Lot 93-2 Pokiok Settlement Road ,NB,Atlantic region
+2.0,1.0,,0.16,Single,289900.0,15 King Street ,NB,Atlantic region
+2.0,2.0,1682.0,,Single,315000.0,51 Cameron ST ,NB,Atlantic region
+2.0,1.0,,>0.3,Single,149000.0,81 St Simon Street ,NB,Atlantic region
+5.0,4.0,3686.0,,Single,799900.0,93 Principale ,NB,Atlantic region
+3.0,1.0,,,Single,72900.0,42 WESLEY Street ,NB,Atlantic region
+4.0,2.0,2234.0,0.29,Single,159900.0,188 Fowler Avenue ,NB,Atlantic region
+4.0,2.0,1176.0,,Single,439900.0,4414 Route 106 RTE ,NB,Atlantic region
+3.0,3.0,2653.0,,Single,449000.0,20 Airfield LANE ,NB,Atlantic region
+2.0,1.0,,,Single,55000.0,19 Rioux ,NB,Atlantic region
+4.0,2.0,,0.22,Single,299900.0,854 Smythe Street ,NB,Atlantic region
+4.0,4.0,2400.0,,Single,490000.0,22 Roxborough ,NB,Atlantic region
+,1.0,400.0,,Single,140000.0,83 Linda ST ,NB,Atlantic region
+6.0,2.0,,.145,Single,239000.0,12 Caron Street ,NB,Atlantic region
+4.0,1.0,,.293,Single,124900.0,53 Howard Street ,NB,Atlantic region
+1.0,1.0,456.0,,Single,59900.0,Camp Saulnier LANE ,NB,Atlantic region
+2.0,1.0,,ng>1,Single,89900.0,62 Chemin Savoie ,NB,Atlantic region
+5.0,2.0,,,Single,169000.0,91 Olivier Boucher Road ,NB,Atlantic region
+3.0,1.0,1344.0,0.18,Single,109000.0,1121 Chiasson Street ,NB,Atlantic region
+12.0,9.0,6988.0,>4.2,Single,995000.0,12-18 Foster and Cebacob Road ,NB,Atlantic region
+3.0,2.0,,.224,Single,229500.0,1236 Route 3 ,NB,Atlantic region
+2.0,1.0,,.239,Single,139000.0,206 Spruce Street ,NB,Atlantic region
+3.0,1.0,1171.0,,Single,109900.0,39 Ontario DR ,NB,Atlantic region
+3.0,1.0,3500.0,,Single,200000.0,61 Rue des Champs ,NB,Atlantic region
+2.0,1.0,,0.59,Single,149900.0,474 Gault Road ,NB,Atlantic region
+4.0,3.0,2650.0,,Single,629900.0,1336 Route 114 ,NB,Atlantic region
+3.0,2.0,,g>45,Single,1495000.0,110 Cranberry Head Road ,NB,Atlantic region
+5.0,2.0,,,Single,289000.0,725 Longley Road ,NB,Atlantic region
+4.0,1.0,1248.0,,Single,274900.0,894 Centrale ST ,NB,Atlantic region
+6.0,4.0,,.773,Single,249900.0,62 Schofield Lane ,NB,Atlantic region
+2.0,1.0,,.025,Single,89900.0,290 Wentworth Street ,NB,Atlantic region
+4.0,2.0,,,Single,199900.0,2048 Route 315 ,NB,Atlantic region
+4.0,2.0,2420.0,,Single,650000.0,139 Lighthouse Road ,NB,Atlantic region
+5.0,4.0,2810.0,,Single,624900.0,70 Daigle CRT ,NB,Atlantic region
+4.0,2.0,2381.0,.344,Single,289900.0,3254 Route 585 ,NB,Atlantic region
+7.0,3.0,2217.0,,Single,189900.0,44 Queens RD ,NB,Atlantic region
+3.0,1.0,,.141,Single,72500.0,79 Hillcrest Avenue ,NB,Atlantic region
+4.0,2.0,,.204,Single,149900.0,8526 Route 101 ,NB,Atlantic region
+2.0,2.0,1010.0,>0.3,Single,209900.0,57 Shillington Road ,NB,Atlantic region
+1.0,1.0,1214.0,.705,Single,54900.0,Camp & Lot Carrol Hill Road ,NB,Atlantic region
+6.0,5.0,3600.0,,Single,389000.0,5 Caswell Street ,NB,Atlantic region
+4.0,2.0,1535.0,,Single,179900.0,69 Hillside DR ,NB,Atlantic region
+6.0,4.0,1875.0,,Single,139000.0,131 46e Avenue ,NB,Atlantic region
+3.0,2.0,,.917,Single,349000.0,1720 Route 109 ,NB,Atlantic region
+3.0,2.0,878.0,.218,Single,145000.0,7 Soucy Street ,NB,Atlantic region
+2.0,1.0,,,Single,229900.0,465 Williston Drive ,NB,Atlantic region
+3.0,2.0,,1.68,Single,350000.0,252 Rue Comeau ,NB,Atlantic region
+4.0,1.0,1440.0,.138,Single,119900.0,62 Hillcrest Street ,NB,Atlantic region
+4.0,1.0,,,Single,115000.0,4115 Route 108 ,NB,Atlantic region
+5.0,2.0,,.504,Single,259900.0,10 Elm Street ,NB,Atlantic region
+3.0,1.0,782.0,,Single,349900.0,2589 Route 515 ,NB,Atlantic region
+3.0,1.0,,.324,Single,219900.0,376 Kingsville Road ,NB,Atlantic region
+5.0,1.0,2049.0,.223,Single,69900.0,41 Juniper Road ,NB,Atlantic region
+2.0,2.0,1119.0,,Single,319900.0,17 Thornhill CRES ,NB,Atlantic region
+4.0,2.0,2340.0,,Single,449900.0,68 Centennial AVE ,NB,Atlantic region
+3.0,3.0,1728.0,,Single,139900.0,33 Richardson Road ,NB,Atlantic region
+3.0,2.0,3300.0,.293,Single,320000.0,29 Main Street ,NB,Atlantic region
+,1.0,1400.0,,Single,350000.0,1878 Route 950 ,NB,Atlantic region
+3.0,2.0,,,Single,349900.0,3574 Route 845 ,NB,Atlantic region
+2.0,2.0,1177.0,,Single,359900.0,244 Water Street ,NB,Atlantic region
+3.0,1.0,1050.0,.729,Single,259900.0,"1730 Route 620, Royal Road ",NB,Atlantic region
+4.0,2.0,2252.0,0.19,Single,154000.0,12 Bellevue Street ,NB,Atlantic region
+2.0,1.0,1400.0,,Single,579900.0,2537 Route 515 ,NB,Atlantic region
+4.0,1.0,1152.0,,Single,105000.0,10 rue Corriveau ,NB,Atlantic region
+3.0,2.0,,.418,Single,439900.0,37 Robert Ross Boulevard ,NB,Atlantic region
+4.0,2.0,,.236,Single,295000.0,40 Mgr Dionne Avenue ,NB,Atlantic region
+4.0,2.0,952.0,,Single,234900.0,45 Wellington ,NB,Atlantic region
+4.0,2.0,,>9.2,Single,650000.0,15284 Route 105 ,NB,Atlantic region
+3.0,1.0,1800.0,,Single,134900.0,181 High ST ,NB,Atlantic region
+3.0,2.0,2400.0,g>64,Single,999900.0,799 Back Greenfield Road ,NB,Atlantic region
+5.0,2.0,1675.0,.523,Single,154900.0,766 Central Street ,NB,Atlantic region
+3.0,3.0,1820.0,,Single,290000.0,466 Main ST ,NB,Atlantic region
+3.0,1.0,,ng>1,Single,180000.0,131 Vaillancourt Road ,NB,Atlantic region
+8.0,8.0,,,Single,997000.0,146 Waterloo Row ,NB,Atlantic region
+3.0,1.0,1040.0,,Single,99000.0,484 Pleasant Ridge RD ,NB,Atlantic region
+4.0,3.0,3900.0,.193,Single,549900.0,180 Melissa Street ,NB,Atlantic region
+3.0,3.0,,,Single,874900.0,4864 Route 127 ,NB,Atlantic region
+3.0,1.0,,.004,Single,84900.0,17 Crowhill Drive ,NB,Atlantic region
+6.0,2.0,1495.0,,Single,109900.0,4537 Principale ST ,NB,Atlantic region
+3.0,1.0,1100.0,,Single,125000.0,2561 Route 774 ,NB,Atlantic region
+3.0,1.0,1152.0,1.05,Single,189900.0,1191 Route 655 ,NB,Atlantic region
+5.0,3.0,,0.26,Single,459000.0,231 Saunders Street ,NB,Atlantic region
+4.0,2.0,2063.0,,Single,639000.0,14 Riverside DR ,NB,Atlantic region
+4.0,2.0,,>3.1,Single,289000.0,3120 Main Street ,NB,Atlantic region
+3.0,1.0,,1.67,Single,225000.0,576 South Canaan Road ,NB,Atlantic region
+4.0,2.0,2400.0,ng>2,Single,410000.0,6258 Route 104 ,NB,Atlantic region
+5.0,3.0,2908.0,,Single,1695000.0,34 Bordeaux ST ,NB,Atlantic region
+5.0,4.0,,.254,Single,440000.0,133 Old Mill Road ,NB,Atlantic region
+4.0,2.0,,1.12,Single,199900.0,132 White Head Road ,NB,Atlantic region
+3.0,2.0,,2.37,Single,249500.0,109 Olinville Road ,NB,Atlantic region
+1.0,1.0,572.0,,Single,149900.0,41 Bray BLVD ,NB,Atlantic region
+3.0,2.0,1450.0,,Single,230000.0,38 Lockhart ,NB,Atlantic region
+3.0,2.0,1700.0,,Single,237900.0,7 rue des Trembles ,NB,Atlantic region
+3.0,2.0,,0.23,Single,175000.0,84 Queensway ,NB,Atlantic region
+3.0,1.0,,.229,Single,74500.0,14 Marconi ,NB,Atlantic region
+5.0,3.0,,1.25,Single,384900.0,720 Hillcrest Road ,NB,Atlantic region
+1.0,1.0,,0.25,Single,169700.0,7 Allée Patrick ,NB,Atlantic region
+3.0,3.0,,,Single,459000.0,67 Old Lake Trail Road ,NB,Atlantic region
+3.0,2.0,1600.0,.206,Single,79000.0,65 Des Erables Ave ,NB,Atlantic region
+3.0,2.0,1306.0,0.24,Single,359900.0,91 Thomas Avenue ,NB,Atlantic region
+3.0,2.0,2044.0,.988,Single,750000.0,790 Route 1456,NB,Atlantic region
+3.0,1.0,936.0,1.01,Single,139900.0,49 Pickard Road ,NB,Atlantic region
+3.0,2.0,,.832,Single,164900.0,2 Gillett Road ,NB,Atlantic region
+2.0,1.0,768.0,1.38,Single,55900.0,11657 Route 430 ,NB,Atlantic region
+12.0,6.0,6200.0,ng>3,Single,769000.0,1496 Route 103 ,NB,Atlantic region
+4.0,2.0,,.344,Single,489000.0,44 Harper Road ,NB,Atlantic region
+3.0,3.0,1849.0,,Single,497900.0,69 Guy ,NB,Atlantic region
+3.0,1.0,1168.0,.618,Single,89900.0,382 Route 636 ,NB,Atlantic region
+3.0,2.0,,.201,Single,349000.0,210 Wright Street ,NB,Atlantic region
+3.0,2.0,,,Single,499000.0,10 Leighfield Drive ,NB,Atlantic region
+8.0,4.0,3200.0,,Single,155000.0,21 Pleasant ST ,NB,Atlantic region
+2.0,1.0,,.178,Single,325000.0,523 Gondola Point Road ,NB,Atlantic region
+4.0,3.0,1500.0,,Single,299900.0,44-46 Lydia ST ,NB,Atlantic region
+4.0,1.0,1040.0,,Single,49500.0,2347 Route 890 ,NB,Atlantic region
+3.0,2.0,1728.0,,Single,430000.0,84 Route 470 ,NB,Atlantic region
+3.0,1.0,1350.0,,Single,279900.0,176 Edgett AVE ,NB,Atlantic region
+7.0,4.0,3630.0,,Single,649900.0,117 Carleton Street ,NB,Atlantic region
+3.0,1.0,,.232,Single,148900.0,256 Dawson Street ,NB,Atlantic region
+5.0,4.0,4500.0,.233,Single,899990.0,212 Marlborough Drive ,NB,Atlantic region
+3.0,3.0,3846.0,.009,Single,555000.0,55 Island View Drive ,NB,Atlantic region
+3.0,1.0,915.0,.415,Single,259500.0,73 Indian Lake Road ,NB,Atlantic region
+3.0,3.0,1496.0,,Single,319900.0,113 Crowbush CRES ,NB,Atlantic region
+1.0,1.0,570.0,,Single,72500.0,10 Third ST ,NB,Atlantic region
+4.0,2.0,,>1.5,Single,415000.0,1374 Saint-François Street ,NB,Atlantic region
+2.0,3.0,1580.0,1.25,Single,249000.0,5255 Route 205 ,NB,Atlantic region
+2.0,3.0,1850.0,,Single,289900.0,60 Pointe du Chene RD ,NB,Atlantic region
+3.0,2.0,1700.0,,Single,170000.0,2832 Main ST ,NB,Atlantic region
+2.0,3.0,1364.0,,Single,256000.0,28 Gagnon DR ,NB,Atlantic region
+3.0,2.0,2674.0,0.36,Single,299900.0,905 Principale ,NB,Atlantic region
+6.0,4.0,,8.25,Single,199900.0,5824 ROUTE 101 ,NB,Atlantic region
+2.0,2.0,1892.0,>4.5,Single,414900.0,3372 Route 105 ,NB,Atlantic region
+3.0,3.0,,.393,Single,439500.0,7 Christopher Avenue ,NB,Atlantic region
+6.0,5.0,2168.0,,Single,349900.0,539 Boulevard St Pierre Ouest ,NB,Atlantic region
+4.0,4.0,3192.0,,Single,550000.0,54 Collette ,NB,Atlantic region
+2.0,2.0,,,Single,575000.0,119 Rue Eddy ,NB,Atlantic region
+2.0,1.0,,ng>1,Single,99999.0,/ Sharkey Road ,NB,Atlantic region
+4.0,2.0,2300.0,,Single,249900.0,1103 Victoria Street ,NB,Atlantic region
+2.0,1.0,,.187,Single,134900.0,541 Principale ,NB,Atlantic region
+5.0,3.0,,4.89,Single,674900.0,2833 Route 690 ,NB,Atlantic region
+3.0,3.0,1698.0,.078,Single,209900.0,16 James Street ,NB,Atlantic region
+3.0,1.0,780.0,,Single,199500.0,158 Gallagher ST ,NB,Atlantic region
+3.0,1.0,1044.0,.092,Single,139900.0,3 Briar Place ,NB,Atlantic region
+2.0,1.0,1058.0,,Single,269000.0,87 Caissie ,NB,Atlantic region
+2.0,1.0,,g>90,Single,300000.0,245 Pte-a-Peinture Way ,NB,Atlantic region
+2.0,1.0,984.0,>1.8,Single,143900.0,210 Creek Road ,NB,Atlantic region
+3.0,3.0,,>0.6,Single,350000.0,459 De L'Eglise Street ,NB,Atlantic region
+3.0,2.0,,0.45,Single,119900.0,5 Pleasant Avenue ,NB,Atlantic region
+4.0,1.0,1795.0,.198,Single,229900.0,107 Cedar Avenue ,NB,Atlantic region
+6.0,3.0,,,Single,190000.0,3617 Luce Street ,NB,Atlantic region
+2.0,1.0,792.0,,Single,78000.0,10107 Route 105 ,NB,Atlantic region
+5.0,4.0,3420.0,.648,Single,465000.0,39 Harnau Street ,NB,Atlantic region
+3.0,1.0,750.0,.131,Single,49900.0,140 Main Street ,NB,Atlantic region
+3.0,2.0,1360.0,,Single,255000.0,146 Fortune ST ,NB,Atlantic region
+2.0,1.0,800.0,4.75,Single,225000.0,5760 Route 105 ,NB,Atlantic region
+3.0,2.0,1215.0,.165,Single,249900.0,7 Erica Circle ,NB,Atlantic region
+3.0,1.0,896.0,,Single,74500.0,151 Hedgeview Drive ,NB,Atlantic region
+3.0,1.0,563.0,,Single,189000.0,57 Pierre ,NB,Atlantic region
+3.0,1.0,707.0,,Single,69000.0,119 Biddington AVE ,NB,Atlantic region
+2.0,1.0,1530.0,,Single,144900.0,88 Gowland Mountain RD ,NB,Atlantic region
+4.0,2.0,1920.0,.688,Single,209000.0,854 Principale Street ,NB,Atlantic region
+1.0,3.0,2000.0,2.71,Single,124900.0,6484 Route 8 ,NB,Atlantic region
+2.0,1.0,770.0,,Single,199900.0,1535 Route 475 ,NB,Atlantic region
+3.0,1.0,,.764,Single,219900.0,138 Gondola Point Road ,NB,Atlantic region
+3.0,2.0,1564.0,,Single,369900.0,422 Indian Mountain RD ,NB,Atlantic region
+6.0,3.0,,1.48,Single,269000.0,1876 Route 420 ,NB,Atlantic region
+1.0,1.0,,ng>1,Single,79900.0,66 Canada Packers Road ,NB,Atlantic region
+3.0,2.0,,.175,Single,199900.0,727 Main Street ,NB,Atlantic region
+4.0,2.0,2430.0,,Single,424900.0,8 & 10 Bell Street ,NB,Atlantic region
+3.0,3.0,1718.0,,Single,349900.0,32 Satleville CRES ,NB,Atlantic region
+3.0,2.0,3090.0,0.04,Single,299000.0,865 ch de l'eglise Street ,NB,Atlantic region
+3.0,2.0,1800.0,,Single,134900.0,24 Second Street ,NB,Atlantic region
+4.0,2.0,1630.0,.047,Single,234900.0,61 Brentwood Crescent ,NB,Atlantic region
+6.0,2.0,,.371,Single,109900.0,216 SUNBURY Drive ,NB,Atlantic region
+5.0,2.0,1421.0,.078,Single,255000.0,4 Rideau ,NB,Atlantic region
+5.0,5.0,,9.56,Single,689900.0,519-531 Otis Drive ,NB,Atlantic region
+4.0,1.0,1700.0,ng>1,Single,174900.0,- Rio Road ,NB,Atlantic region
+1.0,1.0,,,Single,70000.0,Lot 5-98 & Camp ,NB,Atlantic region
+6.0,4.0,4108.0,,Single,399900.0,26 Centennial AVE ,NB,Atlantic region
+6.0,3.0,,ng>1,Single,374900.0,- Tamogonops Lake Road ,NB,Atlantic region
+3.0,1.0,,g>40,Single,449900.0,4612 Route 114 ,NB,Atlantic region
+4.0,4.0,3413.0,.285,Single,895000.0,12 Yacht Haven Lane ,NB,Atlantic region
+3.0,2.0,1200.0,0.15,Single,104900.0,34 31st Avenue ,NB,Atlantic region
+3.0,2.0,,>7.7,Single,189900.0,90 Friar Tuck ,NB,Atlantic region
+,,,.181,Single,29800.0,3688 Route  134 ,NB,Atlantic region
+,,288.0,,Single,25550.0,304 Foley Brook Road ,NB,Atlantic region
+2.0,1.0,686.0,,Single,49900.0,936 Royal RD ,NB,Atlantic region
+3.0,1.0,,7.76,Single,179900.0,438 Kerrs Ridge Road ,NB,Atlantic region
+,,,,Single,65000.0,3751 Principale Street ,NB,Atlantic region
+2.0,3.0,1872.0,,Single,425000.0,29 Holton LANE ,NB,Atlantic region
+4.0,1.0,,g>98,Single,219900.0,23635 Route 134 ,NB,Atlantic region
+4.0,2.0,2076.0,1.33,Single,189900.0,706 Route 875 ,NB,Atlantic region
+5.0,2.0,1780.0,,Single,549000.0,102 de la Cote ,NB,Atlantic region
+3.0,2.0,,0.75,Single,595000.0,176 Hills Point Road ,NB,Atlantic region
+3.0,3.0,2121.0,20.9,Single,699000.0,3726 Route 180 ,NB,Atlantic region
+3.0,2.0,1550.0,,Single,184900.0,189 Gordon ST ,NB,Atlantic region
+2.0,2.0,1227.0,,Single,339500.0,137 Northumberland DR ,NB,Atlantic region
+3.0,2.0,1374.0,,Single,259900.0,101 Mathias ST ,NB,Atlantic region
+2.0,2.0,1200.0,ng>1,Single,99900.0,2245 Route 102 ,NB,Atlantic region
+2.0,1.0,,ng>1,Single,55000.0,78 Barter Settlement Road ,NB,Atlantic region
+2.0,1.0,,.853,Single,118500.0,97 Hambrook Point Road ,NB,Atlantic region
+2.0,1.0,760.0,,Single,99900.0,175 Carr RD ,NB,Atlantic region
+2.0,1.0,,.173,Single,49900.0,49 Route 134 ,NB,Atlantic region
+4.0,3.0,,0.47,Single,415000.0,74 Riverside Drive ,NB,Atlantic region
+3.0,2.0,,.131,Single,184900.0,95 47e Avenue ,NB,Atlantic region
+3.0,2.0,,>1.1,Single,184900.0,2290 Route 774 ,NB,Atlantic region
+3.0,3.0,,,Single,550000.0,75 Route 375 ,NB,Atlantic region
+2.0,1.0,750.0,,Single,279000.0,19 Hillside DR ,NB,Atlantic region
+3.0,1.0,880.0,>1.4,Single,168000.0,26 Paulsen Valley Road ,NB,Atlantic region
+4.0,2.0,1890.0,.395,Single,99900.0,8 Desmeules Street ,NB,Atlantic region
+3.0,1.0,,,Residential,109900.0,402 Duplisea Road ,NB,Atlantic region
+3.0,1.0,,.193,Single,129900.0,364 Tobique Road ,NB,Atlantic region
+2.0,3.0,1318.0,,Single,299900.0,1015 Route 525 ,NB,Atlantic region
+2.0,1.0,1100.0,,Single,448000.0,160 Pierre-a-Fabien ,NB,Atlantic region
+2.0,1.0,1125.0,.126,Single,325000.0,65 Thomas ,NB,Atlantic region
+3.0,2.0,,,Single,315000.0,11 Des Champs Street ,NB,Atlantic region
+2.0,1.0,,.138,Single,239000.0,280 West Tenants Cove Road ,NB,Atlantic region
+6.0,3.0,,ng>4,Single,699900.0,4355 Route 105 ,NB,Atlantic region
+3.0,1.0,1600.0,,Single,175000.0,5 Leblanc Poirier ,NB,Atlantic region
+2.0,2.0,1205.0,,Single,299000.0,3469 Route 535 ,NB,Atlantic region
+,,,,Single,154900.0,Route 860 Clover Hill Road ,NB,Atlantic region
+1.0,1.0,,,Single,149000.0,31 Gowan Road ,NB,Atlantic region
+5.0,3.0,2800.0,,Single,89900.0,150-152 Bayfield RD ,NB,Atlantic region
+2.0,1.0,672.0,,Single,175000.0,23 Allee Robert ,NB,Atlantic region
+3.0,4.0,2740.0,.021,Single,650000.0,23 David CRT ,NB,Atlantic region
+1.0,1.0,,.875,Single,99900.0,804 Upsalquitch River Road ,NB,Atlantic region
+5.0,2.0,2200.0,.207,Single,325000.0,33 Breau Avenue ,NB,Atlantic region
+4.0,1.0,,,Single,299900.0,280 Haggerty ,NB,Atlantic region
+4.0,2.0,1488.0,1.25,Single,135000.0,190 Pecheur Nord Street ,NB,Atlantic region
+1.0,2.0,,1.08,Single,129900.0,3026 Ch Haut Nigadoo ,NB,Atlantic region
+11.0,10.0,,,Single,3295000.0,322 Brandy Cove Road ,NB,Atlantic region
+3.0,2.0,1320.0,,Single,224900.0,28 Sheraton Green RD ,NB,Atlantic region
+6.0,3.0,,0.81,Single,349900.0,15 O'BRIEN Street ,NB,Atlantic region
+4.0,2.0,2856.0,.575,Single,349900.0,69 NELSON Drive ,NB,Atlantic region
+3.0,3.0,3556.0,,Single,1200000.0,2634 Route 535 ,NB,Atlantic region
+3.0,1.0,1504.0,,Single,119900.0,70 Fawcett Hill RD ,NB,Atlantic region
+7.0,9.0,5200.0,0.42,Single,549900.0,22 Route 776 ,NB,Atlantic region
+2.0,2.0,,,Single,359000.0,Lot 8 Sea Street Unit B,NB,Atlantic region
+8.0,8.0,,0.19,Single,429000.0,28 Garden ,NB,Atlantic region
+4.0,3.0,2300.0,.182,Single,295000.0,526 Fleet Crescent ,NB,Atlantic region
+4.0,1.0,1400.0,,Single,84000.0,243 Centerton Road ,NB,Atlantic region
+2.0,1.0,1800.0,,Single,190000.0,2462 Centrale Street ,NB,Atlantic region
+3.0,2.0,2900.0,,Single,499900.0,210 St Lazare Farm RD ,NB,Atlantic region
+3.0,2.0,1376.0,,Single,125000.0,205 Main ST ,NB,Atlantic region
+3.0,1.0,,>3.3,Single,149000.0,3593 Highway 108 ,NB,Atlantic region
+1.0,1.0,958.0,,Single,118900.0,23 Sunset LANE ,NB,Atlantic region
+3.0,1.0,,.136,Single,94900.0,160 Broadway Street ,NB,Atlantic region
+6.0,3.0,3204.0,,Single,549900.0,226 Gowland Mountain RD ,NB,Atlantic region
+3.0,1.0,1632.0,,Single,139900.0,303 Saint Charles Sud ,NB,Atlantic region
+6.0,6.0,2569.0,.099,Single,295000.0,58 Front Street ,NB,Atlantic region
+3.0,2.0,,,Single,249900.0,14 Oliver Shore Crescent ,NB,Atlantic region
+2.0,,1055.0,,Single,86900.0,3 Murray ,NB,Atlantic region
+5.0,1.0,,ng>1,Single,109000.0,3793 Route 340 ,NB,Atlantic region
+4.0,1.0,1360.0,,Single,249900.0,46 Beaton AVE ,NB,Atlantic region
+3.0,1.0,1046.0,,Single,109900.0,887 St Maurice ,NB,Atlantic region
+3.0,2.0,,,Single,109900.0,196 Portage Road ,NB,Atlantic region
+2.0,1.0,,.628,Single,79900.0,259 Carrolls Crossing Road ,NB,Atlantic region
+2.0,1.0,,1.23,Single,189000.0,27 McLaughlin ,NB,Atlantic region
+6.0,2.0,,.115,Single,179900.0,19 Tisdale ,NB,Atlantic region
+4.0,2.0,,2.52,Single,184500.0,231 Holtville Road ,NB,Atlantic region
+3.0,3.0,1718.0,,Single,349900.0,30 Satleville CRES ,NB,Atlantic region
+4.0,4.0,3148.0,,Single,639900.0,2430 Route 530 ,NB,Atlantic region
+3.0,1.0,,0.23,Single,89000.0,82 Route 322 ,NB,Atlantic region
+2.0,2.0,650.0,,Single,215000.0,6305 Route 144 Unit 1,NB,Atlantic region
+3.0,1.0,1594.0,,Single,329000.0,1265 King George Highway ,NB,Atlantic region
+2.0,1.0,800.0,,Single,199900.0,99 Wilson RD ,NB,Atlantic region
+4.0,1.0,1468.0,1.11,Single,274900.0,1375 Route 776 ,NB,Atlantic region
+3.0,4.0,2010.0,,Single,498000.0,27 White Oak TERR ,NB,Atlantic region
+4.0,2.0,1450.0,,Single,289000.0,300-304 Mountain RD ,NB,Atlantic region
+3.0,2.0,1091.0,,Single,225000.0,74 Second AVE ,NB,Atlantic region
+2.0,2.0,,,Single,365000.0,79 Carding Way ,NB,Atlantic region
+1.0,1.0,704.0,.938,Single,99000.0,6645 Route 10 ,NB,Atlantic region
+4.0,2.0,,2.27,Single,439900.0,951 Champagne ,NB,Atlantic region
+1.0,1.0,820.0,>0.5,Single,59900.0,380 Rte 176 Route ,NB,Atlantic region
+4.0,4.0,5000.0,.731,Single,574900.0,22 Hallett Heights ,NB,Atlantic region
+3.0,1.0,,.197,Single,139000.0,75 Principale Street ,NB,Atlantic region
+5.0,3.0,2750.0,,Single,675000.0,480 Salem RD ,NB,Atlantic region
+4.0,2.0,,,Single,169900.0,876 Cartier ,NB,Atlantic region
+4.0,4.0,,>6.8,Single,349000.0,560 Route 3980,NB,Atlantic region
+2.0,3.0,1200.0,,Single,599900.0,19 Waterfront LANE ,NB,Atlantic region
+2.0,1.0,850.0,,Single,159500.0,105 Mount View ,NB,Atlantic region
+2.0,2.0,,,Single,359000.0,Lot 16 Sea Street ,NB,Atlantic region
+4.0,2.0,,0.98,Single,65000.0,11 Foley Brook Road ,NB,Atlantic region
+4.0,4.0,3000.0,.009,Single,495000.0,6 Maple ,NB,Atlantic region
+4.0,3.0,1516.0,,Single,375000.0,326 Charles Lutes ,NB,Atlantic region
+4.0,2.0,2180.0,1.79,Single,599900.0,10 Allan Road ,NB,Atlantic region
+2.0,1.0,780.0,,Single,104900.0,10 Fleur de Lis ,NB,Atlantic region
+3.0,2.0,,0.23,Single,159900.0,534 Tobique Road ,NB,Atlantic region
+3.0,1.0,,.466,Single,159900.0,36 Norm Soucys Road ,NB,Atlantic region
+3.0,1.0,1674.0,,Single,249000.0,425 Lutz ST ,NB,Atlantic region
+3.0,2.0,,.924,Single,229900.0,446 Route 550 ,NB,Atlantic region
+5.0,2.0,,0.57,Single,184000.0,23 Allaire Street ,NB,Atlantic region
+5.0,2.0,2520.0,>0.2,Single,239000.0,132 Greendale Crescent ,NB,Atlantic region
+3.0,2.0,,.103,Single,65000.0,3195 Route 108 ,NB,Atlantic region
+3.0,2.0,1440.0,16.2,Single,299900.0,11099 Route 144 ,NB,Atlantic region
+3.0,2.0,,1.03,Single,299900.0,160 Tripp Settlement Road ,NB,Atlantic region
+3.0,3.0,,3.18,Single,350000.0,165 Black Point Road ,NB,Atlantic region
+2.0,1.0,840.0,.994,Single,134900.0,529 Route 670 ,NB,Atlantic region
+,1.0,,ng>2,Single,425000.0,141 Picadilly Road ,NB,Atlantic region
+4.0,2.0,,.206,Single,229900.0,15 Topcliffe Crescent ,NB,Atlantic region
+5.0,3.0,2150.0,,Single,649900.0,121 Baseline RD ,NB,Atlantic region
+4.0,2.0,1820.0,.203,Single,239000.0,176 Basin Street ,NB,Atlantic region
+3.0,3.0,1410.0,,Single,474900.0,76 Delpech CRT ,NB,Atlantic region
+3.0,1.0,1145.0,,Single,159900.0,3906 Route 134 ,NB,Atlantic region
+4.0,2.0,,4.05,Single,184500.0,1215 Route 335 ,NB,Atlantic region
+3.0,3.0,1560.0,,Single,319900.0,14 Macbeath ,NB,Atlantic region
+3.0,3.0,1213.0,,Single,699900.0,16 Charles a Louis LANE ,NB,Atlantic region
+4.0,3.0,3000.0,0.28,Single,475000.0,40 des Merisiers Street ,NB,Atlantic region
+5.0,2.0,,.294,Single,824000.0,297 Douglas Avenue ,NB,Atlantic region
+5.0,4.0,2600.0,,Single,529900.0,76 Glastonbury DR ,NB,Atlantic region
+3.0,2.0,,.083,Single,159900.0,84 Dresden Avenue ,NB,Atlantic region
+3.0,3.0,,>2.3,Single,439900.0,32 Route 11 ,NB,Atlantic region
+3.0,2.0,2625.0,,Single,499900.0,150 Blanchard Trail ,NB,Atlantic region
+3.0,2.0,,.344,Single,299000.0,70 Beardsley Road ,NB,Atlantic region
+4.0,2.0,,.185,Single,275900.0,1265 Birchwood Drive ,NB,Atlantic region
+4.0,2.0,,.267,Single,159000.0,37 rue Dubé ,NB,Atlantic region
+4.0,5.0,3602.0,.344,Single,998000.0,1559 Woodstock Road ,NB,Atlantic region
+3.0,1.0,,5.03,Single,2000000.0,300 Shadow Lake Road ,NB,Atlantic region
+3.0,2.0,2100.0,,Single,299900.0,77 Woodlawn AVE ,NB,Atlantic region
+3.0,1.0,,.115,Single,89900.0,40 Simpson Drive ,NB,Atlantic region
+2.0,2.0,,2.45,Single,374900.0,4523 Route 127 ,NB,Atlantic region
+4.0,2.0,,0.42,Single,199000.0,6 des Robins Est Street ,NB,Atlantic region
+4.0,3.0,2900.0,.178,Single,499900.0,255 Mataya Drive ,NB,Atlantic region
+4.0,2.0,1595.0,,Single,199900.0,355 Cameron ST ,NB,Atlantic region
+6.0,2.0,1088.0,,Single,199900.0,14 Fielding ST ,NB,Atlantic region
+4.0,1.0,1665.0,,Single,56000.0,4325 Route 130 ,NB,Atlantic region
+3.0,2.0,1100.0,,Single,219900.0,123 Greenbriar DR ,NB,Atlantic region
+3.0,2.0,,.843,Single,279000.0,43 Main Street ,NB,Atlantic region
+3.0,3.0,1928.0,,Single,398000.0,19 Gervic CRES ,NB,Atlantic region
+3.0,1.0,1440.0,>1.4,Single,92500.0,660 Route 555 ,NB,Atlantic region
+3.0,1.0,1625.0,,Single,399900.0,233 Irving BLVD ,NB,Atlantic region
+1.0,1.0,675.0,,Single,40000.0,5369 Route 880 ,NB,Atlantic region
+3.0,2.0,,,Single,145000.0,1887 Route 390 ,NB,Atlantic region
+6.0,2.0,2058.0,.233,Single,279900.0,159 Brookside Drive ,NB,Atlantic region
+4.0,2.0,,.412,Single,169900.0,28 Alpine Street ,NB,Atlantic region
+4.0,2.0,2325.0,.076,Single,279900.0,144 Duke Street ,NB,Atlantic region
+4.0,2.0,1836.0,,Single,349900.0,79 De Leglise ,NB,Atlantic region
+4.0,1.0,,,Single,79900.0,992 Rue Principale ,NB,Atlantic region
+4.0,3.0,1564.0,.375,Single,169900.0,113 St. John Street ,NB,Atlantic region
+4.0,2.0,1980.0,,Single,369000.0,452 Main ST ,NB,Atlantic region
+3.0,3.0,,.908,Single,349900.0,49 Roclin ,NB,Atlantic region
+2.0,1.0,,,Single,39900.0,169 Bay du Vin River Road ,NB,Atlantic region
+2.0,2.0,,,Single,359000.0,Lot 4 Sea Street Unit A,NB,Atlantic region
+,,,82.5,Single,115900.0,3880 Hwy 108 ,NB,Atlantic region
+3.0,1.0,1304.0,,Single,685000.0,120 Venice ,NB,Atlantic region
+4.0,3.0,2512.0,,Single,474900.0,8 Normandie CRT ,NB,Atlantic region
+3.0,2.0,1300.0,.128,Single,112500.0,156 35e Avenue ,NB,Atlantic region
+4.0,2.0,1775.0,,Single,229900.0,603 Hillsborough RD ,NB,Atlantic region
+3.0,3.0,2100.0,.161,Single,324900.0,28 Duke Street ,NB,Atlantic region
+3.0,3.0,2750.0,,Single,600000.0,565 Shediac RD ,NB,Atlantic region
+3.0,1.0,,>7.4,Single,144500.0,113 Route 1319,NB,Atlantic region
+5.0,4.0,2321.0,1.14,Single,435000.0,15 Holly Crescent ,NB,Atlantic region
+2.0,2.0,2500.0,,Single,650000.0,37 De L'Aigle ,NB,Atlantic region
+3.0,3.0,,0.47,Single,249000.0,98 du Portage ,NB,Atlantic region
+2.0,1.0,,.546,Single,174900.0,140 Gondola Point Road ,NB,Atlantic region
+6.0,4.0,3700.0,.241,Single,259000.0,97 Brookview Crescent ,NB,Atlantic region
+3.0,1.0,1081.0,,Single,149900.0,1901 Route 885 ,NB,Atlantic region
+6.0,3.0,2376.0,1.41,Single,499900.0,35 Corduroy Road ,NB,Atlantic region
+4.0,3.0,2701.0,,Single,574900.0,11 Blackstone ,NB,Atlantic region
+,,576.0,,Single,49900.0,3150 Saint Charles ,NB,Atlantic region
+3.0,1.0,3808.0,,Single,312000.0,51 Chemin de la Montagne ,NB,Atlantic region
+4.0,2.0,2650.0,>2.2,Single,349000.0,11 Granitefield Road ,NB,Atlantic region
+2.0,1.0,1105.0,ng>1,Single,109900.0,940 Pabineau Falls Road ,NB,Atlantic region
+3.0,2.0,,,Single,199000.0,4306 Principale ,NB,Atlantic region
+1.0,1.0,,.355,Single,199000.0,4 Harrison Hill Road ,NB,Atlantic region
+3.0,2.0,1900.0,,Single,399900.0,100 Pascal AVE ,NB,Atlantic region
+4.0,4.0,3088.0,.309,Single,669900.0,23 Academy Court ,NB,Atlantic region
+5.0,4.0,,.275,Single,525000.0,129 Leblond Street ,NB,Atlantic region
+3.0,1.0,,.091,Single,94000.0,197 Loch Lomond Road ,NB,Atlantic region
+2.0,1.0,650.0,,Single,70000.0,2119 Route 950 ,NB,Atlantic region
+2.0,1.0,882.0,,Single,134900.0,14 Dubois ,NB,Atlantic region
+4.0,3.0,1512.0,,Single,459900.0,800 Haute Saint Antoine ,NB,Atlantic region
+3.0,2.0,,>1.9,Single,158900.0,347 Nerepis Road ,NB,Atlantic region
+3.0,1.0,621.0,,Single,115900.0,23 Alphonse ,NB,Atlantic region
+3.0,1.0,1284.0,,Single,209900.0,226 Highlandview RD ,NB,Atlantic region
+2.0,2.0,912.0,,Single,289900.0,31 Lasalle CRES ,NB,Atlantic region
+3.0,2.0,,3.55,Single,399000.0,120 English Settlement Road ,NB,Atlantic region
+3.0,2.0,,.112,Single,168500.0,66 39e Avenue ,NB,Atlantic region
+7.0,8.0,9125.0,g>10,Single,2400000.0,434 Hills Point Road ,NB,Atlantic region
+4.0,2.0,2100.0,ng>1,Single,94900.0,328 White Road ,NB,Atlantic region
+,,,.879,Single,29900.0,7405 Route 8 ,NB,Atlantic region
+2.0,2.0,825.0,,Single,199900.0,70 Albeo ,NB,Atlantic region
+2.0,2.0,,.468,Single,390000.0,144 Wolf Drive ,NB,Atlantic region
+5.0,3.0,,,Single,815000.0,77 Nowlan Street ,NB,Atlantic region
+3.0,1.0,1000.0,,Single,299900.0,2997 Route 132 ,NB,Atlantic region
+4.0,2.0,,.652,Single,108900.0,1764 Route 124 ,NB,Atlantic region
+,,,,Single,2900000.0,85-95 Prospect Street ,NB,Atlantic region
+3.0,2.0,1624.0,,Single,174000.0,5 Cedarwood AVE ,NB,Atlantic region
+2.0,2.0,1088.0,,Single,249900.0,400 Eglise RD ,NB,Atlantic region
+3.0,1.0,1350.0,0.13,Single,122000.0,277 St Francois Street ,NB,Atlantic region
+4.0,1.0,1172.0,.268,Single,224900.0,161 Brookside Drive ,NB,Atlantic region
+3.0,2.0,1200.0,,Single,349900.0,389 Route 535 ,NB,Atlantic region
+4.0,3.0,,0.35,Single,249900.0,11 Cyr Street ,NB,Atlantic region
+3.0,2.0,1232.0,.092,Single,189900.0,17 Bridge Street ,NB,Atlantic region
+3.0,1.0,2000.0,>0.7,Single,340000.0,234 Mowat Drive ,NB,Atlantic region
+2.0,,,,Single,134900.0,84 Beach Road ,NB,Atlantic region
+3.0,2.0,2160.0,,Single,535000.0,1661 Route 885 ,NB,Atlantic region
+4.0,5.0,3581.0,.819,Single,1200000.0,1599 Woodstock Road ,NB,Atlantic region
+3.0,2.0,2213.0,93.7,Single,449900.0,109 Patterson Cross Road ,NB,Atlantic region
+3.0,1.0,795.0,,Single,229900.0,3353 Rte 132 ,NB,Atlantic region
+3.0,2.0,1250.0,.201,Single,99000.0,710 Main Street ,NB,Atlantic region
+3.0,2.0,,,Single,279900.0,9 Jones Road ,NB,Atlantic region
+3.0,3.0,2800.0,,Single,164900.0,2111 Route 124 ,NB,Atlantic region
+3.0,1.0,1590.0,,Single,179000.0,2295 Acadie ,NB,Atlantic region
+3.0,1.0,1714.0,,Single,170000.0,462 White Head Road ,NB,Atlantic region
+4.0,1.0,1400.0,,Single,126500.0,576 E.H. Daigle Boulevard ,NB,Atlantic region
+2.0,2.0,,,Single,359000.0,Lot 17 Sea Street ,NB,Atlantic region
+3.0,1.0,1080.0,,Single,124500.0,1946 St-Ignace RD ,NB,Atlantic region
+1.0,1.0,,32.4,Single,265000.0,52 Camp Lane ,NB,Atlantic region
+3.0,1.0,,1.13,Single,149900.0,218 Hill Road ,NB,Atlantic region
+3.0,2.0,988.0,,Single,549000.0,2402 Route 530 ,NB,Atlantic region
+4.0,5.0,3496.0,,Single,724900.0,47 Riverbend DR ,NB,Atlantic region
+2.0,2.0,2460.0,.148,Single,159900.0,2330 Carron ,NB,Atlantic region
+4.0,2.0,2126.0,0.31,Single,114900.0,8674 Main Street ,NB,Atlantic region
+3.0,1.0,1040.0,,Single,249900.0,19 Reilly AVE ,NB,Atlantic region
+2.0,2.0,,>5.7,Single,189000.0,23 Dryer Road ,NB,Atlantic region
+3.0,1.0,,g>98,Single,275000.0,289 Mount Delight Road ,NB,Atlantic region
+4.0,1.0,1460.0,>0.7,Single,309900.0,203 Mill Road ,NB,Atlantic region
+4.0,2.0,,0.57,Single,179900.0,209 Saunders Road ,NB,Atlantic region
+3.0,2.0,1115.0,1.03,Single,149900.0,68 Des Chalets ,NB,Atlantic region
+4.0,2.0,1365.0,,Single,144900.0,10 Dallaire ,NB,Atlantic region
+4.0,2.0,3116.0,.269,Single,399000.0,95 Leblond Street ,NB,Atlantic region
+4.0,3.0,,.462,Single,289900.0,40 Lionel Drive ,NB,Atlantic region
+3.0,3.0,,.124,Single,249900.0,11123 Rue Principale ,NB,Atlantic region
+4.0,2.0,3760.0,2.06,Single,699900.0,333 Main Street ,NB,Atlantic region
+3.0,1.0,,,Single,449900.0,15833 Route 105 ,NB,Atlantic region
+3.0,2.0,,,Single,64900.0,1802 Route 107 ,NB,Atlantic region
+3.0,1.0,1250.0,,Single,295000.0,125 Urbain ,NB,Atlantic region
+3.0,2.0,,,Single,220000.0,2672 Route 774 ,NB,Atlantic region
+4.0,3.0,3328.0,>1.5,Single,289900.0,27 Upper Golden Grove Road ,NB,Atlantic region
+2.0,1.0,,,Single,90000.0,837 Victoria Street ,NB,Atlantic region
+3.0,1.0,,.115,Single,67900.0,9 Vanceboro Road ,NB,Atlantic region
+3.0,2.0,,ng>6,Single,119900.0,6737 Rte 117 ,NB,Atlantic region
+3.0,3.0,,2.96,Single,679900.0,414 Ledge Road ,NB,Atlantic region
+3.0,2.0,1176.0,,Single,389000.0,3254 Route 132 ,NB,Atlantic region
+4.0,2.0,1920.0,.172,Single,139900.0,242 Foulem ,NB,Atlantic region
+2.0,1.0,689.0,,Single,179900.0,44 Second AVE ,NB,Atlantic region
+3.0,2.0,,,Single,189900.0,21 Belair Street ,NB,Atlantic region
+4.0,2.0,,.988,Single,225000.0,355 Rang 8 Road ,NB,Atlantic region
+4.0,3.0,2660.0,,Single,379900.0,124 Crestwood DR ,NB,Atlantic region
+3.0,1.0,1066.0,,Single,124900.0,20 Des Sapins ,NB,Atlantic region
+8.0,2.0,2408.0,.335,Single,329900.0,567 Waterloo Row ,NB,Atlantic region
+3.0,2.0,1450.0,,Single,179900.0,686 Cormier Village RD ,NB,Atlantic region
+4.0,4.0,,.988,Single,529000.0,9 Harper Road ,NB,Atlantic region
+5.0,3.0,2000.0,0.45,Single,319900.0,96 Bryant Drive ,NB,Atlantic region
+3.0,1.0,,0.49,Single,189000.0,7744 du Havre Street ,NB,Atlantic region
+2.0,2.0,,.318,Single,129900.0,52 Royal Road ,NB,Atlantic region
+2.0,1.0,1536.0,.171,Single,279900.0,25 allée Des Chalets ,NB,Atlantic region
+3.0,1.0,1272.0,,Single,298000.0,49 Kensington DR ,NB,Atlantic region
+5.0,2.0,2052.0,.183,Single,199900.0,332-334 Woodville Road ,NB,Atlantic region
+4.0,4.0,,,Single,374900.0,278 Water Street ,NB,Atlantic region
+5.0,2.0,1848.0,.878,Single,259000.0,967 Grandview Avenue ,NB,Atlantic region
+2.0,1.0,,0.06,Single,139900.0,34 Wallace Court ,NB,Atlantic region
+,,,ng>1,Single,94500.0,888 Highway 118 ,NB,Atlantic region
+1.0,1.0,,,Single,125000.0,-- Chemin de la Grande Riviere Street ,NB,Atlantic region
+3.0,3.0,2054.0,,Single,525900.0,57 Donat Croissant ,NB,Atlantic region
+2.0,2.0,,.629,Single,74500.0,898 Hwy 118 ,NB,Atlantic region
+2.0,1.0,1260.0,1.39,Single,199900.0,348 Fernmount Road ,NB,Atlantic region
+3.0,1.0,,0.78,Single,230000.0,2368 Route 385 ,NB,Atlantic region
+4.0,2.0,,.694,Single,239900.0,775 Principale ,NB,Atlantic region
+2.0,2.0,1275.0,,Single,379900.0,61 Rosebank CRES ,NB,Atlantic region
+2.0,1.0,795.0,,Single,139900.0,215 Route 944,NB,Atlantic region
+2.0,2.0,820.0,,Single,254900.0,16 Martial Hebert ,NB,Atlantic region
+5.0,2.0,1980.0,ng>1,Single,375000.0,739 Route 105 ,NB,Atlantic region
+4.0,1.0,1070.0,.607,Single,179900.0,2638 Westfield Road ,NB,Atlantic region
+3.0,2.0,1175.0,,Single,244900.0,91 Allison ,NB,Atlantic region
+4.0,2.0,894.0,,Single,219900.0,134 McKenzie AVE ,NB,Atlantic region
+3.0,1.0,,,Single,54000.0,63 Violet Street ,NB,Atlantic region
+3.0,1.0,1088.0,.023,Single,105900.0,920 Highmeadow Drive ,NB,Atlantic region
+2.0,1.0,,0.23,Single,169900.0,29 Scott Road ,NB,Atlantic region
+3.0,2.0,,>1.1,Single,449000.0,18 Old Orchard Lane ,NB,Atlantic region
+5.0,2.0,1585.0,,Single,112000.0,217 Victoria Street ,NB,Atlantic region
+3.0,3.0,3000.0,0.18,Single,349900.0,45 Scotia View Drive ,NB,Atlantic region
+2.0,1.0,940.0,,Single,159900.0,47 Borgitte AVE ,NB,Atlantic region
+3.0,2.0,1966.0,>0.3,Single,219900.0,142 Fowler Avenue ,NB,Atlantic region
+3.0,2.0,,.016,Single,269900.0,26 Haines Crescent ,NB,Atlantic region
+4.0,3.0,2000.0,,Single,249000.0,4 Hill Street ,NB,Atlantic region
+4.0,4.0,1944.0,.303,Single,499900.0,136 Water Street ,NB,Atlantic region
+5.0,2.0,1128.0,,Single,269000.0,16 Pleasantview ST ,NB,Atlantic region
+2.0,1.0,720.0,1.15,Single,63000.0,381 Rivière-Verte Road ,NB,Atlantic region
+3.0,2.0,1200.0,,Single,279900.0,36 Baybreeze LANE ,NB,Atlantic region
+2.0,1.0,,,Single,119900.0,- Dubee Settlement Road ,NB,Atlantic region
+4.0,2.0,,.675,Single,150000.0,11732 Route 430 ,NB,Atlantic region
+2.0,4.0,,,Single,850000.0,14 Boul St-Pierre Est ,NB,Atlantic region
+3.0,3.0,,,Single,399900.0,Lot 1 Wildwood Way ,NB,Atlantic region
+4.0,2.0,3968.0,>1.6,Single,399000.0,20 Bellefleur Street ,NB,Atlantic region
+3.0,1.0,1288.0,>3.2,Single,225000.0,2 Patricia Lane ,NB,Atlantic region
+4.0,4.0,3300.0,,Single,749000.0,599 West River Road ,NB,Atlantic region
+4.0,2.0,,,Single,175000.0,425 Acadie Boulevard ,NB,Atlantic region
+3.0,2.0,,>1.4,Single,359900.0,43 Sky View Terrace ,NB,Atlantic region
+5.0,5.0,,.101,Single,649000.0,18 Breau Avenue ,NB,Atlantic region
+3.0,1.0,,64.7,Single,199900.0,3216 Route 130 ,NB,Atlantic region
+4.0,3.0,1100.0,,Single,250000.0,220 Thibodeau ST ,NB,Atlantic region
+5.0,2.0,960.0,,Single,329900.0,148 Gallagher ,NB,Atlantic region
+3.0,1.0,1008.0,>2.6,Single,89900.0,3120 Route 148 ,NB,Atlantic region
+3.0,2.0,1482.0,>2.3,Single,53400.0,3229 Route 315 ,NB,Atlantic region
+3.0,1.0,1360.0,0.86,Single,329900.0,109 Hill Road ,NB,Atlantic region
+3.0,1.0,1375.0,,Single,61000.0,8 Nowlan AVE ,NB,Atlantic region
+6.0,3.0,2476.0,,Single,199900.0,52 Rue du Portage ,NB,Atlantic region
+4.0,3.0,,.239,Single,425000.0,40 Parklawn Court ,NB,Atlantic region
+3.0,1.0,,>0.2,Single,294900.0,349 B de l'Ile Street ,NB,Atlantic region
+4.0,3.0,4620.0,,Single,999900.0,60 Ohio Pond Road ,NB,Atlantic region
+2.0,2.0,1227.0,,Single,335900.0,16-85 Sedona CRES Unit R,NB,Atlantic region
+8.0,8.0,3894.0,,Single,539000.0,575 Broadway Boulevard ,NB,Atlantic region
+2.0,2.0,,.278,Single,159900.0,11093 Rue Principale ,NB,Atlantic region
+4.0,1.0,1120.0,.225,Single,194500.0,596 Rue Saint-Francois Street ,NB,Atlantic region
+,,1600.0,,Single,249900.0,1680 Shediac RD ,NB,Atlantic region
+3.0,1.0,,0.31,Single,139000.0,834 Landry Street ,NB,Atlantic region
+3.0,1.0,1700.0,,Single,249900.0,105 Route 10550,NB,Atlantic region
+3.0,1.0,,.137,Single,85000.0,715 Donald ,NB,Atlantic region
+5.0,2.0,,.209,Single,289900.0,17-19 Bradley Avenue ,NB,Atlantic region
+3.0,2.0,864.0,,Single,237500.0,118 Kendra ,NB,Atlantic region
+2.0,1.0,1079.0,,Single,299900.0,2336 Amirault ,NB,Atlantic region
+3.0,1.0,1975.0,.608,Single,245000.0,230 Main Street ,NB,Atlantic region
+6.0,1.0,2190.0,.818,Single,149900.0,"196 Rue Victor, St-Irénée ",NB,Atlantic region
+1.0,1.0,,ng>1,Single,189900.0,60 Mill Road left Branch ,NB,Atlantic region
+5.0,2.0,2240.0,0.33,Single,179000.0,3694 Luce ,NB,Atlantic region
+5.0,2.0,1496.0,,Single,499900.0,161 Leblanc AVE ,NB,Atlantic region
+3.0,1.0,1008.0,,Single,169900.0,3 Birch ST ,NB,Atlantic region
+5.0,2.0,1229.0,,Single,369900.0,197 Chatellerault ST ,NB,Atlantic region
+1.0,1.0,720.0,,Single,175000.0,51 P'tit Pierre ,NB,Atlantic region
+2.0,1.0,780.0,,Single,240000.0,15 Hunter LANE ,NB,Atlantic region
+3.0,1.0,,1.88,Single,349900.0,30 Main Street ,NB,Atlantic region
+3.0,1.0,731.0,,Single,249900.0,6 Port Royal ,NB,Atlantic region
+2.0,1.0,,,Single,70000.0,13 Rue Fraser ,NB,Atlantic region
+3.0,1.0,,.157,Single,134900.0,10 Rideau Street ,NB,Atlantic region
+2.0,1.0,,,Single,249999.0,Lot 02-04 Tana Lane ,NB,Atlantic region
+2.0,1.0,700.0,,Single,79500.0,322 Grub RD ,NB,Atlantic region
+3.0,2.0,1120.0,,Single,299900.0,59 Tom RD ,NB,Atlantic region
+3.0,1.0,1080.0,.965,Single,49900.0,7259 Route 102 ,NB,Atlantic region
+2.0,2.0,1227.0,,Single,345900.0,16-89 Sedona CRES Unit L,NB,Atlantic region
+4.0,2.0,,.103,Single,79000.0,15 32 Ave ,NB,Atlantic region
+3.0,2.0,,,Single,284900.0,1021 Route 134 ,NB,Atlantic region
+1.0,1.0,240.0,.988,Single,109000.0,95 Taint Lane ,NB,Atlantic region
+4.0,2.0,1284.0,,Single,284900.0,45 Yvon ST ,NB,Atlantic region
+5.0,2.0,,0.75,Single,99000.0,1780 West River Road ,NB,Atlantic region
+2.0,2.0,,,Single,264900.0,30 Florient ,NB,Atlantic region
+3.0,5.0,3200.0,>0.5,Single,299900.0,1283 Manawagonish Road ,NB,Atlantic region
+1.0,1.0,,19.5,Single,225900.0,9354 Route 11 ,NB,Atlantic region
+4.0,1.0,1180.0,0.13,Single,129900.0,1925 Route 776 ,NB,Atlantic region
+5.0,2.0,,,Single,300000.0,2003 Commercial Street ,NB,Atlantic region
+3.0,2.0,1200.0,0.36,Single,199000.0,9 Des Pins Street ,NB,Atlantic region
+3.0,2.0,,.954,Single,159000.0,85 Barnetville Road E ,NB,Atlantic region
+2.0,1.0,1130.0,,Single,359000.0,40 Connie ,NB,Atlantic region
+3.0,2.0,1046.0,3.17,Single,189900.0,7622 Route 10 ,NB,Atlantic region
+4.0,2.0,,>1.2,Single,289900.0,739 ROUTE 105 ,NB,Atlantic region
+3.0,4.0,3464.0,,Single,499900.0,102 St George ,NB,Atlantic region
+3.0,3.0,,2.84,Single,369900.0,13 Maxtan Drive ,NB,Atlantic region
+2.0,1.0,,.161,Single,99900.0,4261 Loch Lomond Road ,NB,Atlantic region
+3.0,2.0,1276.0,,Single,390000.0,1070 Centrale ,NB,Atlantic region
+5.0,3.0,3000.0,>1.5,Single,399000.0,3044 Main Street ,NB,Atlantic region
+3.0,2.0,1500.0,.989,Single,399999.0,10 Hiwind Lane ,NB,Atlantic region
+5.0,2.0,,.062,Single,129900.0,609 Price Road ,NB,Atlantic region
+4.0,2.0,3534.0,.333,Single,649900.0,52 Shore Street ,NB,Atlantic region
+,,480.0,,Single,32000.0,306 Foley Brook Road ,NB,Atlantic region
+3.0,2.0,1692.0,,Single,220000.0,798 Route 560 ,NB,Atlantic region
+2.0,2.0,1350.0,,Single,383900.0,65 Rosebank CRES ,NB,Atlantic region
+,,,>167,Single,189900.0,501 Pomeroy Ridge Road ,NB,Atlantic region
+3.0,1.0,,g>11,Single,235000.0,98 Guignard Street ,NB,Atlantic region
+3.0,1.0,,1.15,Single,109900.0,2 Narrows ,NB,Atlantic region
+3.0,1.0,1100.0,,Single,369000.0,9 Luc Boudreau West ,NB,Atlantic region
+1.0,1.0,,.086,Single,130000.0,11 Fundy View Lane ,NB,Atlantic region
+4.0,3.0,1626.0,>1.4,Single,309000.0,10 Coady Street ,NB,Atlantic region
+2.0,1.0,,.073,Single,134900.0,105 Union Street ,NB,Atlantic region
+3.0,1.0,1326.0,,Single,169900.0,21 Church Hill RD ,NB,Atlantic region
+6.0,2.0,,.056,Single,35000.0,16 Bridge Street ,NB,Atlantic region
+3.0,1.0,,0.49,Single,319000.0,69 Young Road ,NB,Atlantic region
+2.0,1.0,,.465,Single,79000.0,21 Hudson Drive ,NB,Atlantic region
+4.0,5.0,3046.0,,Single,269700.0,130 Allee lac Adams ,NB,Atlantic region
+3.0,3.0,2900.0,.132,Single,428900.0,11 Harnau Street ,NB,Atlantic region
+3.0,1.0,,.363,Single,289000.0,102 Hampton Road ,NB,Atlantic region
+2.0,1.0,,2.61,Single,124900.0,395 Howard Brook Road ,NB,Atlantic region
+3.0,3.0,2530.0,ng>5,Single,279900.0,2 Miller Lane ,NB,Atlantic region
+4.0,2.0,2849.0,,Single,675000.0,49 Lulu RD ,NB,Atlantic region
+3.0,1.0,1152.0,1.72,Single,205000.0,165 Charles Street ,NB,Atlantic region
+2.0,1.0,,ng>2,Single,99900.0,1970 Route 620 ,NB,Atlantic region
+3.0,2.0,,.138,Single,157000.0,592 First Avenue ,NB,Atlantic region
+2.0,1.0,,.421,Single,69500.0,398 Greenfield Road ,NB,Atlantic region
+3.0,2.0,,>7.8,Single,389900.0,485 Route 11 ,NB,Atlantic region
+3.0,1.0,1067.0,,Single,134900.0,5160 Route 440 ,NB,Atlantic region
+3.0,1.0,1600.0,.031,Single,159900.0,77 Bryden Street ,NB,Atlantic region
+3.0,1.0,,,Single,180000.0,810 Main Street ,NB,Atlantic region
+3.0,2.0,,.133,Single,112900.0,11 Spring Street ,NB,Atlantic region
+3.0,1.0,1540.0,,Single,224900.0,30 Thaddee LANE ,NB,Atlantic region
+4.0,1.0,1125.0,,Single,229000.0,1120 McLaughlin ,NB,Atlantic region
+3.0,1.0,1850.0,,Single,169500.0,6504 Route 116 ,NB,Atlantic region
+3.0,1.0,1384.0,g>11,Single,159900.0,623 Route 17 ,NB,Atlantic region
+3.0,2.0,,2.58,Single,345000.0,7460 Route 117 ,NB,Atlantic region
+3.0,1.0,1232.0,,Single,219900.0,156 Charlotte ST ,NB,Atlantic region
+4.0,1.0,1620.0,,Single,189900.0,2020 Route 112 ,NB,Atlantic region
+3.0,1.0,742.0,.138,Single,105000.0,85 Rue Nadeau ,NB,Atlantic region
+3.0,2.0,1450.0,1.85,Single,525000.0,202 Meadow Drive ,NB,Atlantic region
+3.0,1.0,,.761,Single,172900.0,985 Baisley Road ,NB,Atlantic region
+3.0,2.0,,ng>1,Single,214900.0,85 Farm Point Road ,NB,Atlantic region
+3.0,2.0,1248.0,,Single,209900.0,617 Philip RD ,NB,Atlantic region
+3.0,1.0,,.489,Single,149000.0,2832 Rte 420 Hwy ,NB,Atlantic region
+2.0,1.0,910.0,.112,Single,119000.0,31 Daye Street ,NB,Atlantic region
+3.0,2.0,,,Single,119000.0,1740 Route 109 ,NB,Atlantic region
+1.0,1.0,,>0.5,Single,129900.0,26 Bird Avenue ,NB,Atlantic region
+2.0,1.0,1071.0,.404,Single,379000.0,140 Mackellar Lane ,NB,Atlantic region
+4.0,3.0,2558.0,,Single,525000.0,927 Elmwood DR ,NB,Atlantic region
+3.0,2.0,,>2.1,Single,92900.0,8007 Route 117 ,NB,Atlantic region
+3.0,3.0,2011.0,,Single,268500.0,859 St Joseph Road ,NB,Atlantic region
+7.0,3.0,3500.0,.139,Single,279900.0,30-32 Summer Street ,NB,Atlantic region
+4.0,1.0,,.098,Single,159900.0,720 Murray ,NB,Atlantic region
+3.0,3.0,1550.0,,Single,529900.0,411 Vanier ,NB,Atlantic region
+3.0,1.0,,0.54,Single,159000.0,329 de L'Ile ,NB,Atlantic region
+4.0,2.0,2720.0,.204,Single,299900.0,989 Smythe Street ,NB,Atlantic region
+5.0,4.0,2200.0,,Single,239900.0,71 Ogden Mill RD ,NB,Atlantic region
+2.0,1.0,,.402,Single,209900.0,48 Ferris Lane ,NB,Atlantic region
+6.0,2.0,2460.0,.109,Single,199000.0,462 Brian Lane ,NB,Atlantic region
+3.0,1.0,1000.0,,Single,399900.0,39 Westshore DR ,NB,Atlantic region
+2.0,1.0,,g>20,Single,299000.0,71 Storeytown Road ,NB,Atlantic region
+4.0,1.0,1489.0,,Single,210000.0,64 Coronation DR ,NB,Atlantic region
+2.0,1.0,896.0,,Single,389000.0,702 Forks Stream RD ,NB,Atlantic region
+4.0,1.0,2100.0,.385,Single,349900.0,59 Garden Grove Street ,NB,Atlantic region
+,1.0,1812.0,,Single,94900.0,2730 Route 106 ,NB,Atlantic region
+3.0,2.0,,,Single,439000.0,56 Tweedside Evergreen Lane ,NB,Atlantic region
+3.0,2.0,,,Single,240000.0,108 Doncaster Drive ,NB,Atlantic region
+3.0,2.0,,.049,Single,249000.0,70 Belmont Road ,NB,Atlantic region
+3.0,2.0,1580.0,.158,Single,225000.0,221 Hawthorne Ave Ext ,NB,Atlantic region
+3.0,1.0,512.0,,Single,89900.0,38 Sea Heather LANE ,NB,Atlantic region
+4.0,3.0,,6.05,Single,469000.0,397 Saulnier Est ,NB,Atlantic region
+4.0,4.0,2410.0,,Single,439900.0,30 Allandale CRT ,NB,Atlantic region
+3.0,2.0,1370.0,,Single,259900.0,100 Church ST ,NB,Atlantic region
+5.0,2.0,2400.0,,Single,214900.0,35 Roussel & Martin Road ,NB,Atlantic region
+4.0,2.0,,.776,Single,259900.0,5114 Route 108 ,NB,Atlantic region
+3.0,4.0,2633.0,.516,Single,389900.0,44 Charles Crescent ,NB,Atlantic region
+4.0,3.0,2629.0,.201,Single,469900.0,230 Wright Street ,NB,Atlantic region
+2.0,1.0,1225.0,>1.3,Single,219900.0,71 MacDonald ,NB,Atlantic region
+4.0,5.0,4240.0,4.55,Single,1390000.0,1191 Lorneville Road ,NB,Atlantic region
+2.0,2.0,1008.0,,Single,359900.0,24 DesRoches ST ,NB,Atlantic region
+2.0,2.0,920.0,,Single,149900.0,58 McSweeney AVE ,NB,Atlantic region
+1.0,1.0,,g>53,Single,119900.0,1344 Route 725 ,NB,Atlantic region
+3.0,2.0,2000.0,.051,Single,324900.0,19 Katherine Lane ,NB,Atlantic region
+2.0,1.0,768.0,,Single,129900.0,10 Mills BLVD ,NB,Atlantic region
+2.0,2.0,1400.0,,Single,850000.0,125 Forty Five RD ,NB,Atlantic region
+2.0,1.0,1170.0,,Single,134900.0,1801 Route 16 ,NB,Atlantic region
+3.0,1.0,1000.0,1.25,Single,189900.0,2616 Route 103 ,NB,Atlantic region
+3.0,3.0,1532.0,,Single,569900.0,327 Glengrove RD ,NB,Atlantic region
+2.0,1.0,,,Single,108000.0,6 Price Road ,NB,Atlantic region
+2.0,2.0,1285.0,,Single,349000.0,39 Heron Way ,NB,Atlantic region
+3.0,2.0,1350.0,,Single,399900.0,1272 Route 515 ,NB,Atlantic region
+4.0,3.0,2216.0,.412,Single,389900.0,127 HORSEMAN Road ,NB,Atlantic region
+3.0,3.0,,>6.4,Single,699000.0,186 Manor Road ,NB,Atlantic region
+3.0,1.0,1040.0,,Single,149900.0,61 Goldsworthy Road ,NB,Atlantic region
+3.0,2.0,,,Single,339000.0,38 Des Draveurs Avenue ,NB,Atlantic region
+5.0,2.0,1800.0,.125,Single,119000.0,11 46ieme Avenue ,NB,Atlantic region
+5.0,4.0,3039.0,,Single,750000.0,111 Yvonne ST ,NB,Atlantic region
+3.0,3.0,1150.0,,Single,269900.0,144 Francois RD ,NB,Atlantic region
+5.0,3.0,,.271,Single,750000.0,4 Allison Drive ,NB,Atlantic region
+1.0,,,0.37,Single,15500.0,2365 Route 420 ,NB,Atlantic region
+5.0,4.0,,.378,Single,459000.0,53 Queensbury Drive ,NB,Atlantic region
+4.0,3.0,2550.0,.282,Single,499900.0,21 Fairholme Street ,NB,Atlantic region
+5.0,2.0,,>0.7,Single,129900.0,229 Emile ,NB,Atlantic region
+4.0,2.0,1573.0,0.25,Single,189000.0,44 Belisle Avenue ,NB,Atlantic region
+14.0,14.0,10000.0,,Single,2750000.0,114 Riverside ,NB,Atlantic region
+3.0,3.0,3900.0,,Single,289000.0,2 Hillside Drive ,NB,Atlantic region
+2.0,2.0,,ng>1,Single,154900.0,181 O'Hearn ,NB,Atlantic region
+3.0,2.0,1555.0,0.62,Single,199900.0,1280 Route 776 ,NB,Atlantic region
+5.0,2.0,3003.0,>1.1,Single,474900.0,21 Mcmanus Street ,NB,Atlantic region
+3.0,3.0,2000.0,,Single,389900.0,Lot 12-246 Bramble Way ,NB,Atlantic region
+3.0,2.0,,1.62,Single,129900.0,1080 Riverside ,NB,Atlantic region
+2.0,2.0,,4.94,Single,169900.0,3091 Lower Cambridge Road ,NB,Atlantic region
+2.0,2.0,,0.28,Single,195000.0,378 St Pierre Est Boulevard ,NB,Atlantic region
+3.0,1.0,,>2.8,Single,169900.0,21 Church Hill Road ,NB,Atlantic region
+,,,,Single,39900.0,- West Eel River Road ,NB,Atlantic region
+5.0,2.0,1696.0,,Single,325000.0,3050 Route 430 Big River ,NB,Atlantic region
+3.0,1.0,840.0,,Single,155000.0,45 Kierstead ST ,NB,Atlantic region
+2.0,2.0,,.016,Single,189500.0,193 Sunbury Drive ,NB,Atlantic region
+5.0,3.0,3509.0,.656,Single,849900.0,139 Lyndsay Lane ,NB,Atlantic region
+3.0,1.0,2330.0,>1.7,Single,398900.0,3283 Route 103 ,NB,Atlantic region
+3.0,2.0,1708.0,,Single,459900.0,65 Guy ,NB,Atlantic region
+3.0,3.0,1516.0,,Single,319900.0,177 Oakfield DR ,NB,Atlantic region
+4.0,1.0,1494.0,,Single,435000.0,1050 Route 114 ,NB,Atlantic region
+4.0,1.0,,0.37,Single,79000.0,3092 Middle River ,NB,Atlantic region
+4.0,2.0,2686.0,0.88,Single,274900.0,27 Cougle Road ,NB,Atlantic region
+3.0,1.0,1160.0,1.11,Single,99900.0,40 King Street ,NB,Atlantic region
+4.0,3.0,3000.0,.186,Single,399900.0,40 Manuel Lane ,NB,Atlantic region
+3.0,1.0,2124.0,,Single,319900.0,5380 Route 495 ,NB,Atlantic region
+4.0,3.0,,g>12,Single,274900.0,380 Main Street ,NB,Atlantic region
+2.0,1.0,,.001,Single,174900.0,38 Johnville Road ,NB,Atlantic region
+3.0,3.0,1496.0,,Single,319900.0,111 Crowbush CRES ,NB,Atlantic region
+4.0,2.0,1157.0,,Single,290000.0,109 Woodleigh ST ,NB,Atlantic region
+2.0,1.0,,,Single,44900.0,1121 Route 322 ,NB,Atlantic region
+6.0,6.0,6500.0,1.41,Single,1200000.0,16 Canterbury Close ,NB,Atlantic region
+3.0,2.0,1200.0,,Single,250000.0,47 Bateman ST ,NB,Atlantic region
+2.0,1.0,,>6.8,Single,89900.0,64 Downing Street ,NB,Atlantic region
+3.0,2.0,,0.55,Single,199000.0,1310 des Fondateurs Street ,NB,Atlantic region
+4.0,2.0,1045.0,,Single,148900.0,43 Brown ST ,NB,Atlantic region
+7.0,5.0,4887.0,,Single,729000.0,137 Dundas RD ,NB,Atlantic region
+4.0,3.0,,.038,Single,339900.0,197 Princess Street ,NB,Atlantic region
+4.0,2.0,836.0,,Single,348900.0,6 Isabelle-Anne CRES ,NB,Atlantic region
+7.0,2.0,1920.0,,Single,314900.0,52 Salem ST ,NB,Atlantic region
+3.0,2.0,,.161,Single,229000.0,585 Bonita Avenue ,NB,Atlantic region
+3.0,1.0,,>251,Single,379900.0,19 JONES Road ,NB,Atlantic region
+4.0,1.0,1320.0,.611,Single,184900.0,147 Alma Street ,NB,Atlantic region
+6.0,6.0,6918.0,1.93,Single,1249900.0,214 Rainbow Drive ,NB,Atlantic region
+5.0,3.0,2300.0,.086,Single,399900.0,85 Route 628 ,NB,Atlantic region
+3.0,2.0,,ng>8,Single,524900.0,5215 Route 105 ,NB,Atlantic region
+4.0,2.0,,.115,Single,145000.0,242 Munro ,NB,Atlantic region
+4.0,4.0,3500.0,ng>1,Single,579900.0,49 Squire Drive ,NB,Atlantic region
+3.0,2.0,,2.84,Single,310000.0,20 Cliff Street ,NB,Atlantic region
+3.0,2.0,1539.0,.079,Single,159900.0,2432 Candace Street ,NB,Atlantic region
+2.0,1.0,,.402,Single,69900.0,62 ROOTH Road ,NB,Atlantic region
+2.0,1.0,,.179,Single,49900.0,391 Northfield Avenue ,NB,Atlantic region
+2.0,1.0,,,Single,37900.0,98 Evergreen Street ,NB,Atlantic region
+2.0,2.0,918.0,,Single,474900.0,29 Islandview BLVD ,NB,Atlantic region
+,1.0,504.0,.815,Single,79000.0,754 Riviere-Verte Road ,NB,Atlantic region
+3.0,2.0,,0.31,Single,422500.0,11 Lachlan Court ,NB,Atlantic region
+4.0,3.0,,.702,Single,349000.0,1556 Lincoln Road ,NB,Atlantic region
+3.0,1.0,1176.0,,Single,75000.0,958 Route 495 ,NB,Atlantic region
+2.0,1.0,872.0,0.19,Single,199000.0,18 Kerrs Lake Road ,NB,Atlantic region
+3.0,2.0,,.205,Single,185000.0,31 4e Avenue ,NB,Atlantic region
+1.0,1.0,1000.0,,Single,169900.0,5 Wolfe ,NB,Atlantic region
+4.0,2.0,,.176,Single,139900.0,53 Main Street ,NB,Atlantic region
+3.0,2.0,1824.0,.988,Single,260000.0,17 Roland Street ,NB,Atlantic region
+3.0,1.0,1800.0,.988,Single,199000.0,7 Demerchant Road ,NB,Atlantic region
+4.0,2.0,2240.0,1.37,Single,349900.0,1144 Route 105 ,NB,Atlantic region
+3.0,2.0,,,Single,239900.0,420 Petrie ,NB,Atlantic region
+3.0,1.0,1120.0,,Single,384900.0,98 Coburg ,NB,Atlantic region
+2.0,1.0,1254.0,,Single,175000.0,1047 McLaughlin DR ,NB,Atlantic region
+3.0,2.0,,>0.3,Single,234900.0,18 Crestwood Drive ,NB,Atlantic region
+5.0,2.0,1900.0,.012,Single,239900.0,180 Adelaide Street ,NB,Atlantic region
+4.0,3.0,1964.0,,Single,364900.0,30 Northview AVE ,NB,Atlantic region
+3.0,1.0,900.0,.139,Single,139900.0,160 Avenue de l'Hôtel de Ville ,NB,Atlantic region
+3.0,3.0,3210.0,3.19,Single,1200000.0,905 Fundy Drive ,NB,Atlantic region
+3.0,2.0,,.083,Single,149500.0,101 Duke Street ,NB,Atlantic region
+4.0,3.0,2976.0,1.63,Single,339900.0,743 Rosedale Road ,NB,Atlantic region
+3.0,2.0,960.0,,Single,139000.0,278 Whitepine RD ,NB,Atlantic region
+2.0,3.0,,.033,Single,259900.0,14 Rockingstone Drive ,NB,Atlantic region
+3.0,4.0,2042.0,,Single,999000.0,660 Saint Charles Sud ,NB,Atlantic region
+3.0,2.0,,.483,Single,295000.0,31 Thompson Drive ,NB,Atlantic region
+3.0,1.0,990.0,,Single,179000.0,10210 Route 144 ,NB,Atlantic region
+2.0,1.0,890.0,,Single,349900.0,61 Rayworth Beach LANE ,NB,Atlantic region
+5.0,3.0,1452.0,,Single,419900.0,54 LaForest ST ,NB,Atlantic region
+4.0,4.0,2600.0,,Single,529000.0,141 Mary's Point RD ,NB,Atlantic region
+3.0,2.0,,0.26,Single,219000.0,19 Queensway Street ,NB,Atlantic region
+3.0,2.0,,>1.8,Single,699000.0,25 Owen Court ,NB,Atlantic region
+1.0,1.0,988.0,.011,Single,142900.0,498 High ST ,NB,Atlantic region
+3.0,1.0,1930.0,,Single,139900.0,603 Bedec ,NB,Atlantic region
+3.0,2.0,,,Single,459900.0,6633 Route 105 ,NB,Atlantic region
+4.0,1.0,,6.67,Single,89900.0,38 Oak Point Beach Road ,NB,Atlantic region
+3.0,3.0,3526.0,,Single,349000.0,179 Principale Street ,NB,Atlantic region
+2.0,1.0,,.185,Single,119900.0,93 Terreo Lake Road ,NB,Atlantic region
+3.0,2.0,1718.0,1.22,Single,388000.0,19 Des Pins Street ,NB,Atlantic region
+3.0,2.0,,.296,Single,179900.0,3789 Route 620 ,NB,Atlantic region
+3.0,2.0,1537.0,,Single,349900.0,24 Amand CRES ,NB,Atlantic region
+4.0,2.0,1452.0,.528,Single,329900.0,394 Royal Road ,NB,Atlantic region
+2.0,1.0,820.0,,Single,49000.0,1833 Route 335 ,NB,Atlantic region
+3.0,3.0,,0.48,Single,300000.0,2 Willowbriar Drive ,NB,Atlantic region
+6.0,2.0,,,Single,144000.0,111 Main Street ,NB,Atlantic region
+4.0,2.0,1540.0,,Single,299999.0,140 Massey AVE ,NB,Atlantic region
+4.0,4.0,,,Single,459000.0,42 Mosaic Drive ,NB,Atlantic region
+5.0,2.0,2400.0,,Single,249900.0,921 A Back Tracy Road ,NB,Atlantic region
+3.0,2.0,1829.0,5.44,Single,299900.0,5137 Route 108 ,NB,Atlantic region
+2.0,1.0,576.0,ng>5,Single,104500.0,- Russiantown Road ,NB,Atlantic region
+2.0,2.0,,,Single,359000.0,Lot 3 Sea Street ,NB,Atlantic region
+6.0,3.0,,.309,Single,359000.0,1200 Riverside ,NB,Atlantic region
+5.0,2.0,3060.0,2.13,Single,319000.0,290 Route 740 ,NB,Atlantic region
+3.0,2.0,1950.0,.077,Single,165000.0,4 Bellevue Street ,NB,Atlantic region
+1.0,1.0,,,Single,55000.0,- Canton Club Brook Road ,NB,Atlantic region
+2.0,3.0,1900.0,,Single,299900.0,69-71 Gordon ST ,NB,Atlantic region
+4.0,3.0,,>2.7,Single,249900.0,9 Mazerolle ,NB,Atlantic region
+3.0,1.0,1316.0,,Single,237500.0,17 Ch de la Cote ,NB,Atlantic region
+3.0,2.0,,.281,Single,469900.0,9 Apple Blossom Trail ,NB,Atlantic region
+3.0,1.0,,1.37,Single,115900.0,23 Alphonse ,NB,Atlantic region
+2.0,2.0,1877.0,.997,Single,164900.0,1402 Rue Des Pommiers Unit# Lot 2019-1 ,NB,Atlantic region
+4.0,2.0,,,Single,229000.0,2575 St Peter ,NB,Atlantic region
+2.0,1.0,,>0.5,Single,139900.0,296 Chamcook Lake No 3 Road ,NB,Atlantic region
+2.0,1.0,1104.0,ng>1,Single,179900.0,1834 Route 109 ,NB,Atlantic region
+4.0,3.0,1684.0,,Single,454900.0,355 Mandeville ,NB,Atlantic region
+4.0,1.0,,.083,Single,249900.0,38 Farrell Lane ,NB,Atlantic region
+3.0,3.0,1390.0,,Single,309900.0,196 Des Erables ,NB,Atlantic region
+3.0,5.0,3000.0,,Single,850000.0,933 Elmwood DR ,NB,Atlantic region
+3.0,1.0,1710.0,,Single,234900.0,4565 Principale ,NB,Atlantic region
+3.0,4.0,3300.0,1.56,Single,875000.0,288 Pirie Street ,NB,Atlantic region
+5.0,2.0,2250.0,.184,Single,189000.0,11 rue Denis ,NB,Atlantic region
+3.0,1.0,,.035,Single,89900.0,69 Queen Street ,NB,Atlantic region
+4.0,2.0,1374.0,,Single,299900.0,310 Beaumont ,NB,Atlantic region
+4.0,2.0,,.203,Single,375000.0,106 Sheriff Street ,NB,Atlantic region
+4.0,3.0,,>0.6,Single,139000.0,162 Grande Allee ,NB,Atlantic region
+3.0,3.0,2800.0,.861,Single,359900.0,34 Edgemount Drive ,NB,Atlantic region
+3.0,4.0,2362.0,,Single,449000.0,25 Garden Hill AVE ,NB,Atlantic region
+2.0,1.0,,,Single,49900.0,220 North View Road ,NB,Atlantic region
+3.0,1.0,1080.0,,Single,325000.0,71 Claude AVE ,NB,Atlantic region
+3.0,1.0,1008.0,,Single,165000.0,705 Montgomery AVE ,NB,Atlantic region
+4.0,2.0,1981.0,ng>1,Single,199000.0,186 Main New Denmark Road ,NB,Atlantic region
+3.0,4.0,2500.0,,Single,875000.0,962 Pine Glen RD ,NB,Atlantic region
+2.0,2.0,,,Single,299900.0,751 S.A. Dionne Street ,NB,Atlantic region
+2.0,2.0,,,Single,359000.0,Lot 9 Sea Street ,NB,Atlantic region
+3.0,2.0,1600.0,,Single,249000.0,142 Highmeadow DR ,NB,Atlantic region
+2.0,1.0,936.0,,Single,349900.0,1614 Cocagne Sud ,NB,Atlantic region
+3.0,2.0,1300.0,>5.5,Single,249900.0,14128 Route 10 ,NB,Atlantic region
+4.0,1.0,1286.0,0.47,Single,294900.0,25 Saunders Drive ,NB,Atlantic region
+3.0,1.0,1731.0,,Single,399900.0,141 Stead LANE ,NB,Atlantic region
+6.0,2.0,1642.0,,Single,249900.0,48 Fundy View DR ,NB,Atlantic region
+3.0,1.0,1140.0,,Single,229000.0,10745 Principale ST ,NB,Atlantic region
+2.0,3.0,1958.0,,Single,339000.0,115 Yvon RD ,NB,Atlantic region
+3.0,2.0,,.049,Single,375000.0,99 Upper Golden Grove Road ,NB,Atlantic region
+2.0,1.0,,,Single,79000.0,119 Tobique Road ,NB,Atlantic region
+3.0,1.0,,,Single,60000.0,160 Upper Black River Road ,NB,Atlantic region
+4.0,1.0,,.001,Single,239900.0,3464 ROUTE 10 ,NB,Atlantic region
+2.0,1.0,992.0,,Single,124900.0,2 Southpine AVE ,NB,Atlantic region
+2.0,2.0,668.0,ng>4,Single,139900.0,1488 Route 390 ,NB,Atlantic region
+5.0,2.0,,,Single,149000.0,4 Beaulieu ,NB,Atlantic region
+5.0,4.0,3145.0,,Single,364900.0,169 Manners Sutton Road ,NB,Atlantic region
+3.0,2.0,2506.0,.277,Single,154900.0,17 Fort Road ,NB,Atlantic region
+5.0,2.0,,1.04,Single,299900.0,860 Route 1881,NB,Atlantic region
+5.0,4.0,,>0.7,Single,780000.0,260 Church Avenue ,NB,Atlantic region
+4.0,1.0,,.987,Single,179000.0,1 Francoeur Hill Road ,NB,Atlantic region
+2.0,2.0,808.0,,Single,230000.0,41 Highlandview RD ,NB,Atlantic region
+7.0,4.0,,.422,Single,1395000.0,82 Waterloo Row ,NB,Atlantic region
+2.0,1.0,,,Single,99000.0,463 Georges Ouest ,NB,Atlantic region
+5.0,2.0,,.185,Single,175000.0,56 32e Avenue ,NB,Atlantic region
+3.0,2.0,,ng>2,Single,479900.0,475 Scotchtown Road ,NB,Atlantic region
+4.0,2.0,864.0,ng>2,Single,235000.0,2259 Route 860 ,NB,Atlantic region
+4.0,4.0,1677.0,,Single,599900.0,120 Bonaventure ST ,NB,Atlantic region
+4.0,2.0,1368.0,,Single,400000.0,453-463 Allee Willie Miz ,NB,Atlantic region
+4.0,3.0,2052.0,,Single,649900.0,345 Glengrove ,NB,Atlantic region
+4.0,2.0,1776.0,.265,Single,199000.0,66 Princess Street ,NB,Atlantic region
+3.0,1.0,,.208,Single,110000.0,935 Miller ,NB,Atlantic region
+3.0,1.0,800.0,.564,Single,75000.0,1425 Route 104 ,NB,Atlantic region
+2.0,2.0,,.031,Single,314900.0,6 Rockingstone Drive ,NB,Atlantic region
+4.0,1.0,,.413,Single,149900.0,18 Golden Hawk Drive ,NB,Atlantic region
+3.0,1.0,1056.0,,Single,219500.0,2023 Route 950 ,NB,Atlantic region
+3.0,3.0,1688.0,,Single,379000.0,259 Dolbeau ST ,NB,Atlantic region
+4.0,3.0,1344.0,,Single,339900.0,91 Arden ,NB,Atlantic region
+5.0,2.0,1976.0,,Single,279900.0,967 Mountain RD ,NB,Atlantic region
+5.0,3.0,2776.0,,Single,179800.0,1367 Route 205 ,NB,Atlantic region
+3.0,1.0,1182.0,,Single,374900.0,36 Zoel Maillet LANE ,NB,Atlantic region
+3.0,1.0,,>0.5,Single,175000.0,10 Old Mill Lane ,NB,Atlantic region
+4.0,2.0,,,Single,789900.0,14 Hatt's Beach Road ,NB,Atlantic region
+1.0,,,0.21,Single,110000.0,2168 Route 111 ,NB,Atlantic region
+4.0,3.0,2300.0,,Single,499000.0,168 Cyr ST ,NB,Atlantic region
+2.0,2.0,885.0,1.02,Single,199900.0,64 Country View Drive ,NB,Atlantic region
+4.0,2.0,1396.0,.844,Single,169900.0,39 De La Pointe Street ,NB,Atlantic region
+3.0,3.0,,.305,Single,579000.0,196 Carroll ,NB,Atlantic region
+3.0,1.0,,.133,Single,100000.0,77 Veniot Street ,NB,Atlantic region
+5.0,2.0,,,Single,335000.0,204 Ashland Road ,NB,Atlantic region
+3.0,1.0,1927.0,,Single,164900.0,74 Crossman RD ,NB,Atlantic region
+4.0,1.0,,.125,Single,99900.0,1275 Route 107 ,NB,Atlantic region
+2.0,1.0,936.0,.639,Single,125000.0,79 Rue du Vétéran ,NB,Atlantic region
+4.0,2.0,1452.0,,Single,199900.0,153 Steadman ST ,NB,Atlantic region
+3.0,3.0,2670.0,,Single,579900.0,112 Royal Oaks BLVD ,NB,Atlantic region
+1.0,1.0,1056.0,,Single,164900.0,7256 Desherbiers RD ,NB,Atlantic region
+3.0,1.0,896.0,,Single,128900.0,85 Main ST ,NB,Atlantic region
+5.0,2.0,,.149,Single,349000.0,939 Ch de l'eglise ,NB,Atlantic region
+,1.0,560.0,.339,Single,119000.0,1121 Enterprise Road ,NB,Atlantic region
+3.0,1.0,,.195,Single,224999.0,32 Louis Sud ,NB,Atlantic region
+5.0,4.0,,.218,Single,429900.0,600 Ridge Row ,NB,Atlantic region
+4.0,4.0,2450.0,,Single,450000.0,5 Grenville RD ,NB,Atlantic region
+5.0,3.0,2516.0,,Single,1500000.0,966 Route 133 ,NB,Atlantic region
+3.0,1.0,1050.0,,Single,198500.0,79 Irving RD ,NB,Atlantic region
+4.0,3.0,,.222,Single,399900.0,15 Barrett Court ,NB,Atlantic region
+4.0,3.0,1531.0,,Single,369900.0,121 Smith ,NB,Atlantic region
+3.0,3.0,,1.15,Single,274900.0,306 Sandpoint Road ,NB,Atlantic region
+3.0,3.0,,.271,Single,209900.0,21 Malibu Court ,NB,Atlantic region
+3.0,2.0,1700.0,,Single,419900.0,143 Kinnear RD ,NB,Atlantic region
+3.0,2.0,,.114,Single,199900.0,706 Main Street ,NB,Atlantic region
+4.0,3.0,,1.04,Single,379000.0,20 Westwood Drive ,NB,Atlantic region
+3.0,2.0,,.188,Single,419900.0,114 Mitchell Wayne Drive ,NB,Atlantic region
+2.0,1.0,,0.42,Single,190900.0,38 John Allee ,NB,Atlantic region
+6.0,2.0,2400.0,,Single,245000.0,14 Estabrooks ,NB,Atlantic region
+2.0,2.0,1547.0,,Single,392900.0,84 Rosebank CRES ,NB,Atlantic region
+1.0,1.0,640.0,.988,Single,94900.0,112 Carlin Lane ,NB,Atlantic region
+3.0,1.0,1144.0,,Single,179900.0,71 Centerton Road ,NB,Atlantic region
+6.0,2.0,2484.0,,Single,159900.0,54 Route 955 ,NB,Atlantic region
+3.0,1.0,,ng>1,Single,129000.0,1584 Cowans Creek ,NB,Atlantic region
+3.0,2.0,1250.0,,Single,224900.0,191 Penrose ST ,NB,Atlantic region
+6.0,2.0,1600.0,.147,Single,239900.0,10210 Route 105 ,NB,Atlantic region
+3.0,2.0,,.945,Single,339900.0,10 Goodspeed Road ,NB,Atlantic region
+3.0,4.0,1500.0,,Single,399900.0,19 Meadow Lane ,NB,Atlantic region
+3.0,3.0,2017.0,,Single,624900.0,24 Shari LANE ,NB,Atlantic region
+6.0,5.0,2800.0,0.02,Single,600000.0,100 & 108 Brydges ST ,NB,Atlantic region
+2.0,2.0,,0.86,Single,225000.0,2033 Lakeview Road ,NB,Atlantic region
+3.0,1.0,,1.27,Single,189900.0,948 Principal Street ,NB,Atlantic region
+4.0,5.0,5000.0,.821,Single,975000.0,210 Bedell Avenue ,NB,Atlantic region
+3.0,1.0,,1.16,Single,65000.0,43 Arthur ,NB,Atlantic region
+4.0,3.0,2152.0,,Single,219000.0,122 Rivercrest AVE ,NB,Atlantic region
+4.0,2.0,,>4.2,Single,115000.0,170 Chemin Gauvin ,NB,Atlantic region
+2.0,2.0,1200.0,.013,Single,129900.0,30 Hachey Avenue Unit 10,NB,Atlantic region
+3.0,3.0,2184.0,,Single,539000.0,90 Linden CRES ,NB,Atlantic region
+3.0,3.0,1516.0,,Single,329900.0,187 Oakfield DR ,NB,Atlantic region
+2.0,1.0,,.988,Single,174500.0,144 Route 11487,NB,Atlantic region
+3.0,1.0,1240.0,g>62,Single,169900.0,Land and Camp Lower Durham Road ,NB,Atlantic region
+4.0,3.0,,.302,Single,195000.0,15 Bridge Street ,NB,Atlantic region
+2.0,1.0,558.0,,Single,64000.0,15 Ypres Avenue ,NB,Atlantic region
+3.0,2.0,,0.68,Single,225000.0,2 Pettes Cove Road ,NB,Atlantic region
+3.0,1.0,,0.17,Single,49900.0,96 Magnolia Avenue ,NB,Atlantic region
+3.0,2.0,,.193,Single,135000.0,1931 Commerciale Street ,NB,Atlantic region
+3.0,2.0,1761.0,.234,Single,259000.0,14 Till Road ,NB,Atlantic region
+2.0,2.0,1806.0,,Single,319900.0,56 Saulnier ,NB,Atlantic region
+2.0,1.0,760.0,,Single,159900.0,6 Chemin de la Butte ,NB,Atlantic region
+3.0,1.0,1410.0,,Single,120000.0,477 Memramcook East ,NB,Atlantic region
+4.0,2.0,,.226,Single,74000.0,195 Main Street ,NB,Atlantic region
+3.0,5.0,3651.0,1.11,Single,239900.0,12 rue L Allain ,NB,Atlantic region
+5.0,3.0,2200.0,.207,Single,289900.0,98 Westview Street ,NB,Atlantic region
+4.0,4.0,,>3.4,Single,299900.0,409 Route 160 ,NB,Atlantic region
+5.0,2.0,,.179,Single,199900.0,87 Saunders Road ,NB,Atlantic region
+4.0,5.0,5000.0,,Single,1175000.0,71 Fox Point Drive ,NB,Atlantic region
+2.0,1.0,,4.08,Single,245000.0,3779 Route 845 ,NB,Atlantic region
+3.0,2.0,,3.16,Single,329000.0,1040 Route 172 ,NB,Atlantic region
+3.0,1.0,1440.0,1.27,Single,320000.0,246 Bayview Drive ,NB,Atlantic region
+2.0,1.0,687.0,2.29,Single,195900.0,7453 Route 11 ,NB,Atlantic region
+3.0,2.0,2000.0,.689,Single,329900.0,24 Allen Avenue ,NB,Atlantic region
+11.0,5.0,4400.0,,Single,300000.0,53-55 Weldon ,NB,Atlantic region
+5.0,2.0,2758.0,,Single,1495000.0,242 Beaumont RD ,NB,Atlantic region
+2.0,1.0,552.0,,Single,134900.0,116 Albert ,NB,Atlantic region
+2.0,2.0,1394.0,,Single,174500.0,582 Harley Hill ,NB,Atlantic region
+3.0,4.0,,,Single,625000.0,37 Cloutier ,NB,Atlantic region
+3.0,2.0,1092.0,.159,Single,301000.0,28 Kappa Avenue ,NB,Atlantic region
+2.0,1.0,,.052,Single,59900.0,245 St Luke ,NB,Atlantic region
+3.0,2.0,,>0.4,Single,199900.0,190 Golden Grove Road ,NB,Atlantic region
+3.0,2.0,,1.03,Single,359999.0,589 Price Road ,NB,Atlantic region
+3.0,1.0,1812.0,,Single,274900.0,1073 Route 535 ,NB,Atlantic region
+3.0,1.0,,.914,Single,109900.0,619 Madran ,NB,Atlantic region
+3.0,3.0,2450.0,.208,Single,339900.0,27 Stoneybrook Crescent ,NB,Atlantic region
+2.0,1.0,729.0,,Single,72000.0,11372 Route 144 ,NB,Atlantic region
+5.0,4.0,2540.0,,Single,699900.0,104 Champion ST ,NB,Atlantic region
+3.0,2.0,2424.0,,Single,335000.0,160 Park ST ,NB,Atlantic region
+3.0,1.0,1800.0,0.48,Single,230000.0,100A Rue du Portage ,NB,Atlantic region
+3.0,3.0,1718.0,,Single,349900.0,34 Satleville CRES ,NB,Atlantic region
+3.0,2.0,1364.0,.178,Single,157000.0,542 St-Francois Street ,NB,Atlantic region
+4.0,2.0,1800.0,1.45,Single,189900.0,1101 Route 605 ,NB,Atlantic region
+3.0,2.0,1050.0,.013,Single,279900.0,86 Chelsea RD ,NB,Atlantic region
+3.0,2.0,1929.0,24.9,Single,174900.0,2623 Rough Waters ,NB,Atlantic region
+2.0,1.0,1226.0,,Single,109900.0,1059 Berrsville Back RD ,NB,Atlantic region
+3.0,2.0,2000.0,.145,Single,169900.0,1030 Winton Crescent ,NB,Atlantic region
+2.0,2.0,1227.0,,Single,335900.0,16-88 Sedona CRES Unit L,NB,Atlantic region
+4.0,3.0,2900.0,,Single,749900.0,7 Jurnee Lane ,NB,Atlantic region
+2.0,1.0,,3.22,Single,79000.0,848 Boul St Joseph ,NB,Atlantic region
+5.0,2.0,2453.0,,Single,249000.0,1325 Route 133 ,NB,Atlantic region
+4.0,1.0,1780.0,,Single,149000.0,2460 Route 510 ,NB,Atlantic region
+3.0,1.0,,.031,Single,69900.0,4169 Route 122 ,NB,Atlantic region
+4.0,2.0,,,Single,139900.0,1006 Main Street ,NB,Atlantic region
+3.0,2.0,,3.95,Single,199000.0,295 des Acadiens Boulevard ,NB,Atlantic region
+5.0,2.0,,29.2,Single,799900.0,44 Spurr Lane ,NB,Atlantic region
+3.0,1.0,1800.0,.539,Single,84900.0,31 Jewett Drive ,NB,Atlantic region
+3.0,2.0,2172.0,,Single,160000.0,493 2e Sault ,NB,Atlantic region
+3.0,1.0,1440.0,>1.4,Single,159900.0,1620 Route 310 ,NB,Atlantic region
+4.0,1.0,,.513,Single,124900.0,470 Madran ,NB,Atlantic region
+3.0,3.0,2740.0,1.04,Single,450000.0,1572 Route 860 ,NB,Atlantic region
+4.0,1.0,2490.0,,Single,335000.0,262 Highfield ,NB,Atlantic region
+3.0,4.0,3300.0,,Single,875000.0,288 Pirie ST ,NB,Atlantic region
+3.0,1.0,1214.0,.172,Single,129000.0,938 Principale Street ,NB,Atlantic region
+3.0,2.0,,,Single,139000.0,10 Lajoie ,NB,Atlantic region
+3.0,1.0,900.0,,Single,274900.0,278 Lower Mountain RD ,NB,Atlantic region
+6.0,2.0,1800.0,,Single,425000.0,4268 Route 106 ,NB,Atlantic region
+2.0,1.0,,.993,Single,169900.0,13 & 14 KM Gounamitz Road ,NB,Atlantic region
+4.0,2.0,,,Single,154900.0,292 Morin Avenue ,NB,Atlantic region
+4.0,2.0,1433.0,.247,Single,139000.0,171 Union Street ,NB,Atlantic region
+3.0,2.0,,2.95,Single,389900.0,2841 Route 690 ,NB,Atlantic region
+2.0,2.0,,ng>1,Single,399900.0,28 Noonan Heights Drive ,NB,Atlantic region
+3.0,2.0,1880.0,0.27,Single,305000.0,92 Queen Street ,NB,Atlantic region
+4.0,2.0,,>5.4,Single,799900.0,785 Route Unit# 81 1191,NB,Atlantic region
+3.0,1.0,,.048,Single,124900.0,1632 Route 3 ,NB,Atlantic region
+4.0,3.0,1900.0,.988,Single,405000.0,445 Power Road ,NB,Atlantic region
+5.0,1.0,1464.0,,Single,189000.0,1110 Route 955 ,NB,Atlantic region
+2.0,1.0,,1.82,Single,114900.0,227 Queens Ridge Road ,NB,Atlantic region
+3.0,1.0,891.0,ng>1,Single,225000.0,161 Porter Cove Road ,NB,Atlantic region
+4.0,2.0,2100.0,,Single,189900.0,24 Andrew ST ,NB,Atlantic region
+4.0,3.0,3245.0,.289,Single,774900.0,342 University Avenue ,NB,Atlantic region
+4.0,1.0,,0.86,Single,199000.0,191 de Pecheur Nord Street ,NB,Atlantic region
+3.0,2.0,,.423,Single,130000.0,420 BEULAH Road ,NB,Atlantic region
+2.0,1.0,1065.0,,Single,218900.0,103 Venice LANE ,NB,Atlantic region
+2.0,2.0,1488.0,0.32,Single,139900.0,4102 Main Street ,NB,Atlantic region
+3.0,3.0,,.171,Single,325000.0,82 Westminster Court ,NB,Atlantic region
+2.0,3.0,,,Single,149900.0,328 Main Street ,NB,Atlantic region
+3.0,2.0,906.0,,Single,75000.0,1 Baker Road ,NB,Atlantic region
+4.0,3.0,,.207,Single,449000.0,23 Lentook Avenue ,NB,Atlantic region
+2.0,2.0,1095.0,,Single,269900.0,18 Mackinnon Unit#Lot 20-8 ,NB,Atlantic region
+,1.0,2500.0,,Single,119500.0,9 Point de Bute ,NB,Atlantic region
+5.0,4.0,2554.0,,Single,429900.0,169-171 Shediac RD ,NB,Atlantic region
+5.0,3.0,3258.0,.645,Single,524900.0,57 Freedom Street ,NB,Atlantic region
+2.0,2.0,1964.0,.235,Single,345000.0,52 Merritt Hill Road ,NB,Atlantic region
+6.0,4.0,4040.0,.473,Single,337400.0,30 rue Guerrette ,NB,Atlantic region
+2.0,1.0,1821.0,1.04,Single,180000.0,583 King Kristian Road ,NB,Atlantic region
+3.0,2.0,,.334,Single,424900.0,63 June Avenue ,NB,Atlantic region
+4.0,2.0,,0.31,Single,389900.0,35 Thomas Avenue ,NB,Atlantic region
+6.0,3.0,,.109,Single,199900.0,10 Cyr Avenue ,NB,Atlantic region
+2.0,1.0,725.0,,Single,95000.0,1285 route 335 ,NB,Atlantic region
+4.0,2.0,1800.0,0.23,Single,319000.0,48 du réservoir Street ,NB,Atlantic region
+5.0,3.0,3000.0,.257,Single,439000.0,59 Carrier Street ,NB,Atlantic region
+3.0,1.0,1113.0,.094,Single,129900.0,24 Fifth Street ,NB,Atlantic region
+2.0,1.0,,,Single,69900.0,250 Poplar ,NB,Atlantic region
+3.0,3.0,1584.0,,Single,409000.0,5 Shad CRT ,NB,Atlantic region
+4.0,2.0,,.382,Single,215500.0,101 Douglas Avenue ,NB,Atlantic region
+2.0,1.0,270.0,,Single,140000.0,3003 Chemin Saint Ignace Station ,NB,Atlantic region
+5.0,1.0,,.299,Single,234900.0,931 Jeffrey ,NB,Atlantic region
+3.0,1.0,1050.0,.115,Single,85000.0,230 Allison ,NB,Atlantic region
+2.0,1.0,,1.14,Single,100000.0,1770 Waterside Drive ,NB,Atlantic region
+2.0,1.0,1950.0,,Single,184900.0,110 Rivercrest AVE ,NB,Atlantic region
+3.0,1.0,980.0,,Single,139900.0,2166 Saulnier Ouest ,NB,Atlantic region
+2.0,1.0,1297.0,,Single,85000.0,92 Route 190 ,NB,Atlantic region
+5.0,1.0,,>4.9,Single,399000.0,24 de la Chausseé Street ,NB,Atlantic region
+3.0,1.0,1280.0,,Single,559900.0,31 Ocean Breeze DR ,NB,Atlantic region
+5.0,3.0,1585.0,,Single,284900.0,15 Gaston CRES ,NB,Atlantic region
+3.0,1.0,1088.0,,Single,229900.0,1425 Emerson RD ,NB,Atlantic region
+2.0,1.0,828.0,.642,Single,79900.0,82 Chestnut Drive ,NB,Atlantic region
+3.0,1.0,1000.0,,Single,124900.0,9502 Main ST ,NB,Atlantic region
+3.0,1.0,,0.68,Single,79900.0,18 Smith Road ,NB,Atlantic region
+2.0,2.0,,.546,Single,150000.0,47 Cormier Street ,NB,Atlantic region
+4.0,2.0,2100.0,.195,Single,209000.0,68 Bell Manor Drive ,NB,Atlantic region
+2.0,1.0,900.0,,Single,89900.0,21 Borgitte ,NB,Atlantic region
+1.0,1.0,600.0,,Single,159000.0,46 Zachary LANE ,NB,Atlantic region
+1.0,1.0,830.0,,Single,150000.0,2426 Saint-Ignace Station ,NB,Atlantic region
+6.0,2.0,2476.0,0.44,Single,299900.0,310 Bay Crescent ,NB,Atlantic region
+2.0,2.0,,>0.6,Single,190000.0,28 Deal Road ,NB,Atlantic region
+2.0,2.0,2000.0,,Single,419900.0,149 John ST ,NB,Atlantic region
+3.0,1.0,1054.0,,Single,209900.0,30 Whistle Road ,NB,Atlantic region
+2.0,2.0,1800.0,,Single,950000.0,1065 Route 955 ,NB,Atlantic region
+2.0,2.0,,0.33,Single,167900.0,285 Main Street ,NB,Atlantic region
+4.0,2.0,,0.28,Single,189000.0,498 Georges Ouest Street ,NB,Atlantic region
+3.0,2.0,1800.0,>0.2,Single,269900.0,47 Cougle Road ,NB,Atlantic region
+5.0,5.0,5400.0,,Single,1190000.0,10 Mayfair CRT ,NB,Atlantic region
+2.0,1.0,,.942,Single,169900.0,516 South Napan Road ,NB,Atlantic region
+2.0,2.0,1852.0,6.94,Single,350000.0,60 McGrath Lane ,NB,Atlantic region
+5.0,2.0,2100.0,.257,Single,299900.0,25 Ebony Drive ,NB,Atlantic region
+5.0,4.0,2700.0,.225,Single,435000.0,60 Mgr Lacroix Avenue ,NB,Atlantic region
+3.0,2.0,,.121,Single,75900.0,43 44 Avenue ,NB,Atlantic region
+2.0,2.0,1227.0,,Single,335900.0,16-86 Sedona CRES Unit L,NB,Atlantic region
+3.0,3.0,,,Single,250000.0,2880 Donald Street ,NB,Atlantic region
+5.0,3.0,,,Single,349000.0,236 Sheriff Street ,NB,Atlantic region
+3.0,2.0,1750.0,,Single,199000.0,30 Meadowbrook Lane ,NB,Atlantic region
+8.0,4.0,3171.0,,Single,199900.0,555 Route 530 ,NB,Atlantic region
+3.0,2.0,,0.36,Single,179000.0,313 Milltown Boulevard ,NB,Atlantic region
+4.0,3.0,3500.0,,Single,625000.0,2620 Main ST ,NB,Atlantic region
+4.0,2.0,2200.0,.992,Single,269000.0,19 Jones Forks Road ,NB,Atlantic region
+3.0,1.0,1245.0,.265,Single,599900.0,346 Second Eel River Lane ,NB,Atlantic region
+2.0,1.0,1232.0,.243,Single,139900.0,655 White Lane ,NB,Atlantic region
+1.0,,480.0,,Single,30000.0,311 Buttereau ST ,NB,Atlantic region
+5.0,3.0,2979.0,.213,Single,449900.0,11 Louise Crescent ,NB,Atlantic region
+3.0,2.0,,.172,Single,189400.0,25 Park Hill Drive ,NB,Atlantic region
+3.0,2.0,1100.0,0.22,Single,139900.0,634 Wellington Road ,NB,Atlantic region
+2.0,1.0,,,Single,149900.0,3397-3399 La Chapelle ,NB,Atlantic region
+3.0,3.0,2028.0,,Single,389000.0,3876 Scenic DR ,NB,Atlantic region
+3.0,1.0,1008.0,,Single,91000.0,102 Du Pouvoir Road ,NB,Atlantic region
+4.0,1.0,,0.46,Single,98500.0,29 de la Plage Street ,NB,Atlantic region
+3.0,2.0,,>0.2,Single,320000.0,52 St-André Road ,NB,Atlantic region
+4.0,2.0,,.814,Single,235000.0,39 Rowan Berry Terrace ,NB,Atlantic region
+1.0,1.0,660.0,,Single,249900.0,639 Main ,NB,Atlantic region
+2.0,1.0,660.0,,Single,89900.0,52 Vacation LANE ,NB,Atlantic region
+3.0,1.0,,.347,Single,200000.0,80 Nerepis Road ,NB,Atlantic region
+,1.0,,,Single,80000.0,24 Route 636 ,NB,Atlantic region
+3.0,2.0,1680.0,,Single,339900.0,264 Potts RD ,NB,Atlantic region
+3.0,1.0,,0.67,Single,119000.0,384 Georges Est Street ,NB,Atlantic region
+4.0,2.0,1150.0,,Single,299900.0,100 Mayfield ST ,NB,Atlantic region
+3.0,3.0,,1.58,Single,380000.0,23 FX Daigle ,NB,Atlantic region
+4.0,3.0,,.011,Single,549900.0,40 Robby's Road ,NB,Atlantic region
+4.0,2.0,,.234,Single,154500.0,452 Isidore-Boucher Boulevard ,NB,Atlantic region
+5.0,2.0,1827.0,.322,Single,185700.0,93 Cormier Street ,NB,Atlantic region
+4.0,3.0,1500.0,,Single,410000.0,28 Abbott CRT ,NB,Atlantic region
+5.0,6.0,,g>13,Single,599900.0,594 Route 690 ,NB,Atlantic region
+4.0,3.0,1500.0,.259,Single,121000.0,1541 Principale Street ,NB,Atlantic region
+4.0,4.0,,.806,Single,359900.0,120-128 Canada Street ,NB,Atlantic region
+4.0,2.0,,>0.2,Single,169000.0,266 St Pierre Est Boulevard ,NB,Atlantic region
+3.0,1.0,,,Single,59900.0,4272 Water Street ,NB,Atlantic region
+2.0,1.0,1215.0,.143,Single,159999.0,455 Gremley Drive ,NB,Atlantic region
+5.0,2.0,,.363,Single,399900.0,36 Fisher Avenue ,NB,Atlantic region
+2.0,1.0,,0.16,Single,165000.0,103 Tower Street ,NB,Atlantic region
+3.0,2.0,1741.0,.352,Single,314900.0,25 Clarwood Drive ,NB,Atlantic region
+4.0,2.0,1400.0,,Single,549900.0,80 Third AVE ,NB,Atlantic region
+3.0,2.0,,0.43,Single,199000.0,1236 Post Road ,NB,Atlantic region
+6.0,4.0,3600.0,1.98,Single,189000.0,922 Canada Road ,NB,Atlantic region
+2.0,2.0,2688.0,,Single,1485000.0,1140 Falaise LANE ,NB,Atlantic region
+3.0,1.0,1827.0,.092,Single,195000.0,1257 Rte 17 ... ,NB,Atlantic region
+4.0,2.0,1870.0,ng>1,Single,389900.0,Lot 1 Lucas Street ,NB,Atlantic region
+3.0,2.0,2000.0,,Single,239900.0,229 Old Post RD ,NB,Atlantic region
+4.0,3.0,1536.0,,Single,330000.0,869A Ryan RD ,NB,Atlantic region
+3.0,3.0,2600.0,,Single,900000.0,32 Methodist Point ,NB,Atlantic region
+2.0,1.0,832.0,,Single,89900.0,3 Kingfisher ,NB,Atlantic region
+5.0,1.0,1248.0,,Single,164900.0,26 Kent LANE ,NB,Atlantic region
+8.0,5.0,4250.0,.299,Single,345000.0,67-69 City Line ,NB,Atlantic region
+2.0,2.0,806.0,,Single,349900.0,80 Eldon Kay RD ,NB,Atlantic region
+4.0,1.0,2268.0,0.33,Single,225000.0,136 Hennigar Street ,NB,Atlantic region
+3.0,2.0,1265.0,,Single,389000.0,28 Brun ,NB,Atlantic region
+2.0,1.0,542.0,,Single,164900.0,76 Third AVE ,NB,Atlantic region
+3.0,1.0,,.114,Single,99000.0,173 BEACON Street ,NB,Atlantic region
+4.0,1.0,1150.0,.806,Single,85000.0,106 Boul. St-Pierre Est ,NB,Atlantic region
+4.0,2.0,1490.0,,Single,259000.0,45 King Street ,NB,Atlantic region
+4.0,2.0,,0.22,Single,159000.0,48 des Champs ,NB,Atlantic region
+4.0,1.0,2544.0,.193,Single,199900.0,159 Main Street ,NB,Atlantic region
+4.0,3.0,2000.0,>2.4,Single,249900.0,5015 Route 3 ,NB,Atlantic region
+3.0,2.0,1484.0,,Single,319900.0,1915 Route 133 ,NB,Atlantic region
+3.0,2.0,1639.0,,Single,289900.0,169 Gaudet ,NB,Atlantic region
+4.0,3.0,,.394,Single,299000.0,85 Park Drive ,NB,Atlantic region
+3.0,2.0,1780.0,,Single,678500.0,12 Deep Point Bogan Lane ,NB,Atlantic region
+3.0,2.0,1728.0,.264,Single,295000.0,57 Delaney Street ,NB,Atlantic region
+2.0,2.0,1200.0,ng>5,Single,79900.0,3070 Route 160 ,NB,Atlantic region
+4.0,3.0,1763.0,>0.5,Single,354900.0,8 Mosaic Drive ,NB,Atlantic region
+4.0,3.0,2940.0,1.66,Single,569000.0,34 Nerepis Road ,NB,Atlantic region
+3.0,2.0,2578.0,,Single,649000.0,38 Pokiok ,NB,Atlantic region
+2.0,2.0,1095.0,,Single,279900.0,16 Mackinnon Unit#Lot 20-8 ,NB,Atlantic region
+3.0,2.0,1540.0,,Single,299900.0,30 Generation AVE ,NB,Atlantic region
+4.0,2.0,1092.0,,Single,389700.0,340 Robichaud ,NB,Atlantic region
+4.0,1.0,1824.0,,Single,188000.0,29 Martin ,NB,Atlantic region
+,2.0,830.0,,Single,74000.0,17 McLaughlin ST ,NB,Atlantic region
+3.0,1.0,,0.14,Single,119000.0,161 St Pierre Ouest Boulevard ,NB,Atlantic region
+3.0,2.0,2700.0,,Single,195000.0,488 Route 135 ,NB,Atlantic region
+3.0,4.0,1910.0,,Single,550000.0,49 Holton LANE ,NB,Atlantic region
+2.0,2.0,638.0,,Single,159900.0,462 High ST ,NB,Atlantic region
+1.0,1.0,984.0,.271,Single,119000.0,29 Rue Arlequin ,NB,Atlantic region
+4.0,1.0,3300.0,.178,Single,319900.0,24 Titus Drive ,NB,Atlantic region
+4.0,1.0,,0.44,Single,169000.0,375 Esna Street ,NB,Atlantic region
+3.0,1.0,940.0,0.18,Single,174900.0,39 Magnolia Avenue ,NB,Atlantic region
+2.0,1.0,1992.0,,Single,180000.0,6619 Sand Brook Road ,NB,Atlantic region
+2.0,1.0,1184.0,,Single,154900.0,12 Geneva ,NB,Atlantic region
+4.0,2.0,,,Single,139000.0,41 Cosman Road ,NB,Atlantic region
+1.0,1.0,575.0,,Single,105000.0,864 Murray RD ,NB,Atlantic region
+3.0,1.0,1119.0,,Single,130000.0,278 Main ST ,NB,Atlantic region
+3.0,2.0,,1.25,Single,249900.0,1 Ch Thérault Haché ,NB,Atlantic region
+2.0,1.0,707.0,,Single,160000.0,784 Saint Charles ,NB,Atlantic region
+4.0,2.0,1024.0,,Single,275000.0,161 Ellerdale AVE ,NB,Atlantic region
+3.0,2.0,1970.0,ng>2,Single,324900.0,549 Estey Road ,NB,Atlantic region
+2.0,1.0,905.0,,Single,159900.0,15 First AVE ,NB,Atlantic region
+2.0,1.0,2190.0,ng>1,Single,238000.0,1580 Baisley Road ,NB,Atlantic region
+3.0,1.0,1478.0,,Single,299900.0,185 Twin Oaks DR ,NB,Atlantic region
+4.0,2.0,1900.0,,Single,799900.0,790 Route 710 ,NB,Atlantic region
+4.0,2.0,,15.5,Single,89900.0,65 River Road ,NB,Atlantic region
+2.0,1.0,760.0,,Single,334900.0,3910 Route 535 ,NB,Atlantic region
+4.0,2.0,,.275,Single,84500.0,11370 Route 144 ,NB,Atlantic region
+3.0,2.0,,6.48,Single,324900.0,84 Davidson Lake Road ,NB,Atlantic region
+4.0,3.0,,.826,Single,535000.0,1822 Route 165 ,NB,Atlantic region
+2.0,1.0,,0.57,Single,60000.0,749 Boul St Joseph ,NB,Atlantic region
+5.0,2.0,1394.0,,Single,389900.0,43 Acadie RD ,NB,Atlantic region
+3.0,1.0,933.0,.596,Single,279000.0,310 Chemin des Chalets ,NB,Atlantic region
+4.0,3.0,2174.0,,Single,299900.0,244 Cameron ST ,NB,Atlantic region
+3.0,1.0,1045.0,,Single,149900.0,2 Second Street ,NB,Atlantic region
+3.0,2.0,1643.0,3.31,Single,89900.0,4058 Route 385 ,NB,Atlantic region
+2.0,3.0,1380.0,,Single,589000.0,170 K Roberts RD ,NB,Atlantic region
+7.0,3.0,2341.0,0.33,Single,425000.0,182 Main Street ,NB,Atlantic region
+3.0,1.0,1072.0,1.57,Single,155000.0,273 Route 725 ,NB,Atlantic region
+5.0,2.0,3245.0,.262,Single,449000.0,745-747 Manawagonish Road ,NB,Atlantic region
+2.0,2.0,1123.0,,Single,119900.0,63 Bellevue ,NB,Atlantic region
+2.0,1.0,952.0,,Single,85000.0,851 Route 910 ,NB,Atlantic region
+3.0,3.0,2423.0,2.72,Single,999999.0,16174 Route 105 ,NB,Atlantic region
+4.0,2.0,,.583,Single,399000.0,51 Bryson Road ,NB,Atlantic region
+3.0,1.0,,1.01,Single,89900.0,39 Thoroughfare Road ,NB,Atlantic region
+2.0,2.0,,,Single,649000.0,56 Rose Lane ,NB,Atlantic region
+5.0,2.0,1350.0,.399,Single,169900.0,259 Main Street ,NB,Atlantic region
+4.0,2.0,1950.0,,Single,215000.0,205 Church Avenue ,NB,Atlantic region
+3.0,3.0,,.148,Single,175000.0,215 Milltown Boulevard ,NB,Atlantic region
+2.0,1.0,728.0,,Single,199900.0,43 Rive Sud ,NB,Atlantic region
+3.0,2.0,1957.0,,Single,399900.0,23 Bridge View CRT ,NB,Atlantic region
+3.0,1.0,1152.0,,Single,251910.0,69 Abbey's LANE ,NB,Atlantic region
+4.0,3.0,,0.47,Single,349900.0,298 Route 102 ,NB,Atlantic region
+3.0,2.0,1204.0,,Single,399900.0,70 Martial Hebert ,NB,Atlantic region
+2.0,2.0,,.031,Single,314900.0,10 Rockingstone Drive ,NB,Atlantic region
+2.0,2.0,1856.0,,Single,649900.0,1200 Route 515 ,NB,Atlantic region
+3.0,1.0,1340.0,,Single,185000.0,10510 Principale ,NB,Atlantic region
+3.0,3.0,2496.0,,Single,599900.0,1246 Shediac RD ,NB,Atlantic region
+4.0,2.0,1050.0,,Single,359900.0,46 Guy ,NB,Atlantic region
+2.0,1.0,1977.0,,Single,385000.0,889 Route 133 ,NB,Atlantic region
+3.0,4.0,2374.0,.417,Single,439000.0,51 Queensbury Drive ,NB,Atlantic region
+3.0,2.0,1080.0,,Single,359999.0,14 Jocelyne ST ,NB,Atlantic region
+3.0,2.0,1560.0,,Single,209000.0,400 Main ST ,NB,Atlantic region
+10.0,11.0,5875.0,,Single,479000.0,9402 Main ,NB,Atlantic region
+4.0,4.0,,,Single,389000.0,720 Baisley Road ,NB,Atlantic region
+3.0,3.0,4600.0,.392,Single,725000.0,50 Brigadoon Terrace ,NB,Atlantic region
+4.0,2.0,,>0.4,Single,109000.0,103 Fort Road ,NB,Atlantic region
+1.0,1.0,,,Single,49000.0,1198 Brandy Brook ,NB,Atlantic region
+3.0,1.0,1200.0,.367,Single,184900.0,15 White Head Wharf Road ,NB,Atlantic region
+5.0,2.0,2700.0,2.82,Single,259900.0,946 Main Street ,NB,Atlantic region
+5.0,5.0,3384.0,,Single,619900.0,71 Murielle CRES ,NB,Atlantic region
+4.0,2.0,2796.0,3.69,Single,449000.0,508 Penniac Road ,NB,Atlantic region
+4.0,2.0,2500.0,.375,Single,299950.0,309 Hawthorne Ave Ext ,NB,Atlantic region
+2.0,1.0,608.0,,Single,80000.0,390 De La Grande-Riviere Road ,NB,Atlantic region
+4.0,4.0,1695.0,,Single,474900.0,10 Fairwest Shore RD ,NB,Atlantic region
+3.0,2.0,1658.0,>1.4,Single,275000.0,989 Cumberland Point Road ,NB,Atlantic region
+3.0,2.0,2168.0,.068,Single,279900.0,636 Rosedale Road ,NB,Atlantic region
+2.0,2.0,1584.0,,Single,189000.0,608 Enterprise Road ,NB,Atlantic region
+4.0,3.0,3830.0,.504,Single,635000.0,11 June Avenue ,NB,Atlantic region
+4.0,2.0,1900.0,25.4,Single,799900.0,790 Route 710 ,NB,Atlantic region
+3.0,3.0,1716.0,,Single,285000.0,281 Ammon RD ,NB,Atlantic region
+4.0,1.0,,.115,Single,89900.0,415 Varrily ,NB,Atlantic region
+2.0,2.0,1700.0,,Single,199000.0,726 Principale ,NB,Atlantic region
+2.0,2.0,,.344,Single,89000.0,25 Ludlow Lane ,NB,Atlantic region
+3.0,2.0,1008.0,.991,Single,259900.0,69 Land Road ,NB,Atlantic region
+4.0,1.0,,>1.5,Single,99500.0,218 Back Road ,NB,Atlantic region
+2.0,2.0,1667.0,,Single,349900.0,9864 Route 134 ,NB,Atlantic region
+4.0,3.0,,,Single,549900.0,228 Montague Street ,NB,Atlantic region
+4.0,2.0,3000.0,>0.2,Single,258000.0,300 St Pierre O Street ,NB,Atlantic region
+2.0,1.0,1050.0,,Single,989000.0,279 Johnston Point RD ,NB,Atlantic region
+3.0,2.0,,0.01,Single,189000.0,3 Banks Street ,NB,Atlantic region
+4.0,2.0,,,Single,299900.0,120 Somerville Road ,NB,Atlantic region
+3.0,4.0,2608.0,4.55,Single,2300000.0,132 Hammond River Road ,NB,Atlantic region
+2.0,1.0,862.0,,Single,465000.0,1150 Route 530 1154,NB,Atlantic region
+2.0,2.0,,,Single,359000.0,Lot 2 Sea Street ,NB,Atlantic region
+2.0,2.0,,,Single,359000.0,Lot 10 Sea Street ,NB,Atlantic region
+3.0,2.0,1092.0,,Single,165000.0,22 Evergreen ,NB,Atlantic region
+3.0,1.0,792.0,,Single,75000.0,13 Second ST ,NB,Atlantic region
+4.0,2.0,1872.0,,Single,249900.0,118 Steeves Settlement RD ,NB,Atlantic region
+3.0,2.0,,0.22,Single,174900.0,4 Oak Court ,NB,Atlantic region
+2.0,1.0,,,Single,110000.0,4389-4391 blvd des Fondateurs ,NB,Atlantic region
+5.0,5.0,,.348,Single,569000.0,90 Cedarwood Drive ,NB,Atlantic region
+3.0,1.0,,,Single,94900.0,14 Black Duck Street ,NB,Atlantic region
+5.0,3.0,,,Single,464900.0,1265 West Riverside Drive ,NB,Atlantic region
+3.0,2.0,1080.0,,Single,150000.0,421 Grub RD ,NB,Atlantic region
+4.0,3.0,1810.0,,Single,274900.0,5571 Route 112 ,NB,Atlantic region
+3.0,1.0,700.0,.543,Single,84900.0,5641 Route 8 ,NB,Atlantic region
+2.0,1.0,775.0,,Single,224900.0,1069 Route 525 ,NB,Atlantic region
+8.0,4.0,,4.53,Single,470000.0,1077 Route 845 ,NB,Atlantic region
+2.0,2.0,1040.0,,Single,309000.0,221 Bond DR ,NB,Atlantic region
+4.0,3.0,,.557,Single,530000.0,19 Bristol Heights ,NB,Atlantic region
+3.0,1.0,,.112,Single,109000.0,43 rue Dubé ,NB,Atlantic region
+3.0,1.0,,>0.5,Single,116500.0,913 Robertville Road ,NB,Atlantic region
+6.0,2.0,1923.0,0.01,Single,239900.0,335 Mountain RD ,NB,Atlantic region
+5.0,2.0,,0.25,Single,197000.0,10 Buchanan Street ,NB,Atlantic region
+4.0,3.0,1728.0,,Single,264900.0,230-232 Main Street ,NB,Atlantic region
+3.0,2.0,2050.0,,Single,475000.0,528 Alphee ST ,NB,Atlantic region
+3.0,2.0,,.003,Single,499000.0,85 Mountain Road ,NB,Atlantic region
+3.0,3.0,2300.0,3.93,Single,1200000.0,83 chemin Maxime ,NB,Atlantic region
+3.0,1.0,1510.0,,Single,74900.0,20 Acadie ,NB,Atlantic region
+3.0,1.0,,.208,Single,239900.0,2757 Route 690 ,NB,Atlantic region
+3.0,2.0,,,Single,119900.0,19 Ridge Road ,NB,Atlantic region
+3.0,2.0,1480.0,.612,Single,174900.0,1590 Riverside Drive ,NB,Atlantic region
+2.0,2.0,,.031,Single,314900.0,4 Rockingstone Drive ,NB,Atlantic region
+3.0,1.0,900.0,,Single,62000.0,21 Connor ST ,NB,Atlantic region
+3.0,1.0,,>4.5,Single,125000.0,18 Seal View ,NB,Atlantic region
+3.0,1.0,,0.76,Single,79000.0,131 LeBouthillier Street ,NB,Atlantic region
+3.0,2.0,,g>50,Single,160000.0,525 East Knowlesville Road ,NB,Atlantic region
+2.0,1.0,770.0,.519,Single,74900.0,40 Southwest Road ,NB,Atlantic region
+3.0,1.0,,.988,Single,184900.0,483 Otis Drive ,NB,Atlantic region
+1.0,1.0,,.988,Single,49000.0,85 Palmer Road ,NB,Atlantic region
+4.0,2.0,2591.0,,Single,549900.0,1643 Route 465 ,NB,Atlantic region
+5.0,3.0,1748.0,,Single,650000.0,64 Donat Croissant ,NB,Atlantic region
+1.0,1.0,,,Single,24900.0,1810 Bettsburg Road ,NB,Atlantic region
+2.0,2.0,,ng>1,Single,240000.0,89 Dean Road ,NB,Atlantic region
+2.0,2.0,,,Single,649000.0,17 Thomas Road ,NB,Atlantic region
+4.0,3.0,1576.0,,Single,259900.0,22 Houlahan ,NB,Atlantic region
+3.0,3.0,1440.0,,Single,249900.0,22 Des Frenes CRT ,NB,Atlantic region
+2.0,1.0,1049.0,,Single,189500.0,7 Alban RD ,NB,Atlantic region
+3.0,1.0,,,Single,169500.0,1 Bellevue Ouest Rue ,NB,Atlantic region
+3.0,2.0,,>1.3,Single,189900.0,71 Waterville Road ,NB,Atlantic region
+2.0,1.0,1000.0,,Single,212500.0,410 Stoney Creek RD ,NB,Atlantic region
+4.0,2.0,1598.0,,Single,589900.0,124 Du Couvent ,NB,Atlantic region
+3.0,4.0,4157.0,,Single,380000.0,140 Despres ,NB,Atlantic region
+2.0,2.0,1227.0,,Single,335900.0,16-86 Sedona CRES Unit R,NB,Atlantic region
+3.0,1.0,1200.0,,Single,359900.0,778 Portage Vale RD ,NB,Atlantic region
+3.0,3.0,2432.0,,Single,524900.0,135 Raymel RD ,NB,Atlantic region
+3.0,2.0,1176.0,,Single,223900.0,256 West LANE ,NB,Atlantic region
+3.0,2.0,,.206,Single,169900.0,16 Elm Street ,NB,Atlantic region
+6.0,6.0,3500.0,,Single,2400000.0,3500 Route 124 ,NB,Atlantic region
+3.0,1.0,1350.0,,Single,224900.0,31 Desroches ST ,NB,Atlantic region
+4.0,1.0,,1.42,Single,74900.0,42 Field Settlement Road ,NB,Atlantic region
+3.0,1.0,1230.0,g>29,Single,1195000.0,"2987,2999 Woodstock Road ",NB,Atlantic region
+4.0,1.0,1060.0,>1.1,Single,128000.0,2063 Route 385 ,NB,Atlantic region
+4.0,1.0,,0.35,Single,179000.0,811 Centenaire Street ,NB,Atlantic region
+6.0,3.0,1930.0,,Single,325000.0,669 Acadie ,NB,Atlantic region
+2.0,1.0,,,Single,74900.0,143 Dawson Crescent ,NB,Atlantic region
+3.0,1.0,,1.25,Single,379900.0,32 McIntyre Lane ,NB,Atlantic region
+3.0,1.0,1400.0,,Single,299900.0,2678 Route 109 ,NB,Atlantic region
+4.0,2.0,1600.0,,Single,574900.0,15 Kervin CRES ,NB,Atlantic region
+3.0,1.0,1149.0,,Single,169900.0,135 Pacific AVE ,NB,Atlantic region
+3.0,2.0,1600.0,>358,Single,700000.0,208 Upper Woodlands Road ,NB,Atlantic region
+4.0,1.0,1200.0,.105,Single,179000.0,7 Porter Street ,NB,Atlantic region
+5.0,3.0,1776.0,,Single,169900.0,27 49e Avenue ,NB,Atlantic region
+7.0,4.0,,.344,Single,200000.0,26 Lyden Drive ,NB,Atlantic region
+2.0,3.0,2240.0,.249,Single,169900.0,735 Principale Street ,NB,Atlantic region
+4.0,2.0,,1.52,Single,269900.0,10 Segee Road ,NB,Atlantic region
+2.0,3.0,,9.14,Single,479900.0,43 Meadow Road ,NB,Atlantic region
+2.0,1.0,320.0,0.77,Single,79900.0,Lot Route 110 ,NB,Atlantic region
+3.0,2.0,1462.0,,Single,284900.0,54 Shannon DR ,NB,Atlantic region
+4.0,2.0,992.0,,Single,175000.0,67 Carleton ,NB,Atlantic region
+3.0,2.0,,8.94,Single,549900.0,2702 Route 124 ,NB,Atlantic region
+2.0,1.0,1190.0,,Single,239900.0,2809 Route 475 ,NB,Atlantic region
+3.0,2.0,,.175,Single,285000.0,21 Reba Road ,NB,Atlantic region
+3.0,1.0,,ng>1,Single,284900.0,111 Adanac Street ,NB,Atlantic region
+3.0,2.0,,,Single,780000.0,3206 Route 385 ,NB,Atlantic region
+3.0,2.0,1260.0,,Single,489000.0,6800 Route 102 ,NB,Atlantic region
+3.0,3.0,1250.0,,Single,675000.0,10 Birch CRES ,NB,Atlantic region
+,,,,Single,25000.0,- Evangeline Street ,NB,Atlantic region
+,,,,Single,109000.0,1 Route 108 94,NB,Atlantic region
+,,,,Residential,88000.0,158 MacDonald Rd Glenwood ,NB,Atlantic region
+3.0,1.0,949.0,.186,Residential,49900.0,6 MUNROE AVE ,NB,Atlantic region
+6.0,5.0,3350.0,,Single,325000.0,1863 Route 776 ,NB,Atlantic region
+7.0,6.0,7138.0,,Single,1675000.0,17 Eagle Ridge Court ,NB,Atlantic region
+2.0,1.0,1536.0,8.89,Residential,349000.0,274 North Barnaby Road ,NB,Atlantic region
+,,,,Residential,114800.0,"370 Lockstead Road, Blackville, New Brunswick ",NB,Atlantic region
+,,,,Residential,84500.0,800 Tweedie Brook ,NB,Atlantic region
+3.0,2.0,2047.0,.154,Residential,279900.0,157 Mount Royal BLVD ,NB,Atlantic region
+3.0,2.0,864.0,0.19,Residential,259000.0,13 Argyle Court ,NB,Atlantic region
+,,4356155.0,,Residential,164900.0,"1270 Route 435, Maple Glen, E1G 3X1 ",NB,Atlantic region
+,,,,Residential,98900.0,22 Travis ,NB,Atlantic region
+,,,,Residential,64900.0,40 Hec 10840 Route 430 ,NB,Atlantic region
+3.0,3.0,2850.0,,Single,499000.0,1393 Route 655 ,NB,Atlantic region
+5.0,5.0,3341.0,,Single,169000.0,10 CN Road ,NB,Atlantic region
+4.0,2.0,,,Single,179900.0,11081 Principale Road ,NB,Atlantic region
+3.0,3.0,2350.0,,Single,229000.0,30 Queen Street ,NB,Atlantic region
+2.0,2.0,1200.0,0.23,Residential,159900.0,121 Sanford ,NB,Atlantic region
+3.0,3.0,1760.0,.658,Residential,349900.0,736 Amirault ST ,NB,Atlantic region
+2.0,1.0,,,Single,184000.0,397 Shore Road ,NB,Atlantic region
+4.0,5.0,,,Single,599900.0,561 King George ,NB,Atlantic region

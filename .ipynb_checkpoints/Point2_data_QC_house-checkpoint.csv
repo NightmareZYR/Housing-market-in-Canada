@@ -1,0 +1,2191 @@
+Beds,Bath,Sqft,Lot_Size,Type,Price,Address
+4,3,,,Residential,900000.0,Saint-Laurent 
+1,1,692.0,,Residential,230000.0,3810 Notre-Dame 
+1,,715.0,,Residential,550000.0,René-Levesque Ouest 
+6,3,,,Residential,1100000.0,103 rue Denault 
+4,1,1880.0,,Residential,1083000.0,456 Sebastopol 
+2,2,130028.0,,Residential,475000.0,5740 Av. Rembrandt 
+4,5,4300.0,.244,Residential,3390000.0,Chemin du Bord-du-lac. Lakeshore 
+1,1,578.0,,Residential,428900.0,Crescent street 
+,1,470.0,,Residential,300000.0,4295 Beaubien Est 
+1,1,603.0,,Residential,457000.0,René-Levesque Ouest 
+1,1,564.0,,Residential,299000.0,4295 Beaubien Est 
+2,2,1200.0,,Residential,600000.0,100 André-Prevost 
+3,2,,0.12,Residential,699000.0,1185 crois sabourin 
+3,2,1600.0,,Residential,699000.0,8245 Boul. St-Laurent 
+2,2,945.0,,Residential,398000.0,7275 Lunan 
+2,1,1061.0,,Residential,399000.0,1222 Rue Ste-Élisabeth 
+5,3,,,Residential,998000.0,975 rembrandt 
+4,2,,,Residential,668000.0,1965 Jacques-Hertel 
+2,1,810.0,,Residential,439000.0,3608 
+1,1,675.0,,Residential,259000.0,5700 boulevard Cavendish 
+2,1,900.0,,Residential,359000.0,3845 Rue Emma-Collin #202 
+3,1,1100.0,,Single,150000.0,8 Rue de la Côte 
+3,1,,0.31,Residential,269900.0,2630 Mtée Major 
+3,4,,.536,Residential,3875000.0,1681 Rue de la Seigneurie 
+3,1,,.171,Residential,189900.0,34 Rue Martel 
+3,2,,.137,Residential,479900.0,3837 Av. François-Foucault 
+5,2,,.186,Other,499900.0,21 Desc. de la Côte-Double 
+3,1,,.164,Residential,499900.0,1060Z Rue St-Georges (Longueuil) 
+3,3,2175.0,,Residential,1249000.0,3640 Rue Jeanne-Mance #PH305 
+3,1,,0.39,Residential,239000.0,26 415e Avenue 
+4,3,,,Single,1100000.0,21 CHEMIN DU REFUGE 
+3,3,,,Single,888000.0,23 CHEMIN DU REFUGE 
+3,1,128844.0,,Residential,360000.0,8179 Rue Joséphine-Marchand 
+3,2,157498.0,.106,Other,644800.0,24 Rue Merlin 
+4,2,172804.0,.248,Residential,514000.0,54 Rue Morin 
+3,2,112504.0,.059,Residential,249900.0,132 Rue de la Terrasse-Eardley 
+3,1,,.139,Residential,219900.0,26 102e Avenue 
+2,1,,.207,Residential,249000.0,117 104e Avenue 
+5,2,,.107,Residential,649000.0,5885 Boul. Robert 
+3,1,,.101,Residential,549900.0,878 Rue Hyacinthe-Hudon 
+1,1,,0.08,Other,1200000.0,2521 Rue Bossuet 
+2,1,961.0,,Residential,300000.0,937 Boul. Jean-Paul-Vincent #2 
+4,2,,.347,Residential,549000.0,8635 Rue Desrosiers 
+4,2,197496.0,.512,Residential,645000.0,78 Rue Venne 
+5,4,3084.0,.148,Residential,3150000.0,386 Ch. de la Côte-Ste-Catherine 
+3,4,,.495,Residential,1249000.0,65 Rue de la Montagne 
+3,2,1240.0,.918,Single,374900.0,132 Ch. des Mésanges 
+2,1,922.0,,Residential,499000.0,4539 Rue Parthenais 
+4,2,217603.0,.211,Residential,349900.0,597 Rue Chamberland 
+4,2,211123.0,.149,Residential,425000.0,4358 Rue D'Angoulême 
+3,3,,,Single,1288000.0,22 CHEMIN DU REFUGE 
+3,3,1232.0,,Residential,220000.0,150 Ch. au Pied-de-la-Montagne #328-D 
+1,,40752.0,.321,Residential,49000.0,1101 Rang E. 
+1,1,747.0,,Residential,369000.0,550 Boul. de la Côte-Vertu #204 
+4,1,,,Residential,299000.0,1688 Boul Lorrain  
+5,2,,.175,Residential,569900.0,4955 Rue Montigny 
+4,1,,.139,Residential,497000.0,560 Rue Choinière 
+3,2,2741.0,,Residential,2280000.0,6301 Place Northcrest #PH-R1 
+5,1,172223.0,.557,Residential,649000.0,117 Ch. du Petit-Chicot 
+2,1,,0.23,Residential,330000.0,845 Ch. Ste-Angélique 
+3,2,1290.0,.101,Single,419900.0,1 Rue du Merle 
+4,2,,.192,Residential,419000.0,1995 Rue du Ruisseau 
+4,4,,.064,Residential,1700000.0,4322 Av. Laval 
+1,1,723.0,,Residential,129000.0,150 Ch. au Pied-de-la-Montagne #412-A 
+1,1,101256.0,.634,Residential,235000.0,171 Ch. Bérubé 
+4,2,,.241,Residential,279000.0,7910 Route 125 
+2,1,134334.0,.168,Residential,460000.0,351 84e Avenue 
+4,4,,,Single,1828000.0,9 CHEMIN DU REFUGE 
+4,2,,.103,Residential,699888.0,3030 Rue Lepailleur 
+2,2,1053.0,,Residential,599000.0,450 Rue St-Antoine E. 201
+2,1,1107.0,,Residential,449000.0,6400 Chambéry 
+3,2,3085.0,,Residential,2199000.0,"1155 Rue de la Montagne, #3201-02 "
+1,1,675.0,,Residential,349000.0,"301 Rue Emery, #403 "
+4,1,,.067,Residential,624900.0,1013 Rue François-Dugas 
+3,3,1535.0,,Residential,1447190.0,1000 de la Montagne 
+4,3,,,Residential,525000.0,3410 Crois. Boulogne 
+3,2,1350.0,.002,Residential,299900.0,2160 Beaudoin 
+3,2,2000.0,,Residential,1418000.0,"1500 Rue des Bassins, #110 "
+2,1,608.0,,Residential,510305.0,1000 de la Montagne 
+2,2,1420.0,,Residential,1249000.0,"365 Rue St-Andre, #1703 "
+1,1,800.0,,Residential,599000.0,1414 Rue Chomedey 
+1,1,,0.06,Residential,499000.0,6309 Rue Cartier 
+4,1,2010.0,,Residential,907000.0,6554 Rue St-Denis 
+2,2,3165.0,,Residential,3950000.0,"1280 Rue Sherbrooke O., #610 "
+3,2,2940.0,,Residential,1175000.0,"4450 Prom. Paton, #1016 "
+4,1,1500.0,.109,Residential,289000.0,30 Rue Louis 
+2,2,3100.0,,Residential,1279000.0,412 Rue du Champ-de-Mars 
+3,2,2045.0,,Residential,1450000.0,175 Av. Metcalfe 
+2,1,1063.0,,Residential,599000.0,4418 Hôtel-de-Ville 
+2,3,1105.0,,Residential,1008158.0,1000 de la Montagne 
+4,2,2810.0,.251,Residential,808000.0,48 Rue Cadillac 
+2,1,744.0,.243,Residential,79900.0,19 chemin du Lac-Sinclair 
+2,2,722.0,,Residential,630890.0,1000 de la Montagne 
+4,2,,,Residential,878000.0,8500 occident 
+,,,,Residential,875000.0,9119-9121 Rue de Godbout 
+2,2,,,Residential,390000.0,2530 Place Michel-Brault 
+1,1,740.0,,Residential,629000.0,"1300 Rene-Levesque O., #2107 "
+,,,>287,Residential,500000.0,Ch. Murphy 
+3,2,4120.0,,Residential,3988000.0,275 Rue Étienne-Lavoie PH302
+3,2,,,Residential,999000.0,4146B Av. de l'Hôtel-de-Ville 
+1,1,483.0,,Residential,422050.0,1000 de la Montagne 
+1,1,652.0,,Residential,319000.0,"315 Rue Richmond, #718 "
+5,4,4591.0,.435,Residential,1580800.0,21187 Rue Euclide-Lavigne 
+4,3,19085.0,.918,Residential,467700.0,42 rue France 
+4,2,1050.0,,Residential,594900.0,5166 Av de Versailles 
+4,4,5479.0,,Residential,3200000.0,4306 Av. Montrose 
+4,2,1760.0,,Residential,789000.0,"1840 Rue Mullins, #PH8 "
+2,1,,.089,Other,1449000.0,3436 Rue Bressani 
+2,2,1560.0,,Residential,799000.0,"1700 Boul. Rene-Levesque O., #1202 "
+3,2,2620.0,,Residential,2250000.0,"3456 Av. du Musee, apt. TH4 "
+3,2,971.0,,Residential,781485.0,1000 de la Montagne 
+1,1,950.0,,Residential,439000.0,285 Place D'Youville 
+2,1,813.0,,Residential,449500.0,"385 Rue St-Martin, #214 "
+3,1,1890.0,,Residential,595000.0,439 Av. Mousseau-Vermette 
+5,,2295.0,,Residential,598000.0,735-745 Côte d'Abraham 
+5,1,5276.0,.056,Residential,1799000.0,306-310A Boul. St-Joseph E. 
+1,1,58017.0,,Residential,289000.0,3470 Rue Simpson 304
+1,1,588.0,,Residential,513789.0,1000 de la Montagne 
+,,,>5.9,Residential,274900.0,Ch. Cottage 
+4,3,1750.0,.674,Residential,890000.0,310 Rue Centre 
+1,1,1265.0,,Residential,449000.0,"50 Rue des Soeurs-Grises, #403 "
+2,1,1940.0,.057,Residential,485000.0,2527-2529 Rue Baldwin 
+2,3,1105.0,,Residential,1003559.0,1000 de la Montagne 
+8,,4830.0,,Residential,2900000.0,175A-3956 Av. de l'Hôtel-de-Ville 
+5,1,1920.0,.099,Residential,608000.0,5520 Rue Boisjoli 
+2,3,1105.0,,Residential,1005858.0,1000 de la Montagne 
+1,1,740.0,,Residential,489000.0,366 Rue Mayor 
+1,1,,,Residential,325000.0,88 rue Charlotte 
+2,3,1105.0,,Residential,1016379.0,1000 de la Montagne 
+,1,461.0,,Residential,250000.0,6670 Rue Jeanne-Mance 
+1,1,9684.0,,Residential,490000.0,377 Rue Sherbrooke O. 604
+3,1,,.088,Residential,549000.0,49 Av. Elm 
+2,2,800.0,,Residential,499000.0,"1375 Rue Basin, #812 "
+4,1,1000.0,>284,Residential,1799900.0,35-37 Mtée des Érables 
+3,2,3107.0,.349,Residential,1598000.0,300 Ch. Hemming 
+1,1,665.0,,Residential,399000.0,"5175 Av. de Courtrai, #708 "
+2,2,1625.0,,Residential,365000.0,"12052 Rue Notre-Dame O., #4 "
+1,1,600.0,,Residential,577000.0,"1030 Rue De Bleury, apt. 3216 "
+3,2,18604.0,,Residential,650000.0,154 Rue des Trésors-de-l'Île 301
+4,3,2184.0,,Residential,1033998.0,55 6e Avenue 
+3,1,,.063,Other,1850000.0,6277-6287 Rue St-Dominique 
+1,1,350.0,,Residential,449000.0,1288 Rue St-Antoine O 
+4,2,2184.0,0.07,Residential,1195000.0,610 Ch. de la Cote-Ste-Catherine 
+2,2,1103.0,,Residential,410000.0,4475 Boul. St-Jean 204
+2,1,81345.0,,Residential,609000.0,651 Rue de la Montagne 907
+1,1,770.0,,Residential,469000.0,5850 Av. de Monkland 
+4,1,950.0,.275,Residential,229000.0,116 Rue Cote 
+,,,,Residential,345000.0,1061 rue Saint-Alexandre 
+1,1,1089.0,,Residential,432000.0,"1520 Av. du Docteur-Penfield, # 81 "
+6,4,,.047,Residential,1900000.0,1262Z Rue St-Mathieu 
+3,3,1535.0,,Residential,1447190.0,1000 de la Montagne 
+1,1,,,Residential,545000.0,1188 Rue St-Antoine Ouest 
+1,1,950.0,,Residential,390000.0,"1069 Rue De Bleury, #2 "
+,,5276.0,.056,Residential,1799000.0,306-310 Boul. St-Joseph E. 
+1,1,57673.0,,Residential,399000.0,1869 Rue des Bassins 509
+4,3,3940.0,.384,Residential,1248000.0,17 Rue de Blois 
+2,1,534.0,,Residential,460474.0,1000 de la Montagne 
+6,5,2186.0,.899,Residential,853000.0,Ch. du Lac-Mercier 
+4,2,,.534,Residential,850000.0,403 Ch. du Sommet 
+3,1,183848.0,,Residential,988000.0,4777 5e Avenue 
+1,1,600.0,,Residential,379000.0,2118 Rue St-Dominique 
+3,1,1520.0,,Residential,329000.0,4445 Rue de Lanaudiere 
+2,1,842.0,,Residential,668000.0,1730 Rue St-Patrick 806
+1,1,525.0,,Residential,459000.0,"1225 Boul. Robert-Bourassa, #2209 "
+1,1,900.0,,Residential,245000.0,4174 Av. Girouard 
+2,1,1450.0,,Residential,1049000.0,"2000 Rue Drummond, #1701 "
+3,2,1143.0,.103,Residential,419000.0,4805 Rue Parkinson 
+2,1,960.0,,Residential,799000.0,1045 Rue Wellington 
+1,1,65875.0,,Residential,425000.0,350 maisonneuve ouest 
+2,3,1134.0,,Residential,1102189.0,1000 de la Montagne 
+5,4,3278.0,.135,Residential,2295000.0,3018 Ch. De Breslay 
+3,2,1500.0,.425,Residential,325000.0,8C chemin Estate 
+3,3,1854.0,,Residential,2344800.0,1000 de la Montagne 
+1,1,729.0,.002,Residential,575000.0,1300 Boul. René-Lévesque Ouest 
+5,2,,.172,Residential,699000.0,5490 Rue Raymond 
+,1,410.0,,Residential,358262.0,1000 de la Montagne 
+1,1,1140.0,,Residential,319000.0,"2453 Rue Sherbrooke E., #5 "
+4,3,3200.0,,Residential,1399000.0,1992 Rue de Cognac 
+1,1,692.0,,Residential,230000.0,3810 Notre-Dame 
+1,1,1080.0,,Residential,389000.0,"1069 Rue De Bleury, #1 "
+2,3,1105.0,,Residential,929986.0,1000 de la Montagne 
+4,3,2821.0,.243,Residential,629000.0,142 Grand Boulevard E. 
+,1,470.0,,Residential,218000.0,4295 Beaubien Est 
+2,2,1100.0,,Residential,829000.0,1300 Boul. René-Lévesque O 
+2,1,1300.0,,Residential,719000.0,1455 Rue Sherbrooke O. 512
+2,2,1670.0,,Residential,1088888.0,72 Rue Prince 
+2,2,1237.0,,Residential,552000.0,"6745 Rue Clark, #PH302 "
+3,2,1166.0,,Residential,399000.0,4910 Rue Richmond 
+3,2,210757.0,,Residential,1550000.0,1000 Rue de la Commune E. 901
+4,2,1800.0,.132,Residential,338000.0,2309 Route 303 
+1,1,575.0,,Residential,425000.0,"1414 Rue Chomedey, #907 "
+2,2,1220.0,,Residential,579000.0,"455 Rue St-Louis, # PH504 "
+2,1,1860.0,,Residential,685000.0,4293 Rue St-Hubert 
+1,1,554.0,,Residential,389000.0,"1288 Av. des Canadiens-de-Montreal, # 3202 "
+4,3,2184.0,,Residential,1183093.0,53 6e Avenue 
+1,1,594.0,,Residential,519043.0,1000 de la Montagne 
+2,1,600.0,,Residential,659000.0,"1188 Rue St-Antoine O., #4808 "
+1,1,563.0,,Residential,468000.0,101 Rue de la Rotonde 
+2,2,93719.0,,Residential,549999.0,100 Av. des Sommets 1803
+,,,,Residential,529000.0,1070 rue de bleury 
+2,1,915.0,,Residential,499000.0,3485 Rue Durocher 
+,,,,Residential,699000.0,2355-2359 Rue Frontenac 
+6,6,,.262,Residential,3800000.0,3021 AV. DE TRAFALGAR 
+4,2,2775.0,0.72,Residential,299900.0,27C Prom. Carson 
+1,1,675.0,,Residential,399000.0,"1070 Rue Berri, #35 "
+1,1,1010.0,,Residential,485000.0,"320 Rue Sherbrooke O., #403 "
+1,1,600.0,,Residential,399000.0,"1070 Rue De Bleury, #504 "
+3,3,4238.0,.663,Residential,995000.0,2051 Boul. du Roi-Charles 
+3,1,1225.0,.276,Residential,299999.0,9510 Route Marie-Victorin 
+,,,0.25,Residential,50000.0,Rue Léonard 
+2,3,1175.0,,Residential,1099899.0,1000 de la Montagne 
+1,1,860.0,,Residential,399000.0,"1515 Rue St-Jacques, #3 "
+1,1,700.0,,Residential,415000.0,"185 Rue du  Seminaire, #302 "
+6,1,2000.0,.195,Residential,174900.0,356 Rue Cobb 
+3,3,1782.0,.034,Residential,1075000.0,8053 AV. CASGRAIN 
+1,1,675.0,,Residential,299000.0,3625 Av. Ridgewood 105
+3,3,2557.0,,Residential,3527892.0,1000 de la Montagne 
+3,3,2500.0,,Residential,2745000.0,"1200 Boul. De Maisonneuve O., #PH-D "
+3,1,1520.0,,Residential,309000.0,4300 Rue La Perriere 
+4,3,2061.0,,Residential,845000.0,2106 Rue Colbert 
+1,1,693.0,,Residential,450000.0,1450 Rue Island 315
+,,,.057,Residential,42000.0,91 Mtée Chartrand 
+2,2,1000.0,,Residential,529000.0,"111 Ch. de la Pointe-Nord, #525 "
+2,2,1056.0,.205,Residential,179000.0,1132 Rue de Clarendon 
+3,1,106093.0,,Residential,325000.0,9003 Av. Pierre-De Coubertin 
+4,2,,0.05,Residential,525000.0,8406 Rue de Marseille 
+2,1,1650.0,,Residential,645000.0,"50 Rue McGill, # 55 "
+4,1,1434.0,>214,Residential,489900.0,2 Ch. du Trécarré 
+3,2,,.116,Residential,419000.0,15 Rue de Dakar 
+2,2,1150.0,,Residential,1299000.0,"1288 Av. des Canadiens-de-Montreal, #PH4802 "
+2,2,2508.0,,Residential,799000.0,1624 Av. des Pins O. 
+,,2845.0,,Residential,899000.0,40-40A Rue Ste-Anne 
+2,1,737.0,,Residential,399000.0,650 rue Jean-D'Estrées 
+,,,.113,Residential,27000.0,Chemin de Chertsey 
+2,2,920.0,,Residential,579000.0,"441 Av. du President-Kennedy, #1402 "
+3,4,5064.0,.301,Residential,1475000.0,684 Rue de Bois-Guillaume 
+5,3,,0.08,Residential,1560000.0,4615 Rue Vittorio-Fiorucci 
+2,2,1000.0,,Residential,599000.0,"1181 Rue Bishop, #405 "
+1,1,460.0,,Residential,401952.0,1000 de la Montagne 
+2,1,817.0,,Residential,410000.0,225 rue de la montagne 
+2,2,1343.0,,Residential,969000.0,157 Saint-Paul 
+3,2,1218.0,,Residential,599000.0,6680 Rue de Terrebonne 103
+1,1,1100.0,,Residential,748979.0,1790 Rue du Canal 
+1,1,450.0,,Residential,249000.0,"3470 Rue Simpson, #1107 "
+5,2,1250.0,.443,Residential,999900.0,68 Ch. de Pine Lodge 
+,,864.0,.448,Residential,159000.0,307 chemin River 
+3,1,,6.82,Residential,1199000.0,358 Ch. de la Chute 
+3,2,1260.0,.179,Residential,549000.0,8465Z Rue du Notaire-Girard 
+3,1,3633.0,.055,Residential,1195000.0,3411-3415 Rue St-Jacques 
+3,2,2085.0,,Residential,2191245.0,"1288 Av. des Canadiens-de-Montréal, #PH4903 "
+2,1,675.0,,Residential,566539.0,1000 de la Montagne 
+4,2,,,Residential,475000.0,75 avenue Fouquet 
+4,2,,.115,Residential,498000.0,5625 rue bordeaux 
+2,2,2908.0,,Residential,3300000.0,2333 Rue Sherbrooke O. 805
+1,1,477.0,,Residential,360000.0,1061 Rue St-Alexandre 310
+2,2,1000.0,,Residential,645000.0,1414 rue chomedey 
+3,2,2000.0,,Residential,475000.0,7923A Rue Nadeau 
+2,1,826.0,,Residential,598000.0,1414 RUE CHOMEDEY 
+2,1,1122.0,.092,Residential,384000.0,1434 Rue du Beaujolais 
+1,1,855.0,,Residential,389000.0,"90 Rue des Soeurs-Grises, #610 "
+2,1,1060.0,,Residential,249000.0,"1999 Rue Beauregard, #107 "
+5,5,3320.0,.277,Residential,1080000.0,Rue du Mont-Sanford 
+2,2,1625.0,,Residential,439000.0,"12050 Rue Notre-Dame O., #1 "
+1,1,550.0,,Residential,419000.0,235 Rue Peel 
+2,1,525.0,,Residential,420000.0,2100 Boul. St-Laurent 509
+3,2,1480.0,,Residential,2998000.0,3445 Rue Redpath 
+1,1,554.0,,Residential,419000.0,"1288 Av. des Canadiens-de-Montreal, # 3102 "
+4,1,,.041,Residential,2498000.0,6646Z-6650Z Av. De Gaspé 
+2,2,1995.0,,Residential,2000000.0,"3456 Av. du Musee, #R201 "
+4,2,1569.0,,Residential,880000.0,4780 Victoria 
+1,1,1270.0,,Residential,424997.0,3010 Boul. St-Joseph 
+1,1,82959.0,,Residential,395000.0,2355 Av. Jeanne-d'Arc 208
+,1,406.0,,Residential,340762.0,1000 de la Montagne 
+1,1,,,Residential,375000.0,363 rue saint-hubert 
+1,1,68971.0,,Residential,475000.0,1070 Rue De Bleury 705
+2,1,108823.0,,Residential,468888.0,650 Boul. Marcel-Laurin 201
+2,1,699.0,,Residential,586682.0,1000 de la Montagne 
+1,1,750.0,,Residential,425000.0,363 Rue St-Hubert 
+3,3,3454.0,0.35,Residential,1377000.0,15023-15027 Boul. Gouin O. 
+2,2,1469.0,,Residential,649000.0,"6747 Rue Clark, #PH301 "
+1,1,460.0,,Residential,365000.0,1800 Boul. René-Lévesque O. 
+8,8,431417.0,0.31,Residential,799000.0,258 Rue Argue 
+2,2,1450.0,,Residential,1399999.0,"1225 Boul. Robert-Bourassa, # 2501 "
+3,2,1050.0,,Residential,290000.0,"5845 Place Decelles, #6 "
+3,1,930.0,,Residential,289000.0,766 Rue Lafleur 
+1,1,600.0,,Residential,459000.0,"1288 Av. des Canadiens-de-Montréal, #4403 "
+3,2,208206.0,,Residential,1680000.0,859 Rue de la Commune E. 705
+3,3,2500.0,,Residential,859000.0,6105 Av. Wilderton 
+,,5600.0,,Residential,2650000.0,4160 Boul. Dorchester O. 
+,,4083.0,.479,Residential,359800.0,260 Rue Principale 
+4,4,2345.0,.948,Residential,980000.0,Rue de l'Everest 
+2,2,702.0,,Residential,613414.0,1000 de la Montagne 
+5,2,262974.0,,Residential,835000.0,1436 Rue Galt 
+4,1,12583.0,.085,Residential,988000.0,5115 Av. Cumberland 
+1,1,675.0,,Residential,399000.0,"1070 Rue Berri, #25 "
+1,1,510.0,,Residential,445643.0,1000 de la Montagne 
+2,2,1630.0,,Residential,799000.0,"157 Rue St-Paul O., #39 "
+,,,0.25,Residential,50000.0,Rue Léonard 
+,,,>287,Residential,500000.0,chemin Murphy 
+3,1,,.189,Other,1120000.0,36 Rue Besner 
+6,5,3454.0,0.35,Residential,1377000.0,15023A-15027A Boul. Gouin O. 
+4,3,1560.0,.075,Residential,479900.0,1 chemin Blue Ridge 
+3,2,1325.0,,Residential,448000.0,248 Rue Corot 
+4,3,2965.0,.052,Residential,1595000.0,2233 - 2235 Av. Girouard 
+5,2,,.172,Residential,1500000.0,4990 Av. des Sorbiers 
+4,2,2711.0,.115,Residential,1795000.0,15 Avenue Melbourne 
+1,1,493.0,,Residential,408000.0,1065 rue Wellington 
+3,3,1481.0,,Residential,1396279.0,1000 de la Montagne 
+3,2,1488.0,,Residential,738000.0,85 Place du Soleil 
+6,3,3200.0,,Residential,1175000.0,No address available 
+2,1,1370.0,,Residential,529000.0,"2475 Rue des Harfangs, #2501 "
+1,1,1615.0,,Residential,399000.0,"455 Rue St-Louis, #113 "
+3,1,1539.0,,Residential,349900.0,284 Rue Main 
+2,1,920.0,,Residential,259000.0,"740 Boul. Montpellier, #1404 "
+5,3,5500.0,.297,Residential,2395000.0,9122 Boul. Marie-Victorin 
+,,2716.0,,Residential,3599000.0,1035 Rue Lambert-Closse 
+1,1,632.0,,Residential,319000.0,"315 Rue richmond, #212 "
+3,1,2935.0,.421,Residential,5998000.0,8810 Boul. Marie-Victorin 
+3,,2612.0,.052,Residential,1199000.0,737-739 Rue de Versailles 
+3,1,,.077,Residential,577000.0,"47 Av. de Carmel Cr., Pointe-Claire North "
+1,1,531.0,,Residential,325000.0,925 rene-levesque E 
+2,1,1100.0,,Residential,339000.0,"6644 Av. Somerled, #105 "
+1,1,65122.0,,Residential,590000.0,1450 Rue Island B205
+2,2,827.0,,Residential,684607.0,1000 de la Montagne 
+2,2,1000.0,,Residential,725000.0,495 Viger Ouest 
+4,2,1975.0,.034,Residential,995000.0,5291 2e Avenue 
+3,3,3350.0,,Residential,949000.0,308 Chemin des Pins 
+3,3,2100.0,,Residential,975000.0,"2355 Rue Duvernay, #101 "
+4,2,,.038,Residential,1499000.0,1983 Rue Wellington 
+1,1,118575.0,,Residential,1000000.0,1709 Rue St-Patrick 303
+2,1,,.024,Residential,525000.0,361Z-363Z Rue de Liège E. 
+1,1,930.0,,Residential,498000.0,"333 Rue Sherbrooke E., #M2-516 "
+1,1,542.0,,Residential,349000.0,"1200 St-Alexandre, #303 "
+3,3,2700.0,,Residential,599260.0,10 Av. St-Denis 
+2,1,114271.0,,Residential,500000.0,4004 Av. des Érables 
+4,2,3060.0,,Residential,1399000.0,16449 Boul. Gouin O. 
+2,1,1099.0,,Residential,719000.0,859 Rue de la Commune E. 104
+2,2,1500.0,,Residential,849000.0,"100 Av. des Sommets, #1204 "
+3,2,3048.0,,Residential,1999000.0,"1155 Rue de la Montagne, #3201 "
+3,2,1858.0,.943,Residential,399900.0,389 Ch. Jingletown 
+3,2,941.0,,Residential,757340.0,1000 de la Montagne 
+3,3,1457.0,,Residential,1373652.0,1000 de la Montagne 
+4,2,3042.0,.168,Residential,1248000.0,130 Av. de Bathurst 
+2,2,1200.0,,Residential,520000.0,4188 Rue De Bullion 
+,,,.127,Residential,379000.0,"495 Rue Pie-XII, Vaudreuil-Dorion, QC, J7V 1Z7 "
+2,1,641.0,,Residential,538002.0,1000 de la Montagne 
+4,1,117499.0,,Residential,649000.0,5399 Av. Bourret 
+2,2,1500.0,,Residential,699000.0,1910 Rue Augustin-Cantin 
+3,2,1360.0,0.33,Residential,349900.0,6 Rue Leslie 
+4,2,,.187,Residential,599000.0,75 17e Avenue 
+6,4,8360.0,,Residential,2299000.0,3605 Rue Arthur-Villeneuve 
+3,1,,>0.3,Residential,374000.0,65 Boul. du Domaine 
+3,3,2700.0,,Residential,607958.0,8 Av. St-Denis 
+1,1,1050.0,,Residential,489000.0,"50 Rue des Soeurs-Grises, #501 "
+4,4,2000.0,.277,Residential,785000.0,Rue du Denali 
+1,1,464.0,,Residential,405477.0,1000 de la Montagne 
+2,1,9203.0,,Residential,439000.0,"7 Rue Édouard-Lalonde, apt. 402 "
+1,1,664.0,,Residential,588000.0,2615 Rue Augustin-Cantin B114
+1,1,798.0,,Residential,425000.0,1830 Panet 
+3,2,1450.0,,Residential,849000.0,"3001 Rue Sherbrooke O., #502 "
+3,1,1200.0,.069,Residential,222900.0,22 Rue de Matane 
+2,2,1000.0,,Residential,835000.0,1310 Boul. Rene-Levesque Ouest 
+3,3,2700.0,,Residential,607958.0,8A Av. St-Denis 
+1,1,644.0,,Residential,375000.0,1061 rue Saint-Alexandre 
+2,1,726.0,,Residential,490000.0,236 Rue Beaudoin 
+2,2,850.0,,Residential,524500.0,"385 Rue St-Martin, #612 "
+4,3,3200.0,,Residential,1399000.0,1992Z Rue de Cognac 
+5,3,,.277,Residential,925000.0,6775 rue de la Bataille 
+3,2,1320.0,,Residential,469000.0,"7525 Av. Mountain Sights, #701 "
+2,2,88554.0,,Residential,680000.0,315 Rue Richmond 720
+3,2,1920.0,,Residential,795000.0,3765 Rue Ste-Catherine E. 
+2,1,1200.0,,Residential,529000.0,"4490 Rue St-Urbain, # 101 "
+3,1,,,Residential,625000.0,4081 Rue Clark 
+2,1,660.0,,Residential,619000.0,"1050 Rue Drummond, #3702 "
+,,,.049,Residential,345000.0,Rue Champêtre Saint-Hippolyte 
+3,2,2439.0,,Residential,2375000.0,"3456 Av. du Musee, #PH202 "
+2,1,74244.0,,Residential,580000.0,1010 Rue William 604
+3,1,1380.0,,Residential,349900.0,"5315 Rue de Leslie, #5 "
+1,1,644.0,,Residential,395000.0,1061 Saint-Alexandre 
+3,2,1550.0,,Residential,385000.0,"14350 Rue Notre-Dame E., #210 "
+1,1,500.0,,Residential,459000.0,"1288 Rue St-Antoine O., #2811 "
+3,2,19540.0,,Residential,425000.0,1598-1606 Ch. du Lac-Écho 
+4,3,,.066,Residential,749000.0,11548 Av. des Récollets 
+3,3,1956.0,,Residential,2248911.0,1000 de la Montagne 
+5,3,3476.0,.315,Residential,2750000.0,7025 Rue Antonio-Di Ciocco 
+3,2,2900.0,,Residential,1095000.0,"303 Boul. Clairevue E., #4108 "
+3,2,1776.0,,Residential,1249000.0,3632 Rue De Bullion 
+1,1,750.0,,Residential,469000.0,"1199 Rue Bishop, #606 "
+2,1,,,Residential,679000.0,4146A Av. de l'Hôtel-de-Ville 
+2,3,1175.0,,Residential,1097590.0,1000 de la Montagne 
+1,1,630.0,,Residential,349000.0,3810 Rue St-Antoine O 
+1,1,87586.0,,Residential,449000.0,859 Rue de la Commune E. 102
+,,,.004,Residential,89900.0,Ch. Ryan 
+3,2,1150.0,,Residential,649000.0,"1280 Rue St-Jacques, #302 "
+3,3,2575.0,,Residential,1725000.0,4445 Av. Montclair 
+5,3,2279.0,.338,Residential,589000.0,313 Rue Renaud 
+6,2,,.183,Residential,359000.0,148 Royale 
+2,1,,,Residential,339000.0,5260 Rue Riviera 
+2,3,1060.0,,Residential,1010457.0,1000 de la Montagne 
+4,2,,,Residential,449000.0,8552 Boul. St-Michel 
+2,2,1800.0,,Residential,899000.0,"6111 Av. du Boise, # 8F "
+3,2,1695.0,,Residential,1050000.0,"199 Rue de la Rotonde, #1808 "
+,,,,Residential,210000.0,443 Ch. Clavelle 
+2,1,1010.0,.092,Residential,389000.0,1423 Rue du Beaujolais 
+1,1,900.0,,Residential,359000.0,"90 Rue des Soeurs-Grises, #612 "
+1,1,58642.0,,Residential,399000.0,1811 Rue William 205
+1,1,,,Residential,399000.0,3461 Saint-Antoine 
+2,1,1380.0,,Residential,399000.0,"5300 Rue de Leslie, #4 "
+,,,.793,Residential,274900.0,23 Beauchamp 
+4,3,2625.0,.068,Residential,1325000.0,715 Boul. de la Foret 
+,,,g>11,Residential,99900.0,Rue Principale 
+2,1,830.0,,Residential,438998.0,"3583 Rue Durocher, #A "
+,,3950.0,.803,Residential,424900.0,376 Ch. des Outaouais 
+3,2,1700.0,.035,Residential,709000.0,5633 Av. Bourbonniere 
+2,2,1080.0,,Residential,899000.0,"1310 Boul. Rene-Levesque O, #2508 "
+3,2,1488.0,.054,Residential,738000.0,85Z Place du Soleil 
+2,2,1322.0,,Residential,609000.0,3779 Rue Drolet 
+3,2,2100.0,,Residential,879000.0,6107 Av. Wilderton 
+4,1,1345.0,.003,Residential,649000.0,900 Rue Sherbrooke O. 83
+2,3,1105.0,,Residential,1001259.0,1000 de la Montagne 
+2,2,1025.0,,Residential,439000.0,"3608 Av. de l'Hotel-de-Ville, # 1 "
+2,3,1175.0,,Residential,1095290.0,1000 de la Montagne 
+1,1,803.0,,Residential,499000.0,4418 Av. de l'Hôtel-de-Ville 
+2,1,641.0,,Residential,538002.0,1000 de la Montagne 
+1,1,640.0,,Residential,425000.0,"1548 Rue Basin, #609 "
+,,,.002,Residential,299900.0,2160 Beaudoin 
+4,3,,.086,Residential,785000.0,10560 Rue Hogue 
+1,1,600.0,,Residential,459000.0,"1155 Rue de la Montagne, #3610 "
+6,5,5591.0,.023,Residential,1305000.0,Rue du Denali * 
+1,1,1080.0,,Residential,485000.0,"3550 Rue de la Montagne, #102 "
+4,2,2000.0,,Residential,1018000.0,4293 Rue Jean-Talon O 
+1,1,56167.0,,Residential,475000.0,1800 Boul. René-Lévesque O. 405
+3,1,850.0,.338,Residential,249900.0,812 Rue Victoria 
+3,2,2670.0,,Residential,1395000.0,1179 Rue De Bleury 
+1,1,543.0,,Residential,455749.0,1000 de la Montagne 
+2,1,,,Residential,649000.0,4144Z Av. de l'Hôtel-de-Ville 
+3,2,,.092,Residential,599000.0,12136 42e Avenue 
+4,4,5575.0,0.18,Residential,1400000.0,19218 Rue du Trotteur 
+1,1,600.0,,Residential,369000.0,"2055 Rue du Fort, #507 "
+3,1,,.174,Other,5000000.0,1489-1509 Boul. De Maisonneuve E. 
+3,3,2640.0,,Residential,759000.0,5190 Av. Rosedale 
+1,1,,,Residential,475000.0,705 rue william 
+1,1,67465.0,,Residential,259000.0,5700 Boul. Cavendish 1606
+2,2,1495.0,,Residential,539000.0,"1250 Av. des Pins O., #720 "
+1,1,600.0,,Residential,399000.0,"1000 Rue Ottawa, #724 "
+,,,,Residential,480000.0,2519 Rue Genest 
+5,2,2010.0,,Residential,799000.0,2288 Rue du Souvenir 
+2,2,1021.0,,Residential,665000.0,199 Rue de la Rotonde #1206 
+5,3,322917.0,.344,Residential,549900.0,3240 Rue Leclerc 
+3,1,62248.0,.118,Residential,329000.0,3304 Ch. du Lac 
+3,2,,.179,Residential,399000.0,325 Rue Ste-Marie 
+2,1,,.138,Residential,325000.0,432 Rue Cheverny 
+7,4,293995.0,.189,Residential,749000.0,660 Rue des Grands-Mâts 
+3,2,317535.0,.484,Residential,299000.0,130 7e Avenue 
+3,1,,.128,Residential,215000.0,67 Rue St-Pamphile 
+3,2,527432.0,.121,Other,550000.0,17 Rue du Garrot 
+4,2,,.155,Residential,225000.0,209 Av. des Goélands 
+2,1,134398.0,.697,Residential,289900.0,186Z Rue des Bouleaux 
+3,3,218497.0,.075,Residential,289900.0,813 Boul. Jacques-Cartier N. 
+3,1,,,Residential,315000.0,2518Z Av. de la Gare 
+4,1,,.092,Residential,299000.0,149 Rue Jeannotte 
+2,1,,.988,Residential,369000.0,1 Lac Lagon 
+2,1,,,Other,110000.0,705 Rue des Conifères 
+4,2,,.615,Residential,849900.0,2080 Place des Tisserands 
+4,2,89782.0,.095,Residential,259000.0,955 Rue des Harfangs 
+3,2,,.063,Residential,799000.0,4137 Rue du Croissant-du-Lac 
+3,1,,.036,Residential,179900.0,136 Rue Cousineau 
+4,1,,.118,Residential,119000.0,6 Rue de l'Église N. 
+5,3,,,Residential,380000.0,1039 Rue St-Charles S. 
+2,2,102505.0,.041,Residential,261500.0,120I Rue Leblanc 
+2,1,89599.0,,Other,159000.0,240 Rue du Domaine 
+3,1,113204.0,.098,Residential,489000.0,Allée de la Sérénité 
+4,1,,.182,Residential,259000.0,117 Rue St-Joachim 
+6,6,4482.0,.156,Residential,5900000.0,66 Crois. Forden 
+3,2,,.275,Residential,465000.0,29 Av. des Cyprès 
+3,1,,0.07,Residential,185000.0,325-11 Route Cameron 
+2,2,,.115,Residential,125000.0,28 Ch. du Lac-Grace 
+5,2,,0.39,Residential,383000.0,1892 Route 337 
+4,2,,.191,Residential,379900.0,286 Rue Cedar 
+4,1,142999.0,.097,Residential,289000.0,264 Rue Dureault 
+4,2,,0.43,Other,149900.0,1250 Boul. Bécancour 
+,,64702.0,.115,Residential,65000.0,9582 Boul. Rideau 
+3,1,,.252,Residential,199000.0,176 Rue Rousseau 
+3,1,20333.0,0.53,Residential,275000.0,750 Rue de Beauport 
+4,2,117284.0,.306,Residential,312000.0,118 Rue Laprairie 
+1,1,55434.0,,Residential,279900.0,735 1re Avenue 
+3,1,,.142,Residential,650000.0,30 Mtée des Marguerites 
+3,1,169962.0,.173,Residential,289900.0,865 Ch. de Masson 
+3,1,,.382,Residential,179000.0,125 3e av. Beauvoir 
+3,2,,.309,Residential,349900.0,35 Rue Gosselin 
+3,1,,.458,Residential,349900.0,126 Rue Bussière 
+3,1,,.768,Residential,399000.0,358 Rue Russell 
+2,1,80945.0,.533,Residential,70000.0,184 Rg Bourgchemin E. 
+3,1,,.013,Residential,289000.0,548 Mtée du Lac-Gravel 
+3,1,,.407,Residential,347000.0,558 Route 309 S. 
+3,1,,.056,Residential,289000.0,1853 Place de la Berge 
+2,1,,,Other,89000.0,44 Rue de la Poudreuse 
+3,1,,.227,Residential,169000.0,6005 Route 335 
+4,2,,.021,Residential,205000.0,83 Rue Lecours 
+3,1,,.537,Residential,200000.0,2216 Rue Clarence 
+2,1,,.112,Residential,139900.0,1390 7e av. du Domaine-Armstrong 
+3,1,113204.0,.107,Residential,489000.0,Allée de la Sérénité 
+2,1,,.131,Residential,129000.0,47 Rue des Pins 
+2,1,,.371,Residential,249000.0,89 Rue de la Saulaie 
+2,1,,.265,Residential,399000.0,90 Rue des Peupliers 
+3,1,,.136,Residential,350000.0,20 159e Avenue 
+5,2,,.696,Residential,789000.0,1320-1322 Rue Principale 
+2,3,,.239,Residential,924900.0,63 Ch. du Richelieu 
+1,1,,.492,Residential,195000.0,110 Route 132 E. 
+3,1,,.371,Residential,259000.0,189 Route 132 O. 
+3,1,,.285,Residential,775000.0,3 Rue Sérénac 
+4,1,100998.0,.126,Residential,258000.0,12 Rue De La Morandière 
+2,1,,.166,Residential,155000.0,141 Boul. St-Benoit E. 
+3,1,14231.0,.039,Residential,424900.0,2199Z Ch. St-Antoine 
+3,1,,.135,Residential,85500.0,346 3e Rue E. 
+1,1,,.428,Residential,239900.0,781 Ch. du Canton-de-Le Jeune 
+4,2,104098.0,.131,Residential,349900.0,471 Rue Iberville 
+5,2,,.396,Residential,255900.0,261-261A Av. Lambert 
+3,1,,.598,Residential,374500.0,400-404 Route Nationale 
+2,1,,.102,Other,219000.0,311 Rue Le Pacifique 
+2,1,,.152,Residential,129000.0,687 Rue l'Annonciation S. 
+3,1,73152.0,.003,Residential,264000.0,18 Rue St-Marcel 
+5,2,110997.0,.087,Residential,332000.0,288 Rue Monseigneur-Latulipe O. 
+2,1,,,Other,135000.0,14510 Rue Bastien 
+1,2,,.191,Residential,589000.0,299 Ch. St-Joseph 
+2,1,62409.0,.092,Residential,259000.0,26 Rue St-Jean 
+1,1,,.716,Residential,200000.0,140 Rue St-Paul 
+3,1,,,Residential,424900.0,758 Carré Louis-Bourque 
+4,2,97037.0,.124,Residential,344900.0,185 Rue du Curé-Ouellet 
+4,1,,0.11,Residential,498900.0,14176 Rue Philippon 
+5,1,259195.0,.205,Residential,297000.0,828 Route 133 
+3,1,,.476,Residential,299000.0,833 Rue Camille-Lacasse 
+3,3,,0.62,Residential,575000.0,123 Rue Du Paul 
+2,1,100395.0,.344,Residential,396000.0,12 Rue du Hauban 
+3,1,,0.16,Residential,369900.0,15125 Rue des Grives 
+2,1,100395.0,.344,Residential,396000.0,40 Rue du Hauban 
+5,2,,.155,Residential,599900.0,76 Rue Champigny 
+3,2,134441.0,.067,Residential,253000.0,4060 Rue de l'Étape 
+3,1,,.092,Residential,135000.0,61 Rue St-Pierre E. 
+4,1,13174.0,.171,Residential,159400.0,392 Rue St-Janvier 
+4,2,,.145,Other,275000.0,5155 Rue de Chamonix 
+3,1,,.252,Residential,264500.0,185 Route 276 
+5,2,,.193,Residential,459000.0,169 Rue Lamartine 
+4,2,19375.0,.143,Residential,365000.0,129 Rue Marie-René 
+2,1,,0.23,Residential,225000.0,25 Rue des Pensées 
+3,3,,.413,Residential,347500.0,8 Rue St-Augustin 
+3,1,,0.18,Residential,598888.0,236 10e Avenue 
+2,1,121309.0,.457,Other,115000.0,194 Rue Notre-Dame E. 
+4,3,,.535,Residential,789000.0,2212 Rue de l'Orchestre 
+4,3,,,Residential,699000.0,210 Rue de la Renaissance 
+3,1,,.062,Residential,295000.0,26 Ch. du Village 
+5,2,,.254,Residential,115000.0,41 Rue des Pins E. 
+2,1,,.739,Other,119000.0,496 Route de la Montagne 
+4,1,,.742,Residential,299000.0,113 Rue de l'Avenir 
+3,2,,.095,Residential,114500.0,27 Rue de la Congrégation 
+8,2,,.835,Residential,599000.0,151 Ch. Viger 
+3,2,,0.16,Residential,239000.0,2701 Rue Principale 
+2,1,,.399,Residential,449900.0,861-861A Rue Notre-Dame 
+3,1,,.951,Residential,319000.0,84 Rue François-Xavier 
+4,2,,.143,Residential,295000.0,524 Av. Socrate 
+3,1,88243.0,0.99,Residential,325000.0,90 Rue des Prés 
+3,1,,,Residential,649900.0,4 Rue des Coprins 
+2,1,,.275,Residential,224900.0,98 Rue du Curé-Suzor 
+6,3,362313.0,.847,Residential,560000.0,412Z Rg Bois-Franc E. 
+4,2,,.164,Residential,369000.0,37 Rue Rochefort 
+3,1,,.129,Residential,69000.0,139 Rue Principale 
+6,2,,,Residential,195000.0,17 Av. Bourget 
+4,2,,.299,Residential,150000.0,307 Rue Gendron 
+2,1,,,Other,118500.0,101 3e Rue 
+2,1,,.741,Residential,289000.0,1560 Rue Couture 
+2,1,,.158,Residential,176000.0,57 Rue St-Joseph 
+2,1,,.344,Residential,69000.0,197 Lac-Huron 
+2,1,,.185,Residential,1150000.0,71 Rue Notre-Dame 
+5,3,,.132,Residential,3999500.0,1000 Ch. St-Arnaud 
+3,2,,.154,Residential,257000.0,61 Rue Joseph-Ernst 
+5,1,,.382,Residential,449900.0,14 Rue Paul-Émile-Borduas 
+3,1,159995.0,.612,Residential,319500.0,155 Rue Lizotte 
+4,2,,.289,Residential,419900.0,459 Route 137 
+5,1,,.276,Residential,79000.0,385 11e Rang 
+2,2,1775.0,,Residential,1350000.0,1321 Rue Sherbrooke O. #D30 
+2,1,51882.0,,Residential,299700.0,249 Rue Giroux 
+2,2,,,Residential,1750000.0,3 Rue Westmount-Square #1212 
+1,1,,.319,Residential,89900.0,45 Rue Principale 
+3,1,,.139,Residential,469000.0,1359 Boul. Virginie-Roy 
+2,1,,.176,Residential,549900.0,63-63A Rue Marie-Antoinette 
+3,2,,.991,Residential,399000.0,139 Ch. Bellerive 
+4,2,,.115,Residential,259000.0,166 Rue Aikman 
+5,2,,,Residential,675000.0,222 Rue Monseigneur-Charbonneau 
+4,1,191996.0,.405,Residential,214000.0,3171 Rue Turgeon 
+5,3,,.856,Residential,399000.0,675 Rg Ste-Julie 
+4,2,159995.0,>0.3,Residential,400000.0,20 Ch. des Sapins 
+3,2,248862.0,.099,Residential,239900.0,310 Rue St-Jean 
+6,2,96003.0,.165,Residential,319900.0,61 Rue Belval 
+5,2,,.307,Residential,629000.0,70 Rue Duplessis 
+3,1,140996.0,0.09,Residential,339900.0,75 Rue George-Adams 
+1,1,,.456,Residential,84500.0,268E Route 293 N. 
+3,2,,.101,Residential,189900.0,1530 Rue Nouvel 
+6,2,,.576,Residential,449900.0,6365 Ch. de St-Jean 
+3,2,,.128,Residential,749000.0,150 Place La Millionnaire 
+1,1,,.829,Farm,575000.0,1953Z Ch. Francisco 
+2,1,,.534,Residential,349900.0,478 Rg de la Pointe-du-Nord-Est 
+2,2,,.142,Residential,359000.0,102 Rue Vanier 
+4,2,164699.0,.246,Residential,567000.0,289 Rue Miljours 
+4,2,,.471,Residential,189000.0,244 Rue Principale 
+4,2,,.147,Residential,225000.0,9 2e Rue O. 
+4,5,3026.0,,Residential,150000.0,136 Ch. des Légendes #C1 
+3,1,96595.0,.181,Residential,168000.0,1324 Rue St-Benoit 
+3,1,,.257,Residential,259000.0,272 Route 117 
+2,1,,.182,Residential,299000.0,1048-1050 Rue Piette 
+5,3,3269.0,.155,Residential,1095000.0,13272 Rue Desjardins 
+4,2,201597.0,.766,Residential,347000.0,1636 Route 235 
+3,2,155904.0,.774,Residential,282000.0,298 Ch. Béchard 
+3,2,,.276,Residential,219900.0,833 Rue Ste-Julie 
+1,1,83603.0,0.24,Residential,374900.0,Allée de l'Étang 
+3,1,,.116,Residential,399900.0,1706 Rue Henri-Dunant 
+,1,15866.0,,Residential,319000.0,268 Rue Arago E. 
+3,1,,.161,Residential,129000.0,660 14e Avenue 
+3,1,,.126,Residential,275000.0,261 48e Avenue 
+2,1,,.101,Residential,149900.0,3316-3317 Rue de l'Escapade 
+4,1,,.468,Residential,229500.0,347 Rue Guévremont 
+5,2,192147.0,.246,Residential,279000.0,608 Rue Ste-Catherine 
+4,2,,.177,Residential,139900.0,70 Av. De Ramezay 
+4,2,,.028,Residential,98000.0,2105 Rue Monseigneur-Labrie 
+3,2,,.109,Farm,1100000.0,3436 8e Rang E. 
+3,2,118941.0,.575,Residential,349900.0,4037 Ch. Blanchette 
+3,2,,.115,Residential,589900.0,1479 Rue Albert 
+1,1,,.225,Other,189900.0,5147 Vieille Route 
+3,1,98802.0,.311,Residential,259900.0,1847 Ch. du Lac-Paradis 
+5,2,,.502,Residential,474000.0,19 Ch. des Domaines 
+3,2,1266.0,,Residential,529000.0,4300 Place des Cageux #701 
+3,2,180005.0,.203,Residential,474900.0,24 Rue d'Ovesta 
+5,2,,.579,Residential,300000.0,107 Route 132 E. 
+2,2,,0.15,Residential,379000.0,146 Rue Balzac 
+4,3,2651.0,.331,Residential,1275000.0,430 Allée des Chevaux-Blancs 
+2,1,,.284,Residential,747000.0,38 Ch. de l'Orée-des-Bois 
+3,1,104819.0,.791,Residential,225000.0,1040 Rg Ste-Anne 
+3,2,,,Residential,599900.0,80 Rue Louis-de-France 
+4,1,,.154,Residential,139000.0,1450 Av. de Grand-Mère 
+5,3,,.294,Residential,729000.0,371 Ch. du Sommet-Bleu 
+2,2,120997.0,.165,Residential,334900.0,100-100A 1er Boulevard 
+3,1,,.127,Residential,514900.0,1837 Rue d'Angers 
+6,1,201005.0,.791,Residential,400000.0,212 Rg St-André 
+3,1,,.052,Residential,249900.0,392 Route 132 
+2,2,128004.0,.214,Residential,204900.0,146 Rg Ste-Augustine 
+4,2,,.149,Residential,284000.0,471 Rue Saucier 
+4,2,,.595,Residential,485000.0,328 Route 234 
+3,3,,.336,Residential,1449000.0,1480 Rue des Quatre-Saisons 
+3,2,,,Residential,589000.0,7641 Rue Claire-Fauteux 
+2,1,,0.57,Residential,249000.0,3234 Rue du Domaine-Michel 
+4,2,,.136,Residential,393000.0,4215 Rue Barbeau 
+3,2,,.199,Farm,1950000.0,840Z-842Z Ch. St-Pierre 
+5,2,,0.16,Residential,389000.0,88 Rue Duranceau 
+4,2,,.135,Residential,459500.0,16435 Av. Aline-Letendre 
+2,2,933.0,,Residential,139000.0,150 Ch. au Pied-de-la-Montagne #310-B 
+4,1,,.739,Residential,349000.0,4023 Rue Sherbrooke 
+4,2,240003.0,.689,Residential,399000.0,461 Route des Campagnards 
+3,2,,1.03,Residential,549000.0,82 Ch. des Buttes 
+4,1,,.303,Residential,319000.0,1557 Boul. du Bord-de-l'Eau 
+4,1,,.227,Residential,159000.0,2172 Rue de Matane-sur-Mer 
+1,1,663.0,,Residential,539000.0,1300 Boul. René-Lévesque O. #1103 
+3,2,,.317,Residential,549000.0,143 Route du Fleuve E. 
+1,1,,,Farm,749500.0,3700Z Rg Ste-Anne 
+3,2,,.228,Residential,489000.0,83-83A Rue Albert-Laberge 
+3,2,,.988,Residential,399000.0,141 Rue Alycia 
+2,1,149102.0,.139,Residential,69000.0,1021 4e Avenue 
+5,1,,,Residential,329000.0,981 Rue Cabot 
+4,2,99663.0,.151,Residential,279000.0,111 Rue Bourret 
+4,2,3110.0,.016,Residential,788800.0,35 Rue des Princes 
+2,1,95196.0,.391,Residential,350000.0,373 23e Avenue E. 
+6,4,,.311,Residential,1750000.0,894 Rue Richelieu 
+1,1,7287.0,.154,Residential,275000.0,26 Ch. de la Coulée 
+5,2,182556.0,.164,Residential,224500.0,425 Côte Bellevue 
+3,1,194827.0,.355,Residential,1100000.0,236 Rue Joseph-Pariseau 
+3,2,,.046,Residential,379000.0,30 Place de Grandpré 
+2,1,84798.0,.145,Residential,139900.0,19 Rue de la Villa 
+3,1,,.191,Residential,249000.0,118 Rue Brock 
+3,2,1386.0,,Residential,739000.0,8178 Av. Casgrain 
+5,2,104001.0,0.17,Residential,339000.0,771 Rue Ovide 
+2,2,,.042,Residential,549000.0,Allée Paisible 
+4,1,,.054,Residential,299900.0,1835 Imp. Darsigny 
+2,1,,.308,Residential,199000.0,12 Av. du Parc 
+2,1,,.222,Residential,115000.0,36 Route 161 
+4,1,,.371,Residential,690000.0,328 Rue du Domaine 
+4,2,109264.0,.183,Residential,425000.0,1021 Rue des Laurentides 
+3,2,,.056,Residential,139000.0,2853 Boul. du Saguenay 
+2,1,,.454,Residential,279000.0,8135 2e Rang 
+5,2,,.182,Residential,109000.0,653 Rue La Barre 
+3,2,,.742,Residential,950000.0,191Z Rg du Six 
+4,2,159995.0,>0.2,Residential,759000.0,244 Rue des Voiliers 
+2,2,,0.18,Residential,379000.0,9 Ch. Staynerville E. 
+2,1,111105.0,.697,Residential,129500.0,280 Rue du Lac-Marier 
+3,2,,.138,Residential,629900.0,1028 31e Avenue 
+3,2,,.086,Residential,284500.0,854 Rue Gabrielle-D'Anneville 
+4,2,,.134,Residential,499900.0,1005 Rue Morin 
+5,2,,.246,Residential,539000.0,4 Rue Charlevoix 
+4,1,,9.07,Residential,399000.0,210-214 Rue Bruce 
+1,1,110664.0,.109,Residential,169000.0,224 Ch. Mailloux 
+2,1,,.494,Residential,389000.0,1394 Ch. du Deuxième-Lac 
+2,1,97995.0,.344,Other,199000.0,115 Rue du Parc 
+5,3,,.459,Residential,429000.0,736 Rue Charbonneau 
+2,1,96003.0,.083,Residential,157000.0,34 Rue du Bel-Air 
+2,1,100804.0,.021,Residential,261650.0,54 Rue Boutin 
+2,2,1117.0,,Residential,369000.0,160 Ch. du Curé-Deslauriers #344-444 
+3,2,,.885,Residential,519900.0,4841 Ch. du Lac-Grothé 
+2,1,,.612,Residential,238000.0,236 Rue Principale 
+2,1,136637.0,.934,Residential,475000.0,125 Sent. des Fougères 
+1,1,4467.0,,Residential,289900.0,1830 Rue Panet 
+3,2,,.132,Residential,379000.0,812 Rue des Cèdres 
+1,2,73959.0,0.62,Residential,379000.0,75 Rue des Pinsons 
+2,1,,2.21,Residential,229000.0,2040Z Ch. des Cyprès 
+2,1,129996.0,.812,Residential,183000.0,10134 Ch. Lac-Bellot 
+2,1,,0.35,Residential,49500.0,45 Rue Principale 
+4,,173999.0,.124,Residential,159500.0,56 Route 216 
+3,2,2402.0,,Residential,2289000.0,1085 Rue Smith #1903 
+4,2,91353.0,.144,Residential,295000.0,21 Place Hivon 
+2,1,,1.79,Residential,629000.0,962 Ch. Vanasse 
+3,1,157637.0,,Residential,399000.0,765 Route 112 
+3,1,1150.0,.132,Single,324900.0,278 Rue Riviera 
+5,2,,0.34,Residential,587500.0,604 Rue Connaught 
+2,2,1092.0,,Residential,799900.0,1548Z Rue des Bassins #115 
+3,1,119501.0,.344,Residential,406000.0,28 Rue du Hauban 
+3,2,,.371,Residential,225000.0,1145 Rue du Patrimoine 
+2,1,,.101,Residential,249900.0,1103 Boul. de L'Assomption 
+4,2,,.026,Residential,1899000.0,6214 Rue Cartier 
+2,1,73485.0,.363,Other,139000.0,348 Rg St-Jean-Baptiste 
+2,1,,.344,Residential,225000.0,15 Boul. 138 E. 
+3,2,,.414,Residential,695000.0,681 Av. de la Cathédrale 
+3,1,,.318,Residential,129000.0,209 Ch. du Lac-à-la-Truite 
+3,2,100104.0,.131,Residential,260000.0,40 22e Avenue 
+4,1,,.083,Residential,549900.0,471 Rue Jennifer 
+2,1,,.149,Residential,359000.0,230 Rue des Cèdres 
+3,1,,0.18,Residential,249000.0,741 Av. Gilles-Villeneuve 
+3,2,,.172,Other,599000.0,445 Rue Maricourt 
+3,2,,.432,Other,749900.0,293 Grande Côte O. 
+3,2,,.215,Residential,239900.0,42 Rue Thibodeau 
+4,2,,.234,Residential,124500.0,18 Rue Ouellet 
+7,3,,.929,Residential,450000.0,6399 Ch. Tranquille 
+4,2,,.166,Residential,995000.0,102 Boul. de la Rivière 
+1,,,.272,Residential,139000.0,4-6 Ch. de la Pruche 
+4,1,,.466,Residential,349000.0,85 Rue Frontenac 
+3,1,,.087,Residential,139900.0,16 Rue Rousseau 
+2,1,1046.0,,Residential,418000.0,3181 Boul. de la Gare #104 
+3,2,,.137,Residential,249900.0,867 Rue Arpin 
+2,1,,.215,Residential,185000.0,1885 Tsse Champlain 
+3,2,,.746,Residential,539000.0,85 Rue Fabi 
+3,1,,.137,Residential,229000.0,8 Rue Champagne 
+3,1,160716.0,.581,Residential,524900.0,70 Ch. St-Louis 
+3,4,2232.0,.334,Residential,439000.0,220 Rue Dufferin 
+1,1,,.227,Residential,149000.0,1503 Boul. Fernand-Lafontaine 
+2,2,,.536,Residential,595000.0,532 Rue Cartier 
+3,2,89997.0,.183,Residential,199000.0,113 Rue Stanley 
+3,1,114959.0,,Residential,315000.0,2518 Av. de la Gare 
+4,1,,.117,Residential,549900.0,231 Rue François 
+2,1,,.425,Residential,229900.0,7 Rue St-Joseph 
+3,1,,.099,Residential,298900.0,445 Rue des Geais-Bleus 
+2,1,3320666.0,.302,Residential,950000.0,7 Route 170 
+4,2,,.119,Other,349000.0,3353 Rue St-Laurent 
+6,3,168003.0,.134,Residential,189000.0,9Z Rue de Cadillac 
+3,1,117327.0,.118,Residential,185000.0,34 Rue Principale 
+3,1,,.167,Residential,109000.0,540 Rue Champlain 
+3,1,118801.0,.161,Residential,179000.0,570 14e Avenue 
+10,2,,.789,Residential,499000.0,1493 Ch. Gémont 
+3,1,153999.0,.595,Residential,139500.0,55 Route St-Hyacinthe 
+4,2,,.142,Residential,370000.0,471 Rue Pascal-Parent 
+3,2,,.061,Residential,269500.0,254 Route 291 S. 
+4,2,159101.0,.115,Residential,651445.0,3255 Rue Bouthillier 
+3,1,,.549,Residential,289000.0,1727 Ch. du Lac-Supérieur 
+3,1,97306.0,.088,Other,214000.0,1710 Rue Le Baron 
+2,1,65369.0,.172,Residential,84900.0,1370 Route Principale 
+5,2,,.602,Residential,599000.0,147 Ch. Corriveau 
+3,2,1614.0,,Residential,1950000.0,4175 Rue Ste-Catherine O. #1402 
+3,1,,.115,Residential,129500.0,44 Rue Morissette 
+3,1,,.371,Farm,299000.0,4775Z Ch. de la Lièvre N. 
+9,2,1573.0,.138,Single,524888.0,3 Rue Boulay 
+4,2,,.697,Residential,214900.0,1121 Route Gagné 
+2,1,,.398,Residential,525000.0,1571 Grande-Côte 
+5,2,182986.0,0.14,Residential,394500.0,103 Av. Champlain 
+1,2,1620.0,,Residential,829000.0,216A Rue Maguire 
+4,2,,0.08,Residential,334900.0,125 26e Avenue 
+2,2,,.779,Residential,549000.0,Allée Paisible 
+2,2,,0.19,Residential,169500.0,1162 Route de l'Église 
+14,4,,.663,Residential,649000.0,1286 Ch. de Mille-Isles 
+2,1,,.137,Residential,383900.0,Rue des Villas 
+3,2,,0.47,Residential,449900.0,38 Rue des Colibris 
+3,1,,.377,Residential,399000.0,354 Rue Jacques-Cartier S. 
+4,2,,.206,Residential,259900.0,659 Rue Louis-David 
+3,2,,.168,Residential,199000.0,93 Rue Viger 
+4,1,,.234,Residential,499000.0,1019 Rue Bach 
+,1,,.107,Residential,55000.0,2261 Ch. du Village 
+2,1,,.115,Residential,210000.0,2282 Rue Lamarche 
+18,2,,.571,Residential,399000.0,334 Route des Cantons 
+4,1,,0.38,Residential,750000.0,173 Rue de Provence 
+3,2,,0.13,Residential,125000.0,349 Rue Boileau 
+4,2,267698.0,.153,Residential,799000.0,170 Rue des Roitelets 
+3,1,,.233,Other,199000.0,570 Rue St-Jacques E. 
+3,1,,.167,Residential,389900.0,123 Rue Robert 
+2,1,71246.0,,Other,74000.0,800A Ch. du Havre-des-Monts 
+2,1,114399.0,.342,Residential,444900.0,Allée de l'Étang 
+3,1,1285.0,.127,Residential,399000.0,361 Rue St-Joseph 
+3,1,126799.0,.373,Residential,465000.0,79 Rue des Cigales 
+4,2,,.184,Other,150000.0,24 Rue Victoria-Régis 
+4,2,156949.0,.697,Residential,419000.0,138 Ch. de Val-des-Vents 
+3,1,,.371,Residential,299000.0,4775 Ch. de la Lièvre N. 
+4,2,,.193,Residential,389000.0,760 Rue des Grives 
+4,2,1430.0,1.56,Single,420000.0,394 Ch. de Chapeau-Waltham 
+4,3,,.261,Residential,279000.0,828 Rue Conan 
+5,2,,.225,Residential,265000.0,581 Rue Scott 
+2,1,,.094,Residential,67500.0,87 Rue du Parc-de-l'Amitié 
+3,2,,.132,Residential,384900.0,229 106e Avenue 
+3,4,,.536,Residential,899700.0,2 Rue Angélique 
+1,1,,.829,Residential,575000.0,1953 Ch. Francisco 
+1,1,48599.0,0.23,Residential,279000.0,1579 Rue Terry-Fox 
+3,2,109996.0,,Other,99000.0,15 Ch. de la Grande-Ligne 
+2,1,,,Residential,299900.0,19 Ch. Huchéry 
+4,1,,.144,Residential,158000.0,360 Rue Principale 
+2,1,,.122,Residential,99000.0,10 Rue Chapelain 
+2,1,172481.0,.375,Residential,399500.0,1590 3e Avenue 
+3,1,,.424,Residential,224900.0,1433 Rue Rosa 
+2,2,,.471,Residential,370000.0,470 8e Rang 
+4,1,,.103,Residential,109900.0,249 Rue Noël 
+4,1,101245.0,.134,Residential,222000.0,59 Rue Cloutier 
+4,2,,.131,Residential,349000.0,820 Av. de Dieppe 
+2,1,,.092,Residential,319000.0,1915 Rue des Roseaux 
+3,1,,.203,Residential,125000.0,18 Rue Héroux 
+4,1,,.142,Residential,89900.0,18 Rue des Peupliers 
+3,2,,.352,Residential,1309000.0,2094-2092 Ch. des Patriotes 
+2,1,82861.0,.143,Residential,185000.0,73 Rue Ste-Anne 
+2,1,,.682,Other,69900.0,120 Rue Gagnon 
+5,2,208658.0,.913,Residential,579000.0,1014 Ch. Bouchard 
+4,1,160167.0,.391,Residential,489000.0,100 Rue Bernier 
+3,3,,.263,Residential,350000.0,2 Rue Joannie 
+3,2,,.116,Residential,115000.0,703 Boul. Ducharme 
+3,2,,.218,Residential,320000.0,5845 Rue Marion 
+2,1,,.459,Residential,210000.0,1877 Ch. du Tour-du-Lac 
+3,1,,.232,Residential,124900.0,183 Vieux Chemin S. 
+3,1,,,Other,129900.0,12 Av. Lajoie 
+3,2,,.131,Residential,569900.0,630 Rue Valois 
+4,2,,.742,Residential,299000.0,261 Rg Lachapelle 
+,1,399998.0,.162,Residential,175000.0,1376 Ch. de Béthanie 
+2,1,,.228,Residential,76000.0,9 Ch. du 10e-et-11e-Rang 
+2,1,,.102,Residential,249900.0,143 Rg du Lac-St-Pierre O. 
+4,1,,5.05,Residential,189000.0,59 1er rg de Matalik N. 
+4,1,96359.0,.077,Residential,349999.0,292 Rue des Palominos 
+4,2,202997.0,,Residential,1295000.0,350Z Rue Narbonne 
+2,1,76801.0,.603,Residential,325000.0,55 Ch. du Bélier 
+3,1,151201.0,0.11,Residential,214900.0,252 Av. Murdoch 
+4,2,,.419,Residential,389000.0,2612 Ch. de la Vallée-Missisquoi 
+3,2,,0.16,Residential,549900.0,73 23e Avenue 
+4,1,,0.57,Residential,239000.0,304 Rue Raoul-Fafard 
+2,2,80503.0,.512,Residential,313900.0,411 Rue de la Coulée 
+4,2,,.117,Residential,539000.0,105 Rue des Tourterelles 
+4,2,,.334,Residential,395000.0,978 Av. du Phare O. 
+4,2,,.185,Residential,299000.0,117 Rue de la Charente 
+4,2,,.805,Residential,324000.0,168 Av. St-Joseph 
+3,2,,0.51,Residential,749000.0,3 Av. St-Gérard 
+3,1,113204.0,.134,Residential,449000.0,Allée de la Sérénité 
+2,1,121804.0,.276,Residential,299900.0,19 Ch. Doré 
+3,2,134441.0,.067,Residential,253000.0,4060Z Rue de l'Étape 
+1,1,214202.0,.971,Residential,285000.0,140 Ch. Baie-William O. 
+2,1,,.273,Residential,79900.0,1367 Rue du Rivage 
+3,2,124.0,>0.2,Residential,179500.0,342 Rue Sauvé 
+5,2,,,Residential,349000.0,785 Rue Corbin 
+2,1,,.555,Other,449900.0,2436 Ch. St-Charles 
+2,1,159995.0,0.46,Residential,399000.0,7320 Rue St-Pierre O. 
+3,2,,.149,Residential,275000.0,12 Rue Lauzon 
+5,5,,.036,Residential,1750000.0,66 Rue des Manoirs 
+1,1,,.075,Residential,1750000.0,10 Av. Hutton 
+3,1,,.191,Other,229000.0,3676 1re Avenue 
+3,1,,.129,Other,119900.0,1508 Rue Des Colombiers 
+3,1,,.115,Residential,169000.0,101 Rue St-Pierre O. 
+2,2,,.276,Residential,399000.0,907 Boul. Arthur-Sauvé 
+2,2,,0.22,Residential,259900.0,23 Av. Pierre 
+3,2,,.737,Residential,1175000.0,116 Rue du Poitou 
+4,2,99394.0,.201,Residential,159900.0,751 Av. Baril E. 
+5,3,,.452,Residential,944900.0,4210 Lakeshore Drive 
+3,1,,.793,Residential,529000.0,159 Rue Larivière 
+5,2,,.802,Residential,175000.0,2296 Route 125 S. 
+5,3,,,Residential,229000.0,9 Av. Bédard 
+4,1,,.144,Residential,524900.0,1286 Rue Germaine-Guèvremont 
+2,1,,.343,Residential,199000.0,282 Rg Lachapelle 
+3,1,,.284,Residential,349000.0,1678 Ch. du Lac-René 
+3,2,359999.0,0.25,Other,685000.0,505-507 Rue Barraute 
+4,2,,.863,Residential,429900.0,2031 Rue St-Laurent 
+3,1,,.078,Residential,425000.0,1405 Rue Meunier 
+3,2,,1.73,Residential,560000.0,90 Boul. Auger O. 
+2,1,100965.0,.672,Residential,159000.0,294 Route de la Montagne 
+2,1,96003.0,.152,Other,209900.0,5890 Av. Sansoucy 
+2,1,,.286,Residential,120000.0,192 Ch. Dainava 
+2,2,,.198,Residential,169900.0,35 Rue Leblanc 
+4,3,347997.0,.193,Residential,619900.0,4085 Rue Miro 
+3,1,,.586,Residential,175000.0,5 Rue de l'Étourneau 
+2,1,107531.0,.229,Residential,250000.0,1712 Rg des Ducharme 
+4,1,,.602,Residential,399000.0,728 Rue Charbonneau 
+3,3,,.151,Residential,730000.0,309-309A 27e Avenue 
+1,1,61376.0,.379,Residential,225000.0,810 Rue des Mésanges 
+1,1,,.146,Residential,124500.0,371 Rue de la Canopée 
+3,2,,0.14,Residential,145000.0,125 Rue Sabrina 
+5,5,3041.0,.064,Residential,2100000.0,361 Av. Grosvenor 
+1,1,,.231,Residential,225000.0,700 Rue Latour 
+3,2,,,Farm,499000.0,745Z-747Z Ch. Fex 
+3,2,,.156,Residential,109900.0,3215 Rue Bécancour 
+3,1,,.115,Residential,509000.0,22 Av. de la Gaspésie 
+3,2,,.252,Residential,1370000.0,239 Ch. du Rocher 
+3,1,100901.0,.293,Residential,149500.0,6910 Rue Principale 
+2,2,138402.0,.217,Residential,315000.0,103 Ch. Danis 
+4,2,118629.0,.676,Residential,354900.0,8075 Rue Paiement 
+3,2,,.089,Residential,599900.0,2014 Rue d'Amboise 
+4,2,93345.0,.149,Other,325000.0,1522 Rue Latulippe 
+2,1,114399.0,.266,Residential,424900.0,Allée de l'Étang 
+3,2,1321.0,,Residential,899000.0,701 Rue de la Commune E. #105 
+6,1,,.997,Residential,349000.0,629 Rg Nord 
+3,1,,.859,Residential,220000.0,5054 Route 117 S. 
+2,2,851.0,,Residential,799000.0,1050 Rue Drummond #3404 
+3,1,134301.0,.106,Residential,299000.0,708 Rue St-Alphonse S. 
+2,2,1475.0,,Residential,409000.0,705 Rue Schubert 
+2,1,92247.0,.372,Residential,339000.0,901 Rue Fréchette 
+3,1,,.463,Residential,187000.0,4030 Route 201 
+6,3,,.093,Residential,439000.0,21 Rue Circé 
+4,2,112956.0,.138,Residential,279500.0,1230 Rue de Bayeux 
+3,1,,,Other,139000.0,100 Rue Mystic 
+2,2,,.176,Residential,377000.0,5 1re Avenue 
+3,1,,.138,Residential,573899.0,2326 Rue Gertrude 
+4,1,,.161,Residential,189500.0,785 Rue du Patrimoine 
+5,2,,.084,Other,359000.0,309 Rue des Pivoines 
+2,1,143095.0,.167,Residential,250000.0,633 Rue Lajeunesse 
+2,1,121471.0,.103,Residential,279900.0,16675 Av. St-Louis 
+2,1,,.093,Residential,275900.0,778 Rue Annick 
+4,3,,.485,Residential,749000.0,1 Ch. du Grand-Pic 
+3,1,,.129,Residential,469900.0,4195 Rue Forgues 
+3,2,,.453,Residential,856000.0,140 Ch. du Lac-Lauzon 
+3,2,,.566,Residential,149000.0,59 Rue Principale 
+3,1,,.176,Residential,499900.0,3874 Rue Pellan 
+2,1,,.045,Residential,229000.0,720 Rue Valois 2
+3,1,,.517,Residential,149000.0,790 Rue Dosithé-Bourassa 
+4,2,122396.0,.115,Residential,359000.0,1895 Rue St-Denis 
+3,1,,.222,Farm,309900.0,102 Route 348 
+2,1,90783.0,.336,Residential,185000.0,1211 Ch. de la Baie-Carrière 
+2,2,1016.0,,Residential,509000.0,630 Rue William #130 
+4,1,,0.67,Residential,199000.0,330 Route des Cantons 
+5,2,,.258,Other,469000.0,6677 Route Marie-Victorin 
+5,2,,.753,Residential,169500.0,547 Route de la Providence 
+4,2,,0.13,Residential,159900.0,518 Rue Benoit 
+1,1,83603.0,.229,Residential,389900.0,Allée de l'Étang 
+2,2,,.114,Residential,750000.0,20 Rue St-Aubin 
+3,1,,1.03,Residential,175000.0,166 Route Cyrille-Lavoie 
+2,1,,.084,Other,79900.0,3407 Rue Morel 
+4,3,,7.76,Farm,1550000.0,391Z Ch. Ste-Marie 
+2,2,,.361,Residential,309900.0,2 Av. Vanier 
+4,2,300399.0,.685,Residential,849000.0,478 Ch. Tour-du-Lac-des-Îles 
+4,1,,.626,Residential,245000.0,234 Rue du Saguenay 
+4,2,1749997.0,.982,Residential,649000.0,2 Ch. des Orchidées 
+1,1,,.373,Residential,239900.0,80 Rue Gravel 
+4,2,,,Residential,219000.0,876 Av. du Palais 
+2,1,,0.12,Other,349000.0,68 Rue St-Eugene 
+3,2,140598.0,.217,Residential,174900.0,512 Rue de la Lièvre 
+2,2,,.598,Residential,395000.0,455Z Rg St-Augustin 
+2,1,,.284,Residential,298000.0,8 257e Avenue 
+4,1,,.086,Residential,499000.0,11915 Boul. O'Brien 
+3,2,,.084,Residential,435000.0,5374 Rue des Maçons 
+3,2,,.455,Residential,188000.0,185 Rue Beaulieu 
+4,2,,.206,Residential,1298000.0,99 Rue Paul-Albert 
+3,1,279399.0,.377,Residential,765000.0,235 Mtée Lebrun 
+4,2,,.344,Residential,275000.0,9 Rue Gagnon 
+5,3,,.778,Residential,699000.0,564 Ch. du Rivage 
+3,1,,.177,Residential,129000.0,1870 1re rue de la Terrasse-de-Luxe 
+3,1,140996.0,.065,Residential,319900.0,1594 Rue Non Disponible-Unavailable 
+3,2,,.139,Residential,264000.0,601 Av. Principale 
+4,2,86402.0,.146,Residential,319000.0,949 Rue Quessy 
+4,2,,.229,Residential,529000.0,496 Rue des Pétunias 
+1,2,943.0,,Residential,419000.0,1011 Rue St-Ferdinand 
+2,1,100804.0,,Residential,219000.0,3A Rue Lacroix 
+3,1,,0.98,Residential,489000.0,144 Rg St-Henri 
+3,1,,.145,Residential,350000.0,6 Rue Bouthillier N. 
+2,2,,,Residential,269000.0,1011 Rue De Montcalm 
+4,2,,.152,Residential,324900.0,513 Rue De Montmagny 
+5,2,,.553,Residential,159000.0,459 Av. Bernard-Lévesque 
+3,1,,0.02,Residential,205000.0,88 Rue Denis-Gagné 
+3,2,,.092,Residential,399000.0,117 Rue Joseph-Bouchette 
+2,1,97779.0,0.75,Residential,189000.0,352 Ch. du Lac-Malartic 
+3,2,221704.0,1.04,Residential,379000.0,1167 Route 139 
+5,2,,.728,Residential,830000.0,495 Rue Iberville 
+4,2,,.099,Residential,379900.0,3246 Rue Girouard 
+4,2,106563.0,.073,Residential,249000.0,3300 Ch. du Castor 
+3,4,,.659,Residential,1549000.0,316 Rue de la Couronne 
+3,1,,.124,Residential,229000.0,262 3e Avenue 
+4,3,,.149,Residential,362000.0,13634-13636 Rue St-Michel 
+4,3,,1.24,Residential,2100000.0,672 Route 161 
+2,1,240003.0,0.23,Residential,335000.0,49 1re Avenue 
+4,2,88199.0,.149,Residential,279000.0,1116 2e Rue 
+2,1,,.218,Residential,89900.0,700 Rue Ste-Marie 
+2,2,,.815,Residential,330000.0,48 Ch. Bombardier 
+4,1,,.148,Residential,389900.0,904 Rue du Relais 
+3,2,,0.21,Residential,289500.0,2070 Rue Principale 
+3,1,,.751,Residential,400000.0,130 Rue St-Paul 
+2,1,,.237,Other,149900.0,8115 Boul. St-Joseph 
+3,1,97995.0,.562,Residential,195000.0,1211 Ch. Molleur 
+3,1,,.297,Residential,239900.0,140 Rue de l'Aéronef 
+4,2,,0.88,Residential,499000.0,1240 Rue du Domaine 
+2,1,,.206,Residential,224900.0,3615 Rue du Docteur-Smiley 
+3,2,153472.0,.139,Residential,345900.0,746 9e Rue 
+2,1,73205.0,0.45,Other,95000.0,462 1er Rang 
+4,2,,.227,Residential,129900.0,2680 Rue Napoléon 
+3,1,14231.0,.039,Residential,424900.0,2199 Ch. St-Antoine 
+2,1,,.155,Residential,249900.0,168 Rue des Grives 
+3,1,,.314,Residential,499000.0,2640 Rue des Floralies 
+3,2,,.733,Residential,379900.0,168 Rg de l'Île 
+3,3,,.598,Farm,395000.0,455 Rg St-Augustin 
+6,2,229497.0,.108,Residential,1149000.0,10470 Boul. Olympia 
+2,1,,.112,Residential,209000.0,5 Ch. de la Tourterelle 
+,,,.085,Residential,1149000.0,2168 Rue Richelieu 
+2,2,,.089,Residential,224900.0,510 Rue St-Germain E. 
+3,1,,.454,Residential,369000.0,410 Ch. de Knowlton 
+2,2,448005.0,.289,Residential,699000.0,58 Ch. de la Sablière 
+3,4,1920.0,,Residential,1299000.0,1382 Av. du Docteur-Penfield 
+3,1,14316.0,.556,Residential,239900.0,1084 Ch. de la Baie-Solitaire 
+4,2,336501.0,>1.9,Residential,489000.0,64 Rue Principale 
+3,1,,.485,Residential,425000.0,1591 Ch. Beausoleil 
+3,1,,.464,Residential,149000.0,799 Rue de New-Glasgow 
+4,1,,.327,Residential,229900.0,381 Rue Asselin 
+4,1,,.121,Residential,349900.0,1020 Rue de la Nièvre 
+3,2,388653.0,.907,Residential,799999.0,2098Z Ch. de Montréal O. 
+5,2,,.381,Residential,329900.0,301-301A Rue Samson 
+2,2,102505.0,.041,Residential,261500.0,120IZ Rue Leblanc 
+3,1,,0.98,Other,279000.0,6672 Ch. Warden (Route 243) 
+1,1,55004.0,.115,Residential,85000.0,166 Rue Thomas 
+3,3,,0.45,Residential,999000.0,55 Ch. d'Amboise 
+1,1,84497.0,0.23,Residential,204900.0,421 Route 309 
+2,2,940.0,,Residential,409000.0,1019 Rue St-Ferdinand 
+3,1,,.163,Residential,159000.0,395 Rue Bellevue 
+1,1,47996.0,.106,Residential,89000.0,6232 Ch. des Chalets 
+3,1,,.112,Residential,235000.0,41 Rue Legendre 
+3,2,,.742,Farm,950000.0,191 Rg du Six 
+2,2,,.146,Residential,269000.0,14220 Av. Joseph-Léveillé 
+4,1,,0.29,Residential,219900.0,140 Route Fafard 
+3,1,,.195,Residential,189000.0,614 Rue Robert 
+4,2,124205.0,.211,Residential,449000.0,38 Av. St-Jacques 
+3,1,,.739,Residential,395000.0,5262 Ch. Vincent-Massey 
+3,1,,.194,Other,79000.0,35 Ch. de la Station 
+2,1,162255.0,.338,Residential,189500.0,186 Ch. de la Presqu'île 
+2,2,92397.0,.061,Residential,499000.0,2338 Av. Mercier 
+4,2,,.137,Residential,519000.0,648 Crois. du Grand-Duc 
+3,2,,.154,Other,379000.0,386 Rue Bousquet 
+3,3,,.776,Residential,655000.0,Allée Paisible 
+3,2,139995.0,.146,Residential,449900.0,106 Rue Cottingham 
+5,2,,.378,Residential,209000.0,2885 Rg St-Joseph 
+5,2,,.516,Residential,525000.0,347 Rg St-André 
+4,1,,.253,Residential,278000.0,1525 Rue Calixa-Lavallée 
+3,2,1526.0,,Residential,1399000.0,115 Ch. des Sous-Bois #205 
+2,1,83205.0,.413,Other,199900.0,433 Rue de la Coulée 
+4,1,,.116,Residential,155000.0,728 Rue Joffre 
+4,1,,.988,Residential,250000.0,318 2e Rang 
+3,1,114399.0,.106,Residential,724900.0,7025 Rue de Marseille 
+4,1,,.179,Residential,299900.0,263 Rue St-Antoine N. 
+3,2,,.119,Residential,389900.0,27 Rue Lafrance E. 
+4,3,2645.0,0.92,Single,599900.0,23 Rue du Mont-Tremblant 
+2,1,,.777,Residential,275678.0,1007 Rue Bernard 
+4,4,290001.0,.989,Residential,859000.0,24 Imp. du Huard 
+3,1,,1.68,Residential,428000.0,1489 Ch. de la Belle-Montagne 
+3,1,,.743,Residential,315000.0,134 Rue des Pensées 
+3,2,156001.0,.116,Residential,599000.0,221 Rue de l'Estran 
+3,2,349827.0,.187,Residential,199900.0,537 Rue Champlain 
+3,1,113204.0,0.08,Residential,449000.0,Allée de la Sérénité 
+3,2,,,Residential,350000.0,2401 Ch. d'Entrelacs 
+4,1,,.342,Residential,329000.0,7151 Rue Lajeunesse 
+4,2,17063.0,.402,Residential,225000.0,753 Route St-Paul N. 
+2,1,,.134,Residential,239000.0,2655 Rue Bessette 
+2,1,70493.0,.089,Other,199000.0,1729 Rue Le Marquis 
+4,2,214998.0,ng>1,Residential,649900.0,23 Ch. Champagnac 
+3,2,,,Residential,269000.0,554 Av. de la Sablière 
+3,1,137595.0,.457,Residential,485000.0,10000 Boul. Rideau 
+4,2,,.236,Farm,449000.0,136Z Boul. Arthabaska E. 
+4,1,,0.59,Residential,549900.0,117 Ch. des Chalands 
+5,2,112332.0,.682,Residential,395000.0,2430 Av. Royale 
+4,1,96595.0,.604,Farm,279000.0,195 Ch. du 4e Rang 
+3,3,,.715,Other,695000.0,100 Imp. Ste-Croix 
+2,1,,.172,Residential,99500.0,3 Rue Soulard 
+5,2,,.112,Residential,1095000.0,2 Île Lévesque 
+4,2,,.081,Residential,279000.0,474 Rue de la Providence 
+3,1,,.135,Residential,149000.0,1181 Rue des Pins 
+3,1,114205.0,.305,Residential,319000.0,98 Ch. des Aulnes 
+2,4,1920.0,,Residential,1299000.0,1382A Av. du Docteur-Penfield 
+7,2,,.574,Residential,349900.0,3543 Rue Gouin 
+2,2,140803.0,0.18,Residential,599900.0,532 Ch. de l'Auberge 
+3,1,,.067,Residential,359000.0,16 Boul. Albert-Einstein 
+2,1,283801.0,.236,Residential,375000.0,190 3e-et-4e Rang E. 
+4,1,,.158,Residential,599000.0,301 Rue des Mélèzes 
+3,1,134301.0,.106,Residential,299000.0,706 Rue St-Alphonse S. 
+4,2,24962.0,.242,Residential,259000.0,16 Rue Castanier 
+2,1,58803.0,.099,Residential,249000.0,172 Rue Villeneuve 
+3,1,9257.0,.093,Single,364900.0,614 Rue Adélard-Bastien 
+4,2,,.916,Residential,795000.0,419Z Rue de Chatham 
+3,2,,.211,Residential,475000.0,14464 Rue du Cardinal 
+4,1,,.188,Residential,399000.0,319 Tsse de Lucerne 
+4,1,,.146,Residential,225000.0,1412 Rue Dandonneau 
+3,2,,.116,Residential,424800.0,28 Rue de Deauville 
+4,2,,,Residential,459900.0,2526-2528 Rue Limoges 
+2,1,,.175,Residential,280000.0,7 Rue des Érables 
+3,1,88565.0,.026,Residential,299999.0,792 Route de St-Philippe 
+9,4,,.158,Residential,799000.0,1240 Av. Delorimier 
+3,2,,.591,Residential,249900.0,1900 Ch. de St-Gérard 
+3,2,,.107,Residential,249900.0,599 Rue des Vétérans 
+3,1,,.165,Residential,259500.0,650 Rue des Forges 
+4,2,113527.0,.258,Residential,352500.0,3291 Ch. Sullivan 
+3,3,211941.0,.102,Other,515000.0,532 Rue Arago O. 
+2,1,,.193,Other,155000.0,1351 Rue du Pont 
+2,1,291982.0,.491,Residential,465000.0,6 Ch. Edith 
+8,4,272004.0,.904,Residential,389000.0,1530 Ch. des Coteaux 
+3,1,,.861,Residential,93000.0,790 Ch. de la Rivière-Croche 
+3,1,,.104,Residential,489000.0,57 Av. de Galais 
+3,2,1550.0,.064,Residential,374000.0,590 Rue St-Ignace 
+3,1,113204.0,0.09,Residential,489000.0,Allée de la Sérénité 
+2,1,114399.0,.283,Residential,409900.0,Allée de l'Étang 
+3,1,87747.0,.185,Other,210000.0,85 Rue du Bosquet 
+4,1,,.184,Residential,320000.0,1319 Rue du Cran 
+5,1,3277341.0,.014,Residential,494900.0,219 Route des Campagnards 
+6,1,,.439,Residential,135000.0,290 Rue Principale N. 
+2,1,,.642,Residential,335000.0,1334 Boul. St-Jean-Baptiste 
+4,2,231618.0,.896,Farm,1490000.0,2275Z Ch. Noiseux 
+1,1,,.382,Residential,147500.0,35 5e Rang (Lac-Bidini) 
+1,1,66004.0,.355,Residential,225000.0,200 Route 195 
+4,2,226688.0,.132,Residential,894000.0,28 Av. Augustin 
+1,1,82796.0,.961,Residential,299500.0,85 Route 212 O. 
+6,3,283597.0,.344,Residential,569000.0,2415 Rue de Normandville 
+5,2,,.088,Residential,364000.0,151 Route Bérubé 
+3,2,,0.83,Residential,399000.0,2171 Mtée Ste-Therese 
+2,1,,.153,Residential,199500.0,119 Ch. du Lac-à-la-Truite 
+5,2,,.148,Residential,113500.0,416 Rue St-Raphaël N. 
+3,2,,.092,Other,274900.0,86 Rue des Sittelles 
+3,1,113204.0,.128,Residential,449000.0,Allée de la Sérénité 
+3,1,133817.0,.194,Residential,235000.0,410 Ch. du Sommet 
+3,1,,.188,Residential,269000.0,28 Rue St-Louis 
+3,1,,.124,Residential,89500.0,141 Av. St-René 
+3,3,,.364,Residential,699000.0,445 Ch. de la Ferme 
+4,2,,.092,Residential,349500.0,137 Rue Dufresne 
+6,2,,.294,Other,585000.0,99 Rue Bourassa 
+2,1,,.989,Residential,225000.0,152 Ch. Forrest 
+4,2,252005.0,.149,Residential,489000.0,1528-1530 Rue Nielsen 
+1,,,.249,Other,1349000.0,30Z Rue David 
+3,1,,.816,Residential,839000.0,1355 Ch. Notre-Dame N. 
+5,2,,.115,Residential,349000.0,904 Rue des Pins 
+3,2,,.394,Residential,149900.0,38 Rue Principale O. 
+3,1,,.098,Residential,179900.0,29 Rue des Commissaires 
+5,1,,,Residential,339900.0,16235 Av. Roy 
+4,1,,.365,Residential,184500.0,749Z-751Z Rg St-Jacques 
+3,2,,.136,Residential,429000.0,937 Rue Stuart 
+3,2,129275.0,.965,Residential,474900.0,53 Ch. Tenpenny 
+3,2,221704.0,1.04,Farm,379000.0,1167Z Route 139 
+5,2,,.203,Residential,495000.0,3720 Boul. Laurier O. 
+2,1,,.138,Other,179900.0,471 Rue de la Plage-au-Sable 
+1,1,121395.0,.256,Residential,899000.0,3296 Rue Jeanson 
+3,1,,,Residential,424000.0,304 Rue Savoie 
+4,1,166399.0,.152,Residential,249000.0,157 Rue de la Grève 
+2,1,,.922,Residential,430000.0,1632 Rue Pilon 
+3,1,,.138,Residential,164500.0,621 Rue Desrosiers 
+3,1,,.148,Residential,89500.0,11 Rue Principale E. 
+3,1,95196.0,,Other,129000.0,125 Rue Nicole 
+3,1,,.153,Residential,164000.0,2452 Rue Brézel 
+4,1,211005.0,.849,Residential,1750000.0,42-52 Rue des Rigolets 
+4,3,,0.32,Residential,1299000.0,1579 Rue Algonquin 
+3,1,,.138,Residential,249900.0,1613-1615 Rue des Grands-Ducs 
+2,2,,.185,Residential,399000.0,339 Rue du Mont-Ste-Anne 
+4,1,,.748,Residential,629000.0,17 Rg St-Claude 
+3,2,116003.0,.718,Residential,1100000.0,393 Av. de Venise O. 
+3,1,,.943,Residential,254900.0,220 Rue Lehar 
+3,1,94529.0,.145,Other,349000.0,481 Rue des Plaines 
+5,3,,.148,Residential,1349000.0,147 Rue du St-Laurent 
+4,3,,.749,Other,650000.0,102 Rue Bruno 
+2,1,,.092,Residential,349000.0,329 Crois. du Rubis 
+3,1,91633.0,.216,Residential,259900.0,22 Rue Verdon 
+3,1,,.498,Residential,199900.0,115-117 Ch. Principal 
+3,3,1355.0,,Residential,490000.0,151 Ch. du Curé-Deslauriers #64-66 
+3,2,100438.0,.122,Residential,269000.0,76 Rue Foley 
+4,2,294479.0,.198,Residential,599000.0,46 Rue du Poitou 
+3,1,,.098,Residential,349900.0,264 Rue du Séminaire 
+1,1,,.898,Residential,399000.0,26 Rue du Lac-des-Sittelles 
+3,2,1184.0,.133,Residential,699000.0,8585 Rue du Notaire-Girard 
+4,1,,.592,Residential,297000.0,1333 Route 132 
+4,2,17233.0,.145,Residential,499000.0,1118 Av. du Beaupré 
+3,2,,.543,Residential,159900.0,166 4e Rang O. 
+3,1,8736.0,.063,Residential,159900.0,1141 Av. de Carillon 
+4,2,,.207,Residential,595900.0,997 Boul. de L'Assomption 
+6,6,4362.0,.174,Residential,3698000.0,3047 Ch. De Breslay 
+4,1,,.143,Residential,98000.0,15 Route 297 
+2,1,109803.0,.344,Residential,399000.0,32 Rue du Hauban 
+4,2,,.126,Residential,89000.0,102 Rue Privée 
+5,2,223997.0,.172,Residential,289000.0,17 Rue Richelieu 
+2,3,,.782,Residential,749000.0,30 Rue David 
+4,1,,.303,Residential,199900.0,60 Rue Principale 
+3,1,,.138,Residential,358000.0,187 Rue Bernard 
+1,1,129501.0,.243,Residential,199000.0,11531 Rue Beaumont 
+3,1,181996.0,.149,Other,189000.0,470 Boul. Kane 
+3,2,,.092,Residential,183000.0,465 Rue Bostonnais 
+2,1,,.605,Residential,184400.0,1384 Rg de la Belle-Montagne N. 
+4,1,,.988,Residential,429000.0,350 Rg St-Augustin 
+6,3,,.847,Farm,560000.0,412 Rg Bois-Franc E. 
+3,1,,.129,Residential,299000.0,750 Rue Elm 
+3,1,,.173,Residential,250000.0,305 Rue du Coteau 
+3,1,,.149,Residential,649900.0,998 Rue Marmier 
+2,2,,.826,Residential,549000.0,Allée Paisible 
+4,1,174795.0,.355,Residential,219000.0,1474 Route 340 
+3,2,,.138,Residential,107500.0,51 Rue Chamberland 
+1,1,,.148,Residential,199000.0,3146 Ch. du Lac-Farmer 
+3,1,,.052,Residential,299500.0,850 Rg St-Esprit 
+4,2,,.373,Residential,399700.0,180 Rue des Lilas 
+3,1,,.201,Residential,249000.0,341 Rue Blais 
+2,1,,,Residential,119000.0,72 Rue de la Poudreuse 
+3,2,,.065,Residential,429000.0,4927 Rue René-Coty 
+2,1,,.494,Residential,219000.0,2480 Ch. Cloutier 
+2,1,,.934,Other,349000.0,1692 7e Avenue 
+3,1,,.351,Residential,139000.0,89 Rue Principale 
+6,2,,.316,Residential,269500.0,288 Rue Principale O. 
+2,1,,.868,Residential,374000.0,3281 Route du Lac-Clair 
+2,1,,,Residential,499000.0,745-747 Ch. Fex 
+3,2,113904.0,.136,Other,309900.0,5135 Rue Genest 
+3,1,214396.0,.622,Residential,675000.0,308 Ch. du Lac-Tee 
+4,1,17965.0,.618,Residential,389000.0,1579 Rg St-Édouard 
+2,1,109803.0,.344,Residential,399000.0,24 Rue du Hauban 
+2,1,,.154,Residential,275000.0,843 Route 195 
+2,2,125798.0,.301,Residential,699000.0,1528 Ch. du Tour-du-Lac 
+6,2,,.192,Residential,597777.0,71 Rue de Verbier 
+5,2,,.107,Residential,220000.0,456 Rue St-Yves 
+3,2,,.188,Residential,450000.0,68 Ch. de l'Anse 
+2,2,,.116,Residential,498000.0,265 62e Avenue 
+3,1,,.222,Residential,309900.0,102Z Route 348 
+3,1,,.903,Residential,272000.0,2 Lac du Héron 
+3,1,1700.0,0.12,Single,649900.0,213 Rue de la Vaudaire 
+3,1,,.171,Residential,189800.0,6076 Rue Notre-Dame 
+3,2,,.131,Residential,474900.0,404 Rue Gervais 
+2,1,,.479,Residential,121000.0,726 5e-et-6e Rang E. 
+2,1,848.0,,Residential,624900.0,1165 Rue Wellington #1306 
+3,2,,.414,Residential,299000.0,506 Rue de la Colline 
+5,2,2046.0,.505,Residential,129500.0,38 Rue Principale 
+3,2,139393.0,.103,Residential,196000.0,43 Rue Ste-Marie 
+3,1,,.158,Residential,625000.0,3547 Rue Lareau 
+3,2,124969.0,.192,Residential,289000.0,1092 Rue Morgan 
+2,1,,.697,Farm,289900.0,186 Rue des Bouleaux 
+3,1,,0.14,Residential,429000.0,15155 Rue St-Hyacinthe 
+3,1,86811.0,.781,Residential,239000.0,1439 Route St-Paul S. 
+2,1,,0.14,Residential,214500.0,251 Rue Ostiguy 
+3,1,1464.0,,Residential,898000.0,1755 Rue St-Patrick #C201 
+3,2,182405.0,.966,Residential,399000.0,55 Ch. de la Nature 
+5,2,130803.0,.097,Residential,399999.0,180 Rue Roland-Audet 
+2,1,,.536,Residential,459000.0,1Z Ch. des Iris 
+3,1,,.571,Farm,389000.0,190Z Ch. des Patriotes 
+4,1,,.918,Residential,149000.0,366 3e-et-4e-Rang O. 
+2,1,93603.0,0.15,Residential,199000.0,172 Rue Bolduc 
+3,2,,.113,Residential,410000.0,1610 Rue Giguère 
+3,2,,.139,Residential,429000.0,303-305 Rue Joliboisé 
+8,5,,.141,Residential,1950000.0,840-842 Ch. St-Pierre 
+2,1,105798.0,.229,Residential,109000.0,865 Rg St-Charles 
+2,1,102688.0,.861,Other,172000.0,4854 Rg Lavigne 
+4,2,,.129,Residential,329900.0,1785 Av. Roland-Salvail 
+4,2,218916.0,1.37,Residential,674999.0,1117 Boul. Hurtubise 
+4,1,180005.0,.367,Residential,219800.0,1646 Boul. Albiny-Paquette 
+2,1,,.689,Residential,64500.0,543 Route de la Providence 
+3,1,488843.0,.689,Residential,112000.0,244 Route 386 
+1,1,787.0,,Residential,459000.0,81 Rue De Brésoles #208 
+4,2,,.157,Residential,329900.0,619 Rue St-Georges 
+5,2,,.194,Residential,299000.0,333 Rue Chapais 
+2,1,,.399,Residential,189900.0,4013 Ch. Gisèle 
+3,1,97995.0,.558,Residential,299500.0,11 Rue Ste-Marie 
+4,4,1200.0,.594,Residential,680000.0,491 Ch. du Lac-Quenouille 
+1,1,71096.0,.605,Residential,119000.0,466 Route 117 
+4,2,,.775,Residential,544000.0,211 Rue des Boisés-de-Rigaud 
+4,2,231618.0,.896,Residential,1490000.0,2275 Ch. Noiseux 
+3,2,,.336,Residential,79900.0,963 Rue Granier 
+2,1,119802.0,.744,Residential,295000.0,8 Ch. de la Prairie 
+3,1,,.192,Residential,749000.0,5200 Mtée Gagnon 
+2,1,114399.0,.318,Residential,444900.0,Allée de l'Étang 
+1,1,,0.23,Residential,179000.0,258 Ch. du Sorbier 
+3,2,113882.0,.478,Residential,439900.0,1595 Rue St-Jean-Baptiste 
+6,2,,.137,Residential,349000.0,70 Rue Robillard 
+4,2,130599.0,.152,Residential,469900.0,8 Rue Nelson 
+2,1,87457.0,.125,Residential,249900.0,27 Ch. Dubois 
+2,1,,>0.5,Residential,254900.0,91 Rg St-Guillaume 
+2,1,,.539,Residential,649000.0,290 Rue des Agates 
+2,1,,,Other,134900.0,3856 Rg de la Rivière N. 
+3,1,110395.0,.138,Residential,160000.0,2 Rue Malo 
+4,2,290001.0,,Residential,1125000.0,400 Ch. du Centre 
+4,2,23433.0,,Residential,1295000.0,350 Rue Narbonne 
+2,1,,.536,Farm,459000.0,1 Ch. des Iris 
+1,1,83603.0,.271,Residential,359900.0,Allée de l'Étang 
+3,2,,.049,Residential,795000.0,1856 Route 117 
+2,1,,.058,Residential,348500.0,230 Av. des Rapides 
+3,1,,.236,Residential,249000.0,2090 Ch. St-Michel N. 
+4,3,,.215,Residential,419900.0,16 Av. Parent 
+6,1,124797.0,2.42,Residential,160000.0,1059 Route 101 N. 
+4,2,107413.0,.152,Residential,299000.0,2215 Rue du Prieuré 
+2,1,,.117,Residential,475000.0,5340 Rg St-Martin 
+2,1,,.339,Residential,225000.0,415 Av. Latendresse 
+2,1,,,Other,138500.0,4250 Rue Legault 
+2,1,,.065,Residential,175000.0,521 Rue Élisabeth 
+3,2,,.131,Residential,199900.0,2812 Rue Rabouin 
+2,1,117004.0,.087,Residential,334900.0,76-2 Rue George-Adams 
+2,2,,.849,Residential,695000.0,560 Rg du Fleuve 
+5,1,,.213,Residential,599000.0,63 Rue du Blainvillier 
+1,1,521.0,,Residential,359000.0,101 Rue Peel #304 
+4,1,,.124,Residential,179000.0,17865 Av. Perreault 
+3,1,97499.0,.648,Residential,125000.0,397 Route 111 
+4,2,,.236,Residential,449000.0,136 Boul. Arthabaska E. 
+3,1,,,Residential,324900.0,809Z-811Z Rue de Bourgogne 
+4,1,115195.0,,Farm,365000.0,1756 4e Rang 
+2,1,,0.48,Residential,349000.0,1517 Ch. du Lac-Gustave N. 
+5,2,,0.12,Residential,535000.0,577 10e Avenue 
+3,1,,.256,Residential,239000.0,3 Rue Pierre-Brochu 
+3,1,69998.0,.444,Residential,349900.0,6 Rue Henri 
+3,2,,0.08,Residential,193000.0,15 Rue Horace-Hudon 
+3,2,,.138,Residential,479000.0,685 Rue St-Étienne 
+4,1,254696.0,.277,Residential,999000.0,2289 Av. Bourgogne 
+2,1,,.129,Other,135000.0,4 Rue Tibo 
+2,1,100804.0,.833,Residential,379000.0,3 Rue Lacroix 
+3,2,,.371,Residential,199900.0,280 Rue de l'Église 
+3,2,,.325,Residential,849900.0,265 43e Avenue 
+4,2,,.145,Residential,237000.0,5625 Rue Roland 
+2,1,,.762,Residential,269000.0,4020 Ch. de l'Église 
+3,1,,.552,Residential,320000.0,124 Rue du Mont-Rainer 
+3,3,,.361,Residential,999000.0,520 Ch. Lakeside 
+4,2,,.149,Residential,399000.0,785 Rue des Patriotes 
+4,2,,.204,Residential,225000.0,468 Rue Monseigneur-Courchesne 
+1,1,,0.22,Residential,249000.0,1061 Ch. du Bord-de-l'Eau 
+3,1,,.126,Residential,389000.0,4635 Rue Beausoleil 
+2,1,,.722,Residential,275000.0,2300 Ch. du Lac-Corbeau 
+3,2,221209.0,.143,Residential,395000.0,4191 Av. Larivière 
+3,2,285297.0,.249,Residential,1299000.0,139 Rue Jean-De Fonblanche 
+4,2,,.262,Residential,549900.0,957 Rue Frontenac 
+3,2,185139.0,.789,Residential,580000.0,310 Ch. de la Rivière-Piché 
+4,1,148822.0,.155,Residential,549000.0,160 Rue Martin 
+16,5,,.165,Residential,369900.0,4 Rue Bellevue 
+2,2,,0.55,Residential,549000.0,Allée Paisible 
+5,2,,.275,Residential,1095000.0,147 Rue Voltaire 
+3,2,,.115,Residential,170000.0,476 Rue Jacques-Buteux 
+3,2,,.205,Residential,330000.0,679 Rue Mistral 
+3,1,113204.0,.084,Residential,489000.0,Allée de la Sérénité 
+4,2,,.418,Residential,389000.0,483 Rue des Pins 
+3,2,,.176,Residential,159900.0,2087 Av. Vallée 
+4,2,146195.0,.121,Residential,319900.0,131 Rue St-Jean-Baptiste 
+3,1,,,Other,99900.0,3355 Rue Morel 
+11,4,,.523,Other,225000.0,578 8e Avenue 
+4,2,139995.0,.117,Residential,384900.0,1523 Boul. Maloney E. 
+2,2,,0.19,Residential,289000.0,985 Rue Hydro-Québec 
+4,3,,1.04,Residential,379900.0,663 Rg du Bord-de-l'Eau E. 
+3,3,,.776,Residential,615000.0,Allée Paisible 
+1,2,,.235,Residential,329000.0,1009 Ch. St-Thomas 
+1,1,,.457,Residential,374900.0,36 Rue Degrandpré 
+2,1,,.552,Residential,289900.0,460 Rue Marie-Anne 
+3,1,1178.0,.116,Residential,349000.0,779 Mtée de l'Église 
+4,1,,.103,Residential,369000.0,3445 Rue des Aulnes 
+2,1,,.883,Residential,445000.0,221 Ch. de La Feuillée 
+3,1,113204.0,.086,Residential,449000.0,Allée de la Sérénité 
+9,6,30985.0,.546,Residential,439000.0,110 Rue du Lac 
+2,1,114399.0,.263,Residential,419900.0,Allée de l'Étang 
+6,2,140404.0,.126,Residential,160000.0,4A Rue Mouttet S. 
+3,1,,.571,Residential,389000.0,190 Ch. des Patriotes 
+3,1,,.129,Residential,225000.0,42 Rue De Gaulle 
+3,1,,.249,Residential,119500.0,126 Route 132 O. 
+2,2,,.092,Residential,314900.0,3100 23e Avenue 
+2,1,,0.12,Residential,289900.0,212-214 Rue St-Joseph 
+3,2,,.095,Residential,425000.0,1130 Rue des Cascades 
+3,1,60493.0,.092,Residential,279000.0,273 Rue Courchesne 
+3,1,113204.0,.093,Residential,449000.0,Allée de la Sérénité 
+2,2,1084.0,,Residential,795000.0,1175 Av. Turnbull #914 
+4,2,,.148,Residential,349900.0,432 Rue Dubord 
+4,2,,.118,Residential,689000.0,728 Rue Pierre-Biard 
+4,2,,.174,Residential,549000.0,6 Rue Girouard 
+5,2,,.163,Residential,299900.0,602 Rue Thomas-Taschereau 
+3,2,,.215,Residential,849000.0,1627 Ch. des Patriotes N. 
+4,1,140921.0,.349,Residential,409000.0,176 Rue Venne 
+4,2,,.132,Residential,199900.0,525 Rue de Lausanne 
+4,2,,.145,Residential,449900.0,669 Rue Maurice 
+2,2,,.949,Residential,589000.0,146 Ch. des Courbes 
+5,1,100804.0,.111,Residential,125000.0,22 Rue Alexis 
+3,2,,0.67,Residential,349900.0,1055-1057 Rue Massie 
+4,1,,.096,Residential,166500.0,394 Av. St-Cyrille 
+2,1,86445.0,.148,Residential,349500.0,38 Ch. Daigle 
+2,1,,.951,Residential,169000.0,376 Ch. du Golf 
+4,1,,5.43,Residential,599000.0,732 Rg de la Rivière E. 
+6,2,,.154,Residential,749000.0,210 Rue François 
+3,1,95314.0,.083,Other,209000.0,1757 Rue Le Baron 
+2,1,,,Residential,209900.0,19 Av. E.-Bellefleur 
+2,1,,0.11,Residential,269000.0,13 Rue du Tour-du-Lac 
+2,1,206398.0,.148,Residential,359000.0,679 Ch. de l'Église 
+3,1,,.101,Residential,187500.0,4085 Rue Châteauguay 
+3,2,,.139,Residential,395000.0,570 Rue Philibert-Contant 
+2,1,,.115,Residential,59000.0,506 7e-et-8e-Rang E. 
+3,2,266504.0,.553,Residential,585000.0,1989 Ch. du Lac-Panneton 
+3,2,,.101,Residential,132900.0,2380Z Boul. de Shawinigan-Sud 
+3,2,,0.13,Residential,489000.0,5805 Boul. St-Laurent 
+3,1,,.218,Residential,569000.0,2540 Ch. de la Bricade 
+3,1,,.525,Residential,244900.0,591 Route St-Joseph 
+4,1,,.858,Residential,264000.0,1920 Boul. Malcolm-Fraser 
+3,1,1285.0,.051,Residential,229800.0,11 Rue Granet 
+6,4,3506.0,.163,Residential,3898000.0,18 Rue des Huards 
+2,1,,.525,Residential,484000.0,13 Rue Paul 
+2,1,100395.0,.344,Residential,396000.0,21 Rue du Hauban 
+2,2,,0.16,Residential,269000.0,3601 Rue Duvernay 
+4,2,,.131,Residential,449000.0,9475 Rue des Outardes 
+3,2,,.918,Residential,399000.0,61 Ch. Lucien 
+4,2,,0.15,Residential,349000.0,523 Rue du Portage 
+2,1,74497.0,.287,Residential,264500.0,6687 Rue de la Rivière 
+2,1,,.609,Residential,1100000.0,180 Ch. de la Pointe-Manitou 
+3,1,,0.31,Residential,545000.0,11925 Rue de la Randonnée 
+3,1,142999.0,.071,Residential,534900.0,9006 Rue de Belmont 
+3,2,188368.0,.368,Residential,429500.0,1422 Ch. Hamel 
+4,1,,.499,Residential,129000.0,929 Rue Principale 
+2,1,,.806,Residential,190000.0,107 Ch. Jean-Baptiste-Nobert 
+8,2,,.102,Residential,214500.0,39 Rue St-André 
+1,1,,.219,Other,149900.0,1769 Rue des Canaris 
+4,2,,0.23,Residential,849900.0,912 Rue Galilée 
+4,2,,.103,Residential,499900.0,81 Av. Dussault 
+4,2,,,Residential,159900.0,165 Av. Damase-Potvin 
+4,2,104001.0,.138,Residential,299900.0,905 Av. de Grande-Île 
+3,2,,.635,Residential,325000.0,744 5e Rang O. 
+1,1,83603.0,.255,Residential,394900.0,Allée de l'Étang 
+4,2,,.164,Residential,299900.0,41 Rue Ostiguy 
+2,1,,.161,Residential,159000.0,175 Rue Principale 
+3,1,100804.0,.104,Residential,279900.0,22 Ch. Fabre 
+4,1,,.141,Residential,279900.0,1076 Rue des Pruniers 
+4,1,240003.0,.384,Residential,379900.0,106 Rue de la Santé 
+3,2,,.251,Residential,495000.0,1545 Rue James-Guitet 
+3,1,,.168,Residential,325000.0,23 Rue Poirier 
+4,1,1565086.0,0.07,Single,459000.0,23 Rue des Alizés 
+3,1,82645.0,.158,Residential,249500.0,192 Rue Joseph-Pariseau 
+3,2,,,Residential,425000.0,1478 Rue Maurice-Lalonde 
+3,2,,.506,Other,369900.0,286 Rg du Bas-de-la-Rivière 
+3,1,,.236,Residential,289000.0,1194 Rg Bourgchemin O. 
+2,,40688.0,1.13,Residential,225000.0,319 Mtée Lebrun 
+3,1,11047.0,.133,Residential,299000.0,19 Rue Cloutier 
+2,1,126002.0,0.07,Residential,320000.0,421 Boul. Magenta E. 
+2,2,,.232,Residential,199000.0,7 Rue de la Boule-de-Neige 
+4,2,1927.0,,Residential,1598000.0,235 Rue Peel #1407 
+1,1,1021.0,,Residential,1275000.0,1420 Rue Sherbrooke O. #504 
+3,3,3651.0,.667,Residential,1900000.0,Allée du Rabaska 
+2,2,1280.0,.288,Residential,575000.0,8 Rue McWilliam #206 
+6,4,,.272,Residential,2350000.0,4661-4661B Ch. Queen-Mary 
+,,,,Residential,189000.0,184 Rue St-Louis 
+2,2,1220.0,,Residential,531500.0,8 Rue McWilliam #102 
+5,4,,.014,Residential,1498000.0,90 Ch. de la Voie-Lactée 
+3,2,2385.0,,Residential,2695000.0,3 Rue Westmount-Square #1711 
+2,2,997.0,,Residential,669000.0,100 Rue André-Prévost #607 
+3,3,1849.0,,Residential,1195000.0,1581 Av. du Docteur-Penfield #PH402 
+2,1,,.305,Residential,274900.0,Ch. du Fief 
+1,1,50267.0,,Residential,317000.0,3810 Rue St-Antoine O. 216
+2,2,755.0,,Residential,869000.0,1030 Rue De Bleury #3310 
+2,2,1142.0,,Residential,531000.0,8 Rue McWilliam #301 
+3,1,,0.11,Residential,259900.0,516 Rue Georges-É.-Tremblay 
+3,1,,.152,Residential,89000.0,440-442 Rue de la Montagne 
+6,1,,.638,Residential,325000.0,700 Rue Pelletier 
+1,2,1620.0,,Residential,829000.0,216 Rue Maguire 
+1,2,1516.0,,Residential,1059000.0,4225 Rue St-Dominique #PH-11 
+4,3,3153.0,.759,Residential,1495000.0,1904 Ch. St-Barthélemy 
+3,2,,.781,Residential,649000.0,2 Ch. Messier 
+,1,401.0,,Residential,135600.0,161 Ch. du Curé-Deslauriers #384 
+5,2,,.376,Residential,749000.0,2 Rue Parmentier 
+3,2,1387.0,,Residential,1150000.0,760 Av. Honoré-Mercier #709 
+2,2,1477.0,,Residential,829000.0,3710 Boul. St-Elzear O. #204 
+3,2,193503.0,.163,Residential,773741.0,1838 Rue Bédard 
+3,1,,.132,Residential,69500.0,4 Rue Ouellet 
+2,1,1108.0,,Residential,850000.0,600 Boul. René-Lévesque E. #604 
+3,1,1200.0,.035,Single,349900.0,64 Rue Lavallée 
+1,1,,.468,Residential,269900.0,2520 Ch. de la Montagne-Carrée 
+4,3,,0.34,Single,1180000.0,460 Boul. des Prairies 
+3,2,2775.0,,Residential,549000.0,5318 Av. Clarendon 
+1,1,592.0,,Residential,395000.0,1520 Ch. du Versant-Soleil #2 
+1,1,616.0,,Residential,309000.0,3600 Av. Van Horne #411 
+1,1,,.708,Residential,449000.0,1330 Ch. Desmarais 
+2,2,871.0,,Residential,579000.0,111 Ch. de la Pointe-Nord #127 
+5,4,3181.0,.177,Residential,1275000.0,2559 Av. de Parc-Falaise 
+3,2,5915.0,,Residential,539000.0,"344, 5e Rue "
+4,3,1918.0,.274,Single,379500.0,221 Route 307 
+5,4,,.056,Residential,2485000.0,430 Av. Metcalfe 
+4,4,2890.0,.462,Residential,849500.0,118 Rue Dicaire 
+2,1,906.0,,Residential,339000.0,4230 Rue La Perrière 
+3,3,3600.0,2.21,Residential,1200000.0,258 Ch. de la Rive 
+4,1,,.112,Residential,109000.0,14 Rue Principale S. 
+3,1,1440.0,.066,Residential,119000.0,100 Ch. Paquin 
+3,3,1904.0,,Residential,1060000.0,200 Av. Lansdowne #401 
+2,1,69029.0,.068,Residential,119000.0,70 Rue Mclean E. 
+5,3,2500.0,,Residential,2350000.0,"4715 Boul. The Boulevard ,  Westmount  "
+2,2,920.0,,Residential,599000.0,441 Av. du Président-Kennedy 1200
+1,,374.0,,Residential,231655.0,1550 Rue des Bassins #300B 
+2,2,1319.0,,Residential,515000.0,2050 Boul. René-Lévesque O. #304 
+2,2,1150.0,,Residential,475000.0,211 Ch. de Lac-Tremblant-Nord #491 
+2,1,700.0,,Residential,459000.0,130 Ch. au Pied-de-la-Montagne #2019 
+2,1,,.207,Residential,139900.0,28 7e Avenue 
+4,3,2343.0,.142,Residential,949000.0,3630 Rue La Durantaye 
+4,2,,0.14,Residential,225000.0,128 Rue du Collège 
+2,1,,.252,Other,199900.0,1918 Ch. d'Athelstan 
+7,5,,.264,Residential,1450000.0,218 Rue de la Coulée 
+2,2,1100.0,,Residential,999900.0,199 Rue de la Rotonde #PH1-03 
+2,2,912.0,,Residential,749000.0,1375 Rue des Bassins #1217 
+6,9,7105.0,.081,Residential,2800000.0,45 Ch. de la Vieille-Rivière 
+2,2,1248.0,,Residential,459000.0,2050 Boul. René-Lévesque O. #610 
+4,3,,.099,Residential,135000.0,394 Rue des Cèdres 
+1,1,541.0,,Residential,379000.0,789 Av. Querbes #503 
+2,1,899.0,.006,Residential,329000.0,138 Rue De Maisonneuve #309 
+2,1,928.0,,Residential,411240.0,8 Rue McWilliam #105 
+2,1,,.236,Residential,225000.0,540 10e Rang 
+3,1,,.224,Residential,244900.0,68 Rue des Pivoines 
+3,1,850.0,.344,Single,152000.0,9 Av. Fairview 
+3,3,1229.0,,Residential,529000.0,150 Ch. du Curé-Deslauriers #123 
+3,2,1214.0,.099,Residential,699000.0,418 Ch. de la Côte-Ste-Catherine 
+4,1,,.116,Residential,247000.0,3014 Rue St-Charles 
+2,1,1107.0,.288,Residential,517000.0,8 Rue McWilliam #110 
+2,2,766.0,,Residential,889000.0,1288 Av. des Canadiens-de-Montréal #4704 
+2,1,,,Other,139900.0,519 Rue des Merisiers 
+1,1,580.0,,Residential,349000.0,1455 Rue Sherbrooke O. #407 
+2,1,1007.0,.229,Single,160000.0,378 Ch. de Pembroke 
+2,1,,.264,Residential,1100000.0,2318 Ch. des Sureaux 
+3,3,1558.0,,Residential,1350000.0,4485 Rue St-Dominique #301 
+4,2,,>0.5,Residential,299900.0,170 Rue Notre-Dame 
+3,3,1798.0,,Residential,495000.0,2110 Ch. François-Hertel 
+3,2,2200.0,.616,Residential,1400000.0,232 Ch. Bréard 
+3,2,,.056,Residential,450000.0,1152 Boul. Auger E. 
+3,2,3720.0,.066,Single,596000.0,587 Ch. Robitaille 
+1,1,,.689,Residential,210000.0,9 Av. des Sablonnières 
+4,2,,.663,Residential,1250000.0,460 Ch. de Dunany 
+1,,374.0,,Residential,243794.0,1550 Rue des Bassins #600B 
+4,1,552264.0,.607,Residential,345000.0,1 Rue St-Pierre O. 
+1,1,,.082,Residential,200900.0,Ch. des Goélettes 
+3,3,3651.0,.645,Residential,1900000.0,Allée du Rabaska 
+5,3,318203.0,.121,Residential,256000.0,203 Rue Laurier 
+1,1,416567.0,.355,Single,69000.0,1731 Ch. de la Culbute 
+1,2,495.0,,Residential,118000.0,6385 Mtée Ryan #219 
+2,2,906.0,,Residential,315000.0,1780 Rue Notre-Dame-de-Fatima #311 
+1,1,537.0,,Residential,299000.0,8 Rue McWilliam #107 
+4,2,2760.0,.743,Residential,739000.0,110 Ch. des Fraises 
+4,6,,.506,Residential,2888000.0,39 Ch. de Hombourg 
+3,2,,.769,Farm,1885000.0,3675 Rg du Cordon 
+2,1,1104.0,,Residential,395000.0,125 Rue Dalhousie #317 
+12,13,9656.0,.454,Single,1400000.0,339 Ch. du Lac-Ste-Marie Marie
+6,2,,.279,Residential,349000.0,192 Rue Notre-Dame E. 
+7,4,,.765,Residential,1750000.0,19 Av. des Buses 
+2,1,810.0,,Residential,506364.0,1550 Rue des Bassins #200A 
+,1,418.0,,Residential,149000.0,151 Ch. du Curé-Deslauriers #139 
+7,7,9461.0,2.19,Residential,5499000.0,545 Ch. de l'Anse 
+4,3,2900.0,,Residential,1745000.0,4142 Rue Berri 
+3,3,,.664,Residential,1785000.0,1039 Rue Hamel 
+3,4,2738.0,,Residential,1750000.0,134 Av. Arlington 
+2,2,,0.52,Residential,429000.0,11 Rue de la Plage 
+1,2,1090.0,,Residential,789000.0,190 Rue Murray #PH12 
+5,2,264469.0,,Residential,1888000.0,1713 Rue St-Patrick 401-402
+2,1,1023.0,,Residential,215000.0,989 Rue de Bar-le-Duc 
+3,2,1360.0,.032,Residential,265000.0,249 Rue Christophe-Colomb O. 
+4,5,4418.0,.646,Residential,7500000.0,523 Av. Argyle 
+1,1,580.0,,Residential,365000.0,1435 Rue St-Jacques #102 
+2,3,,.344,Residential,1167000.0,450 Rue Ste-Marie 
+3,1,234901.0,.179,Residential,628900.0,201-203 Place Christie 
+2,2,1142.0,.082,Residential,500000.0,1475 Rue Gaston-Véronneau  #419 
+5,2,,.505,Residential,89500.0,26 Ch. Taché O. 
+2,1,711.0,.131,Single,225000.0,507 Route 309 
+2,1,80955.0,.115,Residential,199500.0,1326 Rue de Dorval 
+3,2,,6.91,Residential,1395000.0,1570Z Ch. Cailloux 
+2,2,1375.0,,Single,782692.0,4700 Rue St-Ambroise| E105
+2,1,,.137,Residential,135000.0,6 Ch. St-Joseph 
+4,1,,.745,Residential,65000.0,100 Av. de la Fonderie 
+8,2,,.141,Residential,139900.0,129 Boul. La Salle 
+2,1,,.359,Residential,96000.0,2182 Rue Principale 
+3,2,2200.0,5.88,Residential,2250000.0,51 Ch. Millington 
+6,5,2700.0,.262,Single,699500.0,69 Rue Brady 
+1,1,503.0,,Residential,254000.0,43 Ch. Fridolin-Simard #412 
+4,3,2000.0,,Residential,1095000.0,1227 Rue Sherbrooke O. #104 
+4,2,1183.0,.137,Single,399900.0,51 Rue d'Alsace 
+2,2,1407.0,,Residential,875000.0,1540 Av. Bernard #29 
+1,1,61505.0,.637,Residential,329000.0,281-291 284e Avenue 
+7,3,,.304,Residential,1299000.0,113 Rue de l'Accueil 
+1,1,780.0,,Residential,389000.0,39 Ch. Fridolin-Simard #101 
+3,2,1420.0,.074,Single,429900.0,54 Rue du Polder 
+4,4,,,Residential,1335000.0,1677 du Renne 
+6,10,8500.0,ng>3,Residential,8750000.0,802 Ch. des Skieurs 
+5,2,1073.0,,Residential,698000.0,8 rue Shana 
+2,2,1280.0,,Residential,949000.0,791 Rue de la Commune E. #311 
+3,3,3651.0,.477,Residential,1900000.0,Allée du Rabaska 
+5,3,,.349,Residential,1299995.0,956 Rue Lemieux 
+3,1,,.174,Other,305000.0,1148 Rue Jacques-Bédard 
+5,2,104679.0,.156,Residential,110000.0,40 Rue des Merisiers 
+3,3,,3.08,Residential,950000.0,733 Ch. de Gaspé 
+1,1,46823.0,.004,Residential,279900.0,1450 Rue Parthenais 103
+1,1,536.0,,Residential,219000.0,140 Ch. au Pied-de-la-Montagne #338 
+5,8,6294.0,.307,Residential,4900000.0,166 Ch. au Pied-de-la-Montagne #9 
+3,1,,.057,Residential,515000.0,128 Ch. du Lac-Noir 
+3,3,2115.0,,Residential,1508192.0,1550 Rue des Bassins #800 
+4,5,,.432,Residential,2350000.0,1042 Rue Richelieu 
+2,2,897.0,,Residential,899000.0,1050 Rue Drummond #3107 
+2,2,1033.0,,Residential,525000.0,113 Rue Cuttle #321 
+2,2,1084.0,.288,Residential,491500.0,8 Rue McWilliam #302 
+1,2,780.0,,Residential,260000.0,1210 Ch. de la Baie-du-Milieu #1240-42 
+5,1,,,Residential,199000.0,464 Rue Ste-Angèle 
+2,1,70073.0,.081,Residential,259000.0,5100 Rue De Gaulle 
+2,3,,.993,Residential,539000.0,780 Mtée Desjardins 
+3,1,,,Farm,1300000.0,1690B Ch. de l'Aqueduc 
+4,2,,.191,Residential,259000.0,891 8e Rang O. 
+3,2,,.129,Residential,279900.0,864 10e Avenue 
+4,4,3420.0,.629,Residential,1450000.0,Ch. des Boisés 
+2,2,1107.0,,Residential,499000.0,150 Ch. du Curé-Deslauriers #113 
+2,1,113204.0,,Residential,329000.0,Allée de la Sérénité 
+2,2,2800.0,48.5,Single,699000.0,35 Rue Principale 
+3,1,1380.0,.111,Single,499000.0,908 Boul. Wilfrid-Lavigne 
+3,4,3267.0,,Residential,185500.0,138 Ch. des Légendes #E2 
+8,2,3200.0,.131,Residential,655000.0,2009 Boul. René-Lévesque O. 
+2,1,810.0,,Residential,522580.0,1550 Rue des Bassins #500A 
+2,1,,0.19,Residential,399900.0,20 Rue des Camomilles 
+2,1,,.353,Residential,239000.0,34 Côte de l'Eau-Vive 
+3,3,,.128,Residential,695000.0,166 Ch. des Patriotes 
+1,1,629.0,,Residential,199000.0,151 Ch. du Curé-Deslauriers #037 
+1,1,691.0,,Residential,224900.0,195 Rue du Mont-Plaisant #3 
+3,2,1342.0,,Residential,1595000.0,175 Av. Metcalfe #PH605 
+3,2,179176.0,.038,Residential,799500.0,1416 Ch. des Lacs 
+2,2,923.0,,Residential,575000.0,441 Av. du Président-Kennedy 1400
+1,1,341.0,,Residential,324156.0,1471 Boul. René-Lévesque O. #1009 
+4,2,111998.0,.635,Residential,229000.0,370 Boul. des Ruisseaux 
+3,2,1500.0,,Residential,758510.0,5690 Rue Boyer #3 
+3,1,,.258,Other,159900.0,2002 Ch. des Habitations-des-Monts 
+2,1,,.071,Residential,332900.0,Ch. du Fief 
+3,2,114054.0,.934,Residential,359000.0,18 Rue du Lac-de-l'Ami 
+2,2,,>1.5,Residential,385000.0,Ch. du Village 
+5,2,,.096,Residential,1549000.0,638 Av. Kindersley 
+3,1,,0.12,Residential,89900.0,42 7e Avenue 
+,1,540.0,,Residential,175000.0,150 Ch. du Curé-Deslauriers #306 
+1,1,659.0,.013,Residential,240000.0,905 Rue des Prairies #202 
+4,3,1462.0,,Residential,674000.0,1924 Rue Le Ber #5 
+4,5,2347.0,,Residential,2729000.0,1225 Boul. Robert-Bourassa #2803 
+2,1,,.845,Residential,200000.0,3720 Rg Fontarabie 
+4,2,1284.0,.783,Single,589900.0,27 Ch. du Lac-de-l'Écluse 
+3,1,,.349,Residential,410000.0,582 Rue Aimé 
+2,1,,.091,Other,109000.0,40 Rue Morel 
+4,2,2201.0,,Residential,1100000.0,3940 Ch. de la Côte-des-Neiges #B12 
+2,2,887.0,,Residential,449000.0,170 Ch. du Curé-Deslauriers #314 
+7,3,3000.0,.669,Single,1495000.0,689 Ch. du Lac-Meech 
+5,4,,.139,Residential,3150000.0,3302 Av. Cedar 
+4,2,96229.0,.149,Residential,143000.0,103 Rue des Épinettes 
+5,1,,.184,Residential,130000.0,662 Av. de la Vallée 
+3,1,,,Residential,388900.0,Rue des Lys 
+4,2,2906.0,.651,Residential,550000.0,75 Rue Tracy 
+1,1,,.348,Residential,258000.0,1037 Ch. du Tour-du-Lac 
+2,2,902.0,,Residential,560000.0,3622 Rue Aylmer 
+3,1,2650.0,.053,Single,749900.0,5 Rue du Tamarac 
+2,3,1565.0,,Residential,1025000.0,32 Rue Ste-Angèle 
+1,2,1440.0,,Residential,1399000.0,2500 Av. Pierre-Dupuy #302 
+1,1,,.605,Residential,479000.0,3152 Ch. du Tour-du-Lac-Tibériade 
+8,7,,.397,Residential,3750000.0,154 Rue Montevista 
+4,2,2016.0,.618,Residential,989000.0,1183 Ch. de Vendée 
+3,3,2741.0,,Residential,1100000.0,45 Rue des Remparts #2 
+1,1,834.0,,Residential,548000.0,650 Rue Notre-Dame O. 402
+3,1,1140.0,.138,Single,369900.0,40 Rue de Poitiers 
+7,4,,0.99,Residential,1650000.0,1703-1705 Rue Marie-Louise-Vallée 
+3,2,,.482,Residential,1650000.0,100 Île Tellier 
+2,1,1278.0,.479,Residential,135000.0,3115 Rue Principale 
+3,2,1655.0,,Residential,1325000.0,100 Rue du Séminaire 119
+3,2,,.198,Residential,698000.0,15 Place de Gerardmer 
+4,4,3200.0,.148,Residential,1390000.0,125 Ch. des Eaux-Vives 
+5,2,2432.0,.288,Residential,249000.0,156-160 Rue St-Christophe 
+2,2,1219.0,,Residential,1100000.0,789 Av. Querbes #603 
+3,2,,.272,Residential,299000.0,93 Ch. de Brébeuf 
+8,4,,.742,Residential,1400000.0,1710-1712 Rue Marie-Louise-Vallée 
+3,3,2185.0,,Residential,1440000.0,8 Rue McWilliam #403 
+3,2,152116.0,.538,Residential,485000.0,138 Rg du Ruisseau-des-Frênes 
+4,2,9486.0,,Residential,519000.0,"325, Rue des Sources "
+4,3,,.213,Residential,1399000.0,113 Ch. des Roseaux 
+3,2,,6.91,Farm,1395000.0,1570 Ch. Cailloux 
+5,4,,.436,Residential,329000.0,273 Rue St-Jacques 
+3,1,1078.0,.111,Single,80000.0,9 Rue James 
+2,2,1347.0,,Residential,969900.0,1550 Rue des Bassins #814 
+2,2,1248.0,,Residential,459000.0,2050 Boul. René-Lévesque O. #601 
+4,3,3490.0,.048,Residential,2499000.0,8590 Boul. LaSalle 
+2,1,25575.0,0.23,Other,93000.0,155 Rue des Forges 
+2,1,1060.0,,Residential,472538.0,8 Rue McWilliam #201 
+1,1,570.0,,Residential,219000.0,151 Ch. du Curé-Deslauriers #227 
+4,2,,.345,Residential,1199000.0,2601 Ch. des Faucons 
+6,4,,.477,Residential,780000.0,101-101A Rue Auclair 
+3,2,,.623,Residential,1299900.0,342 Ch. du Richelieu 
+3,3,1945.0,,Residential,3298000.0,2301 Rue St-Patrick #B609 
+2,2,1202.0,,Residential,799000.0,1510 Ch. du Versant-Soleil #4 
+,2,2873.0,.768,Residential,1800000.0,3165Z Route des Tulipes 
+3,1,1980.0,.412,Single,179000.0,2 Rue des Épinettes 
+9,8,7000.0,.964,Residential,4799000.0,39 Ch. de Normandie 
+2,2,862.0,,Residential,540000.0,789 Av. Querbes #305 
+3,2,2095.0,.137,Residential,850000.0,2201 Ch. St-Louis #504 
+4,3,2266.0,,Residential,2195000.0,90 Rue Prince #PH904 
+1,1,3229.0,.055,Residential,1100000.0,1901 Rue du Centre 
+3,2,1389.0,,Residential,825000.0,209 Ch. des Quatre-Sommets #8 
+4,3,3850.0,.691,Residential,879400.0,148-150 Ch. de l'Entre-Nous 
+2,1,815.0,,Residential,369000.0,2201 Rue Lespérance #101 
+3,4,5567.0,,Residential,2500000.0,2380 Av. Pierre-Dupuy #PH-2 
+1,1,383.0,,Residential,124900.0,161 Ch. du Curé-Deslauriers #370 
+7,5,3425.0,.124,Residential,2650000.0,15 Av. de Vimy 
+3,2,1982.0,,Residential,1925000.0,370 Rue St-André #1201 
+1,1,664.0,,Residential,379000.0,1085 Rue Smith #1204 
+3,3,1710.0,,Residential,799900.0,260-4e Rue 
+3,2,,.615,Residential,389000.0,106 Ch. des Pointes 
+3,1,,.926,Residential,299900.0,10190 Rue Labelle 
+4,1,,.812,Residential,1795000.0,294 Ch. Doyon 
+6,3,4101.0,.145,Residential,3250000.0,220 Ch. de la Côte-Ste-Catherine 
+3,2,1408.0,.052,Residential,414900.0,22 Ch. du Mont-Blanc 
+5,5,,.585,Residential,3550000.0,790 Ch. de la Montagne 
+2,3,2410.0,,Residential,2950000.0,3446 Av. du Musée #3 
+,1,483.0,,Residential,147000.0,151 Ch. du Curé-Deslauriers #242 
+1,1,625.0,,Residential,479000.0,495 Av. Viger O. #2204 
+2,2,,.743,Residential,899000.0,405 Mtée Morel 
+3,1,,.659,Residential,499000.0,169 202e Avenue 
+2,2,1060.0,,Residential,989000.0,101 Rue de la Rotonde #105 
+2,2,1274.0,,Residential,439000.0,2050 Boul. René-Lévesque O. #510 
+4,5,,,Residential,2699900.0,2975 Rue Camus 
+3,2,,.163,Residential,630000.0,Rue Baillargeon 
+1,1,1075.0,,Residential,945000.0,1455 Rue Sherbrooke O. #2205 
+3,2,,.436,Residential,999000.0,883 Rue Nadar 
+3,1,,.145,Residential,99700.0,192-194 Rue Deschênes O. 
+1,1,,.125,Residential,68900.0,4 Rue Millier 
+3,2,,.151,Residential,159900.0,11 Av. du Père-Garnier 
+1,1,754.0,,Residential,499000.0,137 Rue St-Pierre #111 
+1,2,499.0,,Residential,115000.0,6385 Mtée Ryan #107 
+3,1,,.636,Residential,299000.0,1536 Route D'Argentenay 
+3,2,1622.0,,Residential,880000.0,2192 Ch. du Lac-Supérieur #2306 
+2,2,,.202,Residential,184500.0,36 Rue Fournier 
+3,4,4574.0,,Residential,6950000.0,1485 Rue Sherbrooke O. #8A 
+3,4,3949.0,.213,Residential,1175000.0,105 Rue François-Aubert 
+4,4,3058.0,,Residential,3398000.0,242 Rue Young #PH1901 
+3,2,2077.0,,Residential,849000.0,3940 Ch. de la Côte-des-Neiges #A11 
+2,1,,.192,Residential,300900.0,Ch. de la Cécilia-L 
+2,2,951.0,,Residential,595000.0,111 Ch. de la Pointe-Nord #416 
+3,1,998.0,,Single,170000.0,8 2e Rue 
+5,2,,.186,Residential,295900.0,1600 Rue Léger 
+1,1,,.169,Residential,259000.0,22 Rue de la Chevauchée 
+3,3,3121.0,.917,Residential,699000.0,2110 Ch. du Lac-Quenouille #25 
+5,4,2150.0,,Residential,745000.0,145 Ch. de l'Érablière 
+2,2,1032.0,,Residential,850000.0,2727 Rue St-Patrick #212 
+,1,308.0,,Residential,129000.0,160 Ch. du Curé-Deslauriers #420 
+4,2,1850.0,,Residential,425000.0,195 Rue du Mont-Plaisant #2 
+1,,,,Residential,220000.0,39 Fridolin Simard 
+2,1,99997.0,.133,Residential,179000.0,1328 Rue Tugault 
+4,1,,.117,Residential,259000.0,3320 Route Marie-Victorin 
+2,1,,.204,Residential,275000.0,4 Rue des Flambeaux 
+2,2,887.0,,Residential,459000.0,170 Ch. du Curé-Deslauriers #337 
+3,2,1200.0,.194,Single,299900.0,34 Rue Principale 
+2,1,,.045,Residential,149000.0,6 Rue des Tilleuls 
+2,2,1162.0,,Residential,875000.0,441 Av. du Président-Kennedy #1802 
+2,2,1531.0,,Residential,495000.0,2108 Ch. François-Hertel 
+5,4,2943.0,.285,Residential,1835400.0,Ch. des Quatre-Sommets 
+2,1,,0.17,Residential,135500.0,321 Ch. des Sables 
+3,1,,.604,Residential,332900.0,Ch. de la Cécilia-L 
+4,3,3046.0,0.23,Residential,1645000.0,2069 Rue Brulart 
+1,1,637.0,,Residential,424800.0,1830 Rue Panet #412 
+2,2,1157.0,.288,Residential,518500.0,8 Rue McWilliam #205 
+5,3,,.216,Residential,1349000.0,9110 Boul. Gouin E. 
+3,2,,.108,Residential,79900.0,7 Rue Boulay 
+3,1,,.963,Residential,4300000.0,158B Rg St-Ours 
+3,2,,0.42,Residential,879000.0,80 Rue Lippé #A 
+2,3,1172.0,.244,Residential,575000.0,155 Ch. du Lac-Clair 
+3,3,1776.0,,Residential,469000.0,2112 Ch. François-Hertel 
+2,2,1316.0,,Residential,479000.0,11840 Rue d'Amboise  #104 
+9,4,,.935,Residential,245000.0,72 Rue Principale 
+2,1,,.045,Residential,274900.0,Ch. de la Marie-Renée 
+3,1,,.003,Residential,375000.0,102 Ch. Fleurant 
+3,4,,.246,Residential,780000.0,1185 Av. De Salaberry 
+4,4,,.066,Residential,1128000.0,5780 Crois. Ilan Ramon 
+1,1,473.0,,Residential,219000.0,150 Ch. du Curé-Deslauriers #404 
+3,2,1605.0,,Residential,1625000.0,3 Rue Westmount-Square #416 
+6,3,,.316,Residential,999500.0,317 Rue Chantal 
+2,2,1467.0,,Residential,689000.0,4450 Prom. Paton #709 
+2,2,1426.0,,Residential,1325000.0,1455 Rue Sherbrooke O. #1907 
+1,1,609.0,,Residential,359900.0,5259 Rue De Brébeuf 
+3,4,4405.0,.404,Residential,2195000.0,1621 Rue des Roses 
+4,1,,.588,Residential,475000.0,3 Ch. du Lièvre 
+3,1,,,Other,174500.0,1653 Boul. des Hauteurs 
+2,2,1981.0,,Residential,1195000.0,200 Av. Lansdowne #903 
+2,3,,.186,Residential,481900.0,Ch. du Fief 
+1,1,,.052,Residential,2950000.0,209 Ch. de Granby 
+4,2,,.407,Residential,249000.0,22 Rue Joseph-Blanchet 
+2,1,100804.0,.181,Residential,275000.0,333 15e Avenue E. 
+3,2,1513.0,.659,Single,325000.0,180 Ch. Airport 
+3,4,2218.0,,Residential,2800000.0,242 Rue Young #1702 
+7,5,,.238,Residential,1695000.0,166 Rue du St-Laurent 
+1,1,1049.0,.994,Single,250000.0,34 Rue de Chichester 
+2,1,1046.0,>2.2,Single,399900.0,743 Ch. de la Chute 
+2,2,2068.0,,Residential,1495000.0,285 Av. Clarke #102 
+3,5,3450.0,.902,Residential,1750000.0,43 Rue St-Gilbert 
+3,3,,.906,Residential,1299000.0,1040 Av. du Parc 
+3,1,1380.0,.045,Single,399900.0,25 Rue du Lynx 
+4,2,,.486,Residential,169500.0,1 Route 132 E. 
+4,1,,.169,Residential,185000.0,61 Av. Ross 
+3,2,,.086,Residential,199000.0,32 Ch. McGee 
+3,2,1533.0,,Residential,1195000.0,199 Rue de la Rotonde #2508 
+3,3,1376.0,,Residential,898000.0,1730 Rue St-Patrick #808 
+2,1,1075.0,.717,Residential,475000.0,937 Av. Roland-Beaudin #939 
+4,2,,.178,Residential,499800.0,122 Place Mercure 
+3,3,1650.0,,Residential,1249000.0,119 Ch. des Sous-Bois #104 
+3,1,1210.0,,Residential,498000.0,2505 Av. Van Horne #19 
+3,3,1908.0,.484,Residential,919000.0,4710 Rue St-Laurent 
+2,1,810.0,,Residential,527229.0,1550 Rue des Bassins #600A 
+4,4,,.268,Residential,1348000.0,1613 Rue Michel-Levasseur 
+2,2,1037.0,.288,Residential,463500.0,8 Rue McWilliam #104 
+3,1,145636.0,.071,Single,439900.0,50 Rue Idola-St-Jean 
+2,2,950.0,,Residential,615000.0,789 Av. Querbes #204 
+4,4,2450.0,0.31,Residential,1585500.0,Ch. des Quatre-Sommets 
+2,2,1125.0,,Residential,701705.0,1550 Rue des Bassins #807 
+3,2,1943.0,,Residential,1249000.0,1250 Av. des Pins O. #960 
+1,1,,.186,Residential,222500.0,516 Rue Bellevue 
+3,3,2283.0,0.06,Residential,1255925.0,6754 Rue des Écores 
+3,1,,.172,Residential,130000.0,450 Mtée Casino 
+3,2,24304.0,.531,Single,439900.0,237 Ch. du Lac-à-Larche 
+,1,427.0,,Residential,189000.0,3035 Ch. de la Chapelle #210 
+3,2,98059.0,.603,Residential,749500.0,1377 Rue Principale E. 
+4,4,2649.0,,Residential,1949000.0,121 Rue Cuttle #P71-P72 
+3,2,,0.09,Residential,229900.0,16 Rue des Goélettes 
+2,3,2376.0,,Residential,2675000.0,4175 Rue Ste-Catherine O. #803 
+2,1,,.369,Residential,115000.0,130 Rue Riviera 
+1,1,,.116,Residential,109000.0,1061 Rue du Patrimoine 
+3,1,,0.43,Residential,199900.0,886 8e-et-9e-Rangs N. 
+2,2,1729.0,,Residential,1049000.0,137 Rue St-Pierre #201 
+3,1,768.0,.027,Single,317500.0,2 Ch. Caron 
+5,2,99997.0,.149,Residential,149000.0,62 Rue des Épinettes 
+5,3,,,Residential,85000.0,5 Rue St-Pierre 
+3,2,,.195,Residential,345000.0,28 Av. des Ormes 
+3,1,,.303,Residential,374900.0,195 Ch. des Patriotes E. 
+2,2,1325.0,,Residential,940890.0,1550 Rue des Bassins #816 
+2,2,1458.0,,Residential,999000.0,121 Rue Cuttle #656 
+3,2,,.119,Residential,429900.0,264 Rue Albert 
+1,1,782.0,,Residential,449000.0,2004 Boul. St-Laurent 214
+3,4,9348.0,3.11,Residential,3995000.0,2921 Ch. de Ste-Catherine 
+5,4,2583.0,.132,Residential,2100000.0,5904 Av. Brandeis 
+3,2,1618.0,,Residential,649000.0,1700 Av. du Docteur-Penfield #24 
+3,2,1695.0,,Residential,1450000.0,789 Av. Querbes #602 
+3,1,1623.0,.203,Single,224900.0,25 Rue Comeau 
+4,4,,.201,Residential,1379000.0,12425 70e Avenue 
+4,4,,.265,Residential,959000.0,417 Mtée Lesage 
+4,2,,.206,Residential,319000.0,1052 1re Allée 
+5,2,,,Residential,800000.0,1264 Rue du Centenaire 
+8,13,16794.0,.248,Residential,21999066.0,905 Ch. des Skieurs 
+,,,.792,Residential,64000.0,423 Route 307 
+2,2,1559.0,,Residential,1250000.0,1200 Boul. De Maisonneuve O. #21A 
+2,1,5811.0,.274,Single,139900.0,18 Ch. Monette 
+3,2,,.328,Residential,299000.0,Ch. du Village 
+3,2,3166.0,.323,Residential,1100000.0,156 Av. St-Denis 
+,1,422.0,,Residential,179000.0,150 Ch. du Curé-Deslauriers #407 
+3,1,144818.0,.148,Residential,449000.0,798 Prom. du Lac 
+2,2,1327.0,,Residential,635000.0,10548 Rue St-Urbain 
+4,2,1068.0,.173,Residential,319000.0,1005 Rue O'Keefe 
+3,2,1210.0,.099,Residential,699000.0,420 Ch. de la Côte-Ste-Catherine 
+6,5,1320086.0,,Residential,3798000.0,285 Avenue Edison 
+1,1,526.0,,Residential,245000.0,760 Av. Honoré-Mercier #207 
+5,2,48965.0,.602,Residential,599500.0,210 Rue de la Lisonne 
+4,2,2000.0,.034,Residential,460000.0,252 Ch. du Prospecteur 
+3,1,,.193,Residential,174900.0,1950 Rue Price 
+2,1,,.526,Residential,79500.0,320 Route 232 
+3,2,,.311,Residential,325000.0,433 Rue Ratelle 
+4,3,2574.0,.057,Residential,725000.0,184 Grande Allée O. 
+3,3,,47.6,Residential,1999000.0,117-117Z Ch. des Érables 
+4,5,,.399,Residential,5250000.0,12460 Rue Jasmin 
+5,3,,.742,Residential,649000.0,1026 Rue Gérard-Cloutier 
+3,3,1798.0,,Residential,495000.0,2114 Ch. François-Hertel 
+3,2,1408.0,.033,Residential,399900.0,24 Ch. du Mont-Blanc 
+6,3,,,Residential,1889000.0,3565 PIERRE DAVIAULT 
+5,4,2600.0,,Residential,1337200.0,5697 Rue St-André 
+3,2,1680.0,,Residential,849000.0,1227 Rue Sherbrooke O. #43 
+3,3,2217.0,,Residential,899000.0,1477 Rue Viel 
+2,2,1676.0,.288,Residential,1135000.0,8 Rue McWilliam #501 
+2,2,1582.0,.288,Residential,985000.0,8 Rue McWilliam #405 
+,1,410.0,,Residential,171000.0,140 Ch. au Pied-de-la-Montagne #518 
+4,3,,0.27,Residential,1149000.0,7 Rue du Mistral 
+1,1,530.0,,Residential,531000.0,3045 Ch. de la Chapelle #518 
+3,2,2543.0,.406,Residential,799000.0,1433 Rue Dufour 
+4,5,5854.0,.706,Residential,3950000.0,262 Ch. Wheeler 
+4,3,,7.17,Residential,799995.0,508 Rg Charlebois 
+5,4,2334.0,0.12,Residential,2595000.0,399 Rue de la Prunelle 
+1,2,,,Residential,349000.0,Av. Fournelle 
+3,1,127768.0,,Residential,749000.0,965 Av. Pratt 
+3,4,2095.0,.319,Residential,795000.0,1971 Ch. du Village 
+3,1,1241.0,.096,Single,369000.0,119 Rue des Palominos 
+4,2,1530.0,,Residential,421000.0,581 Rue de la Colline 
+3,2,1408.0,.066,Residential,414900.0,26 Ch. du Village-Mont-Blanc 
+3,2,,.059,Residential,1500000.0,119 Ch. du Lac-Travers 
+3,1,,.243,Residential,309900.0,130 Rue Amireault 
+5,2,,.379,Other,599000.0,6 Rue Lefort 
+3,3,2571.0,0.06,Residential,1349775.0,6752 Rue des Écores 
+2,2,1156.0,.386,Residential,630000.0,56 Ch. du Lac-Clair 
+4,2,2184.0,.413,Residential,340000.0,100 Ch. Prévost 
+3,2,,,Residential,699000.0,99 Chemin Cross 
+5,5,3211.0,.175,Residential,2995000.0,3900 Av. De Ramezay 
+1,1,,0.08,Other,59900.0,3491 Rue Albanel 
+2,1,805.0,,Residential,599000.0,1740 Rue St-Patrick #1107 
+3,1,1380.0,.082,Single,449900.0,255 Rue de l'Ours-Noir 
+3,1,179757.0,.641,Residential,580000.0,1791AZ Ch. des Patriotes 
+5,1,,.332,Residential,298000.0,1849 Rue de Matane-sur-Mer 
+4,3,,.773,Residential,795000.0,13 Ch. des Couleurs 
+2,2,1593.0,,Residential,1175000.0,4210 Boul. De Maisonneuve O. #2 
+4,1,136002.0,.211,Residential,175000.0,40 Rue Principale S. 
+3,2,1163.0,,Residential,745000.0,10850 Rue Basile-Routhier #501 
+5,3,,.393,Residential,1350000.0,492 Ch. de la Station 
+3,3,2801.0,,Residential,4000000.0,1155 Rue de la Montagne #3401A 
+3,2,1850.0,,Residential,1350000.0,95 Ch. de Kandahar #15 
+4,2,,.039,Residential,1495000.0,29 Prospect Street 
+3,2,1413.0,,Residential,679000.0,3445 Rue Drummond #1106 
+3,2,129597.0,,Residential,625000.0,39 Ch. des Cerisiers 
+3,2,1897.0,0.21,Residential,359900.0,1260 Rue Olympia 
+1,1,841.0,.288,Residential,388500.0,8 Rue McWilliam #103 
+3,1,2317489.0,.034,Single,149900.0,4 Ch. du Lodge N. 
+3,1,787918.0,.987,Residential,669000.0,635 Rg du Haut-de-la-Rivière 
+3,1,,.041,Residential,369000.0,972-974 Rue Ste-Ursule 
+3,1,,.619,Farm,2499000.0,75 Rue Roy 
+1,1,,.344,Other,119900.0,62 Rue des Trois-Lacs 
+2,2,791.0,,Residential,698000.0,2615 Rue Augustin-Cantin #A204 
+8,2,,.243,Residential,275000.0,1731 Boul. Benoît-Gaboury 
+2,2,,ng>1,Residential,359000.0,Ch. du Village 
+3,2,,.098,Residential,759000.0,3 Ch. de la Rose-Hélène 
+1,1,530.0,,Residential,515000.0,3045 Ch. de la Chapelle #118 
+2,2,962.0,,Residential,339900.0,160 Ch. du Curé-Deslauriers #338-438 
+5,7,,.626,Residential,2475000.0,31 Ch. de Hombourg 
+2,2,1480.0,.292,Residential,859000.0,87 Ch. de la Trinité 
+3,2,694278.0,.423,Single,249900.0,29 Rue Landry 
+1,1,555.0,,Residential,184000.0,151 Ch. du Curé-Deslauriers #263 
+1,1,472.0,,Residential,343689.0,1471 Boul. René-Lévesque O. #1008 
+5,5,3633.0,2.12,Residential,2559000.0,113 Ch. des Légendes 
+1,1,548.0,,Residential,429000.0,1414 Rue Chomedey #228 
+1,1,,.116,Residential,229740.0,10 Rue Brindle 
+5,5,7984.0,.554,Residential,3699000.0,1181 Rue José 
+3,2,1687.0,,Residential,995000.0,6100 Ch. Deacon #4K 
+1,1,,,Residential,270000.0,101 Rue Peel #608 
+1,1,,,Residential,249000.0,15 Rue Lebel 
+3,1,179757.0,.641,Farm,580000.0,1791A Ch. des Patriotes 
+3,1,,.253,Residential,129900.0,462 Rg des Érables 
+5,3,,.349,Residential,969000.0,53 Av. du Vicomte 
+1,1,641.0,,Residential,359000.0,760 Av. Honoré-Mercier #410 
+3,2,6138.0,,Residential,849000.0,4551 parc de lotbinière 
+3,1,,.122,Residential,495000.0,410Z-414Z Rue Lacasse 
+2,1,,.045,Residential,264000.0,720 Rue Valois 3
+4,3,,.729,Residential,749000.0,726 Ch. des Montfortains 
+3,1,136163.0,,Residential,579000.0,2136 Rue Tupper 
+1,1,456.0,,Residential,174000.0,161 Ch. du Curé-Deslauriers #491 
+3,2,161459.0,.115,Residential,359000.0,21 Rue Adélard 
+3,1,,0.21,Residential,149000.0,140 Rue Pigeon 
+12,3,6453.0,.931,Single,625000.0,442 Rue Notre-Dame 
+3,3,,,Residential,698000.0,4413 rue Dupuis 
+2,1,,.264,Residential,625000.0,17-19 Av. Léonie 
+1,1,519.0,,Residential,335000.0,43 Ch. Fridolin-Simard #2519 
+3,1,99997.0,.697,Residential,89000.0,8 6e-et-7e-Rang O. 
+3,1,,.131,Residential,149000.0,430 Rue St-Philippe 
+3,1,,.373,Residential,429900.0,2933 Place Anita 
+1,1,525.0,,Residential,388000.0,775 Av. Plymouth #706 
+3,3,1501.0,,Residential,918118.0,1550 Rue des Bassins #700 
+1,1,520.0,,Residential,280000.0,39 Ch. Fridolin-Simard #1217 
+2,1,1234.0,,Residential,589000.0,4312 Av. De Lorimier 
+3,1,,.253,Residential,339900.0,110 Rue Ashby 
+4,2,,.504,Other,850000.0,1578 Rue Principale 
+6,5,3932.0,.234,Residential,3150000.0,4817 Rue Cedar Crescent 
+3,2,172804.0,.155,Residential,950000.0,1280 Route 364 
+4,1,,.145,Residential,129000.0,195 Rue Thibault 
+3,2,,.246,Residential,795000.0,117 Rue de la Presqu'île 
+3,2,2200.0,,Residential,770000.0,1109 Av. des Érables 
+3,4,1899.0,,Residential,1998000.0,81 Av. Holton 
+2,1,10652.0,.275,Residential,144000.0,394 3e-et-4e-Rang O. 
+2,1,113204.0,,Residential,289000.0,802 Allée de la Sérénité 
+6,6,,.044,Residential,649000.0,338-344 Rue Principale 
+1,1,530.0,,Residential,374999.0,2727 Rue St-Patrick #418 
+4,2,,.026,Residential,899700.0,3125 Rg du Haut-St-François 
+2,1,1365.0,.288,Residential,900000.0,8 Rue McWilliam #404 
+2,1,,,Residential,343000.0,Rue des Lys 
+2,2,1212.0,.007,Residential,855000.0,185 Rue Laurier #1605 
+2,,4089.0,.207,Single,69900.0,151 Ch. de la Traverse 
+3,2,1326.0,,Single,713112.0,4700 Rue St-Ambroise| E121
+2,1,1072.0,.051,Single,299900.0,189Z Rue Madaire 
+3,4,4800.0,.082,Residential,2770000.0,5 Av. Ste-Geneviève #2-3 
+3,2,146131.0,1.73,Residential,135000.0,5745 Rue Saguenay 
+3,2,,.039,Residential,1049000.0,5686 Av. d'Orléans 
+3,1,140318.0,.379,Residential,239000.0,637 Route des Campagnards 
+2,1,895995.0,.167,Single,199900.0,142 Lac du Brochet 
+5,7,4950.0,.807,Residential,5675000.0,400 Ch. de Cassiopée 
+3,1,,0.23,Residential,179000.0,459 Rue Principale S. 
+3,2,67199.0,.207,Residential,187395.0,55 Rue Boutin 
+1,1,45424.0,.025,Residential,139900.0,130 Rue Roland-Audet 
+3,2,,.121,Residential,539000.0,387 Rue des Busards 
+3,2,1371.0,,Residential,1050000.0,95 Ch. de Kandahar #8 
+2,2,1760.0,.928,Residential,729000.0,4350 Route des Tulipes 
+1,1,,.129,Residential,44500.0,105 Rue Charland 
+1,1,630.0,,Residential,419900.0,365 Rue St-André #312 
+3,1,116121.0,.099,Residential,105000.0,53 Rue Mclean E. 
+3,2,1119.0,,Residential,870000.0,195 Rue Peel #1502 
+4,2,139931.0,.324,Residential,324500.0,241 Rue Principale 
+2,3,2275.0,,Residential,1645900.0,255 Rue Étienne-Lavoie #2102 
+3,2,,.151,Residential,369000.0,165 Rue des Érables 
+3,1,788.0,.479,Single,395000.0,19 Ch. Ziebell 
+3,3,2153.0,,Residential,840000.0,5023 Av. Victoria 
+4,3,2957.0,,Residential,2395000.0,505 Rue Lucien-L'Allier #507&508 
+2,1,,.186,Residential,89000.0,30 Rue du Curé-Boulay 
+7,,7088.0,,Residential,4198000.0,"18 Rue des Huards Ile-des-Soeurs, Montreal "
+3,1,,1.36,Residential,348900.0,Ch. du Fief 
+2,2,1426.0,,Residential,1100000.0,1455 Rue Sherbrooke O. #1506 
+2,2,7704.0,,Residential,178000.0,6385 Mtée Ryan #303 
+2,1,,.017,Residential,249000.0,20B Lac Adams 
+4,4,,.355,Residential,1180000.0,133 Rue des Oliviers 
+2,2,,0.28,Residential,198500.0,1751 Ch. du Village 
+5,2,,0.61,Residential,1325000.0,380 Ch. des Îles 
+2,1,980.0,0.31,Single,59000.0,111 Ch. de Tancredia 
+2,2,1356.0,,Residential,938000.0,255 Rue Étienne-Lavoie #101 
+2,2,931.0,,Residential,433000.0,8 Rue McWilliam #202 
+3,3,,,Residential,1160000.0,2430 Ch. des Marronniers 
+2,2,1481.0,,Residential,898000.0,294 Rue St-Paul O. #32 
+3,1,,,Residential,1300000.0,1690 Ch. de l'Aqueduc 
+5,1,,.323,Residential,72500.0,500 Ch. Duchénier 
+5,3,112408.0,.167,Residential,329900.0,51 Rue Champoux 
+2,1,,.536,Residential,315000.0,626 Route 132 
+2,2,,,Residential,495000.0,600 Av. Wilfrid-Laurier #109 
+3,2,1322.0,,Residential,839000.0,128 Rue Dufferin 
+3,2,1144.0,,Residential,619000.0,701 Rue Irène #315 
+3,1,,.344,Residential,179500.0,59 Rue Villeray 
+5,3,3800.0,.251,Residential,750000.0,143 Ch. du Pavillon-Kanata 
+3,1,12766.0,.173,Residential,103000.0,9 Place Verneuil 
+3,2,,.463,Residential,395000.0,130 Route 132 O. 
+1,1,530.0,,Residential,369000.0,1225 Rue Notre-Dame O. 717
+,1,441.0,,Residential,119000.0,2396 Rue Labelle #506 
+4,4,2435.0,.327,Residential,1539600.0,Ch. des Quatre-Sommets 
+2,1,,>1.6,Residential,359000.0,119 Ch. des Érables 
+7,3,3450.0,.204,Residential,1995000.0,29 Av. d'Anjou 
+4,3,,.221,Residential,2350000.0,300 Ch. des Rondins 
+2,3,,.785,Residential,1389000.0,457 Rue Brassard 
+2,1,,.236,Farm,225000.0,540Z 10e Rang 
+2,2,1298.0,,Residential,699000.0,6301 Place Northcrest #12T 
+5,2,,.368,Residential,249000.0,446Z-448Z Rue Principale 
+2,1,96875.0,.049,Residential,153000.0,3126 Rue Marie-Couture 
+4,4,3026.0,,Residential,145000.0,136 Ch. des Légendes #C2 
+3,2,119996.0,.101,Residential,299000.0,235 4e Avenue 
+2,1,82602.0,.267,Residential,69900.0,11 Ch. de la Rivière O'Sullivan 
+3,2,2360.0,.129,Single,699000.0,2 Rue de l'Anse-aux-Bateaux 
+2,3,1353.0,.245,Residential,534000.0,10 Côte de la Canoterie #2 
+3,1,,.035,Residential,650000.0,708 Rue Bourassa 
+2,2,1156.0,,Residential,1080000.0,495 Av. Viger O. #1806 
+4,2,106886.0,0.19,Residential,259000.0,14 Av. Élisabeth 
+3,2,2020.0,,Residential,1199000.0,3045 Boul. Notre-Dame #1703 
+6,2,,,Residential,499000.0,5775 Rue Bachand 
+4,4,,.083,Residential,1298000.0,5869 Av. Kellert 
+3,2,1636.0,,Residential,995000.0,1497 Av. Roger-Lemelin #203 
+3,2,,.236,Residential,564999.0,251 Ch. du Ruisseau S. 
+2,1,,.573,Residential,254900.0,Ch. de la Cécilia-L 
+1,1,37135.0,,Residential,145000.0,100 Rue Chopin 
+2,1,675.0,.219,Single,274900.0,5 Av. Bay 
+1,1,811.0,,Residential,468000.0,3601 Rue St-Jacques #309 
+2,1,193664.0,.172,Residential,137500.0,1928 Rue Lapointe 
+2,1,810.0,,Residential,511796.0,1550 Rue des Bassins #300A 
+3,2,176797.0,.504,Residential,349999.0,10-10B Rue Nathaly 
+2,2,183417.0,,Residential,539000.0,99Z Av. de l'Hôtel-de-Ville 
+2,3,1946.0,,Residential,1150000.0,30 Rue Berlioz #PH1.2 
+3,1,,.804,Residential,279900.0,200 Rg Grand-Beloeil 
+3,1,717959.0,.682,Single,219000.0,20 Ch. Adélard 
+1,1,458.0,,Residential,419000.0,3045 Ch. de la Chapelle #324 
+4,2,148488.0,.205,Residential,179000.0,459 Ch. de La Baleine 
+6,2,100804.0,.362,Residential,120000.0,73 Rue des Cèdres 
+2,2,990.0,,Residential,919000.0,1300 Boul. René-Lévesque O. #301 
+4,2,1642.0,.375,Residential,799000.0,471 Ch. du Lac-Quenouille 
+3,4,,.211,Residential,1300000.0,177 Ch. des Patriotes 
+5,5,,.632,Residential,1800000.0,516 Rue du Sommet 
+3,2,1525.0,,Residential,730000.0,3445 Rue Drummond #201 
+3,2,,.355,Residential,296000.0,6605 Ch. St-Roch 
+6,5,,.314,Residential,2960000.0,3070 Le Boulevard 
+3,2,,.165,Residential,379900.0,280 Rue du Richelieu 
+3,2,239131.0,.378,Residential,835000.0,205 Ch. de La Gap 
+2,2,2097.0,,Residential,1695000.0,20 Rue des Émeraudes #1704 
+4,3,,3.04,Residential,3900000.0,185 Ch. du Mont-Shefford 
+2,1,,.227,Residential,149000.0,185 Rue Brien 
+2,2,2271.0,,Residential,1349000.0,8185 Rue Berri #PH3 
+2,2,1519.0,.288,Residential,1065000.0,8 Rue McWilliam #504 
+3,1,,.791,Farm,1600000.0,281Z Rg Point-du-Jour N. 
+1,1,638.0,,Residential,498000.0,775 Av. Plymouth #208 
+1,1,705.0,,Residential,375000.0,5334 Av. du Parc #103 
+5,4,,.667,Residential,3850000.0,528 Rue du Sommet 
+6,1,,.252,Residential,495000.0,12475 48e Avenue (R.-d.-P.) 
+1,1,715.0,,Residential,398000.0,1085 Av. Pratt #207 
+2,1,810.0,,Residential,517666.0,1550 Rue des Bassins #400A 
+2,1,519.0,,Residential,629000.0,1188 Rue St-Antoine O. #5101 
+2,1,823.0,.046,Residential,425000.0,1990 Rue De Villiers 
+3,2,1557.0,.045,Single,499900.0,39 Rue du Glenbow 
+1,1,77802.0,.236,Residential,215000.0,300 Ch. de la Grosse-Île 
+2,1,,24.4,Residential,1870000.0,2189 Ch. du 5e-Rang N. 
+4,3,,.361,Residential,949000.0,1815-1817 Rue du Skieur 
+,1,326.0,,Residential,107800.0,161 Ch. du Curé-Deslauriers #382 
+2,2,1379.0,,Residential,439000.0,2050 Boul. René-Lévesque O. #409 
+3,1,,.348,Residential,549000.0,16 Boul. St-Joseph 
+3,2,2500.0,,Residential,1750000.0,2808 rue des Harfangs 
+3,2,1008.0,1.13,Residential,1295000.0,203 Ch. de la Plage-St-Laurent 
+4,3,,7.76,Residential,1550000.0,391 Ch. Ste-Marie 
+2,1,763.0,,Residential,299000.0,4232 Rue La Perrière 
+3,4,3429.0,.831,Residential,1585000.0,57 Ch. du Grand-Duc 
+4,2,,.424,Residential,260000.0,33 Rue Raymond 
+2,2,961.0,,Residential,640000.0,789 Av. Querbes #401 
+4,3,,0.11,Residential,830000.0,312 Rue Ste-Thérèse 
+7,2,,.138,Residential,154900.0,10 Av. Babel 
+3,1,157864.0,0.35,Residential,530000.0,13300 Route Marie-Victorin 
+4,3,,.285,Residential,799000.0,2202 Ch. du Village 
+4,3,,0.15,Residential,820000.0,4000 Rue du Commissaire 
+2,1,,.515,Residential,232900.0,Ch. de l'Étandard 
+3,4,,.888,Residential,1349000.0,33 Ch. des Amarantes 
+4,3,1795.0,.132,Residential,968000.0,1060 Av. Murray 
+4,3,1872.0,.043,Residential,844500.0,15 Ch. de la Paix 
+2,1,700.0,,Residential,435000.0,2525 Av. des Érables #410 
+4,5,2955.0,.813,Residential,698000.0,54 Av. du Rocher 
+4,2,,.749,Residential,560000.0,512 Côte St-Nicholas 
+4,1,,.087,Residential,189900.0,516-1 Rue Georges-É.-Tremblay 
+1,1,64261.0,,Residential,449000.0,100 Rue André-Prévost 511
+3,3,1395.0,,Residential,699000.0,175 Rue Pinoteau #532 
+4,1,,.138,Residential,269000.0,124 Rue Paré 
+15,3,,.224,Residential,750000.0,127Z Rue Hémond 
+2,2,1700.0,.006,Single,499000.0,1 Ch. Karen 
+5,3,3550.0,.074,Residential,750000.0,147 Ch. du Pavillon-Kanata 
+3,2,2174.0,,Residential,829000.0,9 Rue des Jardins-Mérici #102 
+6,2,,.129,Residential,165000.0,935 Rue Henri 
+4,2,,.291,Residential,424900.0,1017 Rue Principale 
+1,1,597.0,,Residential,333450.0,8 Rue McWilliam #106 
+2,1,1330.0,,Residential,269000.0,268 Rue Arago E. #403 
+2,1,52797.0,.693,Residential,209000.0,697 Ch. du Tour-du-Lac-David N. 
+3,1,,.104,Residential,74500.0,936 Route des Blés-d'Or 
+3,2,1925.0,g>22,Single,1600000.0,123 Ch. Tapp 
+5,4,2726.0,.095,Residential,3295000.0,19 Av. Grenville 
+4,3,2510.0,.282,Residential,1349000.0,2110 Rue des Tulipes 
+1,1,537.0,.288,Residential,299000.0,8 Rue McWilliam #108 
+1,2,720.0,,Residential,249000.0,160 Ch. du Curé-Deslauriers #322 
+2,1,1001.0,.697,Residential,225000.0,225 Ch. Lajeunesse 
+2,2,805.0,,Residential,480000.0,10850 Rue Basile-Routhier #507 
+2,2,3234.0,.061,Residential,1500000.0,2303-2305 Rue du Souvenir 
+3,2,1750.0,,Residential,1350000.0,380 Grande Allée O. #2103 
+5,4,2172.0,.034,Residential,930000.0,1974 Rue du Bois-des-Caryers 
+1,1,541.0,,Residential,189900.0,160 Ch. du Curé-Deslauriers #130 
+4,2,4156.0,.863,Residential,1090000.0,524 Rue Brunelle 
+2,1,,.163,Residential,399900.0,591 Rue des Ancolies 
+2,1,,.192,Residential,259900.0,Ch. de la Cécilia-L 
+3,1,,.139,Residential,279000.0,5426 Route Marie-Victorin 
+4,1,,.791,Residential,1600000.0,281 Rg Point-du-Jour N. 
+1,2,1436.0,,Residential,1395000.0,2500 Av. Pierre-Dupuy #704 
+1,1,629.0,,Residential,223900.0,151 Ch. du Curé-Deslauriers #137 
+3,2,173999.0,.309,Residential,449000.0,1648 Rue Lafrance 
+3,2,79502.0,.906,Residential,349000.0,200 Rue Marguerite-Bourgeoys 
+3,2,,.412,Residential,979000.0,689 Av. de la Cathédrale 
+1,1,683.0,,Residential,365750.0,8 Rue McWilliam #308 
+5,3,2400.0,.118,Single,729000.0,87 Rue de Sérignan 
+3,2,7215.0,,Residential,469000.0,"361, Rue Sauriol "
+2,2,1560.0,,Residential,559000.0,3940 Ch. de la Côte-des-Neiges #C23 
+5,3,2247.0,.145,Residential,749000.0,23 Rue Creswell 
+4,2,190005.0,.605,Residential,519500.0,230 Boul. Nolin 
+2,1,805.0,,Residential,418800.0,680 Rue De Courcelle #202 
+3,2,1246.0,,Single,1043618.0,4700 Rue St-Ambroise| E109
+1,1,125098.0,.435,Residential,460000.0,1590 Rue St-Jean-Baptiste 
+5,1,,.544,Residential,350000.0,11 Ch. Bellevue 
+3,2,,.092,Residential,699000.0,154 Ch. de la Paroi 
+2,1,1448.0,.413,Residential,239000.0,5 7e Rang 
+3,1,,.205,Residential,229500.0,48 Rue Principale 
+2,2,1092.0,,Residential,799900.0,1548 Rue des Bassins #115 
+3,1,,.603,Residential,299500.0,699 Ch. Roy 
+7,9,,0.45,Residential,12500000.0,29 Ch. Ramezay 
+2,2,1289.0,.288,Residential,569500.0,8 Rue McWilliam #203 
+4,2,,.139,Residential,1650000.0,467 Av. Greenoch 
+4,4,1902.0,.128,Residential,640000.0,117 Ch. Séguin 
+1,1,532.0,,Residential,429000.0,1205 Rue MacKay #1007 
+7,8,,.349,Residential,4788000.0,465 Ch. de Lac-Tremblant-Nord 
+5,5,,,Residential,4780000.0,#2 Palmetto Bay Gate 
+9,9,,.386,Residential,4899995.0,575 Ch. de l'Anse 
+4,3,3219.0,,Residential,3495000.0,6000 Ch. Deacon #PHI 
+4,2,1444529.0,.151,Single,559900.0,40 Imp. des Vents 
+1,1,518.0,,Residential,189000.0,150 Ch. du Curé-Deslauriers #201 
+2,2,1438.0,,Residential,758000.0,4923 Rue Jean-Talon O. #709 
+1,1,7637.0,.236,Farm,215000.0,300Z Ch. de la Grosse-Île 
+4,3,,7.17,Residential,799995.0,508Z Rg Charlebois 
+2,2,834.0,,Residential,550000.0,789 Av. Querbes #207 
+1,1,553.0,,Residential,194900.0,151 Ch. du Curé-Deslauriers #403 
+4,3,2665.0,,Residential,1450000.0,156 Ch. de la Forêt #1 
+3,2,253232.0,.368,Residential,449500.0,365 Av. Duquesne 
+1,1,505.0,,Residential,460000.0,3045 Ch. de la Chapelle #237 
+6,2,,.135,Other,489000.0,27 Rue Michon 
+1,,374.0,,Residential,239747.0,1550 Rue des Bassins #500B 
+2,,,,Residential,239000.0,Île à Béliveau 
+,,,,Residential,35000.0,160 Rue Principale 
+4,1,,,Residential,776000.0,217 Av. Cleghorn 
+2,2,1032.0,,Residential,849000.0,1225 Boul. Robert-Bourassa #1103 
+2,2,1550.0,,Residential,850000.0,1321 Rue Sherbrooke O. #B71 
+3,3,2072.0,,Residential,1185000.0,3980 Ch. de la Côte-des-Neiges #B17 
+5,1,,.209,Residential,129000.0,202-204 Rue Marquis 
+5,2,149995.0,.344,Residential,49900.0,129 Route 105 
+2,1,296094.0,.274,Residential,275000.0,801 Rue de l'Église E. 
+3,1,,.012,Residential,171400.0,16 Lac Prime 
+,1,,.013,Residential,139000.0,1000 Boul. du Beau-Pré 
+6,5,7955.0,.613,Residential,4995000.0,1200 Mtée Wilson 
+3,1,1960.0,.222,Residential,595000.0,1440 Boul. Monseigneur-De Laval 
+3,1,96003.0,.327,Residential,125000.0,92 Ch. du Pont-Champagne 
+3,1,,.181,Farm,945000.0,1637 Rue Notre-Dame 
+4,3,,.205,Residential,299250.0,37 Rue Héroux 
+4,1,,.109,Residential,85000.0,6 Rue Principale S. 
+2,1,,,Residential,377900.0,Rue des Lys 
+6,1,,.236,Residential,305000.0,1230 9e Rang 
+3,2,,,Residential,428900.0,Rue des Lys 
+,,,.447,Residential,74500.0,2A Ch. des Chalets 
+2,1,,,Residential,373000.0,Rue des Lys 
+4,1,,.609,Farm,900000.0,3225 Boul. du Parc-Industriel 
+11,1,,.165,Residential,325000.0,259 Rue Roy S. 
+2,3,2374.0,,Residential,2450000.0,175 Rue de la Montagne #1401 
+3,1,,.119,Residential,238500.0,513 Av. du Jade 

@@ -1,0 +1,2331 @@
+Beds,Bath,Sqft,Lot_Size,Type,Price,Address
+3,2,1200,,Residential,397700 CAD,4738 BRIDGE STREET 
+4,1,,,Residential,420000 CAD,2020 6th Ave W 
+4,2,1430,,Residential,499900 CAD,1581 Skead Road 
+1,1,,,Residential,320000 CAD,"640 Bayport Blvd, Midland "
+,,,,Residential,389000 CAD,"3274 SARSFILED ROAD, Sarsfield Ontario "
+3,1,680,,Other,399000 CAD,3 - WAHBEZEE DRIVE 
+,,7600,,Residential,125000 CAD,"1 Frederick St., Clinton, Ontario "
+3,2,1498,,Residential,469000 CAD,97 WINNIETT Street 
+2,1,1193,,Residential,369900 CAD,15 SINCLAIR Drive 
+4,2,1600,,Residential,479000 CAD,14 CHARLES Street 
+4,2,1124,,Residential,475000 CAD,115 JOHN Street 
+3,2,,,Residential,499000 CAD,No address available 
+3,4,,,Residential,499900 CAD,107 GILLESPIE CRES 
+3,1,600,,Residential,169900 CAD,5 South Street 
+2,1,950,,Residential,399900 CAD,11 Sauer Ave 
+3,1,730,,Residential,359000 CAD,47 5TH AVE SOUTH 
+3,1,1800,,Residential,479900 CAD,205 Colonial Drive 
+3,1,938,,Residential,489900 CAD,328 MARLBOROUGH Street 
+3,1,,1.11,Residential,369900 CAD,"2871 CONCESSION 3 N ROAD PLANTAGENET, ONTARIO "
+2,2,1046,,Residential,399900 CAD,511 Weber St N 
+,,,,Residential,499900 CAD,45 St Andrews Street 
+4,2,,ng>3,Residential,419900 CAD,1598 Ritchance Rd. 
+2,1,900,,Residential,499000 CAD,7 - MCKENZIE STREET 
+3,2,,,Residential,447500 CAD,189 HANNAH ST 
+2,1,805,,Residential,499900 CAD,5 GORDON Street Unit #303 
+2,1,930,,Residential,439900 CAD,40 SILVERCREEK Parkway N Unit #1 
+1,1,1043,.493,Residential,499000 CAD,7434 ROAD 164 
+2,1,1255,,Residential,494000 CAD,166 Stanton Street 
+2,2,1274,,Residential,469900 CAD,33 Lasalle St 
+4,1,,,Residential,424900 CAD,147 Graham Road 
+1,1,595,,Residential,499000 CAD,51 Harrison Garden Blvd 
+4,2,,>0.5,Residential,475000 CAD,115 Mill St. 
+,,,,Residential,474000 CAD,Georgetown 
+3,2,1327,,Residential,419900 CAD,152 MCKENZIE Street E 
+3,2,,,Residential,324900 CAD,15 Harris St Perth ON K7H 2Y1 
+3,2,,,Residential,489900 CAD,53 WHITEGATE CRES 
+4,,,,Residential,449000 CAD,17 - AH SINEESE CRESCENT 
+3,2,,,Residential,399000 CAD,960 Glen St 
+1,1,,,Residential,500000 CAD,Westline Condos 
+,,,,Residential,500000 CAD,"MISSISSAUGA, ON// Arte Condos available for booking // Great Investment Opportunity "
+3,1,1061,,Residential,399900 CAD,269 Dufferin Street 
+3,2,1200,,Residential,499899 CAD,No address available 
+3,2,,,Single,319900 CAD,11 BELMONT ST E 
+3,2,,,Single,499900 CAD,504 BUNKER HILL Road 
+3,1,,,Single,399900 CAD,166 NELSON Street 
+3,3,,,Single,499900 CAD,265 GERALDINE 
+2,1,,,Single,199000 CAD,1196 Curry Ave. 
+2,1,,,Single,389900 CAD,40 SAMUEL Street 
+3,2,,.381,Single,484900 CAD,4989 38 Road 
+4,1,,,Single,165900 CAD,3001 COUNTY RD 29 ROAD 
+2,1,,,Single,249000 CAD,1368 St. Luke 
+3,2,,,Single,289000 CAD,268 Albinson Street 
+3,1,,,Single,356000 CAD,48 GRIER ST 
+3,2,,,Single,269900 CAD,1839 GLADSTONE 
+,2,,,Single,349900 CAD,3895 FIRELANE 14
+1,1,,,Single,37900 CAD,7489 SIDEROAD 5 E Unit5 TAMARAK
+3,1,,,Single,279900 CAD,6414 VICTORIA Avenue 
+3,2,,,Single,199000 CAD,309 Pim ST 
+3,2,1079,,Single,500000 CAD,29 MORGAN Road 
+3,2,1329,,Single,475000 CAD,675 OPTIMIST STREET 
+3,2,,,Single,289900 CAD,138 Henrietta AVE 
+3,2,,,Single,487500 CAD,270 JOHN Street W 
+2,1,,,Residential,165000 CAD,296 Birch  St S 
+3,1,,,Single,449000 CAD,164 HOMEWOOD Avenue 
+3,2,,,Single,399900 CAD,303 RONALD Street 
+3,2,,,Single,159900 CAD,13 Bloor 
+2,1,,>0.2,Single,499900 CAD,5 ROOSEVELT Street 
+2,3,,,Single,444900 CAD,33 BERGERON PRIVATE 
+2,1,,,Single,279900 CAD,22 MECHANIC STREET W 
+3,2,,,Single,229900 CAD,356 Balsam ST S 
+3,1,,,Single,235900 CAD,636 DURRIL Street 
+3,2,,,Single,399000 CAD,523 VICTORIA Place 
+4,3,,,Single,379900 CAD,1065 Langlois 
+3,2,,,Single,385000 CAD,143 Glendale Avenue 
+2,1,,,Single,474900 CAD,5361 HOUCK Drive 
+4,1,,,Single,399900 CAD,16 MATILDA ST 
+3,2,,,Residential,389900 CAD,185 Teal Cres 
+1,1,,2.29,Single,269900 CAD,831 ORIN ROAD 
+2,1,,0.26,Single,224900 CAD,73 PARK Street 
+3,1,,,Single,409900 CAD,5402 HIGHWAY 12 
+4,1,,,Single,499000 CAD,10 TURNER Crescent 
+4,2,,,Single,488000 CAD,3026 LEMAY CIRCLE 
+3,2,,,Single,379900 CAD,522 RHOLAINE 
+2,1,,,Single,58888 CAD,216 BARRACUDA 
+2,2,,,Single,129900 CAD,124 MARLIN 
+5,2,,>104,Single,479000 CAD,083195 Swamp Hallow Drive DR 
+4,2,,,Single,329900 CAD,984 Ellrose AVENUE 
+3,2,,,Single,479900 CAD,110 BANCROFT Road 
+2,2,,,Single,309900 CAD,43 PARK LANE East 
+3,2,,,Single,199900 CAD,3062 Erindale 
+3,2,,,Single,425000 CAD,16 JOYCE Street 
+7,2,,,Residential,499900 CAD,779 Partington 
+3,1,,,Single,309900 CAD,784 BURROUGHS STREET 
+3,2,,,Single,199900 CAD,1180 WIGLE 
+3,1,,,Single,224900 CAD,79 Retta 
+2,1,,,Single,399999 CAD,6 CHAMPLAIN CRT 
+2,1,,0.23,Single,379000 CAD,178 APPIN Road 
+4,2,1080,,Single,399900 CAD,2435 TOURANGEAU 
+3,2,,,Single,329900 CAD,85 MARSHALL PARK Drive 
+5,2,,,Single,499900 CAD,21 BROCK Street 
+2,1,,,Single,149900 CAD,36 WILDER 
+3,2,,,Single,399900 CAD,16 ANTWERP Street 
+3,2,,,Single,399900 CAD,387 RAILWAY Street 
+3,1,,,Residential,289900 CAD,"19 Railway St., "
+3,2,,,Single,439900 CAD,404 CUSHMAN RD 
+3,3,,,Residential,480000 CAD,24 Desmond Trudeau Dr 
+2,1,,,Single,269500 CAD,2313 COUNTY RD 22 
+3,2,,.497,Single,199900 CAD,476B CALNAN Road 
+3,2,,,Single,259900 CAD,692 University AVE 
+2,1,,,Single,499900 CAD,5 ROOSEVELT ST 
+3,1,,,Single,399000 CAD,467 BETHESDA Road 
+3,1,,,Single,499999 CAD,854 16TH Street E 
+2,2,,,Residential,419900 CAD,4118 Broughton Ave 
+2,1,,,Single,345000 CAD,70 SEVENTH Avenue 
+4,2,,,Single,349000 CAD,28 KENSINGTON AVENUE 
+3,1,,,Single,399000 CAD,622 TALBOT ROAD 
+3,3,,,Residential,499000 CAD,185 Pickett Cres 
+4,2,,,Single,424900 CAD,104 GLENROY Crescent 
+3,1,,,Single,409900 CAD,12 Highway 5402
+4,2,,,Single,499000 CAD,21 GOLDEN Boulevard W 
+1,1,,,Residential,165000 CAD,59 Delamere Rd 
+2,2,,,Residential,329900 CAD,6710 JEANNE D'ARC BLVD N 
+10,5,,,Single,345000 CAD,76 SETTERINGTON ST 
+3,2,,,Single,339900 CAD,440 YVES STREET 
+3,1,1060,,Residential,449900 CAD,114 Warren Avenue 
+1,1,,,Residential,350000 CAD,2785 Baseline Rd 
+3,1,,,Single,399900 CAD,236 JOHN Street 
+4,1,,,Single,399900 CAD,16 MATILDA Street 
+2,1,,,Single,499900 CAD,37 LEVERGOOD ROAD 
+3,2,,,Single,399900 CAD,44 Stone AVENUE 
+3,2,1485,,Single,499900 CAD,268 ROBINSON 
+2,1,,,Single,249900 CAD,9 MOUNT PLEASANT Avenue 
+3,2,,,Single,299900 CAD,1370 Hall 
+3,2,,,Single,249900 CAD,12 WHITE 
+3,2,1570,,Residential,495000 CAD,4 Fife Street 
+2,1,,,Single,124900 CAD,6170 A LIN 
+3,1,,,Single,199900 CAD,415 South STREET 
+3,2,,,Single,479900 CAD,336 KATHARINE Street 
+2,2,1711,,Residential,469900 CAD,36 WILMOT Street S 
+2,2,,,Residential,499900 CAD,363 Mathew St 
+3,2,,,Single,489900 CAD,62 KIDD Drive 
+5,2,,,Single,361000 CAD,3654 CHAMPLAIN STREET UNIT#A&B 
+4,2,,,Single,499900 CAD,12539 LITTLE RIVER 
+4,1,,,Single,399900 CAD,4010 HAMILTON Road 
+3,1,,,Single,250000 CAD,48 Cote 
+3,2,,,Single,324900 CAD,15 HARRIS STREET 
+3,2,1200,,Single,399900 CAD,156 VERMONT 
+3,1,,,Single,399900 CAD,51017 RON MCNEIL Line 
+3,1,,,Single,249900 CAD,218 FRANKLIN ST S 
+3,2,800,,Single,499900 CAD,88 WENDOVER Drive 
+3,2,,,Single,379900 CAD,14254 CONCESSION 1-2 ROAD 
+5,3,,,Single,499900 CAD,428 ELMSTEAD ROAD 
+2,1,,,Single,134900 CAD,30 Curran DR 
+3,1,,,Single,399900 CAD,225 BRIEN West 
+2,2,,,Single,459900 CAD,324 MILL Street 
+4,2,,,Single,449900 CAD,106 CHIPPEWA Avenue 
+2,1,,,Single,309900 CAD,188 SUNNING HILLS DRIVE 
+4,1,,,Residential,499000 CAD,12708 McLARTY Line 
+3,2,,,Single,475000 CAD,7004 MARGARET Street 
+2,3,,,Single,399900 CAD,289 EVEREST PRIVATE UNIT D
+4,1,,,Single,399900 CAD,375 GREENLANE ROAD 
+3,1,1300,,Residential,489777 CAD,687 Victoria St 
+2,1,,ng>1,Single,465000 CAD,28 Highway 27430
+4,2,,,Single,449900 CAD,3241 CLEMENCEAU BOULEVARD 
+3,2,,,Single,159900 CAD,16B London Crescent 
+4,2,,0.27,Residential,429900 CAD,"69 St. Lawrence St., "
+4,2,,,Single,299900 CAD,1007 ELM 
+3,2,,,Single,309000 CAD,17 BRANDON Street 
+8,4,,,Single,499900 CAD,606 ROSEDALE AVENUE 
+4,1,,,Single,225000 CAD,370 Pine Street 
+3,2,,,Single,429900 CAD,1677 VICTORIA AVENUE 
+2,1,,,Single,189900 CAD,501 Superior Street 
+1,1,,,Single,220000 CAD,150 PARK Street 
+1,1,638,,Residential,449900 CAD,181 King Street S Unit #709 
+3,1,,,Single,499900 CAD,225 GENEVA ST 
+3,2,,1.52,Single,399000 CAD,317 JIM BARR ROAD 
+4,2,,,Single,499900 CAD,209 ST DENIS STREET 
+2,1,,,Residential,399998 CAD,137549 Concession 7 Rd 
+3,1,,,Single,299900 CAD,7862 HOWARD 
+3,1,,,Single,189000 CAD,214 Lacroix STREET 
+5,2,,,Single,399900 CAD,10640 Halstead 
+2,2,,,Single,424900 CAD,149 MEADOWVIEW 
+2,1,,,Single,174900 CAD,13 CRESENT Street Unit# 1170 A 
+3,2,1540,,Residential,349900 CAD,3017 BRIMLEY Drive 
+3,3,,,Residential,399900 CAD,3400 PAUL ANKA Drive #65 
+6,2,,,Single,359000 CAD,137 NORWAY Street 
+4,2,,,Single,449900 CAD,78 APELDOORN CRES 
+2,1,,,Single,249900 CAD,623 VIMY AVENUE 
+2,1,,,Single,124900 CAD,40201 VANASTRA Road 
+3,1,,,Single,259900 CAD,9 CEDAR CRESCENT 
+2,1,,,Single,219900 CAD,396 MITTON STREET South 
+4,2,,,Single,399900 CAD,2345 ELSMERE 
+3,2,,,Single,499900 CAD,3567 Baseline ROAD 
+1,1,,,Single,249900 CAD,12 PARK Street W 
+3,2,,,Single,399900 CAD,56 PARKVIEW  RD 
+3,2,,,Single,399900 CAD,2832 CLEMENCEAU 
+2,1,,,Single,399900 CAD,322 EMERICK Avenue 
+2,1,991,,Residential,349900 CAD,72 HARMONY Avenue 
+3,2,,0.23,Single,439900 CAD,91 FIRST Avenue 
+2,2,,,Single,449900 CAD,444 VIA VERONA AVENUE UNIT C
+2,1,,ng>1,Single,390000 CAD,816 CHARLOTTEVILLE 8 Road 
+3,1,,,Single,229900 CAD,85 ELLIOTT 
+3,1,,,Single,339900 CAD,1258 LINCOLN 
+3,2,,,Single,499900 CAD,24 ROBERT ROAD 
+3,1,800,,Residential,499900 CAD,74 WILCOX Drive 
+2,1,,,Single,214900 CAD,1919 Mountdale AVE 
+3,2,,,Single,439900 CAD,16 GREENWOOD Road 
+2,1,,,Single,199000 CAD,3525 QUEEN STREET 
+2,2,,,Single,445900 CAD,12 ROSAMOND Crescent 
+3,2,,,Single,259900 CAD,565 Lamminen AVE 
+3,1,,,Single,199900 CAD,2329 ELSMERE 
+3,1,,.578,Single,380000 CAD,7681 OAK POINT Road 
+5,4,,,Single,439900 CAD,6877 HARBOUR STREET 
+2,2,,,Single,400000 CAD,30 ANN Street Unit 15
+2,2,,,Single,474900 CAD,276 KINGHAVEN CRESCENT 
+5,4,,1.38,Single,499888 CAD,9166 COUNTY ROAD 6 ROAD 
+2,2,,,Single,499999 CAD,475 HARRIET Street 
+3,2,,,Single,499900 CAD,419 ROBINS POINT  RD 
+3,2,1517,,Single,499900 CAD,132 CAVELL Avenue 
+4,2,,,Single,449900 CAD,447 JOSEPH STREET 
+3,2,,.406,Single,279900 CAD,24 GORDON Street E 
+3,2,,,Single,219900 CAD,426 ALGOMA ST N 
+3,1,,,Single,399000 CAD,184 EAST Street 
+3,2,,g>10,Single,339900 CAD,105 CLOUD LAKE RD 
+2,1,,,Single,399900 CAD,11 DOVER LANE 
+2,2,,,Single,124900 CAD,484 Laurier AVE 
+3,2,,,Single,419500 CAD,131 VIRGINIA Street 
+3,2,,,Single,499900 CAD,1289 SEAFORTH Crescent 
+2,1,1000,,Residential,349000 CAD,"26 Lakeshore Rd, Marmora Ontario "
+1,1,,,Residential,85000 CAD,33 WILDER S 
+3,2,,,Residential,379900 CAD,276 Victoria Avenue 
+3,2,1134,,Residential,245000 CAD,138 Willow Place 
+5,2,1115,,Residential,489900 CAD,1102 Woodbine Ave 
+,,,,Residential,279900 CAD,"witlock, lasalle "
+3,1,,,Residential,285000 CAD,37 Edward St. 
+3,1,,,Residential,204900 CAD,18246 Erie Shore 
+3,2,,,Residential,349900 CAD,120 PATTESON Avenue 
+3,1,,,Other,30000 CAD,4065 Huron Church 
+3,2,,,Residential,499900 CAD,29 Church St 
+1,2,700,,Residential,499900 CAD,80 Absolute Ave 
+2,,480,1.67,Other,74000 USD,12 Kapkichi Lake 
+3,2,1100,,Residential,385000 CAD,11 Warbler Lane 
+2,1,825,0.48,Residential,298000 CAD,430 Oak Point Rd 
+,,,,Residential,418900 CAD,MISSISSAUGA-ON// M CITY CONDO// UNITS AVAILABLE WITH EXTENDED DEPOSIT STRUCTURE// GREAT INVESTMENT 
+3,2,,,Residential,319900 CAD,23D Forester Cr 
+3,1,960,,Residential,124900 CAD,166 Balsam Place 
+2,1,1100,,Residential,299900 CAD,505 St Laurent Blvd. 
+3,1,1248,,Residential,120000 CAD,416 Colley Street 
+,,,,Residential,359900 CAD,49 SOG-JE-WA-SA Drive 
+2,2,1047,,Residential,420000 CAD,501-685 Woolwich Street 
+4,2,,,Residential,499900 CAD,3721 Prud'homme 
+2,1,,,Residential,399900 CAD,3733 MARCIL ROAD 
+3,1,988,,Residential,130000 CAD,300 Rand Street 
+3,1,1415,,Residential,489900 CAD,499 Elizabeth Street 
+3,1,,,Residential,449900 CAD,345 Talbot Street East 
+5,2,,,Residential,489900 CAD,107 Noik Drive 
+,,,3.09,Residential,317000 CAD,58 Myles Drive 
+,,,,Residential,249900 CAD,7771 LAWRENCE ST.  
+2,1,792,,Residential,75000 CAD,248 Davies Street 
+1,1,,,Residential,399000 CAD,101 Subway Cres 
+4,3,,,Residential,345000 CAD,1873 Dalkeith Rd 
+3,1,1160,,Residential,469900 CAD,22 Hurron St 
+2,2,,,Residential,499900 CAD,306 Gotham Private 
+4,1,,,Residential,499900 CAD,374 Mitchell Ave 
+,,,,Residential,199000 CAD,896 ELMSMERE RD #9 
+1,1,665,,Residential,489900 CAD,40 Esplanade Lane* 
+3,1,,8.09,Residential,480000 CAD,491 Lac George Rd 
+3,2,,,Residential,499900 CAD,27 Oatley Crt 
+1,1,500,,Residential,479000 CAD,4198 Dundas St W 
+,,,,Residential,329900 CAD,900 Dynes 
+,,,,Residential,400000 CAD,TORONTO- PRIME CONDO for Sale in The Heart of DownTown for Sale // Very Competitive Price 
+,,,,Residential,400000 CAD,TORONTO-ON// The Manderley Condos Starting from High 400K (38% cheaper than DownTown Price). 
+3,1,,,Residential,249900 CAD,811 Langlois 
+2,1,,,Residential,389000 CAD,68 Victoria Street 
+4,3,,,Residential,499900 CAD,432 Bloor Street East 
+2,1,,,Residential,489900 CAD,13 Clyde St. 
+,,,,Residential,499900 CAD,2427 SOUTHVALE CRESCENT 
+3,2,1476,,Residential,489900 CAD,30 Ashton Drive 
+3,1,,,Residential,450000 CAD,886 Monck Rd 
+,,,,Residential,227000 CAD,2020 JASMINE CRESCENT 
+4,2,,,Residential,499900 CAD,4682 Sassafras 
+2,2,,,Residential,498880 CAD,20 Mallard Walk 
+,,,,Residential,439000 CAD,12 Main Street 
+1,1,,,Residential,499000 CAD,75 Queens Wharf Rd 
+2,2,1240,,Residential,299900 CAD,1256 County Road 64 
+4,1,1200,,Residential,199900 CAD,58 Carraway Cres 
+2,3,1790,0.18,Residential,479900 CAD,357 Russell Street 
+,,,,Other,55000 CAD,7318 Highway 26 
+1,1,,,Residential,388900 CAD,1103-201 Parkdale Ave 
+,,,,Residential,299000 CAD,3275 SWALE RD 
+,,,,Residential,500000 CAD,BeauSoleil Condos 
+2,2,,,Residential,389900 CAD,2 - 100 Prestige Circle 
+2,2,,,Residential,299900 CAD,307-1589 St. Bernard 
+2,2,,,Residential,478000 CAD,49 Jardin Private 
+3,2,,,Residential,499900 CAD,No address available 
+1,1,600,,Residential,459000 CAD,50 Absolute ave 
+3,2,,,Residential,499000 CAD,209 Gibbons St 
+,,,25.4,Residential,500000 CAD,1740 Thomas A Dolan Parkway 
+2,1,,,Residential,299900 CAD,416 Denis Street 
+3,1,,,Residential,204900 CAD,18246 Erie Shore 
+3,1,,,Residential,449000 CAD,232 Nassau St 
+2,2,1096,,Residential,460000 CAD,840 South Pelham Road 
+3,2,,,Residential,499900 CAD,10 Briarwood Ave 
+,,,,Residential,394900 CAD,264 Dufferin St. 
+,,,,Residential,418998 CAD,920 DYNES ROAD 
+3,1,,,Residential,459900 CAD,7 Mar Sideroad 
+,,,0.34,Residential,199900 CAD,LT 3 Fairlawn Grove 
+3,1,,0.15,Residential,269900 CAD,75 Thunder Dr. 
+,,,,Residential,469900 CAD,"Manderley Drive, Toronto, ON1 "
+2,2,1075,,Residential,440000 CAD,685 Woolwich Street 
+1,1,,,Residential,499000 CAD,56 Annie Craig Dr 
+3,2,,,Residential,474900 CAD,1321 Pinehurst Ave 
+,,,,Residential,448000 CAD,17 Cripps Ave Toronto 
+3,1,,,Residential,329000 CAD,185 Russell 
+3,1,,,Residential,449900 CAD,4413 CHAMPLAIN STREET 
+3,3,,,Residential,465000 CAD,3205 Uplands Drive 
+7,2,1440,,Residential,499900 CAD,779 Partington 
+3,1,1272,,Residential,269000 CAD,246 St. Charles St 
+3,1,,ng>1,Residential,499900 CAD,1599 O'Neill Rd 
+2,3,,,Residential,384900 CAD,1641 Du Sommet Place 
+,,,,Residential,500000 CAD,"Mississauga-ON, Condos for Sale in the Heart of Mississauga "
+3,2,,,Residential,419900 CAD,1019 Osborne Ave 
+3,1,1114,,Residential,425000 CAD,303 Gilmore Road 
+,,,,Residential,274900 CAD,77 Queenston ST 
+,,,,Residential,175000 CAD,574 Yonge st 
+2,2,980,,Residential,115000 CAD,42-25 mISSISSAUGA aVE  2 BEDRM CONDO 
+,,,,Residential,399900 CAD,102 DREANEY Avenue 
+3,1,1040,,Residential,153900 CAD,201 Birch Place 
+3,1,1000,,Residential,419900 CAD,411 WALLACE Avenue N 
+,,,,Residential,499900 CAD,1021 COUPLAND Road 
+3,2,,,Residential,499900 CAD,537 Lancelot Cres 
+,,390,1.24,Other,74500 CAD,No address available 
+2,1,,,Residential,305000 CAD,1171 AmblesideDr 
+3,2,,,Residential,475000 CAD,"2831 PRINCIPALE ST, Wendover K0A 3K0 "
+1,1,500,,Residential,299900 CAD,6546 Mcleod Rd 
+3,2,,,Residential,299900 CAD,1344 Arthur 
+5,2,,,Residential,499900 CAD,1187 Bayview Dr 
+2,1,600,,Residential,399900 CAD,92 EAST 32ND Street 
+,,,>1.6,Residential,299900 CAD,628195B Side Road 15 
+1,1,,,Residential,199900 CAD,"111 Riverside Dr. East, Windsor "
+2,1,,,Residential,312000 CAD,2003 VIRGIL Street 
+4,2,,,Residential,349000 CAD,350 GEORGE Street 
+4,4,,,Residential,449888 CAD,1 Gingras Court 
+3,1,,,Residential,349900 CAD,219 Lincoln Street 
+3,1,,>1.3,Residential,399900 CAD,1381 Highway 511 
+,,,,Residential,409000 CAD,"296 13th St W, Owen Sound "
+1,1,,,Residential,499999 CAD,205 Sherway Gardens Rd 
+,,,,Residential,419000 CAD,"500 CLARIDGE DR #301, Nepean "
+4,2,,,Residential,499900 CAD,98 Country Club 
+,,,,Residential,399900 CAD,"BARRIE - ON, Great Investment Opportunity, Book with 5 Year Rental Guarantee Package "
+5,4,1684,,Lots,400000 CAD,17B Tauvette St 
+4,2,,,Residential,499999 CAD,516 Park Rd S 
+3,2,,,Residential,299900 CAD,344 Park Avenue East 
+2,1,489,0.21,Residential,499900 CAD,75 Silver Maple Lane 
+3,1,,,Residential,475000 CAD,81 Hall St 
+2,2,,,Residential,475000 CAD,336 Eastwood Ave 
+3,2,,,Residential,379900 CAD,4 TASAN Crescent 
+4,2,,,Residential,469900 CAD,2212 Curry 
+3,1,1200,,Residential,499990 CAD,346 Brock St 
+,1,,,Residential,459000 CAD,219 Fort York Blvd 
+4,2,,,Residential,399900 CAD,17370 Headline Rd 
+2,1,,,Residential,344900 CAD,40 Landry 
+,,,,Other,299900 CAD,LOT 15 HWY 7 RD 
+4,1,1600,,Residential,479900 CAD,5952 Brookfield Avenue 
+4,2,,,Residential,264900 CAD,881 County rd 18 
+3,2,,,Residential,499900 CAD,1482 Fenelon Cres 
+1,1,,,Residential,499990 CAD,17 Zorra St 
+3,1,747,,Other,225000 CAD,44 4th ave S 
+3,2,,,Residential,425000 CAD,3912 Old Richmond Rd. 
+2,1,,,Residential,499000 CAD,259 Montrave Ave 
+1,1,760,,Residential,399900 CAD,489 Crozier Road 
+2,2,,,Residential,379900 CAD,17 Stonehaven Dr 
+,,,,Residential,474000 CAD,Dundas St W & Hurontario St 
+5,2,,,Residential,299900 CAD,341 Josephine Avenue 
+2,1,,,Residential,399900 CAD,3725 Prud'homme road 
+1,1,451,,Residential,299900 CAD,6055 Mcleod 
+2,1,581,,Other,359000 CAD,1-111 North Shore Rd 
+,,,,Residential,359900 CAD,Lot 5 Bertie Street 
+,,,,Other,350000 CAD,Elsie Lake 
+,,,,Residential,399000 CAD,20 Edgecliff Golfway 
+,,19000,0.45,Residential,175000 CAD,904 Lacroix Rd. 
+3,2,,,Residential,499900 CAD,638 Dorchester Dr 
+,,,,Residential,474900 CAD,860 Cahill Dr. W 
+3,2,,,Residential,499900 CAD,243 Lebreton Street North 
+1,1,,,Residential,499000 CAD,4850 Glen Erin Dr 
+1,1,,,Residential,499900 CAD,15 Iceboat Terr 
+,,,,Residential,359900 CAD,0 Metcalfe Lane 
+3,1,,,Residential,499900 CAD,14 Robinson Ave 
+,,,,Residential,224777 CAD,69/71 Polish Ave 
+3,3,,,Residential,479900 CAD,7903 Jeanne D'Arc Blvd N 
+2,1,,,Residential,39000 CAD,514 Pine Street 
+2,2,860,,Residential,489000 CAD,1101 Horseshoe Valley Rd W Edge Horseshoe Condos Resort 
+2,1,1000,,Residential,135000 CAD,106 Hutchison Condo Townhome 
+,,,,Residential,229900 CAD,2000 JASMINE CRESCENT #708 
+,,,1.58,Residential,210000 CAD,3748 Champlain Street 
+,,,,Residential,399990 CAD,"200 INLET PVT #907, Orleans "
+3,1,1140,7.19,Other,398000 CAD,132 Snug Harbour Rd 
+3,1,,,Residential,299900 CAD,5D Banner Rd. 
+,,,,Residential,500000 CAD,3576 Errington Ave - Chelmsford 
+6,3,,,Residential,449900 CAD,468 Rosedale 
+3,1,975,ng>1,Residential,289900 CAD,1 Minto st. 
+3,2,1500,,Residential,330000 CAD,175 Thomas St 
+4,1,1168,,Residential,499900 CAD,104 CHESTNUT Avenue 
+2,2,,,Residential,497900 CAD,6500 Montevideo Rd 
+2,2,,,Residential,499000 CAD,1001 Cedarglen Gate 
+3,2,,,Residential,479000 CAD,1058 Falgarwood Dr 
+,,,,Residential,49000 CAD,1131 BAXTER RD 
+3,1,2500,,Residential,479900 CAD,3769 Holmes Road 
+3,3,,,Residential,499999 CAD,138 Cadillac Ave N 
+,1,473,,Residential,485000 CAD,3891 Redmond Rd M4 Condos 
+1,1,,,Residential,499990 CAD,20 Thomas Riley Rd 
+2,1,740,,Residential,499000 CAD,34 Ottawa Street S 
+2,1,,,Single,299900 CAD,392 HANNAH Street 
+2,1,,>0.9,Single,475000 CAD,24 SLEEPY HOLLOW LANE 
+4,2,,,Single,379900 CAD,975 BELLEPERCHE 
+3,2,,0.88,Single,429900 CAD,67 SCOTCH BUSH ROAD 
+3,1,,,Single,319900 CAD,66 CHURCH STREET 
+2,1,,0.16,Single,399900 CAD,1744 MACINTYRE AVENUE 
+3,1,,,Single,299000 CAD,23373 Prince Albert 
+2,1,,,Single,315000 CAD,241 ST PAUL Street W Unit 301
+3,4,,,Single,420000 CAD,149 BAYVIEW Drive 
+2,2,,,Single,490000 CAD,53 PINE Street S 
+4,1,1096,,Residential,499000 CAD,87 Locheed Drive 
+2,2,,,Single,414900 CAD,1077 REDTAIL PRIVATE UNIT 28
+2,1,,,Single,229900 CAD,1645 COUNTY ROAD 42 Unit 11
+3,3,,,Single,449000 CAD,16 TAYLOR Road E 
+3,1,,,Single,169900 CAD,140 Frobel DR 
+2,2,,,Single,495000 CAD,313 ST PATRICK STREET UNIT H
+3,3,,,Residential,459900 CAD,5 JOHN FINDLAY Terrace 
+1,2,,.088,Single,419000 CAD,81 DUNDAS Street E 
+5,3,1598,,Single,499900 CAD,45 FAIRVIEW AVENUE East 
+4,1,,,Single,249900 CAD,3631 MATCHETTE 
+4,2,,,Single,369900 CAD,2024 ARGYLE COURT 
+3,2,,.134,Single,469000 CAD,165 6TH Avenue E 
+3,2,,.248,Single,429000 CAD,154 MONTGOMERY Avenue 
+2,2,,,Single,249000 CAD,32 ROBERTSON DRIVE 
+3,3,,,Residential,449900 CAD,12 TARQUIN Crescent 
+2,1,,.178,Single,349000 CAD,50 RIVER BEND Drive 
+3,1,,,Single,499000 CAD,25 RENFREW Street E 
+1,1,,14.2,Single,93500 CAD,220 HWY 11-17 
+2,1,,,Single,485000 CAD,446 BRODERICK Street 
+,2,,,Single,179900 CAD,8 Feltz RD 
+5,3,,,single,339900 CAD,181 CECELIA Street 
+6,3,,.256,Single,500000 CAD,69 FORSYTH Street 
+1,,,,Single,349900 CAD,60 Sunrise Bay RD 
+2,1,,,Single,179900 CAD,875 Charlotte Street 
+2,1,,,Single,249900 CAD,305 RIVER VALLEY Road 
+3,1,,,Single,465000 CAD,375 DURHAM Street W 
+3,2,,,Single,429900 CAD,513 ANGUS CAMPBELL DRIVE 
+3,1,,,Single,499900 CAD,27 CHERRY Street 
+2,1,,.111,Single,325000 CAD,16E MACDONALD Crescent 
+3,2,,.466,Single,389900 CAD,173 MAIN Street 
+4,2,,,Single,279900 CAD,729 James ST N 
+5,2,,,Single,449900 CAD,83 MARLBOROUGH Street 
+4,2,,,Single,219000 CAD,296 Maple ST S 
+3,5,,,Residential,454900 CAD,57 BETHUNE Way 
+3,1,,,Single,349000 CAD,602 Lacroix STREET 
+4,2,,,Single,349900 CAD,887 PRADO PLACE 
+4,2,,,Single,399900 CAD,481 DESJARDINS 
+2,1,876,,Residential,449000 CAD,45 DRUMMOND Street 
+3,1,1000,,Single,299900 CAD,33 RICHARDSON 
+4,1,,,Single,349900 CAD,992 FAIRVIEW 
+3,2,,,Single,449900 CAD,1 ARVALEIGH End 
+3,1,,,Single,399900 CAD,44 MARSHA DRIVE 
+3,1,,,Single,164900 CAD,401 Second AVE 
+3,2,,.106,Single,349900 CAD,34 ASHDALE Crescent 
+3,1,,,Single,229900 CAD,18 Stokes ST 
+3,2,,,Single,129900 CAD,31 Aurora AVE 
+2,1,,,Single,89900 CAD,1043 ASPHODEL LINE 2 185
+4,2,,>0.9,Single,285000 CAD,736 Highway 552 W 
+3,3,,>7.3,Residential,499000 CAD,30 NIEN MAR Lane 
+4,1,,,Single,249888 CAD,1127 CAMPBELL 
+4,2,,,Single,379900 CAD,159 KLUNDERT 
+3,1,,,Single,249900 CAD,10 CAMERON STREET 
+3,1,,,Single,89900 CAD,12 Coveney ST 
+2,1,660,,Residential,139900 CAD,1070 Lakeshore Road 
+2,2,,,Single,199900 CAD,1102 MOY 
+4,2,,,Single,280000 CAD,546 MAIN STREET 
+3,2,,,Residential,499000 CAD,123 Muskoka Rd 
+3,1,,,Single,279000 CAD,819 WELLINGTON 
+3,1,,,Single,249900 CAD,1157 DOUGALL AVENUE 
+2,1,,,Single,339900 CAD,1718 SEACLIFF DRIVE 
+5,4,,.192,Single,449900 CAD,319 QUEEN Street S 
+5,2,1136,,Single,299000 CAD,2123 SECORD 
+3,2,,,Single,349900 CAD,3100 LAKESHORE RD 303
+3,1,,>0.4,Single,259900 CAD,14 PETER STREET 
+2,1,,,Single,369900 CAD,101 GRANT BOULEVARD 
+3,1,,,Single,499900 CAD,1272 BEAVIS Boulevard 
+2,1,,,Single,149000 CAD,47 Queen AVE 
+5,2,,,Single,499900 CAD,683 21ST Avenue 
+3,2,,,Single,309900 CAD,301 MARKS ST S 
+3,1,,,Single,279000 CAD,1102 WELLINGTON 
+2,2,,,Single,309900 CAD,350 Leslie Street 
+2,1,,.028,Single,205000 CAD,316 TOWER Drive 
+4,2,,,Single,199900 CAD,1166 JANETTE AVENUE 
+3,2,1000,,Residential,499900 CAD,5928 Theresa Street 
+3,1,,,Single,299000 CAD,57 ALBERT STREET Street 
+3,3,,,Single,424900 CAD,70 COMMERCIAL Street 
+2,2,,,Single,469900 CAD,2272 WATERCOLOURS WAY 
+1,1,,,Single,165000 CAD,59 DELAMERE RD 
+2,2,,,Single,329000 CAD,6722 JEANNE D'ARC BOULEVARD N UNIT A
+3,1,,,Single,350000 CAD,38 CHURCH STREET 
+5,2,,,Single,299900 CAD,1541 BENJAMIN AVENUE 
+3,1,,,Single,324900 CAD,504 MAIN Street E 
+3,1,,,Single,249900 CAD,43 Ronald Crescent 
+3,2,,,Single,159000 CAD,232 Brown ST 
+3,2,,,Single,469900 CAD,26 LOWELL Avenue 
+2,1,,,Single,41300 CAD,40 Elmcrest DR 
+2,1,,,Residential,259000 CAD,21 Butternut Lane 31
+2,1,658,,Residential,374900 CAD,6200 Cadham Street 
+4,2,,,Single,259900 CAD,705 SANDFIELD CRESCENT 
+3,2,1472,,Residential,499900 CAD,261 Stinson Crescent 
+2,1,,,Single,179900 CAD,166 PARADISE Lane 
+2,2,,,Single,385000 CAD,116190 GREY ROAD 3
+4,2,,,Single,399900 CAD,28 TIERNEY STREET S 
+5,2,,,Single,199900 CAD,1465 EVERTS AVENUE 
+3,2,,,Residential,499900 CAD,131 Grass Ave 
+3,2,,,Single,499000 CAD,382 MAIN  ST 
+3,1,,,Single,359900 CAD,131 GYPSY LANE 
+4,2,,,Single,259900 CAD,708 College ST 
+2,1,,,Single,69900 CAD,7489 SIDEROAD 5 E Unit11 TAMARAK
+4,2,,,Single,105000 CAD,1703 Crawford AVE 
+5,3,,,Single,499900 CAD,667 Lavoie Street 
+2,2,,,Single,239900 CAD,266 CATHERINE STREET 
+3,2,,,Single,299900 CAD,827 CASTLEFORD ROAD 
+3,2,,,Single,375000 CAD,806 PORTSMOUTH Avenue 
+2,2,,,Single,379900 CAD,34 PRIMROSE Avenue 
+4,2,,,Single,499900 CAD,18 KITCHEN RD S 
+5,3,2050,,Residential,499900 CAD,524 BROAD Street E 
+2,1,,,Single,399900 CAD,678 ELIZABETH Street 
+3,2,,,Single,489900 CAD,2322 WINDERMERE 
+4,2,,,Single,499900 CAD,290 DUCKWORTH ST 
+3,2,,,Single,499900 CAD,60 CAPRICE Crescent 
+3,2,,,Single,439900 CAD,16217 NORTHFIELD ROAD 
+3,1,,,Single,250000 CAD,74 JOSEPH STREET 
+5,2,,,Single,399900 CAD,346 RANDOLPH 
+3,1,,,Single,150000 CAD,122A MARLIN 
+1,2,,,Single,189900 CAD,5700 BLACKWELL Sideroad Unit 329
+4,2,,,Single,495900 CAD,70 ROSS ST 
+3,3,,,Single,499900 CAD,2541 HUNTERS POINT CRESCENT 
+3,1,,,Single,449900 CAD,115 SUPERIOR Street 
+3,1,,,Single,499900 CAD,4 CEDARDALE Avenue 
+2,1,,,Single,187900 CAD,928 MCKAY AVENUE 
+3,1,,,Single,149900 CAD,322 Robertson ST 
+3,3,,,Single,499900 CAD,40 KINGSMILL RD 
+2,2,,,Single,359900 CAD,6 GEORGE STREET W 
+3,2,,,Single,349900 CAD,230 PROCTOR STREET 
+3,1,,,Residential,299900 CAD,17851 Hwy 60 Highway 
+4,2,,,Single,499900 CAD,1359 MONTREAL Street 
+2,1,,,Single,299900 CAD,39 ST. ANTHONY STREET 
+3,1,,,Single,439900 CAD,12 Albert 
+3,1,844,,Residential,499990 CAD,624 ROXBOROUGH Avenue 
+3,1,,.238,Single,425000 CAD,126 HENRY Street 
+3,1,,g>31,Single,249900 CAD,256 Hill RD 
+1,2,,,Single,194000 CAD,438 Eva Avenue 
+3,2,,,Single,379900 CAD,157 STEELE Road 
+3,2,,,Single,429900 CAD,93 Billiards Way 
+6,3,,,Single,299900 CAD,1125 HOWARD 
+6,2,,,Single,364900 CAD,112 MOIRA Street E 
+4,1,,,Single,375000 CAD,10 MILNE Street 
+3,2,,,Single,379900 CAD,2045 TODD LANE 
+4,2,1281,,Single,439900 CAD,238 GAMMON 
+4,2,,,Single,499900 CAD,26 LABRECHE Drive 
+2,1,,,Single,375000 CAD,51 70TH Street N 
+4,2,,,Single,499900 CAD,290 DUCKWORTH Street 
+2,1,,,Single,399900 CAD,80 GLAMORGAN DRIVE 
+3,1,,0.18,Single,499900 CAD,606 CRESCENT Road 
+4,2,,0.27,Single,449000 CAD,8 ARTHUR Street 
+3,1,,,Single,385000 CAD,8 ADAMS Street 
+3,2,,,Single,249800 CAD,10 Huron ST W 
+5,2,,,Single,319900 CAD,175 Lois CRES 
+3,2,,,Single,399900 CAD,445 O'Neil Drive W 
+5,2,,2.35,Single,409000 CAD,17 HENDRY LANE 
+5,2,1090,,Residential,457900 CAD,120 Ivon Avenue 
+3,1,,,Single,169000 CAD,41 London ST 
+2,2,,,Single,399000 CAD,155 CHARLES ST E 
+4,2,,,Residential,500000 CAD,395 Enright Rd 
+1,1,,1.07,Single,295000 CAD,1490 BUCKSLIDE Road 
+2,2,,,Single,425000 CAD,21084 RIVERVIEW Drive 
+3,1,1012,,Single,279900 CAD,102 Brownlee CRESCENT 
+3,3,,,Residential,349900 CAD,128 MCCLINTOCK Way 
+2,1,,,Single,299000 CAD,15 PARK BLVD 
+3,2,,,Single,299900 CAD,11 Sycamore Street 
+3,3,,,Single,469900 CAD,891 LACROIX ROAD 
+3,2,,0.15,Single,149000 CAD,52 Ninth AVE 
+3,2,,,Single,459900 CAD,17 KARLEE Court 
+3,2,,,Single,395000 CAD,20889 GLEN ROBERTSON ROAD 
+3,1,,,Single,399900 CAD,17966 LAKESHORE DRIVE 
+2,2,,,Single,269900 CAD,37 Milliken Road 
+2,1,,,Single,139900 CAD,43 WILDER South 
+2,1,,.246,Single,319900 CAD,26 SHERBOURNE Street N 
+3,1,,,Single,208500 CAD,612 Nobel RD 20
+5,2,,,Single,399900 CAD,812 DOUGALL 
+4,2,,.433,Single,489900 CAD,335 MARLEAU Road 
+5,2,,,Single,495000 CAD,968 LAWSON Road 
+3,1,,,Single,69500 CAD,12 MAPLE DR 
+3,1,,,Single,319900 CAD,1648 Henry Court 
+3,2,,,Single,319000 CAD,529 BRIDGE AVENUE 
+3,1,,,Single,499900 CAD,101 YOUNG ST 
+3,2,,,Single,299900 CAD,6305 LONDON ROAD Road 
+3,2,,,Single,499900 CAD,139 Barr RD 
+3,2,,,Single,499900 CAD,1920 Highway 17 West 
+3,2,,,Single,219900 CAD,304 Superior ST 
+1,1,,,Single,449900 CAD,428 BARNES Avenue 
+3,2,,,Single,375000 CAD,94 S St. David Street 
+4,2,,,Single,179900 CAD,218 LOUISA STREET 
+2,2,,,Single,445000 CAD,100 KELTIE PRIVATE 
+3,1,,,Single,395000 CAD,99 MALAKOFF Street 
+3,1,,,Single,349900 CAD,16 EAGLE LAKE Road 
+2,1,,,Single,269900 CAD,935 Somers Street 
+2,1,,,Single,89900 CAD,5216 COUNTY ROAD 90 LOT 47 Road 
+3,3,,,Single,375000 CAD,19548 LAPIERRE ROAD 
+2,1,,,Single,379900 CAD,34 PRIMROSE AVE 
+4,2,,,Single,399900 CAD,70 FAUBERT DRIVE 
+3,1,,,Single,174900 CAD,7234 CREEK LINE 
+5,2,,,Single,399900 CAD,3125 DOMINION 
+3,2,,,Single,399900 CAD,55 ASKIN Street 
+2,1,,.146,Single,399900 CAD,397 SPRUCE Street 
+1,1,,,Single,84900 CAD,109 MARLIN 
+3,3,,,Single,459000 CAD,195 WATSON 
+3,2,1850,,Single,369000 CAD,21 ALICE STREET South 
+3,2,,,Single,499900 CAD,3106 VIOLA CRESCENT 
+2,2,,,Single,378000 CAD,266 CLAYTON Street E 
+2,2,,,Single,499000 CAD,2339B MER BLEUE ROAD 
+4,2,,,Single,399000 CAD,132 GLOUCESTER 
+2,1,,,Single,129900 CAD,184 ALBERT 
+3,1,,,Single,299900 CAD,1673 FRANCOIS ROAD 
+3,2,,,Single,364900 CAD,152 KENT Street N 
+3,1,,,Single,369000 CAD,82 Wellington STREET East 
+3,1,,,Single,295000 CAD,7 SHAMROCK Crescent 
+2,2,,,Single,399900 CAD,4256 PIONEER 
+3,2,,,Single,499000 CAD,2063 GEORGE Street 
+4,2,,,Single,449900 CAD,327 Highway 540 
+2,1,,.488,Single,249900 CAD,1441 BRADSHAW Road 
+3,1,,>0.8,Single,429000 CAD,1018 HARCOURT Road 
+2,1,,,Single,459900 CAD,20 TEEPLE Street 
+3,4,,3.28,Single,479000 CAD,168 Ojibway DR 
+3,2,,,Single,209000 CAD,105 Huron CRES 
+3,2,,,Single,369900 CAD,149 GORE STREET E 
+2,1,,,Residential,349000 CAD,87  Adelaide St 
+2,1,,.289,Single,299000 CAD,39 HOBO Road 
+2,2,,,Residential,499000 CAD,13 Kawartha Rd 
+2,1,,,Single,435000 CAD,629 BOLIVAR Street 
+4,1,,.193,Single,424900 CAD,14 ROSELAWN Boulevard 
+3,1,,,Single,149900 CAD,356 Frood Road 
+1,1,,,Single,159900 CAD,1589 MINE VIEW ROAD 
+3,2,,,Single,499900 CAD,16 DIEPPE Drive 
+8,3,,,Single,499000 CAD,70 Albany 
+3,1,,,Single,199900 CAD,2628 Meighen 
+3,1,,,Single,499900 CAD,44 TIFFIN Street 
+3,2,,,Single,479000 CAD,996 MEADOWVIEW Road 
+4,3,,,Single,459900 CAD,1177 MOUNTAIN ROAD 
+2,2,,,Single,99900 CAD,237 Maple ST S 
+6,3,,,Single,399000 CAD,37 EBENEZER ST E 
+2,2,,,Single,399900 CAD,165 JOHN Street 
+3,1,1110,,Residential,389900 CAD,17 Morris Avenue 
+3,1,,,Single,299900 CAD,151 COTTERBURY STREET 
+4,1,1250,,Residential,259900 CAD,805 Bruce Road 13 
+3,1,880,,Residential,399900 CAD,61 HAYNES Avenue 
+3,1,,,Single,249900 CAD,53 GEORGIAN GLEN DR 
+3,2,,,Single,479900 CAD,210 PETRONELLA Place 
+2,1,,,Single,149900 CAD,3 Bouck RD 
+2,2,,,Residential,400000 CAD,131 York St 
+4,2,,,Single,499500 CAD,67 SEVENTH AVENUE 
+2,1,,,Single,265000 CAD,13 COBURN STREET 
+3,1,,,Single,359900 CAD,83 BOURDEAU CRESCENT 
+3,3,,ng>3,Single,449900 CAD,1711 BETHEL Road 
+2,1,,.248,Single,299700 CAD,8 WALTER Street 
+3,1,,,Single,259900 CAD,1617 CADILLAC 
+4,2,,,Single,499900 CAD,40 INDIAN Trail 
+3,1,,,Single,489900 CAD,166 HUNTERS BAY ROAD 
+2,1,,,Single,199000 CAD,1653 Colonization RD W 
+3,1,,,Single,204900 CAD,509 Redwood AVE W 
+3,1,,,Single,499900 CAD,36 MONTEAGLE Crescent 
+3,2,,,Single,249863 CAD,1863 ST. LUKE ROAD 
+3,1,,,Single,399900 CAD,28 ALLAN Drive 
+3,2,,,Single,339900 CAD,41 ERIE STREET South 
+3,2,,,Single,499900 CAD,52 WATT Street 
+2,1,,,Single,299900 CAD,1490 P Line RD 
+3,2,,,Single,257900 CAD,343 Rossmore RD 
+2,2,,,Single,234900 CAD,433 THIRD STREET SOUTH 
+2,1,,,Single,410000 CAD,222 OAKLAND Avenue 
+3,2,,,Single,459900 CAD,1 CHURCH STREET 
+3,1,,,Single,249900 CAD,53 GEORGIAN GLEN Drive 
+2,2,,,Single,389900 CAD,18 CRISPIN PRIVATE 
+4,1,,,Single,349900 CAD,2730 BEST CHASE RD 
+4,2,,,Single,169000 CAD,1002 Highway 17 E 
+3,2,,,Single,439670 CAD,100 LINCOLN Street 
+3,2,922,,Residential,450000 CAD,130 Albany Avenue 
+3,3,,,Single,239900 CAD,527 Vickers ST S 
+3,1,1130,,Residential,499900 CAD,835 #8 Highway 
+1,1,,,Single,124900 CAD,1162 Donaldson Crescent 
+2,1,980,,Residential,299000 CAD,7324 RAINHAM Road 
+1,1,,.186,Single,134500 CAD,25 DUBEAU Street 
+4,2,,,Single,449000 CAD,301 OXFORD E STREET 
+3,1,,,Single,499900 CAD,29 DUKE Street 
+2,1,,3.46,Single,495000 CAD,367 COUNTY 8 ROAD 
+2,1,,,Single,299900 CAD,27 CHURCH STREET 
+3,2,,0.17,Single,499900 CAD,35 ROSS Road 
+3,2,,,Single,369900 CAD,3351 BRUCE STREET 
+2,1,,,Single,469000 CAD,14 HILDA Street 
+3,1,,,Single,275000 CAD,142 Fen Road 
+6,2,,,Single,499900 CAD,355 CARON 
+3,1,,,Single,449000 CAD,1192 SIMMONS Road 
+2,2,,0.25,Single,369900 CAD,131 HIGH Street 
+3,1,,,Single,289900 CAD,12 Clement ST 
+4,2,,,Single,479900 CAD,1319 Harvest Bend DRIVE 
+2,1,,g>87,Single,499999 CAD,474 ECHO RIDGE Road 
+2,1,,,Single,399900 CAD,927 EXMOUTH STREET 
+4,2,,,Single,399900 CAD,419 DENIS STREET 
+3,1,,,Single,449900 CAD,242 CHIPPAWA Road 
+3,1,,,Single,359900 CAD,168 ROBERTS Avenue 
+4,2,1200,,Single,399900 CAD,2175 Front 
+3,2,,8.85,Single,449900 CAD,4670 W Line RD 
+4,2,,,Single,499900 CAD,10928 BRENTWOOD CRESCENT 
+3,1,,,Single,139900 CAD,29 Lynx AVE 
+3,1,1210,,Single,324900 CAD,876 Hall AVENUE 
+3,2,,,Single,419900 CAD,1068 BRIDLEWOOD Drive 
+5,2,,>7.7,Single,299000 CAD,1172 Redford RD 
+3,1,,,Single,399900 CAD,1035 HERITAGE ROAD 
+3,2,,,Single,499000 CAD,7060 WARWICK VILLAGE ROAD 
+2,2,,,Single,149900 CAD,110 Viscount AVE 
+3,3,,,Single,399900 CAD,1174 Windermere 
+6,2,,,Single,425000 CAD,1320 CEDARGROVE Drive 
+4,2,,,Single,314900 CAD,205 CENTRE Street N 
+2,1,,0.34,Single,347900 CAD,169 HAMBURG Road 
+2,2,,,Single,339900 CAD,46 Marion AVENUE 
+3,3,,,Residential,389900 CAD,68 Main Street East 
+2,2,,,Single,289900 CAD,5 Albert ST 
+,,,,Single,192500 CAD,10873 Sinclair LINE 
+4,2,,,Single,479900 CAD,183 POCHARD Court 
+4,2,,,Single,450000 CAD,890 WELLER ST 
+4,2,,,Single,399000 CAD,44 Notre Dame Street 
+2,1,744,,Residential,499997 CAD,19 Mahony Avenue 
+3,2,,6.39,Single,199000 CAD,334378 Highway 11 
+3,2,,,Single,319000 CAD,1519 Rankin ST 
+2,1,,,Single,239000 CAD,346 JOCKO POINT RD 
+2,2,,,Single,424900 CAD,350 ROYAL FERN WAY 
+3,2,,,Single,399900 CAD,36 DANFORTH 
+3,2,,,Single,464900 CAD,9548C Highway 6 
+2,2,,,Single,435000 CAD,1010 REDTAIL PRIVATE 
+2,1,,,Single,499000 CAD,2087 MAIN Street N 
+2,1,,,Single,450000 CAD,456 ANDREW Street 
+3,1,,,Single,264900 CAD,20 MCGARRY AVENUE 
+3,1,,,Single,459000 CAD,158 PHILLIPS Road 
+3,1,,,Single,289900 CAD,219 Hyland Drive 
+2,2,,,Single,374900 CAD,427 CHAMBERLAIN STREET 
+2,1,,,Single,114900 CAD,59 Blake ST 
+4,2,,,Single,299900 CAD,3262 MORRELL STREET 
+3,2,,.155,Single,489900 CAD,89 TENTH Avenue 
+2,1,805,,Residential,489900 CAD,166 LOCKE Street N 
+3,2,,,single,464900 CAD,1535 LANDRY Street 
+3,2,,5.47,Single,399900 CAD,1637 D Line|St. Joseph Township 
+2,2,,,Single,419900 CAD,247 INFUSION PRIVATE 
+4,2,,,Single,389900 CAD,2435 CABANA ROAD West 
+3,1,,,Single,499900 CAD,362 OSHAWA BLVD S 
+4,2,,,single,389900 CAD,75 MALVERN Drive 
+5,1,,.251,Single,399900 CAD,237 PARK Street 
+2,2,,,Single,365000 CAD,225 Cox RD 
+2,1,,,Residential,239000 CAD,399 GIVEN Road 
+2,1,,,Single,499000 CAD,37 MCGHIE Street 
+2,2,,,Single,85000 CAD,3 Birch ST 
+5,2,,,Single,499900 CAD,124 MCRAE Avenue 
+4,3,,,Single,449900 CAD,216 1/2 WELLINGTON Street 
+3,1,,,Single,149900 CAD,183 KING STREET East 
+2,,,,Single,65000 CAD,184 AVENUE 1 AVENUE 
+2,1,,,Single,405000 CAD,4180 ABERFELDY LINE 
+3,1,,,Single,179900 CAD,573 Beverly ST 201
+2,2,,,Single,299900 CAD,234 COLEMAN Street 
+3,3,,>0.2,Single,499900 CAD,273 DUNDAS Street W 
+4,3,,,Single,469900 CAD,2583 Hwy 64 
+2,1,,,Residential,415000 CAD,8 Farm View Lane 
+2,1,700,,Single,465900 CAD,6325 Murray Street 
+3,1,,,Single,359900 CAD,1187 LINCOLN 
+4,2,,,Single,499900 CAD,93 GLAMIS Road 
+2,1,,.328,Single,439900 CAD,1416 EASTVIEW Drive 
+3,2,,,Single,329900 CAD,495 Spruce Street 
+3,2,,,Single,365000 CAD,2037 GARDEN OF EDEN ROAD 
+3,3,,,Single,459900 CAD,1618 Redfern Street 
+3,2,,,Single,389000 CAD,3186 COUNTY 41 Road 
+3,3,,,Single,499999 CAD,98 BRENNAN CRES 
+3,1,,,Single,259900 CAD,2480 ARTHUR ROAD 
+2,1,,,Single,479900 CAD,8 THIRD Avenue 
+3,2,,,Single,419000 CAD,31 LORNE Street 
+2,1,,,Single,349900 CAD,16 WADE Avenue 
+3,1,1600,,Single,379000 CAD,21031 QUEEN STREET 
+4,1,,,Single,249000 CAD,1274 SHETLAND ROAD 
+3,2,,,Single,179000 CAD,1016 Elm 
+3,2,,0.27,Single,479000 CAD,945 MUSKOKA ROAD 169 Road 
+3,1,,,Single,479900 CAD,90 QUEBEC ST 
+2,1,,,Single,199900 CAD,2211 FRASER AVENUE 
+3,2,,,Single,189900 CAD,29 Blue Jay CT 
+1,1,,,Single,199900 CAD,1035 SYCAMORE 
+4,2,,,Single,479900 CAD,905 CUMBERLAND AVE 
+3,2,,,Single,499900 CAD,457 DANBY Street E 
+4,2,,,Single,499900 CAD,18 KITCHEN Road S 
+3,2,,>0.7,Single,495000 CAD,2648 RIDING RANCH Road 
+2,1,,,Single,99900 CAD,28 LAVINDALE 
+2,2,,,Single,349900 CAD,778 ST ANDRE DRIVE UNIT 26B
+4,1,,,Single,489900 CAD,373 BARRIE Road 
+3,2,,,Single,499900 CAD,1191 RIDGECREST AVE 
+3,1,,,Single,499000 CAD,34 SHERBOURNE ST 
+5,2,,,Single,385000 CAD,13 GEORGE ST 
+4,2,,0.19,Single,369000 CAD,129 Third AVE 
+5,2,,,Single,269900 CAD,528 Spooner DR 
+2,1,,.919,Single,315000 CAD,LOT 6 TOMIKO LAKE 
+6,5,,,Single,399900 CAD,742 PARK STREET West 
+3,3,,,Single,369000 CAD,758 VICTORIA Street 
+2,2,,,Single,349900 CAD,268 KING EDWARD AVENUE 
+2,3,,,Single,399900 CAD,849 LONGFIELDS DRIVE 
+3,4,,,Residential,349900 CAD,1224 BOWMOUNT Street 
+3,2,,,Single,448000 CAD,19 St Anthony STREET 
+2,1,,,Single,249000 CAD,225 THAMES STREET 
+3,1,,,Single,239900 CAD,1296 Holland Road 
+2,1,,,Single,499999 CAD,474 ECHO RIDGE RD 
+4,3,,,Single,349900 CAD,878 LAUZON 
+3,2,,,Single,229900 CAD,1453 GLADSTONE 
+3,2,,4.52,Single,469000 CAD,39 ORMOND Street S 
+3,2,,,Single,224900 CAD,1355 Lozanne CRES 
+1,1,,,Single,184500 CAD,87 MOORE LAKE ROAD 
+3,2,,,Single,495000 CAD,19 DIGNARD STREET 
+2,1,,,Single,449900 CAD,48 PINECREST Avenue 
+3,2,,,Single,349900 CAD,3014 BRUCE ROAD 1 Road 
+2,1,,,Single,199000 CAD,50 AMY STREET 
+2,1,,,Single,498000 CAD,23 Third Avenue 
+4,1,,,Single,199900 CAD,1248 McEwan 
+5,1,,,Single,199900 CAD,348 ELLIOTT West 
+4,2,,,Single,499900 CAD,568 PICCADILLY Street 
+5,3,,,Residential,400000 CAD,11 Butler St W 
+2,1,,,Single,299900 CAD,155 JAMES Street 
+2,1,,.457,Single,439000 CAD,211 LEIGHTON Road 
+5,2,1277,,Single,329900 CAD,228 Belleview AVENUE 
+2,3,,,Single,384900 CAD,34 LAKEPOINTE DRIVE 
+3,2,,,Single,499900 CAD,16 DIEPPE DR 
+3,2,,,Single,499000 CAD,7060 WARWICK VILLAGE Road 
+3,3,,,Single,229900 CAD,170 Fifth AVE 
+3,1,,,Single,349900 CAD,29 HYLA Street 
+3,1,1080,,Residential,499900 CAD,48 ENFIELD Crescent 
+5,3,,,Single,399900 CAD,864 PIERRE 
+3,2,,,Single,199900 CAD,299 Ontario Street 
+3,2,,,Single,139900 CAD,118 Southern AVE 
+3,2,2000,,Single,399900 CAD,10591 HALSTEAD CRESCENT 
+3,1,918,,Residential,499900 CAD,101 YOUNG Street 
+2,1,,,Single,499000 CAD,2 SAUNDERS ST 
+3,2,,,Single,425000 CAD,762 FOURTH AVE 
+2,2,,,Single,399900 CAD,91 CATHARINE Street 
+4,2,,,Single,494500 CAD,20 JOSEPH Street 
+3,1,,.365,Single,275000 CAD,264 PEARCE Street 
+3,1,,,Single,279900 CAD,70 PANNELL Lane 
+2,1,,,Single,195000 CAD,220 EIGHTH ST 
+3,2,,,Single,449900 CAD,127 COATSWORTH AVENUE 
+3,2,,,Single,459000 CAD,15 JAKEMAN ST 
+3,1,900,,Single,249900 CAD,15970 COUTURE BEACH 
+2,2,790,,Residential,399999 CAD,108 Adeline Avenue 
+2,1,,,Single,47900 CAD,7489 SIDEROAD 5 E Unit20 LAKESIDE
+3,2,,0.12,Single,120000 CAD,18 Stewart AVE 
+3,1,,0.06,Single,229900 CAD,288 Tamarack ST 
+2,2,,,Single,184900 CAD,21 Gill Avenue 
+2,1,,,Single,474900 CAD,76 LAKESHORE Road 
+2,2,,,Single,474900 CAD,249 JOHN ST 
+3,1,,,Single,189900 CAD,115 Fourth AVE 
+2,1,,,Single,89900 CAD,1043 ASPHODEL LINE 2 Unit 185
+4,2,,,Single,459900 CAD,638 Mckay AVENUE 
+1,1,,,Single,224900 CAD,Lot 53 Echo Lake RD 
+2,1,,0.61,Single,289900 CAD,1419 CLEMENT LAKE Road 
+3,1,,,Single,229900 CAD,1539 Eastern Avenue 
+2,1,,,Single,449000 CAD,45 DRUMMOND ST 
+2,2,,,Single,499000 CAD,2874 LONGFIELDS DRIVE 
+3,2,,,Single,449000 CAD,9 LACEY Crescent 
+4,2,,,Single,129900 CAD,32 Mona DR 
+3,1,,,Single,315000 CAD,241 ST PAUL Street W Unit 123
+5,2,,,Single,279995 CAD,1127 JOSEPHINE 
+2,1,,,Single,389997 CAD,6237 164TH AVENUE 
+4,3,,,Single,469900 CAD,967 WINDERMERE 
+3,1,,,Single,399900 CAD,478 MONTROSE Road 
+3,3,,,Single,374999 CAD,559 Stonegate Drive 
+3,2,,,Residential,454900 CAD,39 Riverbend Cres 
+2,2,,,Single,299900 CAD,5202 Hwy 551 (Mutchmor St.) 
+3,2,,,Single,289900 CAD,172 FRASER LANE 
+3,3,,,Single,499900 CAD,1498 KAMOURASKA CIRCLE 
+5,2,,,Single,499900 CAD,42 SARAH Crescent 
+4,2,1247,,Residential,499000 CAD,166 Bell Avenue 
+2,2,,,Single,350000 CAD,1400 WILDBERRY COURT UNIT 1
+2,1,,,Single,480000 CAD,75 LOUISA Street 
+3,2,,,Single,499900 CAD,11 DUNHAM Avenue 
+2,2,,,Single,179900 CAD,8 Feltz Road 
+3,2,,0.32,Single,299000 CAD,52 Young ST 
+3,2,,,Single,489900 CAD,60 HARDING Crescent 
+4,2,,,Single,249900 CAD,375 Shannon RD 
+3,1,,,Single,369900 CAD,573 KIRKWOOD STREET 
+3,1,,,Single,189900 CAD,100 Hull AVE 
+3,1,,>1.3,Single,134900 CAD,17865 STRATHMORE ROAD 
+2,1,,,Single,169900 CAD,21 LINDA 
+3,2,,,single,385000 CAD,541 SEYTON Drive 
+2,1,,,Single,449000 CAD,45 DRUMMOND Street 
+3,2,,,Single,139900 CAD,562 Spooner DR 
+3,3,,,Residential,339000 CAD,28 FORESTER Crescent #B 
+3,2,,,Single,350000 CAD,83 MAIN Street 
+3,1,,,Single,239900 CAD,419 Borden AVE 
+3,1,,,Single,109000 CAD,38 Young Street 
+4,3,,,Single,299888 CAD,907 GLADSTONE 
+3,1,,0.17,Single,344900 CAD,14 SHERBOURNE Street N 
+4,2,,,Single,489000 CAD,124 HIGGINS CRESCENT 
+2,1,,,Single,469000 CAD,883 BRUCE ROAD 13 Road 
+1,1,,,Single,159900 CAD,1381 FALCONBRIDGE Road 
+4,2,,,Single,249000 CAD,4626 Michelle Drive 
+2,1,,,Single,252000 CAD,19 Atlantic ST 
+5,1,,,Single,389000 CAD,1721 HUFFMAN 
+3,2,,,Single,499900 CAD,47 GORDON Street 
+3,2,,,Single,159900 CAD,11 Valley Road 
+3,1,1008,,Residential,499000 CAD,303 KESWICK Court 
+3,2,973,,Residential,374900 CAD,1394 Cannon Street E 
+3,3,,,Single,379900 CAD,1233 BELLE ISLE VIEW 
+3,2,,,Single,295000 CAD,532 GASCON STREET 
+1,2,,,Single,399900 CAD,5 BEVERLY Street 
+5,3,,,Single,344999 CAD,552 SOUTH ST 
+4,2,,,Single,275000 CAD,68 S St. David Street 
+3,2,,,Single,479900 CAD,62 ADELAIDE Street S 
+2,1,,,Single,239900 CAD,2293 FOREST AVENUE 
+2,2,,,Single,499900 CAD,9 Homesteads DRIVE 
+4,3,,,Single,499900 CAD,1010 BANWELL 
+3,1,,,Single,299900 CAD,1621 MARENTETTE 
+3,1,,,Single,349900 CAD,11 SANDERS Street 
+4,1,,0.26,Single,399900 CAD,29796 HIGHWAY 62 N 
+4,2,908,,Residential,494900 CAD,16 Grenville Crescent 
+1,1,,,Single,44900 CAD,7489 SIDEROAD 5 E Unit54 WOODSIDE
+2,1,,>0.5,Single,389000 CAD,2016 Sandy Bay DR 
+2,1,,4.23,Single,350000 CAD,418 DAM ROAD 
+3,2,,,Single,99000 CAD,62 Pearson DR 
+2,1,,,Single,154000 CAD,1186 LABROSSE STREET 
+2,2,,,Single,299900 CAD,1589 ST BERNARD STREET UNIT 307
+2,1,,,Residential,219900 CAD,68 ADELAIDE Street 
+4,1,,,Single,399900 CAD,29796 HIGHWAY 62 
+4,3,,,Single,324900 CAD,890 Rheaume CRES 
+2,1,,,Single,399900 CAD,179 WILLIAM Street N 
+4,2,,,Single,369900 CAD,117 Harvey STREET 
+4,1,,ng>1,Single,349900 CAD,2730 BEST CHASE Road 
+3,2,,,Single,449900 CAD,192 FRANKTOWN ROAD 
+4,1,,,Single,199900 CAD,514 Wallace TER 
+4,1,,,Single,380000 CAD,76 10TH Street 
+3,3,,,Single,479900 CAD,7903 JEANNE D'ARC BOULEVARD N 
+2,1,,,Single,299900 CAD,25998 BALDOON ROAD 
+3,2,,.199,Single,299900 CAD,50 FOREST Street 
+2,1,,,Single,399000 CAD,50 GAIL ELIZABETH COURT 
+2,1,,,Single,59000 CAD,22466 LOYALIST Parkway 
+3,1,,,Single,499900 CAD,30 NORTHGATE Road 
+4,2,,,Single,499900 CAD,10 BRIARWOOD AVENUE 
+2,1,,,Single,319900 CAD,91 MITCHELLS BEACH Road 
+,,,,Single,185000 CAD,173 NOBEL Road 
+1,1,,,Single,129900 CAD,505 Albert Street 
+4,1,1200,,Single,259900 CAD,54 MILL STREET West 
+4,2,,,Single,399900 CAD,3167 Lina Street 
+4,2,,,Single,499900 CAD,1305 ARBA COURT 
+3,2,,,Single,435000 CAD,3 OAK Street 
+2,1,,,Single,435000 CAD,629 BOLIVAR ST 
+3,2,,,Single,449900 CAD,281 SMITH Street 
+4,3,,,Single,189900 CAD,343 Maple ST S 
+3,2,,,Single,499900 CAD,38 HERBERT Street 
+4,2,,,Single,399000 CAD,1516 GOYEAU 
+3,1,,.871,Single,499900 CAD,73722 GOSHEN Line 
+5,2,,,Single,499900 CAD,930 Lynwood Drive 
+3,2,,,Single,399000 CAD,560 RICHMOND 
+4,2,,,Single,320000 CAD,135 DUKE Street W 
+3,1,,,Single,399900 CAD,148 SECOND Avenue N 
+3,1,,,Residential,499900 CAD,200 Burk St 
+4,1,,,Residential,349000 CAD,834 Hwy 64 Alban 
+4,2,,,Single,369900 CAD,402 McKelvie ST 
+4,2,,.115,Single,489900 CAD,99A GIBSON Street 
+1,1,,,Single,399900 CAD,34 70TH Street N 
+2,2,,,Residential,259900 CAD,5 Trefoil Dr 
+3,2,,,Single,469900 CAD,4307 OTTAWA Street 
+3,1,,,Single,384000 CAD,LOT 198 PARADISE Lane E 
+4,1,,,Residential,399000 CAD,505 Hwy 64 Alban  
+3,2,,,Single,259900 CAD,1019 Third Street East 
+3,1,,1.31,Single,215000 CAD,1613 DIAMONDVIEW ROAD 
+3,1,,ng>4,Single,299900 CAD,497 High RD 
+3,1,,,Single,195000 CAD,551 Beverly ST 14
+3,2,,,Single,295000 CAD,2606 SEMINOLE ST 
+1,1,,,Single,459900 CAD,61 BLUEWATER AVE 
+2,1,1060,,Single,199500 CAD,38 EATON COURT 
+2,1,,3.54,Single,215000 CAD,230-232 LAKE DALRYMPLE Road Unit 8
+3,2,,,Single,479999 CAD,546 MARY Street 
+2,2,1323,,Residential,344900 CAD,3033 Townline Road 35
+2,2,,,Single,149900 CAD,11 Partridge AVE 
+2,1,,,Single,249900 CAD,2278 SOUTH LAVANT ROAD 
+8,3,1000,,Residential,329900 CAD,36 VICTORIA Avenue S 
+2,2,,,Single,349900 CAD,1589 ST BERNARD STREET UNIT 501
+4,3,,,Single,399900 CAD,23 FRONTENAC CRESCENT 
+3,1,,,Single,249900 CAD,25 John ST 
+3,2,,,Residential,470000 CAD,1019 Ransley Rd 
+3,2,,1.32,Single,280000 CAD,138 Road 5 South 
+3,1,,,Single,419900 CAD,94 EASTCHESTER Avenue 
+3,2,,,Single,419900 CAD,47 LLYDICAN AVENUE 
+4,1,,0.65,Single,375000 CAD,26080 HIGHWAY 28 S 
+2,2,,,Residential,199900 CAD,11 Lorne Avenue 
+4,2,,,Single,229500 CAD,12 Clearwater CRES 
+3,2,,,Single,399000 CAD,3710 COUNTY RD 3 ROAD 
+3,1,,0.08,Single,139900 CAD,42 Winnipeg ST 
+4,2,,0.08,Single,99900 CAD,101 Duncan AVE 
+2,2,,,Single,450000 CAD,1400 Gordon STREET West 
+3,2,,,Single,424900 CAD,12081 JULIA STREET 
+3,2,,,Single,500000 CAD,1071 DIANNE AVENUE 
+2,2,,,Single,399900 CAD,203 B Chamberland Road 
+4,1,,,Single,354900 CAD,2420 SCHUTT RD 
+3,2,,,Single,438900 CAD,86 COLLINGWOOD Street 
+2,1,,,Single,99900 CAD,1047 BONNIE LAKE CAMP Road Unit 719
+3,1,,,Single,395000 CAD,555 NORFOLK Street N 
+3,3,,,Single,479900 CAD,5590 BRIDLEWOOD COURT 
+2,,,0.48,Single,349000 CAD,BUCK ISLAND 
+1,2,,0.33,Single,159900 CAD,1743 Lucy ST|St. Joseph Township 
+2,1,,,Single,105000 CAD,248 PINNACLE HILL RD Lot #6
+2,1,,,Single,299000 CAD,753 EUGENIE 
+3,1,,,Single,239900 CAD,8 Van Daele ST 
+3,2,,,Single,499900 CAD,221 MILLCREEK DR 
+4,2,,,Single,459900 CAD,1463 WESTCOTT ROAD 
+4,3,,,Single,479900 CAD,1723 Havenbrook Drive 
+5,1,,,Single,239900 CAD,616 BENSETTE 
+2,2,,,Single,325000 CAD,125 BRANT Street 
+3,2,,,Single,329900 CAD,19 ELGIN AVENUE W 
+4,3,,,Single,169900 CAD,84 Strachan AVE 
+3,2,,,Residential,499999 CAD,21-19 Asher St 
+5,3,,g>17,Single,489900 CAD,190 Robb RD 
+3,2,,6.75,Single,499000 CAD,1172 CALABOGIE ROAD 
+3,1,,,Single,299900 CAD,8637 Highway 17 
+3,2,,>1.2,Single,499500 CAD,533 AVONLOUGH Road 
+3,1,,,Single,445000 CAD,220 MCGUIRE BEACH RD 
+3,2,,,Single,499900 CAD,105 WILLIAM Street 
+1,1,,,Single,129900 CAD,1336 S MORRISON LAKE RD 
+2,1,,0.29,Single,219900 CAD,10599 MAPLE STREET 
+3,1,,,Single,419900 CAD,22 Nepawassi Lake Road 
+3,3,,,Single,485000 CAD,3281 GALETTA SIDE RD 
+2,2,,,Single,409900 CAD,125 STIRTON Street 
+4,3,,,Single,249000 CAD,46 QUEEN 
+2,2,,,Single,152000 CAD,24 Filion ST 
+2,3,,,Single,389900 CAD,84 CROSBY PRIVATE 
+3,1,,,Single,349900 CAD,385 FOYMOUNT ROAD 
+4,2,,,Single,199900 CAD,1019 TUSCARORA 
+3,1,,,Single,499900 CAD,1406 5TH AVENUE A W 
+3,2,1501,,Residential,499000 CAD,49 PHIPPS Street 
+3,1,,,Single,224900 CAD,79 SUNCREST Unit S-079
+,,,>4.5,Single,149000 CAD,995 Redford RD 
+1,2,,,Single,149900 CAD,296 Spruce ST S 
+4,2,,>0.1,Single,379900 CAD,85 WELLAND Street 
+2,2,,>0.3,Single,499000 CAD,50 ELIZABETH DRIVE 
+2,2,,,Single,179900 CAD,48 Hudson ST 
+3,1,,,Single,489000 CAD,419 MOSLEY Street 
+,,,,Residential,45000 CAD,199 SLATER Street #1813 
+2,1,,,Single,359900 CAD,825 BRUCE ROAD 13
+1,1,,,Single,204900 CAD,77307 BLUEWATER Highway Unit 31
+2,2,,,Single,395000 CAD,1668 LOCKSLEY LANE 
+3,2,,,Single,279900 CAD,39 WILLIAM STREET 
+3,2,,,Single,125900 CAD,64 Fourth AVE 
+3,2,,,Single,449900 CAD,21931 AD Shadd ROAD 
+4,2,,,Single,399900 CAD,349 MAIN Street S 
+3,2,,,Single,264900 CAD,44 Corey AVE 
+2,1,407,,Single,49900 CAD,2 Maple 79681 Bluewater Highway 
+4,2,,,Single,129000 CAD,141 Front ST 
+3,1,,,Single,384900 CAD,197 ROBINSON Street 
+3,1,,,Single,269000 CAD,220 OGIMAH Road 
+3,2,,,Single,369000 CAD,159 SYKES Street N 
+2,2,,,Single,499900 CAD,5043 STAMFORD Street 
+2,2,,,Single,124900 CAD,26 Otter AVE 
+3,1,,,Single,109950 CAD,1501 LINE 8 Road Unit 306
+3,1,,,Single,379900 CAD,1725 SEACLIFF 
+3,2,,,Single,119900 CAD,16 Aberdeen ST 
+2,1,,,Single,369000 CAD,506 HIGH Street 
+4,2,,,Single,299000 CAD,2171 ST OLA RD 
+3,1,,,Single,419900 CAD,224 5TH Street E 
+4,3,,,Single,299000 CAD,386 BESSIE Street 
+3,2,,,Single,389000 CAD,6916 COUNTY RD 804
+4,2,1142,,Single,349900 CAD,1390 HARRISON AVENUE 
+4,1,,,Single,419900 CAD,148 KING ST 
+3,2,,,Single,399900 CAD,1179 HOMEDALE 
+3,2,,,Single,199900 CAD,54 Lakeshore Street 
+3,1,,g>25,Single,349000 CAD,1263 NELSON LAKE Road 
+6,3,,,Single,250000 CAD,348 3rd AVE 
+3,2,,,Single,299000 CAD,39 Creery AVE 
+1,1,,,Single,249000 CAD,327 DOE Lake 
+4,2,,,Single,349900 CAD,25 LAROCHE CRESCENT 
+3,1,,,Single,269000 CAD,83 Axmith AVE 
+4,1,,>6.6,Single,399000 CAD,876 TOWNLINE Road 
+3,2,,,Single,449900 CAD,243 ST LAWRENCE Street E 
+4,2,,,Single,499000 CAD,18 KILBRIDE AVENUE 
+4,2,,,Single,449900 CAD,435 SHAWN AVENUE 
+3,2,,,Single,489900 CAD,872 ARCHIBALD STREET 
+3,2,,,Single,334900 CAD,125 Plumtree Crescent 
+1,1,,,Single,119000 CAD,594 Northland RD 
+4,1,,,Single,370000 CAD,40 MAGEE Street 
+4,3,,,Single,195000 CAD,629 Hwy 64 
+3,3,,,Single,399000 CAD,6261 MACDONALD COURT 
+2,1,,>2.3,Single,490000 CAD,00 SCOTT ISLAND TETTS POINT ISLAND 
+2,1,,,Single,279900 CAD,24 ASTROLABE ROAD 
+2,1,,,Single,189900 CAD,29 Nadon Avenue 
+4,2,,>0.1,Single,250000 CAD,14 Premier AVE 
+2,1,,.313,Single,299900 CAD,4753 GELERT Road 
+1,1,,,Single,299900 CAD,966 PRINCESS Avenue 
+2,1,,,Single,189900 CAD,891 Howey Drive 
+3,1,,,Single,249900 CAD,255 Ferguson Street 
+3,2,,,Residential,499000 CAD,324 French St 
+4,1,,,Single,349000 CAD,366 BESSIE AVE 
+3,2,,,Single,449900 CAD,612 ST LAWRENCE STREET 
+3,2,,,Single,449900 CAD,81 FRONT ROAD 
+4,2,,,Single,299900 CAD,502 CHURCH STREET 
+3,2,,,Single,399900 CAD,674 QUEEN STREET 
+3,1,,,Single,375000 CAD,458 NELSON Street 
+2,1,,,Single,105000 CAD,127 Third AVE 
+3,1,,,Single,114900 CAD,5 Essa PL 
+3,2,,,Single,419900 CAD,8 Lawrence DR 
+2,2,,,Single,299000 CAD,1206 BEDFORD STREET 
+1,1,,,Residential,165000 CAD,495856 10th Line 83
+3,1,,,Single,139900 CAD,415 Wellington ST E 
+,,,,Single,149900 CAD,285 Wellington STREET East 
+3,2,,,Single,439900 CAD,21 Pond Hollow Drive 
+3,1,,,Single,239500 CAD,1310 Peoples RD 
+4,1,,,Single,191242 CAD,1242 Wigle 
+3,2,,1.66,Single,400000 CAD,407 OLDFORD ROAD 
+4,1,,1.28,Single,475000 CAD,1596 BASELINE ROAD 
+,,,6.75,Single,349900 CAD,67 HOARES Road 
+3,2,,,Single,349900 CAD,476 INGLIS Street 
+1,,,>1.7,Single,164900 CAD,Albanel Part 7-8 
+,,,5.43,Single,119900 CAD,6902 Highway 11 N 
+3,2,,,Residential,499900 CAD,2697 Totem Ranch Road West 
+3,2,,,Single,399000 CAD,22893 HAGERTY Road 
+,,,,Single,189900 CAD,478 Trout Lake RD 
+2,2,,,Single,199900 CAD,39 Jemmette ST 
+3,2,,,Single,499900 CAD,72 GOLF CLUB ROAD 
+3,1,,,Single,469900 CAD,11348 NEFF Street 
+3,1,,,Single,249900 CAD,619 CHARLOTTE 
+4,2,,0.42,Single,449900 CAD,3085 SENTIER BOISE LANE 
+3,4,1597,,Residential,499900 CAD,87 WHITWAM Avenue 
+2,2,,>4.6,Single,349900 CAD,129 MULLEN ROAD 
+3,2,,,Single,499000 CAD,78 MCDONALD Avenue 
+3,1,,,Single,269900 CAD,3 LOMBARD STREET 
+8,3,,,Residential,399000 CAD,19198 Sudbury West Section 
+3,1,,,Single,169900 CAD,80 Elm ST N 
+3,1,,,Single,199900 CAD,181 MUNRO STREET 
+1,1,,,Single,400000 CAD,880 PARK Road 
+4,2,,,Single,359900 CAD,69 Meredith Street W 
+2,1,,,Single,179900 CAD,198 SPRINGBANK Drive Unit 33
+2,1,,,Single,249900 CAD,354 BEAR RD 
+3,1,,,Single,239900 CAD,2761 Dalton RD 
+3,2,,,Single,489900 CAD,40630 & 40632 SHORE RD 
+3,1,,,Single,325000 CAD,Lot 20 East Hawk Lake 
+3,1,,.723,Single,329000 CAD,69 CUTLER Lane 
+2,1,,,Single,64900 CAD,234 Westhill RD 
+2,1,,11.2,Single,329000 CAD,0 OFF ISLAND LAKE ROAD Lake 
+3,1,,6.15,Single,498000 CAD,937741 MARSH BAY RD 
+2,1,,,Single,499000 CAD,4016 BURNHAM Street N 
+3,1,,,Single,499900 CAD,25 ADAMS Street 
+3,1,,,Single,399900 CAD,716 Second Avenue 
+5,2,,,Single,249900 CAD,227 Ottolen ST 
+,2,,,Single,499900 CAD,76 KENT Street S 
+3,3,,,Single,409900 CAD,621 BRUHAM AVENUE 
+4,3,,.081,Single,499000 CAD,35 BRIDGE Street W 
+1,1,360,,Residential,229900 CAD,18 HEATHER Lane 
+3,1,,,Single,119000 CAD,1501 LINE 8 Road Unit 321
+4,2,,,Single,167900 CAD,19 NEWTON AVE 
+2,1,,,Single,154900 CAD,389 North ST 
+2,1,,,Single,349900 CAD,28 SPRINGDALE Avenue 
+3,1,,,Single,329900 CAD,7 OLD ORCHARD AVENUE 
+3,1,,,Single,469900 CAD,288 KING Street 
+,,,,Residential,499999 CAD,1260 Trowbridge Dr Oshawa Ontario  
+3,1,,,Single,149000 CAD,18 RAND AVE W 
+5,2,,,Single,289000 CAD,343 TRAFALGAR ROAD 
+3,2,,2.66,Single,350000 CAD,100 TOLL ROAD 
+3,1,,>9.8,Single,450000 CAD,196 BIRCHS Road 
+3,2,,,Single,449900 CAD,56 COURT Street 
+3,1,,,Single,500000 CAD,55604 HERITAGE Line 
+2,1,,,Single,399900 CAD,165 NORTH Street 
+2,1,,,Residential,126000 CAD,92 Bingham #19.5 Dr 
+5,3,,,Single,229900 CAD,307 Pine ST N 
+5,1,,,Single,359000 CAD,408 Marks Street South 
+4,2,,,Single,389900 CAD,950 Jeanne D'arc 
+7,4,,,Single,259500 CAD,8 Milan Street 
+2,1,,0.08,Single,84500 CAD,99 A Second AVE E 
+3,1,,0.85,Single,299900 CAD,3538 CONCESSION 21 ROAD 
+3,2,,,Single,294346 CAD,9 MANGO VALLEY RD 95
+3,1,,,Single,399000 CAD,25 DEAD CREEK Road 
+4,1,,,Single,429900 CAD,262 DALHOUSIE ST 
+3,1,,0.34,Single,334900 CAD,5647 ARDOCH ROAD 
+2,1,,>0.3,Single,365000 CAD,34 HIGHWAY 3307
+2,2,,,Single,60000 CAD,76 Fourth AVE 
+5,2,,,Residential,400000 CAD,580 Aylmer St 
+3,1,,,Single,349900 CAD,1414 LILLIAN 
+4,2,,,Single,299900 CAD,394 CAMERON 
+3,2,,,Single,249900 CAD,1235 VILLIERS LINE 
+3,1,,,Single,229900 CAD,26 NOLAN ST 
+2,2,990,,Single,349900 CAD,3750 Roxborough 
+3,2,,0.13,Single,499000 CAD,54 KING Street W 
+,1,,,Single,185000 CAD,4482 Bidwell Road 
+3,1,,,Single,450000 CAD,1200 BENOIR LAKE Road 
+2,2,,,Single,489900 CAD,365 HALIBURTON HEIGHTS UNIT E
+3,1,,,Single,129900 CAD,85 THEME PARK Drive Unit 181
+4,3,,,Single,410000 CAD,9830 OPEONGO ROAD 
+2,2,,,single,467900 CAD,13 ST JEAN BAPTISTE Street 
+2,1,,0.54,Single,299900 CAD,51 MAIN Street N 
+4,2,2053,,Single,479000 CAD,312 CORONADO 
+3,2,,,Single,299900 CAD,27 Ottawa AVE 
+3,2,,0.52,Single,389000 CAD,3449 SARSFIELD ROAD 
+3,2,,,Single,395000 CAD,7 Pickerel DR 
+4,2,,,Single,289000 CAD,466 CURRY AVENUE 
+2,1,,,Single,179900 CAD,144 Edward Avenue 
+2,1,,,Single,349900 CAD,28 SPRINGDALE AVE 
+3,2,,,Single,219000 CAD,490 James Street 
+4,3,,,Single,479900 CAD,363 NORFOLK Street N 
+2,1,,.224,Single,319000 CAD,668 11TH Street W 
+3,3,,,Residential,489900 CAD,1180 GRENOBLE Crescent 
+4,2,,,Single,269900 CAD,3 ALGONQUIN ROAD 
+5,2,,,Single,199900 CAD,261 Alexandra ST 
+3,2,,,Single,249900 CAD,1095 HARRISON AVENUE 
+2,2,,,Single,264900 CAD,106 DRUMMOND STREET W 
+3,1,,,Single,289900 CAD,174 Rebecca ST 
+7,3,,,Residential,180000 CAD,432 Main St 
+4,2,,,Single,324900 CAD,70 WALKOVER ST 
+3,2,,,Single,239900 CAD,1208 HANNA 
+2,1,,,Single,395000 CAD,272 SIDNEY ST 
+3,2,,3.91,Single,299900 CAD,4642 BYLSMA ROAD 
+5,2,,,Single,289000 CAD,29 Henry 
+3,2,,,Single,74000 CAD,27 Beech ST E 
+3,1,,,Single,399900 CAD,190 LOCHIEL STREET 
+5,2,,,Single,489900 CAD,37 MORNING STAR STREET 
+3,2,,,Single,304900 CAD,86 DEACON STREET 
+4,2,,,Single,274900 CAD,3738 GLENFIELD STREET 
+4,2,,,Single,429900 CAD,1012 MATHEW Street 
+4,1,,,Residential,498000 CAD,7127 Highway 6 Exwy 
+3,1,1550,,Single,365000 CAD,773 POINT PELEE DRIVE 
+3,3,,0.07,Single,298888 CAD,92 ELMSLEY STREET N 
+4,2,,,Residential,494900 CAD,15 Barry St 
+1,,380,,Single,42000 CAD,12 Cedar Creek 174366 County Road 25 North Road 
+3,1,,.245,Single,299000 CAD,56-58 KIRKHAM Road 
+2,,,,Single,299000 CAD,N/A MASON ISLAND 
+2,1,,,Single,179900 CAD,1802 COUNTY RD. 121 Road 
+3,2,,,Single,299999 CAD,114 HAGAN STREET 
+3,2,,,Single,349900 CAD,922 WILLIAM STREET 
+5,4,,,Single,399900 CAD,113 Elmwood CRES 
+3,2,,,Single,499900 CAD,13 CENTRE Street 
+3,2,,,Single,249900 CAD,530 ELLIOTT STREET East 
+5,2,,,Single,259000 CAD,166 Meridian AVE 
+4,2,,,Single,469000 CAD,155 BIRCH Street 
+2,2,,,single,270000 CAD,2704 DAFOE Road 
+4,2,,,Single,249900 CAD,324 GILES BOULEVARD West 
+6,2,,,Single,209000 CAD,126 Dennis ST 
+2,1,,,Single,359000 CAD,2525 3RD Avenue E 
+2,1,,,Residential,334900 CAD,264 Chapel St 
+2,1,,3.54,Single,205000 CAD,230-232 LAKE DALRYMPLE Road Unit 7
+1,,,>0.8,Single,449000 CAD,4768 HIGHWAY 11 NORTH 
+2,2,,,Single,499900 CAD,379 TALBOT ST 
+4,2,,ng>2,Single,499900 CAD,115 Sideroad 118376
+2,2,,,Single,410000 CAD,145 MILLER Street 
+3,2,,,Single,379900 CAD,83 WIGLE STREET 
+4,2,,,Residential,325000 CAD,546 Government Rd 
+3,2,,,Single,340000 CAD,174 SHELDON Avenue 
+3,2,,,Single,499000 CAD,31 5TH Avenue S 
+2,2,,0.19,Single,489900 CAD,8 CRAIG STREET 
+5,2,,,Residential,139900 CAD,178 Bordeleau St 
+2,2,,,Single,299000 CAD,33 MAIN STREET N 
+4,2,,,Single,449900 CAD,3415 GLENWOOD 
+2,1,,0.34,Single,184900 CAD,32938 HIGHWAY 17 HIGHWAY 
+4,2,,,Single,399900 CAD,1187 Bancroft Drive 
+4,1,,,Single,299000 CAD,112 WIGLE 
+3,,,,Single,479900 CAD,143 RUSSELL Avenue 
+3,3,,,Single,349900 CAD,1088 DOUGALL 
+1,1,,,Single,299900 CAD,23 FOUR MILE CREEK Road Unit 430
+2,2,,>0.8,Single,349500 CAD,16 Sabaskong Bay Island 31
+5,2,,,Single,449000 CAD,491 RANKIN 
+3,2,,,Single,399900 CAD,190 PETER Street 
+2,1,,,Single,479000 CAD,3918 REBSTOCK Road 
+2,2,,,Single,74900 CAD,223 Teefy ST 
+3,1,,,Single,325000 CAD,229 Beech STREET West 
+3,2,,,single,194900 CAD,1047 VISTA TARA Private 
+4,1,,,Single,199000 CAD,482 CAROLINE 
+4,2,,,Single,359000 CAD,336 Howey Street 
+2,1,,,Single,399900 CAD,20 LAWSON Lane 
+5,2,,,Single,499900 CAD,3087 AVONDALE AVENUE 
+,,,,Single,249900 CAD,4224 ARDOCH RD Lot 2
+,,,,Single,285000 CAD,Lot #50 Alta Vista Drive 
+3,2,,,Single,389900 CAD,564 GOUGH Street 
+2,2,,,Single,124500 CAD,516 COUNTRY RD 36 RDGE 
+3,1,,,Single,439999 CAD,411 JOCKO POINT Road 
+4,2,,,Single,469000 CAD,771 HIGHWAY 41 Highway 
+3,1,,,Single,375000 CAD,62 CLEAR LAKE RD 
+3,2,,,Single,500000 CAD,130 ST. PAUL Crescent 
+4,2,,,Single,499000 CAD,2269 LAWN AVENUE UNIT 5
+5,4,,,Single,489900 CAD,23 Murphy AVE 
+3,3,,,Single,488900 CAD,56 STONEHAVEN WAY 
+2,3,,,Single,419900 CAD,592A CHAPMAN MILLS DRIVE 
+3,2,,,Single,349900 CAD,146 Otter Lake Drive 
+3,1,,,Single,379000 CAD,235 Woods STREET 
+3,2,,,Single,109900 CAD,165 Tancred ST 
+2,1,,,Single,449500 CAD,11A Myhill Road 
+4,2,,,Single,239900 CAD,70 YOUNG Street 
+2,1,,,Single,239900 CAD,12 CANAL STREET West 
+2,1,,.465,Single,434900 CAD,4292 COUNTY ROAD 21 
+3,1,,,Single,320000 CAD,131 RATHWELL SHORE ROAD 
+3,3,,,Single,429900 CAD,12577 HORWOOD 
+3,2,,,Single,399000 CAD,106 HIBBARD STREET 
+3,2,,,Single,435000 CAD,31 PARKVIEW Road 
+2,1,,,Single,125500 CAD,107 CENTRAL Street 
+3,2,,,Single,275000 CAD,35 Given Road 
+4,1,,,Single,294000 CAD,301 Wembley Drive 
+5,3,,,Single,329900 CAD,268 Hemlock ST 
+4,2,1550,,Residential,449900 CAD,275 Robinson Street 
+3,1,,.139,Single,480000 CAD,75C HUGHES Lane 
+2,1,,,Single,199900 CAD,272 MARY STREET 
+3,3,,,Single,419000 CAD,92 MIRAMICHI BAY Road Unit& 9 8
+3,1,,,Single,389000 CAD,140 COUNTY ROAD 504 
+3,1,,0.55,Single,449900 CAD,38 WATER ACCESS ZONE R 
+2,,,0.61,Single,229900 CAD,276CK Granary LK 
+3,2,,,Single,430000 CAD,319 Dora DRIVE 
+2,1,,.198,Single,279000 CAD,5 WILLIAM Street 
+3,2,,,Single,384999 CAD,200 LIGHT Street 
+2,1,978,,Single,379000 CAD,195 EAST SHORE ROAD 
+3,1,,,Residential,379900 CAD,37 Huycke Island 
+3,1,,1.03,Single,249500 CAD,Lot 14 Matheson Bay 
+2,1,,,Single,145000 CAD,44 Spanish Street 
+3,2,,,Single,472500 CAD,275 CAROLINE Street 
+3,2,,,Single,199000 CAD,25 Sixth AVE 
+3,3,,,Single,399000 CAD,103 WILLOW CRT 
+3,2,,.139,Single,349900 CAD,181 YONGE Street 
+2,1,,,Single,169900 CAD,379 ELM ST S 
+4,2,,,Single,329900 CAD,374 BRIDGE 
+3,3,,,Single,284900 CAD,41 Robertson RD 
+4,1,,,Single,429900 CAD,560 FLORENCE ROAD 
+1,1,,,Single,225000 CAD,1058 Cedar DRIVE 
+3,2,,,Single,425000 CAD,953 VIRGINIA 
+4,2,,,Single,499900 CAD,2264 CALIFORNIA 
+1,1,,,Single,199900 CAD,201 GEORGE STREET E 
+5,2,,,Single,475000 CAD,22 JACOB Street 
+3,1,,,Single,379900 CAD,20 DOUGLAS Avenue 
+4,2,,1.29,Single,264900 CAD,881 COUNTY ROAD 18 ROAD 
+3,1,,,Single,259900 CAD,713 Ruskin CRES 
+2,1,1000,,Residential,499000 CAD,17 Ridge Ave 
+3,1,,,Single,247700 CAD,121 Mead Boulevard 
+2,1,,.194,Single,469000 CAD,376 WILLIAM Street 
+5,2,,,Single,349900 CAD,479 RANDOLPH 
+2,2,,,Single,379900 CAD,35C STONEHAVEN DRIVE 
+6,2,,,Single,189900 CAD,85 Elizabeth AVE 
+3,1,,,Single,379000 CAD,65 Worthington Street 
+2,1,,,Single,349900 CAD,150 PETER Street 
+2,1,,.262,Single,499900 CAD,23 CENTRE Street 
+2,1,,,Single,197900 CAD,15895 Longwoods ROAD Unit 104
+3,1,,,Residential,424967 CAD,54 Mark St W 
+2,2,,,Single,419900 CAD,9484 CORKTOWN LINE 
+4,2,,,Single,109900 CAD,153 Third AVE 
+,,2400,,Single,240000 CAD,6048 Lambton LINE 
+4,1,,,Single,300000 CAD,372 TENTH STREET E 
+4,2,,>0.1,Single,429000 CAD,384 CORVETTE Street 
+3,1,,,Single,249900 CAD,166 Station ST|North Cobalt 
+2,1,,,Single,425000 CAD,12 GEORGE Street 
+2,1,,,Single,399999 CAD,10282 SOUTH BRANCH ROAD 
+3,2,,,Single,409900 CAD,9 JANE Street 
+2,1,,,Single,499000 CAD,809 CARTWRIGHTS Lane 
+2,1,,,Single,297000 CAD,124 WALNUT STREET 
+1,1,,3.54,Single,190000 CAD,230-232 LAKE DALRYMPLE Road Unit 5
+3,2,,0.16,Single,449900 CAD,531 8TH Street 
+3,1,,,Residential,449500 CAD,4744 Park St 
+3,1,,,Single,389900 CAD,32 WILLIAM Street N 
+3,2,,,Single,449000 CAD,4 GREY Road 400071
+2,3,,,Single,419900 CAD,635 LOUIS TOSCANO DRIVE 
+2,2,,,Single,449500 CAD,Lot 25 Star Lake RD 
+2,1,,,Single,424900 CAD,230 HIGHBURY Avenue N 
+,,,,Residential,380000 CAD,3285 Hiawatha Ave 
+3,2,,0.18,Single,499900 CAD,806 HUNTER Street 
+2,1,,,Single,499900 CAD,7465 EAST RIVER RD 
+1,1,,,Single,179900 CAD,15 BUCK'S Park 
+3,1,,,Single,128800 CAD,267 HURON Street 
+3,2,,,Single,299900 CAD,1318 AUBIN 
+3,1,,,Single,345000 CAD,205 EAST SHORE ROAD 
+3,1,,,Single,419000 CAD,49 BERTHA STREET 
+4,2,,0.46,Single,429900 CAD,45 OTTAWA STREET 
+5,2,,,Single,389900 CAD,9 Beaudin Street 
+2,2,,.205,Single,499900 CAD,153 BALACLAVA Street 
+3,1,,,Single,299900 CAD,1250 MCWATTERS ROAD UNIT 68
+3,1,,,Single,199900 CAD,30 King ST 
+2,1,,,Single,59995 CAD,N/A WOODLEY Road 
+2,1,800,,Residential,474900 CAD,165 Kawigamog Lake Road 
+5,3,,,Single,294900 CAD,951 Lorne Street 
+2,2,,,Single,249900 CAD,37 Algom RD 
+4,2,,,Single,375000 CAD,142 Regent 
+3,3,,,Single,350000 CAD,110 MAIN Street 
+3,1,,,Single,499900 CAD,235 BELFORT STREET 
+3,2,,,Single,219900 CAD,12 Lauzon CRES 
+3,1,,,Single,143900 CAD,24 Blake AVE 
+2,1,,,Single,329900 CAD,1101 WALKER Street 
+3,2,,,Single,257000 CAD,63 Pearson Drive 
+2,1,,.263,Single,425000 CAD,114 WILSON LAKE Crescent 
+5,2,,,Single,259000 CAD,18527 DUNDAS STREET 
+3,2,,,Single,485000 CAD,107 Virginia AVENUE 
+3,2,,,Single,289900 CAD,150 KATHLEEN AVENUE 
+5,2,,,Single,299000 CAD,264 Elm Street 
+2,2,,,Single,299000 CAD,3105 RIBERDY ROAD 
+2,1,,.346,Single,449000 CAD,1303-1305 GLEN ROSS Road 
+2,1,504,,Single,74900 CAD,33Cedar 79681 Bluewater Highway 
+2,1,,,Single,184900 CAD,269 Selby RD 
+3,2,,,Single,489900 CAD,968 WHISTLER COURT 
+3,2,,,Single,155000 CAD,40 St. Andrew's TER 
+4,2,,,Single,349000 CAD,2251 HIGHWAY 124 Highway 
+3,2,,,Single,324900 CAD,320 FOURTH Street 
+3,1,,,Single,249900 CAD,1508 Mary Street West 
+2,1,,,Single,239000 CAD,98 Billings 14th Concession 
+4,2,,,Single,489900 CAD,3020 PEACE COURT 
+6,1,2000,,Residential,499900 CAD,582 WENTWORTH Street N 
+2,2,,,Single,299900 CAD,127 HAY-DOR Lane 
+3,2,1407,,Single,299000 CAD,446 WELLINGTON STREET 
+4,2,1100,,Residential,499900 CAD,159 Guelph St 
+5,2,,,Single,280000 CAD,23 Mill RD 
+2,1,,,Single,209900 CAD,2338 SIMPSON PIT ROAD 
+5,2,,1.57,Single,399900 CAD,19818 Rainy Lake LK 
+1,1,,,Single,98000 CAD,1 ESCUELA QUEBRADAS DR N 
+2,2,1830,,Residential,450000 CAD,66 Mary St 
+2,1,,,Single,395000 CAD,642 Key River 
+3,2,,,Single,229900 CAD,9 KENT STREET 
+2,1,,,Single,389000 CAD,99 Anderson Lane 
+4,3,2500,,Single,479000 CAD,458 Princess STREET 
+,,,>200,Single,500000 CAD,310 NOAH'S Road 
+2,3,,,Single,425000 CAD,2368 ESPRIT DRIVE 
+3,2,,,Single,329900 CAD,137 Devon RD 
+3,2,,,Single,332900 CAD,11608 ROAD 38
+1,2,,,Single,107900 CAD,197 Thirteenth AVE 
+2,1,,,Single,249900 CAD,73 GEORGIAN GLEN Drive 
+6,2,,,Single,475000 CAD,Part Lot 5 CON 2 MCNAB ROAD 
+2,1,,,Single,469900 CAD,10 ROSSEL TRAIL 
+2,2,,,single,499900 CAD,46 ADAM Street 
+3,2,1500,,Single,499999 CAD,19 ASHER Street 21
+4,1,,,Single,209900 CAD,7 JIDAMO MIIKAANS 
+3,2,1631,,Residential,349000 CAD,25 SHADYSIDE Avenue 
+4,4,,,Single,455000 CAD,100 CALLE HISPANIOLA ST 
+3,2,1788,,Residential,299900 CAD,233 Albert Street 
+2,1,,,Single,299900 CAD,25853 Highway 540|District of Manitoulin 
+2,1,,,Single,189900 CAD,214 Annette Street 
+4,3,,,Single,468750 CAD,143 Hudson CRES 
+2,1,,,Single,259000 CAD,6 Dell Street 
+1,,,,Single,325000 CAD,Island A Black Sturgeon 
+6,2,,,Single,479000 CAD,154 CARLTON Street 
+3,1,,,Single,224900 CAD,925 BAYVIEW DRIVE 
+2,1,,,Single,499999 CAD,33 Talbot STREET 
+3,2,,,Single,415000 CAD,74 JV Bonhomme BLVD 
+4,2,,>1.3,Single,389900 CAD,139 Rydall Mill RD 
+4,1,,,Single,449999 CAD,530 CLAUDE Street 
+5,2,,,Single,369900 CAD,1254 Hastings 
+5,2,,,Single,389000 CAD,57 JOHN STREET 
+2,2,,,Single,309900 CAD,251 FIR LANE 
+4,4,,,Single,429900 CAD,1494 ST. PATRICK'S 
+3,2,1501,,Residential,349000 CAD,632 3RD Avenue E 
+1,1,,,Single,169900 CAD,268 Wellington ST 
+3,2,1190,,Single,399900 CAD,2939 REGIS 
+3,1,,,Single,325000 CAD,79 CRANE LAKE Road 
+2,1,,,Single,139900 CAD,239 SIXTH ST 
+5,2,,,Single,299900 CAD,2798 Falconbridge Highway 
+3,1,,,Single,99900 CAD,7100 COUNTY RD 18 
+4,2,,,Single,499000 CAD,2514 GRAVELLE CRESCENT 
+3,2,,,Single,169900 CAD,1687 BEACHBURG ROAD 
+3,2,,,Single,489000 CAD,30 Prevost Road 
+3,1,,,Single,389500 CAD,4728 HWY 71 
+2,1,,>1.6,Single,325000 CAD,21 Highway 546 
+3,2,,,Single,299900 CAD,218 MAIN STREET E 
+3,2,,,Single,289000 CAD,123 Upton RD 
+6,3,,,Single,419000 CAD,135 PLEASANT Drive 
+3,2,,,Single,429900 CAD,756 Shafer AVE 
+4,2,,,Single,499000 CAD,306 STANLEY CRESCENT 
+3,1,,0.25,Single,339900 CAD,320 BRUCE ROAD 15
+3,2,,,Single,399900 CAD,213 Picnic Lake Beach RD 
+2,1,,,Single,279900 CAD,2653 CHANDLER 
+4,2,,g>16,Single,499900 CAD,10884 ROAD 38
+3,2,,0.77,Single,399000 CAD,1027 WEST Road 
+3,2,,,Single,219900 CAD,60 Aspen ST 
+3,1,,4.27,Single,439900 CAD,282 Porchuck RD 
+2,1,750,,Residential,369900 CAD,1121 Cannon Street E 
+4,2,,,Single,199000 CAD,49 Tower ST 
+3,1,,,Single,59900 CAD,22 Trailer Park RD 
+4,3,,,Single,399900 CAD,1257 Paquette 
+,,,,Residential,360000 CAD,10 Robins Ave 
+2,2,,,Single,149900 CAD,118 Youngfox RD 
+3,2,,0.98,Single,499900 CAD,438 BOUNDARY ROAD E 
+3,2,,.398,Single,279900 CAD,50 O'CONNOR Drive 
+3,1,,,Single,99900 CAD,22 Heron DR 
+3,1,,0.13,Single,299900 CAD,75 ISABELLA Street 
+4,2,,>0.5,Single,475000 CAD,115 MILL STREET 
+2,1,,.354,Single,265000 CAD,195 OTTAWA Avenue W 
+2,1,,,Single,359000 CAD,101 TULLIS LANE 
+3,2,,,Single,399777 CAD,43 PORTSMOUTH Avenue 
+2,1,,.098,Single,499000 CAD,22 COLDWATER Road 
+4,2,,2.75,Single,499000 CAD,220 CHRISTIE LAKE NORTH SHORE ROAD ROAD 
+2,1,,0.17,Single,279000 CAD,230 HELEN STREET 
+4,2,,,Single,227000 CAD,601 Pine ST 
+2,1,,.662,Single,249900 CAD,"170 LAKE TEMAGAMI, ISLAND 27"
+5,4,,,Single,249900 CAD,3269 YORKS CORNERS ROAD 
+2,1,,,Single,89900 CAD,165 Algonquin BLVD W 
+2,3,,,Single,389900 CAD,592 LAKERIDGE DRIVE 
+2,1,750,,Single,47400 CAD,23Willow 174366 County Road 25 North Road 
+1,1,,,Single,119900 CAD,99 FOURTH CONCESSION Road Unit 196
+3,2,,,Single,234900 CAD,117 Marks ST S 
+1,1,,,Single,299900 CAD,1462 ERIE 
+3,1,,1.03,Single,399000 CAD,9 OLD CHRISTIE BAY LANE 
+1,1,,.377,Single,349900 CAD,1062 PERCH Lane 
+5,2,,,Single,179500 CAD,1031 Scott Street 
+2,2,,,Single,349900 CAD,1109 MONTREAL Street 
+3,1,,,Single,449000 CAD,735 BRUCE ROAD 13
+,,,>7.3,Single,165000 CAD,58 Cave DR 
+4,2,,,Single,389900 CAD,273 DUNDAS Street 
+3,2,,,Single,140000 CAD,165 Third ST 
+4,2,,,Single,314900 CAD,733 ELIAS Street 
+3,1,,,Single,399000 CAD,18394 ERIE SHORE DRIVE 
+3,1,,,Single,139900 CAD,5 BONITA 
+4,3,,,Single,475000 CAD,85 LAREN Street 
+3,3,,,Single,279900 CAD,8 Fern AVE 
+4,2,,,Single,499900 CAD,423 ONTARIO Street 
+3,2,,,Single,294900 CAD,152 LAURIER AVENUE 
+3,1,,>1.1,Single,449900 CAD,3288 LITTLE BEAUSOLIEL Island 
+4,2,2300,,Single,469900 CAD,28 REGAL DRIVE 
+3,2,,,Single,499900 CAD,360 GRAND AVENUE 
+6,2,,,Single,489900 CAD,447 ROSEDALE AVENUE 
+3,2,,,Single,479000 CAD,225 JAMES Street E 
+2,1,,,Single,139900 CAD,236 Laidlaw ST 
+5,3,,,Single,499900 CAD,1089 HICKORY ROAD 
+2,1,,,Single,244900 CAD,69 Marlborough STREET East 
+3,2,,,Single,359000 CAD,128 GODERICH Street 
+1,1,,,Residential,399900 CAD,34 70th St N 
+3,2,,,Single,450000 CAD,3233 DERRY  RD E 11
+2,1,,,Single,169900 CAD,20 LINDA CRESCENT 
+4,2,,,Single,499900 CAD,3721 PRUDHOMME ROAD 
+3,2,,.249,Single,249000 CAD,331 FIFTH Street 
+2,1,,,Single,199000 CAD,20995 CONCESSION 7 ROAD 
+2,2,,,Single,499900 CAD,48 ADAM STREET 
+2,1,,,Single,98900 CAD,3258 LAKE DORE ROAD 
+4,2,,,Single,209900 CAD,1 Hardy 
+4,2,,,Residential,499000 CAD,95 Moonlight Ave 
+3,2,,,Single,429900 CAD,255 East Balfour ST 
+3,1,,,Single,110000 CAD,22 Ohsweken Road 
+3,1,780,,Single,150000 CAD,41 Maple 79681 BLUEWATER Highway 
+3,1,,.117,Single,339000 CAD,29 1/2 WASHBURN Street 
+3,2,,,Single,249900 CAD,1540 Wellington ST E 
+2,2,,,Single,475000 CAD,4964 DUNNING ROAD 
+1,1,,,Single,429000 CAD,164 QUEEN ST W 
+6,2,,,Single,489900 CAD,118 WELLINGTON Avenue 
+3,1,,,Single,499900 CAD,36 ST OLA RD 
+3,2,,,Single,474900 CAD,11 JONES Street 
+2,1,804,,Single,87000 CAD,58 Pine 79681 Bluewater Highway 
+3,2,,,Single,299900 CAD,373 DOLLARD STREET 
+2,1,,0.22,Single,299900 CAD,534 KING Street W 
+3,2,,,Single,499900 CAD,4443 GEORGE Street 
+4,2,,,Single,449000 CAD,534 MASSIE CRESCENT 
+4,1,,,Single,299000 CAD,88 WIGLE STREET 
+6,3,,,Single,299900 CAD,125 Simpson ST 
+4,2,,,Single,399900 CAD,225 FORLER Street 
+2,2,,,Single,415000 CAD,139 HARTHILL WAY UNIT E
+2,1,,,Single,124900 CAD,1 CHIPPEWA Trail 
+2,2,,,Single,325000 CAD,198 CAMERON AVENUE 
+1,1,,,single,245000 CAD,225 ALVIN Road 202 
+3,2,,.141,Single,499000 CAD,40 ELM Street 
+2,1,,,Single,199900 CAD,459 Queen STREET 
+2,1,,,Residential,99000 CAD,92 Sixth St 
+3,1,,,Single,279900 CAD,153 Foothill RD 
+2,2,,,Single,159900 CAD,7489 SIDEROAD 5 E Unit99 TAMARAK
+2,1,,,Single,179900 CAD,33 PITT Street Unit 41
+,,,,Single,350000 CAD,B415 PART Island 
+4,2,,,Single,299900 CAD,1434 PRINCE 
+3,2,,,Single,475000 CAD,124 MARY STREET 
+3,2,,,Single,165000 CAD,941 Suzanne ST 
+2,2,,,single,129000 CAD,533 MOFFAT Street 
+6,3,,,Single,269900 CAD,157 Columbus AVE 
+3,1,,,Single,98000 CAD,40 Brompton RD 
+2,2,,,Single,399900 CAD,71 SENATOR 
+4,2,,,Single,289900 CAD,1262 BANCROFT Drive 
+2,1,,,Single,269000 CAD,20 CONWAY STREET 
+3,2,,,Single,299999 CAD,20 CEDAR BAY RD 
+2,1,,,Single,149900 CAD,7100 COUNTY RD 18 
+3,2,,,Single,449000 CAD,534 Highway 7252
+2,1,,>1.8,Single,429000 CAD,621 E BEL TWP CON 8 Township 
+4,3,,,Single,490000 CAD,1940 SUNLAND DRIVE 
+4,1,,,Single,348750 CAD,9 RICHMOND ST 
+4,2,,,Single,425000 CAD,203 Cranston Road 
+2,1,,>163,Single,368000 CAD,584269 MOWAT LANDING RD|Haileybury 
+2,1,,,Single,199900 CAD,3460 HARBURN RD 
+3,2,,,Single,86900 CAD,1016 TWIN PINE LANE 
+3,1,,,Single,149900 CAD,12 RANKIN ST 
+4,2,,,Single,429900 CAD,26 FRONTENAC CRESCENT 
+5,2,,,Single,279000 CAD,1180 Langlois AVENUE 
+4,5,,,Single,349900 CAD,1528 CHURCH STREET 
+3,1,,,Single,119900 CAD,1 Shingwaulk DR 
+3,2,,,Single,414900 CAD,1 HURON STREET 
+3,1,,,Single,399900 CAD,6 6TH Avenue S 
+4,1,,,Single,107500 CAD,53 Otter AVE 
+4,3,,0.17,Single,340000 CAD,35 Mackenzie AVE 
+5,2,,,Single,349900 CAD,557 MCEWAN 
+7,5,,,Single,499900 CAD,120 Talbot STREET West 
+1,1,,,Single,185000 CAD,12 Johnston Road 
+2,2,,5.34,Single,335000 CAD,16 Au Lac Retreats Crescent 
+,,,,Single,249000 CAD,896 JULIUS LAKE RD 
+2,1,,4.15,Single,114900 CAD,201A 611 HWY N 
+2,1,,,Single,89000 CAD,220 BALMORAL AVE 
+5,3,,,Single,499997 CAD,18230 PATRICK STREET 
+3,2,,,Single,259000 CAD,641 Second ST W 
+3,1,,,Single,199900 CAD,34 Setterington 
+2,1,,,Single,198900 CAD,495856 10TH Line Unit 94
+3,1,,,Single,159900 CAD,1235 VILLIERS LINE 
+3,3,,>0.1,Single,349900 CAD,40 Michigan AVE 
+4,3,1799,,Single,399900 CAD,2440 CHILVER 
+3,2,,,Single,400000 CAD,5541 OSGOODE MAIN STREET 
+3,2,,,Single,162900 CAD,222 Jessica Street 
+,,,,Single,75000 CAD,1190 HALEY ROAD 
+2,2,,,Single,309900 CAD,77 GRACE STREET 
+3,2,,,Single,389900 CAD,4201 OLD WEST 
+4,2,,,Single,499900 CAD,423 ONTARIO ST 
+2,2,,,Single,429000 CAD,57 SERES Drive 
+3,1,,,Single,159900 CAD,11 BONITA AVENUE 
+3,2,,,Single,389900 CAD,145 Kohler ST 
+3,1,,1.01,Single,279900 CAD,29426 HWY 60 HIGHWAY 
+3,1,,,Single,489000 CAD,6667 FOURTH LINE ROAD 
+3,2,,,Single,499900 CAD,136 FALSTAFF Street 
+3,1,,ng>2,Single,449500 CAD,816 12TH CONCESSION SOUTH ROAD 
+3,2,,.376,Single,419900 CAD,678 MCDOWELL Road 
+3,1,,,Single,204900 CAD,18246 Erie Shore DRIVE 
+2,1,,g>98,Single,429000 CAD,23204 HIGHWAY 62 SOUTH 
+3,2,,0.28,Single,174900 CAD,469 MOFFAT STREET 
+3,1,,.241,Single,475000 CAD,40 MORRISON Street 
+4,2,,,Single,249900 CAD,661 First ST E 
+,,,0.23,Single,159900 CAD,2 JESSIE Street 
+3,2,,,Single,219000 CAD,38 Laurier AVE 
+2,1,,,Single,109900 CAD,210 Sixth AVE 
+3,2,,,Single,449900 CAD,40 BRIAN ROMAIN DR 
+5,3,,>1.5,Single,475000 CAD,4865 HIGHWAY 138 HIGHWAY 
+2,1,,,Single,259000 CAD,12361 WINCHESTER SPRINGS ROAD 
+2,1,,,Single,149000 CAD,37 WILDER DRIVE South 
+2,1,,,Single,499900 CAD,117 MARGARET Street 
+3,2,,,Single,359900 CAD,4824 MOHRS ROAD 
+4,2,,,Single,259900 CAD,143 Wende AVE 
+6,3,,,Single,369900 CAD,100 Windemere Avenue South 
+5,2,,,Single,399900 CAD,43 SOG-JE-WA-SA Drive 
+2,1,,,Single,249900 CAD,7771 LAWRENCE STREET 
+3,2,,,Single,499900 CAD,1010 ESDRAS 
+3,1,,,Single,249999 CAD,983 BRUCE AVENUE 
+3,1,,,Single,139900 CAD,40 Grace ST 
+4,3,,,Single,449900 CAD,800 EASY STREET 
+4,1,,,Residential,299900 CAD,52 PEEL STREET 
+3,1,,,Single,149900 CAD,404 WALTON STREET 
+4,,,,Single,479900 CAD,135 Perch Lake Road 
+3,1,,,Single,429000 CAD,931 SHANICK Road 
+2,1,,,Single,349000 CAD,251 EAST ST S 
+,,,,Residential,249900 CAD,4224 Ardoch Rd Lot 2
+1,2,,,Single,315000 CAD,522 Highway 3924
+3,2,,,Single,459000 CAD,1805 LOCKWOOD Lane 
+7,5,,,Single,498500 CAD,19 Summit AVE 
+3,1,,,Single,179000 CAD,1 Syenite Street 
+2,1,,,Single,379900 CAD,357 Patrick ST  A
+3,2,,,Single,210000 CAD,218 GUY STREET 
+3,1,,,Single,439000 CAD,11111 COOPER ROAD 
+4,3,,,Single,399999 CAD,649 WELLINGTON 
+4,3,1131,,Residential,299000 CAD,274 CONCESSION 11 Road 15
+3,3,,,Single,399900 CAD,44 PEEL Street 
+4,2,,,Single,325000 CAD,31689 HIGHWAY 17 HIGHWAY 
+4,2,,,single,465000 CAD,479 CALEB Street 
+5,2,,,Single,479900 CAD,2824 JOS ST. LOUIS 
+3,1,,,Single,469900 CAD,11348 NEFF ST 
+4,2,,,Single,489000 CAD,2908 HIGHWAY 6 
+2,1,,,Single,89900 CAD,1501 LINE 8 Road Unit 263
+3,1,,,Single,99900 CAD,1501 LINE 8 Road Unit 249
+3,,,,Single,65500 CAD,24 WILSON STREET 
+3,1,,2.09,Single,465000 CAD,419 SOUTH SHORE Road 
+3,2,,,Single,264900 CAD,57 Pearson Drive 
+3,2,,0.31,Single,399900 CAD,73 CHEMAUSHGON Road 
+3,2,,,Single,384999 CAD,202 LIGHT Street 
+2,,,,Single,314900 CAD,25 RATHGAR ST Street 
+5,2,,,Single,480000 CAD,224 ST. AUGUSTINE Drive 
+1,1,,,Single,115000 CAD,2152 COUNTY RD 36 RD 
+4,1,,>2.5,Single,428888 CAD,18 CULROSS-GREENOCK W 
+3,2,,.778,Single,309000 CAD,320 GOVERNMENT Road 
+2,1,,,Single,269000 CAD,32 SHAMROCK Crescent 
+,2,,,single,374000 CAD,104 MAIKA Road 
+4,3,,,Single,375000 CAD,30 Migneault AVE 
+1,2,,,Single,474927 CAD,1087 YORKS CORNERS ROAD 
+3,2,,4.34,Single,459900 CAD,1223 LOCKSLEY ROAD 
+2,1,,,Residential,319900 CAD,6100 Drummond Rd 
+3,2,,,Single,420000 CAD,2033 BLESSED SACRAMENT DRIVE 
+2,2,,,Single,119900 CAD,340 Cambridge AVE 
+3,2,,,Single,479900 CAD,41 PORT ROBINSON Road 
+4,2,1052,,Single,499900 CAD,4140 St. Clair 
+3,1,,,Single,193000 CAD,90A Lower Island Lake RD 
+3,2,,,Single,169900 CAD,908 Wellington ST 
+4,2,,,Single,439900 CAD,23 HILLENDALE Avenue 
+3,2,,,Single,409900 CAD,717 SELKIRK Road 
+,,,>9.6,Single,399900 CAD,Pine Shores RD 
+4,3,,,Single,399900 CAD,1941 NORTHWAY 
+3,1,,,Single,400000 CAD,2029 MAIN Street 
+6,3,,,Single,260000 CAD,6-14 PINETREE LANE 
+3,1,,,Single,120000 CAD,486 COUNTY ROAD 18 - 13 FOREST GROVE Lane 
+,,,,Single,500000 CAD,420 LANDRY RD 
+2,1,,,Single,499900 CAD,4233 CONCESSION 16 RD ROAD 
+3,2,,,Single,249900 CAD,61 Sybil AVE 
+1,1,,0.99,Single,459900 CAD,837899 Creighton DR 
+2,1,,,Single,199900 CAD,22 Notre Dame Street 
+1,1,,,Single,189900 CAD,1208 Forest Street 
+2,2,,,Residential,279900 CAD,79 Butternut Lane 96
+7,3,1298,,Single,399999 CAD,201 BRIDGE AVENUE 
+2,1,,,Single,80500 CAD,50 BEECH ST Street 
+6,2,,ng>3,Single,499900 CAD,0 Ground Hog River RD W|4km passed Groundhog bridge first road on right 
+2,1,,,Single,89900 CAD,272 Ambrose ST 
+2,2,,,Single,305000 CAD,15 CHEROKEE Lane 
+2,1,,,Single,357900 CAD,4 WOODSTOCK Avenue 
+4,2,,,Single,249900 CAD,253 SIDNEY AVENUE E 
+5,1,,,Single,165000 CAD,309 Balsam ST N 
+3,2,,,Single,479900 CAD,3300 St Patrick's DRIVE 
+3,1,,.417,Single,199900 CAD,510 NIPISSING Street 
+3,1,,,Single,499900 CAD,4892 KENTUCKY Court 
+3,2,,,Single,399900 CAD,29 PEARL STREET 
+3,1,,,Single,289900 CAD,15 CEDAR ST 
+2,1,,,Single,269000 CAD,3206 Elm Street 
+1,1,,,Single,249500 CAD,2 HILLCREST Avenue 
+4,1,,.336,Single,459000 CAD,18 NORWICH TOWNLINE Road 
+2,1,,>123,Single,399900 CAD,1290 CONCESSION 2 ROAD 
+3,2,,,Single,349500 CAD,464 Muriel Lake Road 
+1,1,,,Single,145000 CAD,1911 HWY 101 HWY E 
+3,1,,,Single,199900 CAD,1090 FRENCH BAY Road 
+,,,,Single,15500 CAD,7728 COYNE Road 
+3,2,,>0.5,Single,359000 CAD,55 PARK Street 
+1,1,,0.04,Single,399900 CAD,116 R ISLAND 
+4,2,,,Single,143900 CAD,4 Adjala AVE 
+3,3,,,Single,349900 CAD,23 RODEO Drive 
+5,2,1050,,Residential,499900 CAD,73 Edgar Drive 
+4,2,,,Single,295000 CAD,267 SIDNEY AVENUE 
+2,1,,,Single,389900 CAD,18 SHORE Road S 
+4,1,,,Single,450000 CAD,105 5TH AVE S 
+3,1,,,Single,299000 CAD,14 ONTARIO 
+5,2,,,Single,299000 CAD,232-234 Nolin Street 
+3,1,,,Single,379900 CAD,200 LAKE DALRYMPLE Road 
+4,2,,,Single,499900 CAD,12675 CLARICE AVENUE 
+3,1,,,Single,369000 CAD,184 WOODLANDS AVE 
+2,1,,,Single,179900 CAD,1802 COUNTY RD. 121 RD N 
+3,1,,,Single,209900 CAD,118 THIRD Street 
+4,1,,,Single,120000 CAD,19 LYNX AVE 
+4,2,,,Single,150000 CAD,470 Pine ST N 
+2,1,,,Single,250000 CAD,3246 LOVELL Street 
+5,2,1647,,Residential,425900 CAD,49 Almond Street 
+4,2,1248,,Single,289000 CAD,950 Lawrence 
+3,1,,,Single,369000 CAD,176 SPRY SHORE Road 
+1,2,,,Single,449000 CAD,218 WELLINGTON STREET W 
+3,1,,>3.2,Single,229000 CAD,3332 MATAWATCHAN Road 
+2,1,,,Single,257400 CAD,8 PAYNE STREET 
+3,1,1090,,Residential,399900 CAD,30 KEITH Street 
+2,2,,,Single,279900 CAD,45 SUNRISE CIRC 
+2,2,,,Single,349000 CAD,31 PEMBROKE Street 
+1,1,,.106,Single,349500 CAD,47 STORM BAY Road 
+3,1,,,Single,439000 CAD,1865 Fairlea CRESCENT 
+1,,,,Single,375000 CAD,455 JACKSON DRIVE 
+4,1,,,Single,199000 CAD,3264 MATAWATCHAN ROAD 
+3,1,,,Single,399900 CAD,31 CONCESSION Street 
+1,1,,1.01,Single,379000 CAD,38 Sabaskong Bay Island 36
+3,1,,,Single,335000 CAD,16 SWALLOW Lane 
+3,2,,,Single,429900 CAD,Korah RD 
+4,2,,,Single,474900 CAD,2425 OLD FORT Road 
+2,2,,,Single,299900 CAD,026585 HIGHWAY 89 3
+3,1,1500,,Residential,499000 CAD,4721 Rainham Road 
+4,1,,,Single,350000 CAD,3790 VAUGHAN 
+5,3,2600,,Residential,499000 CAD,539 Broad Street W 
+3,2,,.577,Single,480000 CAD,8582 HIGHWAY 28 
+4,3,,,Single,459987 CAD,20332 ANDREA CRESCENT 
+4,3,,,Single,459900 CAD,1552 Gauthier Street 
+3,2,4800,,Residential,329900 CAD,25965 Highway 540 Highway 
+3,1,,,Single,260000 CAD,346 Whitney AVE 
+3,2,,,Single,299900 CAD,544 DEVISTA BOULEVARD UNIT A
+3,2,,,Single,469000 CAD,650 RUPERT STREET 
+3,1,,,Residential,379900 CAD,20 Douglas Ave 
+2,1,,,Single,110000 CAD,1501 LINE 8 Road Unit 130
+3,2,,,Residential,499900 CAD,416 County 8 
+3,1,,,Residential,245900 CAD,Lt21 Naybob Rd 
+6,2,,,Single,419000 CAD,1006 FELIX AVENUE 
+2,1,,,Single,429900 CAD,8 TURNER Drive 
+2,1,,,Single,499900 CAD,161 ALBERT ST 
+3,3,,,Single,499900 CAD,700 REVERIE PRIVATE 
+2,1,,,Single,249500 CAD,24 ROOSEVELT DRIVE 
+3,1,,,Single,139900 CAD,9 CRUTCHFIELD AVE 
+3,1,,,Single,254800 CAD,4510 ST CATHERINE STREET 
+4,2,,,single,385000 CAD,114 CHATS Road 
+1,1,,,Single,399900 CAD,288 GEORGIAN BAY WATER 
+2,1,,,Single,195000 CAD,978 Government Road 
+4,2,,,Single,349900 CAD,1206 MCKAY AVENUE 
+2,1,,.999,Single,450000 CAD,678 RAY Road 
+4,2,,>0.2,Single,425000 CAD,1 JOHN Street 
+5,2,,,Single,489900 CAD,1102 WOODBINE 
+4,2,,,Single,499900 CAD,1021 COUPLAND Road 
+4,2,,,Single,499900 CAD,382 NORFOLK Street N 
+6,3,,,Single,399000 CAD,343 CAMERON AVE 
+2,1,,,Single,429900 CAD,671 COUNTY ROAD 9 
+3,2,1335,,Single,399900 CAD,55 EAGLE Avenue 
+1,1,,,Single,374900 CAD,200 EQUINOX DRIVE UNIT 207
+2,2,1050,,Residential,399900 CAD,24 Cameron Road 
+4,1,,>0.5,Single,299900 CAD,113048 HIGHWAY 7 
+2,1,,,Single,299900 CAD,6525 A Highway 17 
+4,2,,,Single,479900 CAD,63 UNION STREET 
+2,1,,,Single,479900 CAD,1240 KERR 
+3,,,>0.8,Single,119900 CAD,Pt Lt 9 Cooper Lake RD 
+2,1,,5.46,Single,270000 CAD,2334 GARRISON LAKE 
+,,,>0.4,Single,450000 CAD,202 CHARING CROSS Street 
+2,2,,,single,359900 CAD,225 ALVIN Road 102 
+3,2,,,Single,499900 CAD,134 Hayward 
+3,2,,,Single,309000 CAD,2766 Falconbridge Highway 
+2,1,,,Single,129900 CAD,7100 COUNTY RD 18 
+1,1,,,Single,129900 CAD,118 OTTO Lane 
+3,2,,,Single,449900 CAD,193 PELHAM Road 
+3,2,,,Single,319900 CAD,50 KING ST E 
+3,3,,,Single,450000 CAD,275 Southline 
+5,2,,,Single,394900 CAD,386 CHRISTIE STREET 
+3,1,,,Single,269900 CAD,193381 MEADOWS DR 10
+4,2,,,Single,399900 CAD,39 BROADWAY Street S 
+3,1,,,Single,349000 CAD,3 VIAMEDE ST 
+5,3,,,Single,89900 CAD,104 HARKNESS STREET 
+4,2,,,Single,499900 CAD,947 LACROIX ROAD 
+,1,1200,,Single,199000 CAD,11 VICTORIA STREET 
+2,1,,,Single,119000 CAD,52 Lionscrest LN 
+4,2,,,Single,199900 CAD,475 CENTRE STREET 
+3,2,,,Single,289900 CAD,1733 ELSMERE 
+3,2,,,Single,260000 CAD,11 Birch Road 
+3,1,,.133,Single,299900 CAD,11 LARCH Street 
+2,1,,,Single,439000 CAD,47 FORESTDALE CRESCENT 
+2,1,,1.04,Single,360000 CAD,120 OSCAR Island 
+2,2,,,Single,224900 CAD,404 EIGHTH AVE 
+3,2,,,Single,449900 CAD,1267 BELLAMY MILLS ROAD 
+1,2,,,Residential,479000 CAD,701 Homer Watson Blvd 2
+2,2,,,Single,252900 CAD,31 BUTTERNUT Lane 
+4,2,1700,,Single,399000 CAD,09 ELSMERE AVENUE 1107
+3,1,,,Single,359000 CAD,264 FRANCES Street 
+3,1,,,Single,269000 CAD,320 Clouthier Road 
+4,1,,,Single,169900 CAD,207 Wende AVE 
+2,2,,,Single,429000 CAD,3 WINDWARD Way S 
+2,1,,,Single,159900 CAD,58 Regency 
+2,3,,2.16,Single,399900 CAD,168 Lakeshore DR 
+,,,,Single,179900 CAD,1345 McCormick ROAD 
+2,1,,>1.6,Single,369900 CAD,1312 FOYMOUNT ROAD 
+4,2,,,Single,269000 CAD,361 Timmins AVE|Black River-Matheson 
+3,1,,1.06,Single,485000 CAD,1296 MEMESAGAMESING Lake 
+3,2,,,Single,325000 CAD,595 Hart ST 
+4,2,,,Single,324900 CAD,209 Champlain ST 
+2,2,,,Single,409900 CAD,255 KELTIE PRIVATE 
+3,1,,,Single,185000 CAD,140 Northern AVE 
+5,3,,,Single,499900 CAD,2720 VIRGINIA PARK AVENUE 
+4,2,,,Single,329900 CAD,349 Elliott ST 
+3,2,,.206,Single,299000 CAD,2 HUNTER Street 
+,,,,Single,295000 CAD,41 Alta Vista Drive 
+2,1,,,Single,495000 CAD,739 GLANMIRE LAKE LANE 
+2,2,,,Single,419900 CAD,1701 BLOHM DRIVE UNIT 16
+1,2,,,Residential,499900 CAD,99 Trafalgar Rd 
+4,1,,,Single,299900 CAD,940 LABROSSE STREET 
+4,3,,,Single,499900 CAD,551 ADELAIDE AVENUE 
+4,3,,,Single,472900 CAD,141 ONTARIO Street 
+2,2,,,Single,149000 CAD,314 COUNTY ROAD 8 ROAD 
+2,1,,,Single,494000 CAD,93 BROCK Street 
+3,1,,,Single,299900 CAD,1256 HIGH STREET 
+5,2,,,Single,499000 CAD,57902 CALTON Line 
+3,2,,0.75,Single,385000 CAD,12350 COUNTY 18 ROAD 
+3,2,,,Single,399900 CAD,8 MILL Street 
+3,1,,1.11,Single,369999 CAD,2871 CONCESSION 3 N ROAD 
+3,3,,,Single,442500 CAD,580 ERROL ROAD West 
+3,2,,,Single,175000 CAD,1214 Rosedale Avenue 
+3,1,,,Single,449500 CAD,4744 PARK Street 
+2,2,,,Single,469900 CAD,225 KELTIE PRIVATE 
+2,2,,,Single,362900 CAD,1951 V LIN 
+4,2,,,Single,299000 CAD,1179 GILES BOULEVARD East 
+4,2,,,Single,200000 CAD,129 RIVERVIEW ST 
+,1,,,Residential,345000 CAD,2822 Lakeshore Rd 
+3,2,,ng>2,Single,499900 CAD,2750 CON 3 PLANTAGENET ROAD 
+,,,,Residential,500000 CAD,420 Landry Rd 
+3,2,,,Single,249900 CAD,14 BELLAMY STREET 
+2,3,,,Single,449900 CAD,12 YORK ST 
+1,1,,,Single,49000 CAD,3 BONITA 
+2,1,,,Single,100000 CAD,248 PINNACLE HILL RD Lot #3
+3,1,,,Single,229900 CAD,90C Lower Island Lake RD 
+2,1,,,Single,159900 CAD,4596B Highway 17 
+3,1,,,Single,499000 CAD,6 MILNE Street 
+2,2,,,Single,195000 CAD,69 Fourth AVE 
+3,1,,,Single,475000 CAD,8012 GRASSHOPPER PARK RD 
+3,2,,,Single,399900 CAD,8828 Hwy 602 
+4,3,,,Single,369900 CAD,861 HALL AVENUE 
+3,2,,,Single,449900 CAD,193 PELHAM RD 
+5,2,,,Single,449900 CAD,10462 Hwy 17 
+5,2,,,Single,399900 CAD,43 SOG-JE-WA-SA DR 
+2,1,900,,Single,220000 CAD,318 Blake STREET 
+,,,,Single,319900 CAD,2422 ROUND LAKE ROAD 
+4,3,,,Single,449900 CAD,624 FAIRVIEW AVENUE S 
+2,1,,>208,Single,450000 CAD,90 Walker RD S 
+2,2,,,Single,379900 CAD,227 PRESCOTT STREET 
+3,1,,,Single,299900 CAD,1039 GLADSTONE 
+3,2,,,Single,499000 CAD,6 Atlantic ST 
+2,1,,,Single,165000 CAD,295 Biddeson AVE 
+5,2,,,Single,339000 CAD,15 John 
+3,2,,,Single,249900 CAD,1047 BONNIE LAKE CAMP RD 
+2,,,4.73,Single,399900 CAD,1015 MHUSK ROAD 
+4,3,,,Single,299900 CAD,1435 ELLROSE 
+3,1,,,Single,299900 CAD,1474 RANDOLPH 
+3,1,,,Single,439900 CAD,13615 HIGHWAY 38 
+2,1,,,Single,199900 CAD,24 PARKSIDE DRIVE 
+1,1,,,Single,54900 CAD,40201 VANASTRA Road 
+3,1,,,Single,300000 CAD,1478 Riverview 
+2,1,,ng>2,Single,124900 CAD,593 INGLIS ROAD 
+4,2,,,Single,379900 CAD,55 Patricia AVE 
+4,3,,,Single,369000 CAD,436 CURRY AVENUE 
+3,2,,,Single,499000 CAD,745 8TH Avenue E 
+4,2,,,Single,449900 CAD,9484 WALKER ROAD 
+3,3,,,Single,449900 CAD,6731 PURCELL ROAD 
+3,1,,,Single,249000 CAD,485 TIFFIN Street 
+3,1,,>1.9,Single,499900 CAD,75A HUGHES Lane 
+2,2,,,Single,424900 CAD,304 DES TILLEULS PRIVATE UNIT B
+3,2,,,Single,349000 CAD,4150 SHANNONVILLE Road 
+4,2,,,Single,279900 CAD,77 8th ST 
+4,2,,,Single,319900 CAD,156 Timcor CRES 
+4,2,,,Single,249000 CAD,1113 Walsh Street East 
+1,2,,,Single,125000 CAD,2 Market ST 
+3,2,,,Residential,329900 CAD,11 Belmont St 
+3,1,,,Single,95000 CAD,37 Aspendale DR W 
+5,3,,>3.6,Single,365000 CAD,18035 MACLEOD ROAD 
+2,1,,,Single,77900 CAD,9 PEARTREE 
+5,2,,,Residential,345000 CAD,50 Queen St 
+2,,,,Single,114900 CAD,Lot 9 Kindogan Lake 
+2,1,,0.84,Single,249000 CAD,21 GREY HAWK MINE Court 
+9,6,,,Residential,450000 CAD,37 Edward St 
+4,3,,0.29,Single,499000 CAD,308 QUARTER TOWN Line 
+3,2,,,Single,349900 CAD,241 Old Goulais Bay RD 
+3,2,,,Single,399900 CAD,8 MILL ST 
+2,3,,,Single,269000 CAD,196 Dufferin Street 
+5,2,,,Residential,425900 CAD,49 Almond St 
+2,1,,,Single,190000 CAD,85 Lavallee RD 
+4,3,,,Single,210000 CAD,123 Cambridge ST 
+2,1,,,Single,299900 CAD,6053 WYANDOTTE East 
+3,2,,,Single,359000 CAD,18 CENTRE Street 
+3,1,,,Single,349900 CAD,57 7TH Street SE 
+3,1,,,Single,399900 CAD,123 MAIN STREET 
+3,2,,,Single,475000 CAD,3233 DERRY  RD E 18
+5,2,,,Single,399900 CAD,1167 WALKER ROAD 
+3,1,,,Single,99900 CAD,680 RIVERSIDE DR 
+4,1,1796,,Residential,488900 CAD,160 ST. CATHARINE Street 
+2,1,,,Single,267500 CAD,153 QUEEN STREET 
+,1,,1.52,Single,99000 CAD,839 RED PINE LANE 
+2,2,,,Single,379900 CAD,1144 GABLEFIELD PRIVATE 
+2,3,,,Single,399500 CAD,58 BONFIELD PRIVATE 
+2,1,691,,Residential,334900 CAD,264 Chapel Street 
+3,1,,,Single,499900 CAD,75A HUGHES LANE 
+3,2,,,Single,309900 CAD,319 Matheson ST N 
+2,1,,,Single,229900 CAD,353 LANARK STREET 
+1,1,,,Single,249000 CAD,10 Otter Lake Drive 
+2,2,950,,Residential,449900 CAD,11 Mundy Ave 
+3,2,,1.03,Single,415000 CAD,522 Highway 11824
+4,1,,,Single,350000 CAD,258 William STREET 
+3,1,,,Single,219900 CAD,915 Howey Drive 
+4,1,,,Single,349000 CAD,69 ALBERT Street S 
+1,,,,Single,375000 CAD,Lot 5 Con 1 
+4,2,,,Single,199900 CAD,207 Cumming ST 
+3,2,,,Single,399900 CAD,66 Worthington Street 
+3,2,,,Single,374900 CAD,18 Old Fort RD 
+3,2,,,Single,164000 CAD,210 Fifth ST 
+,,,,Single,399900 CAD,1339 PETERSON Road 
+4,2,,,Single,305000 CAD,9330 Aire COURT 
+2,2,,0.85,Single,449900 CAD,6 Highway 312295
+2,1,,,Single,359500 CAD,115 JARDINE Street 
+4,1,,,Single,219900 CAD,234 CARLETON STREET 
+4,2,,0.61,Single,499900 CAD,12 ALSTON STREET 
+6,3,,,Single,499900 CAD,43 Watermill 
+3,2,,,Single,484900 CAD,1313 CENTREVILLE Road 
+3,1,1200,,Single,499900 CAD,225 Geneva Street 
+4,2,,,Single,379000 CAD,1551 Dearbourne Street 
+3,2,,,Single,229900 CAD,95 Hirshhorn AVE 
+4,,,,Single,399900 CAD,2948 AYLEN LAKE BAY 
+3,2,,0.64,Single,89000 CAD,1549 Highway 71 
+3,2,,,Single,329900 CAD,371 Whitney AVE 
+3,1,,0.75,Single,499900 CAD,LOT 33&34 SHALLOT Crescent 
+3,2,,,Single,159900 CAD,161 Remi CRES 
+4,2,,,Single,439900 CAD,1038 Clementine Street 
+5,2,,,Single,399000 CAD,125 McNaughton AVENUE West 
+2,2,,,Single,364900 CAD,677 RUSSELL ROAD 
+2,1,,,Single,209900 CAD,50 Kay ST 
+3,1,,.201,Single,490000 CAD,45 JOHN Street 
+2,1,,,Single,420000 CAD,204 LEWIS LANE 
+1,1,,,Single,424900 CAD,361 FITTON ST 
+3,2,,,Single,389900 CAD,167 Country Club PL 
+2,1,,,Residential,389967 CAD,29 Margaret St 
+3,2,,,Single,499999 CAD,6 Cedar Court 
+3,2,,,Single,429900 CAD,529 LAURIER 
+4,2,,,Single,344900 CAD,20 Herrick ST 
+3,1,,,Single,409500 CAD,160 DURHAM Street E 
+2,1,,,Single,214900 CAD,571 Lorne Street 
+4,2,,,Single,429900 CAD,168 HUNTER Street 
+3,2,,>1.5,Single,438000 CAD,583522 WEST RD 
+2,1,,,Single,474900 CAD,1330 PORT CUNNINGTON Road 
+3,2,,,Single,315000 CAD,1112 WALSH ST E 
+2,1,,,Single,399000 CAD,1757 GLENDALE AVENUE 
+4,2,,,Single,314900 CAD,948 PEMBROKE STREET W 
+4,2,1660,,Residential,299900 CAD,18140 Erie Shore Drive 
+3,1,,.448,Single,295000 CAD,121 IRON CITY Road 
+2,1,,,Single,164900 CAD,418 Brock Street 
+2,1,,,Single,179900 CAD,9338 WEST IPPERWASH ROAD Unit R16
+3,3,,,Single,262490 CAD,2 Gladstone AVE 
+2,1,,,Single,500000 CAD,24 WILLOW POINT Road 
+3,1,,0.27,Single,458827 CAD,827 DUFFERIN Street 
+5,3,,,Single,235000 CAD,60 O'Brian AVE 
+4,1,,,Single,264000 CAD,300 RADLEY'S HILL RD 
+3,1,,,Single,324900 CAD,20 STEWART Street 
+2,1,,0.26,Single,439900 CAD,7641 GILLESPIE Street 
+3,2,,,single,319900 CAD,4564 STE CATHERINE Street 
+2,1,900,,Residential,125000 CAD,120 THIRD Avenue 
+5,2,,0.21,Single,445000 CAD,423 LONG BEACH Road 
+4,1,,,Single,499900 CAD,S35 STAG ISLAND 
+2,1,,,Single,120000 CAD,72 WILDER 
+3,2,,,Single,479900 CAD,484 CHRISTINA STREET North 
+5,2,,0.86,Single,324900 CAD,163 PARADISE Lane 
+3,1,,,Single,349900 CAD,1812 Windermere 
+2,1,,,Single,349000 CAD,899 STATION ROAD 
+4,1,,1.31,Single,354900 CAD,2420 SCHUTT Road 
+2,1,,,Single,249900 CAD,109 Lansdowne AVE 
+2,2,,,Single,229000 CAD,667 WHITTAKER Street 
+3,2,,,Single,489900 CAD,3409 HWY 17 E 
+3,2,,,Single,449000 CAD,158 Ontario AVE 
+2,1,,,Single,247500 CAD,10 Roy ST 
+4,,,,Single,375000 CAD,51 Gibbs ST 
+2,2,,,Single,442000 CAD,28 PEEL Street 
+5,3,,,Single,369900 CAD,431 BUFFAM DR|HAILEYBURY 
+3,1,,,Single,162900 CAD,384 Toke ST 
+3,1,,,Single,269000 CAD,45 Cranston Road 
+5,2,,0.25,Single,449900 CAD,209 SHUTER Street 
+3,1,,,Single,299000 CAD,934 WESTERN Avenue 
+5,2,,,Residential,499000 CAD,7294 Merritt Ave 
+3,1,,,Single,389900 CAD,119 Coatsworth AVENUE 
+2,1,,,Single,369900 CAD,125 Cahill DR|Ice Chest Lake 
+2,1,,,Single,389900 CAD,16914-D Highway 17 E 
+6,4,,,Single,399900 CAD,4123 Hwy 69 N 
+4,3,,,Single,410000 CAD,60 SETTERINGTON STREET 
+5,3,,,Single,489900 CAD,49 FACER Street 
+3,2,,,Single,459900 CAD,842 WESTBURY Court 
+3,1,,,Single,269900 CAD,108 RETA CRESCENT 
+2,1,,,Single,92500 CAD,113 Lansdowne ST S 
+2,2,,,Single,239900 CAD,302 Rabbit Lake Road 
+2,1,,,Single,299000 CAD,48 Bay Street 
+4,3,,,Single,449900 CAD,544-546 PELADEAU ROAD 
+2,1,,,Single,449000 CAD,126 DAVID STREET 
+4,2,,,Single,149900 CAD,77 NEWTON ST 
+3,3,,,Single,442500 CAD,1106 PRINCE ST 
+4,3,,,Single,399900 CAD,4307 Regional Road 15 
+3,2,,,Single,429900 CAD,23809 MERLIN LINE LINE 
+2,1,1259,,Residential,499000 CAD,4016 Burnham St. N 
+2,,,,Single,335000 CAD,LOT 560 LITTLE LONG LAKE 
+3,1,,,Single,489900 CAD,253 WILLIAM STREET 
+3,1,,.079,Single,499900 CAD,39 MACKAY Avenue 
+2,1,,,Single,180000 CAD,3 King ST 
+3,2,,,Single,409000 CAD,10 DUNDAS Street 
+4,2,,,Single,479900 CAD,30 MALAKOFF Street 
+3,1,,,Single,399000 CAD,804 WHITESTONE Lake 
+4,3,,,Single,249000 CAD,345 Elizabeth ST 
+3,2,,0.11,Single,474900 CAD,40 POTTINGER Street 
+2,2,,,Single,499900 CAD,131 POPLIN STREET 
+3,2,,,Single,319900 CAD,246 EMMA STREET 
+3,2,,,Single,199900 CAD,556 Empire ST 
+2,,,0.25,Single,99000 CAD,19 B MOORES BEACH ROAD 
+3,1,,,Single,143500 CAD,19 Matachewan RD 
+2,1,,0.44,Single,395000 CAD,5 GUNTER Lake 
+2,2,,,Single,149900 CAD,85 Marion ST 
+2,1,,,Single,444900 CAD,8 FIRE ROUTE 27 
+4,1,,,Single,299900 CAD,792 PARENT 
+2,1,,,Single,269900 CAD,36 Poplar RD 
+1,1,,,Single,299000 CAD,1861 GLAMOR LAKE RD 
+4,1,,,Single,199900 CAD,119 Panoramic DR 
+3,2,,,Single,249000 CAD,1395 BENTCLIFFE 
+3,1,,,Single,84900 CAD,63 RANKIN ST 
+3,3,,,Single,409900 CAD,1706 JANE STREET 
+2,2,,,Single,439900 CAD,214 KELTIE PRIVATE 
+2,2,,,Single,350000 CAD,6221 TEALWOOD PLACE 
+3,2,,,Single,259900 CAD,495 Imperial Street 
+4,1,,,Single,489900 CAD,9406 MCNAUGHTON LINE 
+3,2,,,Single,399000 CAD,725 QUEEN Street 
+4,2,,,Single,279000 CAD,1508 HOWARD 
+2,1,,,Single,460000 CAD,14 BAY Street 
+3,2,,,Single,430000 CAD,153 WILLIAM STREET 
+4,1,,,Single,489900 CAD,328 MARLBOROUGH ST 
+6,4,,,Single,319900 CAD,1039 CAMPBELL AVENUE 
+3,1,,,Single,165500 CAD,2 Laurier Street 
+3,1,,,Single,450000 CAD,105 5TH Avenue S 
+5,2,,,Single,479000 CAD,24 AVENUE Place 
+2,3,1325,,Residential,449900 CAD,12 YORK Street 
+3,2,,,Single,399000 CAD,77 Ann Street 
+4,2,,,Single,479000 CAD,1250 STANLEY 
+3,1,,,Single,449900 CAD,991 NOTRE DAME STREET 
+1,1,,,Single,49999 CAD,RYE ROAD 
+2,1,,,Single,179900 CAD,9338 W IPPERWASH Road 
+4,2,,1.15,Single,429900 CAD,383 Nils Bay RD 
+3,1,,,Single,499900 CAD,3397 BEACHVIEW Avenue 
+4,2,,,Single,419000 CAD,629 OAKDALE ROAD 
+4,2,,,Single,289500 CAD,222 Hillside Drive S 
+2,1,,,Single,269900 CAD,2612 TURNER 
+3,2,,,Single,229900 CAD,1250 COTTAGE PLACE 
+2,1,,,Single,259900 CAD,6723 Tenth LINE 
+1,1,,,Single,325000 CAD,77307 BLUEWATER Highway Unit 51
+2,1,,,Single,439000 CAD,7 Queens Lane/Bidwell Rd. 
+3,1,,.235,Single,239900 CAD,351 LAKE Street 
+2,1,,,Single,199900 CAD,11 BUCK Avenue 
+3,1,,,Single,439900 CAD,6167 ARAD Street 
+4,1,,,Single,399900 CAD,4001 DUFFERIN 
+4,2,,,Single,299900 CAD,894 DOUGALL 
+2,2,,,Single,269900 CAD,2037 WALSH ST E 
+3,2,991,,Single,459000 CAD,66 White Avenue 
+4,2,,,Single,380000 CAD,102 Meridian AVE 
+4,2,,,Single,499990 CAD,257 VALLEYFIELD Crescent 
+3,1,,,Single,214900 CAD,3223 LINWOOD 
+3,2,,,Single,499900 CAD,759 CENTRE Road 
+4,1,,,Single,419900 CAD,148 KING Street 
+2,2,,,Single,385000 CAD,7 HICKORY Hollow 
+1,,,,Single,350000 CAD,60 SAXON ISLAND Island 
+2,1,,0.96,Single,349900 CAD,205 RAPID ROAD 
+2,1,,>0.5,Single,130000 CAD,1163 COX Road 
+2,2,,,single,245000 CAD,361 QUEEN Street 322 
+3,2,,,Single,410000 CAD,200 REDFORD Crescent 
+3,2,,,Single,499900 CAD,510 MACGREGORS BAY TRAIL 
+2,1,,,Single,489000 CAD,98 BOYCE AVENUE 
+5,2,,,Single,328900 CAD,975 Martindale Road 
+3,2,,,Single,199000 CAD,4308 WHITTAKER ROAD 
+3,5,,0.25,Single,389900 CAD,44 Michigan AVE 
+4,1,,.423,Single,450000 CAD,1044 MILL Street 
+2,1,,,Single,169900 CAD,1054 LAKESHORE Road 
+2,1,,,Single,399900 CAD,285 UNION ST E 
+5,1,,,Single,224900 CAD,191 QUEEN STREET 
+2,1,,,Single,149900 CAD,106 Dickenson RD 
+2,2,,,Single,110000 CAD,63 Notre Dame PL 
+,,,,Residential,399000 CAD,62 BEECHWOOD Avenue 
+3,1,,,Single,380000 CAD,343 SCARPITTA  ST 32
+6,2,1593,,Residential,399900 CAD,98 HOPE Avenue 
+,1,,,Single,189000 CAD,4333 Highway 551 
+2,1,,,Single,179000 CAD,225 PLATTEN BLVD 304
+3,1,,,Single,335500 CAD,WS26-1 ISLAND 
+3,1,964,,Residential,415000 CAD,181 Vine Street S 
+4,2,,,Single,479900 CAD,1377 OXFORD AVENUE 
+3,1,,,Single,479900 CAD,207 QUEEN Street 
+3,2,,,single,225000 CAD,427 HERBERT Street 
+2,1,551,,Residential,149900 CAD,1052 LAKESHORE Road 
+2,1,,,Residential,400000 CAD,1560 River Rd W 
+2,2,,,Single,484900 CAD,27 WALLACE Avenue 
+5,2,,,Single,195000 CAD,194 Woodward AVE 
+3,3,,,Single,499999 CAD,3233 DERRY RD E 21
+2,1,,,Single,274900 CAD,77 QUEENSTON Street 
+2,3,,,Single,399900 CAD,121 BROCKVILLE STREET 
+3,2,,,Single,299000 CAD,75 Mary ST 
+3,1,,,Single,119900 CAD,12 Jay AVE 
+3,1,,,Single,299999 CAD,4 Ste. Camillus CRES 
+2,2,,,Single,449000 CAD,2111 HIGHWAY 34 HIGHWAY 
+3,2,,,Single,319900 CAD,4 Ford ST 
+3,2,,4.86,Single,425000 CAD,567 Anderson Road 
+2,1,,,Residential,439000 CAD,6068 Drummond Rd 
+3,1,,,Single,395000 CAD,178 RUSSETT DRIVE 
+,2,,,Residential,475000 CAD,85 Ontario 
+1,1,,,Single,285000 CAD,276 King STREET East 
+3,2,,,Single,499900 CAD,105 JOLLIET AVENUE 
+3,3,,.173,Single,499900 CAD,5 THORNCLIFFE Drive 
+3,1,,,Single,105000 CAD,7 Shingwauk Drive 
+3,2,,,Single,399900 CAD,10329 LONSDALE 
+2,1,,,Single,489000 CAD,1007 WEST Road 
+3,1,,,Single,469000 CAD,558A OLD NIPISSING Road 
+3,3,,,Single,499900 CAD,9 BENNIE 
+3,1,,,Single,245900 CAD,LT21 NAYBOB RD 
+5,3,,,Single,429900 CAD,5571 PERTH ROAD Crescent 
+2,1,,,Single,475000 CAD,20 SHANNON Road N 
+3,2,,,Single,375500 CAD,28 QUEEN Street 
+3,2,,,Single,369818 CAD,9 MANGO VALLEY RD 111
+3,2,,,Single,469000 CAD,40 FOYMOUNT ROAD 
+5,3,,,Single,369900 CAD,333 RANKIN 
+2,2,,,Single,325000 CAD,32 OTTAWA STREET 
+5,2,,,Single,499900 CAD,2664 NORFOLK COUNTY RD #23 Road 
+2,1,,0.99,Single,499000 CAD,500 MCINDOO FALLS Trail 
+4,2,2185,,Single,399900 CAD,1217 VICTORIA AVENUE 
+2,1,270,,Single,25000 CAD,1 Sugarbush 174366 County 25 Road N 
+3,1,1700,,Single,467000 CAD,79 Beach Road 
+1,1,,,Single,319900 CAD,43 REID Street 
+4,2,730,,Single,289900 CAD,2319 Alexis 
+2,1,,,Single,207888 CAD,9839 LAKESHORE Road Unit 39
+,3,,,Single,325000 CAD,252 ALGOMA ST S 
+3,1,,,Single,299000 CAD,2255 MEIGHEN 
+3,1,,>0.2,Single,119000 CAD,109 Third AVE 
+2,1,,,Single,425000 CAD,12608 SMOKE LINE 
+3,1,,,Single,299900 CAD,11 MARTIN 
+1,1,,,Single,199900 CAD,4 Eugenie 
+3,1,,,Single,219900 CAD,133 SUNNYSIDE AVENUE 
+2,1,,,Single,399900 CAD,285 UNION Street E 
+3,1,,0.44,Single,349000 CAD,196 PARK Road 
+5,2,,,Single,439900 CAD,6828 BOISVENUE DRIVE 
+6,4,,,Single,449900 CAD,219-221 ASA STREET 
+3,2,,,Single,239900 CAD,666 North ST 
+4,1,1100,,Residential,419000 CAD,1508 BEAVERDAMS Road 
+,,,,Single,499900 CAD,839 Old Tecumseh 
+5,2,,,Single,449000 CAD,517 PARTINGTON 
+2,2,,,Single,379000 CAD,605 ST-JACQUES STREET 
+,,,,Single,299000 CAD,N/A SIBBALD CRES 
+3,1,,,Single,366900 CAD,21 MUNRO STREET 
+2,1,,,Residential,450000 CAD,3343 Park Rd 
+3,2,,,Single,239900 CAD,318 Second ST N 
+6,2,,,Single,359000 CAD,137 NORWAY ST 
+2,1,,.682,Single,399000 CAD,263609 SOUTHGATE RD 26 Road 
+3,2,,,Single,499900 CAD,175 CHATTERTON VALLEY Crescent 
+3,2,,,Single,469900 CAD,2027 VICTORIA Street 
+2,1,,,Residential,499900 CAD,104 Elgin Street 
+1,1,,,Single,350000 CAD,147 JOE Road 
+4,2,,1.23,Single,349900 CAD,3115 Huron LIN 
+3,1,,,Single,189000 CAD,1441 COUNTY ROAD 8 
+3,2,,,Single,329900 CAD,486 Cedar ST S 
+2,1,,,Single,34900 CAD,7489 SIDEROAD 5 E Unit43 WOODSIDE
+3,2,,,Single,199900 CAD,91 First Avenue 
+3,2,,,Residential,499000 CAD,113 Elmwood Ave 
+3,2,,,Single,339900 CAD,295 MAIN STREET 
+4,3,,,Single,399900 CAD,449 HAIG AVENUE 
+3,1,,,Single,269000 CAD,28 Government Road 
+3,3,,,Single,469900 CAD,2 EXETER DRIVE 
+3,2,,,Single,130700 CAD,186 Cathcart ST 
+3,1,,,Single,299900 CAD,12 WAAGOOSH Lane 
+3,2,,,Single,124900 CAD,676 Riverside DR 
+4,3,,,Single,399900 CAD,1277 Power AVE 
+,,,,Single,120000 CAD,6 Victoria ST 
+2,2,,,Single,439900 CAD,44 HURON HEIGHTS Drive 
+3,2,,,Single,499900 CAD,1031 CROTCH LAKE Trail 
+2,2,,,Single,245000 CAD,361 QUEEN STREET UNIT 322
+4,2,,,Single,349000 CAD,350 GEORGE Street 
+2,2,,,Single,249000 CAD,35 BUTTERNUT Lane 
+3,2,,,Single,239900 CAD,166 Bitonti CRES 
+3,1,,,Single,315000 CAD,6 FIRE ROUTE 5 
+3,1,,,Residential,499000 CAD,14 Liberty Place 
+2,2,,,Single,328000 CAD,75 BUTTERNUT Lane 
+3,2,,,Single,119900 CAD,99 FOURTH CONCESSION Road 
+3,1,,,Single,459900 CAD,84 COLBORNE Street W 
+3,2,,,Single,349900 CAD,1124 ELLIS 
+1,1,,,Single,99900 CAD,215 Mountjoy ST S 
+5,1,,,Single,49900 CAD,26 KING Street 
+3,2,,,Single,475000 CAD,1400 C LINE 
+4,1,,,Single,339000 CAD,11554 HIGHWAY 522 
+4,1,,,Single,149000 CAD,1523 Riverview Road 
+4,2,2029,,Single,499900 CAD,48 SEACLIFF DRIVE West 
+3,1,,,Single,189900 CAD,11A Orford 
+4,2,,>1.3,Single,115000 CAD,Part lot 9 Cooper Lake RD 
+6,2,,,Single,239888 CAD,3057-3059 WALKER STREET 
+3,1,,,Single,163500 CAD,16 Barnett ST 
+2,1,,,Single,229900 CAD,34 WESTMORELAND AVENUE 
+3,1,,,Single,379900 CAD,30 LONG BEACH RD 
+2,1,,,Single,229900 CAD,1390 GEORGE 
+1,1,,,Single,59900 CAD,Minstead Tiny Home 
+3,1,,,Single,379900 CAD,200 LAKE DALRYMPLE RD 
+2,2,1035,,Single,299900 CAD,2534 SEMINOLE 
+4,3,,,Single,299900 CAD,361 Adams ST 
+4,1,1044,,Residential,499900 CAD,100 Oakwood Avenue 
+3,2,,,Single,435000 CAD,31 PARKVIEW RD 
+2,3,,,Single,349900 CAD,1124 DOCTEUR CORBEIL BOULEVARD UNIT 4
+2,3,,,Single,459000 CAD,805 LONGFIELDS DRIVE 
+3,1,,,Single,329900 CAD,133 MORRIS STREET 
+,,1300,,Residential,499900 CAD,4074 St. James Avenue 
+2,1,,,Single,199900 CAD,1060 HIGHLAND 
+,,,,Residential,79900 CAD,1 Ibottson Rd 
+3,1,,,Single,249900 CAD,288 Lakeshore DR S 
+4,2,,,Single,189900 CAD,334 FERGUSON RD 
+4,2,,,Single,329900 CAD,38 HIGHLAND CRESCENT 
+4,2,,,Single,399000 CAD,80 Ardleigh DRIVE 
+3,2,,,Single,470000 CAD,1019 RANSLEY Road 
+3,1,,,Single,199900 CAD,101 Primmers Rd 20
+1,2,,,Single,299900 CAD,20B BEAVER TRACE LANE 
+3,1,,,Single,179900 CAD,7100 COUNTY RD 18 
+5,2,,,Single,489900 CAD,248 MISSISSAGA Street W 
+3,1,,.324,Single,229900 CAD,50 JARBEAU Street 
+3,2,,,Single,399900 CAD,55 EAGLE AVE 
+5,4,,,Single,375000 CAD,54 Pearson Drive 
+2,1,,,Residential,499000 CAD,135 Hwy 64 Alban 
+2,1,,,Single,449900 CAD,159 RAGLAN ST 
+2,1,,,Single,299000 CAD,274 FAIRVIEW BOULEVARD 
+,,,,Single,295000 CAD,46 Alta Vista Drive 
+2,2,,,Single,425000 CAD,5 FARM VIEW Lane 
+3,1,,,Single,117000 CAD,1501 LINE 8 Road Unit 357
+3,1,,,Single,399900 CAD,6199 ARAD Street 
+4,2,,.595,Single,459900 CAD,145 VICTORIA Avenue E 
+2,1,,,Single,415000 CAD,10834 NORTHWOOD LINE 
+3,2,,,Single,299900 CAD,16 Seventh AVE 
+4,1,,,Single,449900 CAD,220 JAMES Street 
+4,2,,,Single,259888 CAD,3063-3065 WALKER STREET 
+4,2,,,Single,219000 CAD,357 JOSEPHINE 
+2,2,,,Single,139000 CAD,566 Northland RD 
+4,1,,,Single,229000 CAD,3264 LAKE DORE ROAD 
+3,1,,,Single,164900 CAD,31 Matachewan Road 
+1,1,,,Single,250000 CAD,261 TALBOT Street S 
+2,1,,0.56,Single,299900 CAD,52 COUNTY ROAD 1 Road 
+2,1,,.986,Single,285000 CAD,2500 WIDDIFIELD STATION Road 
+2,2,,,Single,122900 CAD,166 Remi CRES 
+2,1,,,Single,469900 CAD,28 CHURCHILL Crescent 
+4,2,,,Single,299000 CAD,25 Water Street 
+2,1,,0.55,Single,399998 CAD,137549 CONCESSION #7 Concession 
+3,,,,Single,232000 CAD,37 ELLIOTT STREET 
+3,,,.372,Single,399000 CAD,4 GUNTER LAKE 
+5,1,,,Single,144000 CAD,116 WILLIAM STREET W 
+3,,,,Single,195900 CAD,. Brady RD 
+2,1,,,Single,499000 CAD,132 MADILL CHURCH Road 
+3,2,,,Single,249999 CAD,25 LOCUST HILL DR 
+3,2,,,Single,154900 CAD,39 41 Landsdowne ST S 
+4,2,,,Single,174900 CAD,170 Mcdougald ST 
+3,2,,,Single,449900 CAD,1090 GEORGETON PRIVATE 
+3,1,1024,,Residential,385000 CAD,212 Niagara Street 
+3,1,,,Single,359900 CAD,425 INDIAN CREEK ROAD West 
+4,3,,,Single,459900 CAD,1321 Dalton RD 
+6,2,,,Single,349900 CAD,364 PARTINGTON AVENUE 
+3,2,,,Single,339900 CAD,2797 Allyson 
+2,1,,,Single,159900 CAD,32037 HIGHWAY 17 HIGHWAY 
+4,2,,,Residential,449900 CAD,167 Adelaide Street 
+2,2,,,Single,399900 CAD,568 REARDON PRIVATE 
+4,2,,,Single,399000 CAD,289 HOFFMAN CRESCENT 
+4,2,,,Single,499500 CAD,1756 Hwy 575 
+3,2,,,Single,489900 CAD,388 CRAWFORD Street 
+3,2,,,Single,299900 CAD,23 LYON STREET North 
+3,2,,,Single,499900 CAD,63 WATERLOO ST 
+3,1,,,Single,124900 CAD,1 Swallow DR 
+2,1,,,Single,199500 CAD,38 EATON Court 
+3,1,,,Single,237900 CAD,355 LISGAR STREET 
+3,3,,,Single,299888 CAD,177 NEIL COURT 
+2,1,,,Residential,475000 CAD,336 Eastwood Avenue 
+3,1,1103,,Residential,305000 CAD,30 Trapnell Street 
+2,1,984,,Residential,459900 CAD,465 Ottawa Street N 
+2,1,1100,,Residential,350000 CAD,28 Division Street 
+3,3,,,Single,429999 CAD,915 MCKAY AVE 
+2,1,980,,Residential,387900 CAD,194 PEEL Street 
+3,2,,,Residential,499900 CAD,195 MANNING Drive 
+3,2,,,Residential,199900 CAD,209 Queen Street 
+3,1,,,Residential,409900 CAD,159 Brantwood Park Road 
+2,1,,,Residential,419900 CAD,137 Drive-In Road 
+4,3,,,Residential,414900 CAD,40 Monarch 
+3,1,,,Residential,399900 CAD,30060 WEST BOTHWELL Road 
+3,2,1050,,Residential,314900 CAD,"47 Main Street, St Charles, ON "
+1,2,,,Residential,459900 CAD,349 Mcleod Street 
+4,2,,,Residential,350000 CAD,530 ESTHER ST 
+2,1,,,Single,399000 CAD,1509 MOSLEY ST 
+2,2,1200,,Residential,379000 CAD,55 GREEN VALLEY DR 
+3,1,,,Residential,389900 CAD,1138 Blasdell Avenue 
+,,,,Single,199000 CAD,6343 HIGHWAY 35 RD 
+2,1,840,,Residential,349900 CAD,76 CHESTNUT Avenue 
+2,1,1062,,Residential,499000 CAD,976 County Road 13 
+,2,1400,,Residential,399900 CAD,351 Scott St 
+2,1,,,Residential,399900 CAD,99 Eagle Avenue 
+5,2,1695,,Residential,159900 CAD,610 Duke Street 
