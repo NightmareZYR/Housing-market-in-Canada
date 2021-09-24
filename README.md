@@ -23,7 +23,7 @@ Data Collection 2 : Prairie Provinces - MB, SK, AB
 
 Data Collection 3 : West Coast        - BC
 
-Tables are:
+The final table is:
 
 Point2_data_Canada_house_ExcludingNorth (Combined all collected data and adding columns "Province" and "Region")
 
