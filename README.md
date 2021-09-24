@@ -3,7 +3,7 @@ This is an exploration of Housing market in Canada.
 
 All the code and tables are in the document folder.
 
-# Data collection-Point2homes.ca
+# Data collection - Point2homes.ca
 
 ![Image of point2homes](https://raw.githubusercontent.com/NightmareZYR/Housing-market-in-Canada/main/Screen%20Shot%202021-09-19%20at%208.30.47%20PM.png)
 
@@ -25,9 +25,15 @@ Data Collection 3 : West Coast        - BC
 
 Tables are:
 
-Point2_data_Canada_house_ExcludingNorth
+Point2_data_Canada_house_ExcludingNorth (Combined all collected data and adding columns "Province" and "Region")
 
 ![Image of point2homes](https://github.com/NightmareZYR/Housing-market-in-Canada/blob/main/Canada%20Housing%20Data%20excluding%20North.png)
+
+# Data cleaning - 
+
+## Data cleaning 0:
+* Combining all collected data
+* Adding Columns "Province" and "Region"
 
 
 
