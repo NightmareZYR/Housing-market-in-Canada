@@ -27,7 +27,6 @@ Tables are:
 
 Point2_data_Canada_house_ExcludingNorth
 
-There is the sceenshot of orignal data.
 
 
 
