@@ -9,6 +9,12 @@ Data is collected from Point2homes.ca and store in the CSV file.
 
 ![Image of point2homes](https://raw.githubusercontent.com/NightmareZYR/Housing-market-in-Canada/main/Screen%20Shot%202021-09-19%20at%208.30.47%20PM.png)
 
-Dataframe includes seven columns which are number of bedrooms, number of bath, square feets of the house, price, address, latitude, and longitude
+Data is classified as Houses which are in NS, PE, NB, NL, QC, ON, MB, SK, AB, and BC.
+
+
+
+There is the sceenshot of orignal data.
+
+![Image of point2homes](https://raw.githubusercontent.com/NightmareZYR/Housing-market-in-Canada/main/Screen%20Shot%202021-09-19%20at%208.30.47%20PM.png)
 
 
