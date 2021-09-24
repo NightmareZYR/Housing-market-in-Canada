@@ -27,7 +27,7 @@ Tables are:
 
 Point2_data_Canada_house_ExcludingNorth
 
-
+![Image of point2homes](https://github.com/NightmareZYR/Housing-market-in-Canada/blob/main/Canada%20Housing%20Data%20excluding%20North.png)
 
 
 
