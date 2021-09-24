@@ -35,6 +35,18 @@ Point2_data_Canada_house_ExcludingNorth (Combined all collected data and adding 
 
 ![Image of point2homes](https://github.com/NightmareZYR/Housing-market-in-Canada/blob/main/Canada%20Housing%20Data%20excluding%20North.png)
 
-
+## Data cleaning 1:
+### 1. Formating and irrelevant columns
+* Drop irrelevant columns
+* Clean the format
+### 2. Missing values
+* Store missing values (for future improvements)
+* Drop the missing values or replace them(future updates)
+### 3. Duplicated values
+* Store duplicated values (for future improvements)
+* Drop duplicated values 
+### 4. Outliers
+* Store outliers (for future improvements)
+* Drop outliers
 
 
