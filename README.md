@@ -23,17 +23,18 @@ Data Collection 2 : Prairie Provinces - MB, SK, AB
 
 Data Collection 3 : West Coast        - BC
 
-The final table is:
-
-Point2_data_Canada_house_ExcludingNorth (Combined all collected data and adding columns "Province" and "Region")
-
-![Image of point2homes](https://github.com/NightmareZYR/Housing-market-in-Canada/blob/main/Canada%20Housing%20Data%20excluding%20North.png)
+Tables are the CSV files begin with **"Point2_data_"** 
 
 # Data cleaning - 
 
 ## Data cleaning 0:
 * Combining all collected data
 * Adding Columns "Province" and "Region"
+
+Point2_data_Canada_house_ExcludingNorth (Combined all collected data and adding columns "Province" and "Region")
+
+![Image of point2homes](https://github.com/NightmareZYR/Housing-market-in-Canada/blob/main/Canada%20Housing%20Data%20excluding%20North.png)
+
 
 
 
