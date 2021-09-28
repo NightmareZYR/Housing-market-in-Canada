@@ -1,0 +1,55 @@
+Beds,Bath,Sqft,Lot_Size,Type,Price,Address,Province,Region
+5.0,3.0,,,Residential,998000,975 rembrandt ,QC,Central Canada
+3.0,2.0,1325.0,,Residential,448000,248 Rue Corot ,QC,Central Canada
+,,,g>11,Residential,99900,Rue Principale ,QC,Central Canada
+5.0,2.0,1250.0,.443,Residential,999900,68 Ch. de Pine Lodge ,QC,Central Canada
+3.0,2.0,19540.0,,Residential,425000,1598-1606 Ch. du Lac-Écho ,QC,Central Canada
+,,,.057,Residential,42000,91 Mtée Chartrand ,QC,Central Canada
+3.0,2.0,,.116,Residential,99900,703 Boul. Ducharme ,QC,Central Canada
+3.0,1.0,104819.0,.791,Residential,199000,1040 Rg Ste-Anne ,QC,Central Canada
+3.0,1.0,,.284,Residential,299000,1678 Ch. du Lac-René ,QC,Central Canada
+4.0,2.0,,.028,Residential,98000,2105 Rue Monseigneur-Labrie ,QC,Central Canada
+4.0,1.0,1600.0,.089,Single,449900,20 Rue St-Exupéry ,QC,Central Canada
+3.0,2.0,,.086,Residential,199000,32 Ch. McGee ,QC,Central Canada
+3.0,2.0,1618.0,,Residential,649000,1700 Av. du Docteur-Penfield #24 ,QC,Central Canada
+3.0,1.0,,.135,Residential,85500,346 3e Rue E. ,QC,Central Canada
+3.0,2.0,,,Residential,350000,2401 Ch. d'Entrelacs ,QC,Central Canada
+2.0,1.0,,.094,Residential,67500,87 Rue du Parc-de-l'Amitié ,QC,Central Canada
+3.0,2.0,285297.0,.249,Residential,1299000,139 Rue Jean-De Fonblanche ,QC,Central Canada
+,1.0,399998.0,.162,Residential,175000,1376 Ch. de Béthanie ,QC,Central Canada
+1.0,1.0,125098.0,.435,Residential,460000,1590 Rue St-Jean-Baptiste ,QC,Central Canada
+1.0,2.0,,.191,Residential,589000,299 Ch. St-Joseph ,QC,Central Canada
+3.0,1.0,,.131,Residential,149000,430 Rue St-Philippe ,QC,Central Canada
+1.0,1.0,,.129,Residential,44500,105 Rue Charland ,QC,Central Canada
+7.0,8.0,,.349,Residential,4788000,465 Ch. de Lac-Tremblant-Nord ,QC,Central Canada
+3.0,2.0,,.199,Farm,1950000,840Z-842Z Ch. St-Pierre ,QC,Central Canada
+2.0,1.0,121309.0,.457,Other,115000,194 Rue Notre-Dame E. ,QC,Central Canada
+2.0,2.0,7704.0,,Residential,178000,6385 Mtée Ryan #303 ,QC,Central Canada
+8.0,5.0,,.141,Residential,1950000,840-842 Ch. St-Pierre ,QC,Central Canada
+5.0,1.0,100804.0,.111,Residential,125000,22 Rue Alexis ,QC,Central Canada
+2.0,1.0,100804.0,.833,Residential,379000,3 Rue Lacroix ,QC,Central Canada
+2.0,1.0,291982.0,.491,Residential,465000,6 Ch. Edith ,QC,Central Canada
+3.0,1.0,,.586,Residential,175000,5 Rue de l'Étourneau ,QC,Central Canada
+3.0,1.0,151201.0,0.11,Residential,214900,252 Av. Murdoch ,QC,Central Canada
+5.0,2.0,,0.61,Residential,1325000,380 Ch. des Îles ,QC,Central Canada
+3.0,2.0,1655.0,,Residential,1325000,100 Rue du Séminaire 119,QC,Central Canada
+2.0,1.0,,,Other,138500,4250 Rue Legault ,QC,Central Canada
+3.0,2.0,349827.0,.187,Residential,199900,537 Rue Champlain ,QC,Central Canada
+3.0,2.0,,.172,Other,599000,445 Rue Maricourt ,QC,Central Canada
+2.0,1.0,149102.0,.139,Residential,69000,1021 4e Avenue ,QC,Central Canada
+3.0,2.0,,0.14,Residential,145000,125 Rue Sabrina ,QC,Central Canada
+4.0,1.0,,.184,Residential,320000,1319 Rue du Cran ,QC,Central Canada
+2.0,1.0,100804.0,,Residential,219000,3A Rue Lacroix ,QC,Central Canada
+3.0,2.0,,.059,Residential,1500000,119 Ch. du Lac-Travers ,QC,Central Canada
+5.0,2.0,,.753,Residential,169500,547 Route de la Providence ,QC,Central Canada
+5.0,3.0,,,Residential,85000,5 Rue St-Pierre ,QC,Central Canada
+3.0,1.0,,.172,Residential,130000,450 Mtée Casino ,QC,Central Canada
+3.0,1.0,,.167,Residential,109000,540 Rue Champlain ,QC,Central Canada
+3.0,1.0,144818.0,.148,Residential,449000,798 Prom. du Lac ,QC,Central Canada
+4.0,2.0,,.126,Residential,89000,102 Rue Privée ,QC,Central Canada
+1.0,1.0,,.148,Residential,199000,3146 Ch. du Lac-Farmer ,QC,Central Canada
+3.0,2.0,266504.0,.553,Residential,585000,1989 Ch. du Lac-Panneton ,QC,Central Canada
+,1.0,,.107,Residential,55000,2261 Ch. du Village ,QC,Central Canada
+5.0,2.0,,.254,Residential,115000,41 Rue des Pins E. ,QC,Central Canada
+3.0,2.0,221209.0,.143,Residential,395000,4191 Av. Larivière ,QC,Central Canada
+2.0,2.0,448005.0,.289,Residential,699000,58 Ch. de la Sablière ,QC,Central Canada
