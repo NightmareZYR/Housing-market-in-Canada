@@ -1,0 +1,1325 @@
+Beds,Bath,Sqft,Lot_Size,Type,Price,Address,Province,Region
+3.0,2.0,1211.0,,Residential,399900,5850 Prospect Road ,NS,Atlantic region
+3.0,1.0,1235.0,,Residential,129900,15 ROGERS Road ,NS,Atlantic region
+5.0,3.0,4100.0,8.36,Residential,889000,7594 221 Highway ,NS,Atlantic region
+3.0,2.0,1704.0,>0.1,Residential,210000,67 Milton Street ,NS,Atlantic region
+3.0,2.0,1881.0,,Residential,274900,949 Sandy Point Road ,NS,Atlantic region
+3.0,1.0,1248.0,,Residential,179900,714 Lower Cove Road ,NS,Atlantic region
+3.0,2.0,2452.0,.232,Residential,529900,19 Bobolink St ,NS,Atlantic region
+3.0,2.0,1608.0,2.54,Residential,299000,1843 Highway 1 Church Point ,NS,Atlantic region
+4.0,2.0,2016.0,,Residential,439900,502 Willow Street ,NS,Atlantic region
+2.0,1.0,1070.0,13.6,Residential,950000,284 Millers Road ,NS,Atlantic region
+4.0,3.0,2350.0,,Residential,500000,561 Portland Hills Drive ,NS,Atlantic region
+3.0,2.0,1920.0,,Residential,219000,3 Park Place ,NS,Atlantic region
+2.0,3.0,1715.0,,Residential,319000,127 Pinky Creek Road ,NS,Atlantic region
+1.0,1.0,1247.0,.321,Residential,235000,160 Henry Hensey Drive ,NS,Atlantic region
+4.0,1.0,1546.0,.193,Residential,209000,8376 Hwy 1 ,NS,Atlantic region
+4.0,1.0,1280.0,.819,Residential,89000,"367 Marc Comeau Road, St Benoni ",NS,Atlantic region
+3.0,3.0,3129.0,1.26,Residential,980000,86 Freddies Lane ,NS,Atlantic region
+4.0,6.0,6790.0,>2.7,Residential,3795000,137 Gannet Lane ,NS,Atlantic region
+1.0,2.0,1148.0,17.5,Residential,585000,3735 West Bay Highway ,NS,Atlantic region
+3.0,2.0,2730.0,,Single,989000,3907 Shore Road ,NS,Atlantic region
+3.0,2.0,905.0,,Single,124900,16 Oak Street ,NS,Atlantic region
+4.0,3.0,2100.0,g>16,Farm,450000,432 Riverdale Road ,NS,Atlantic region
+4.0,3.0,2100.0,,Residential,375000,432 Riverdale Road ,NS,Atlantic region
+3.0,3.0,2953.0,,Residential,995900,50 Josey Road ,NS,Atlantic region
+4.0,2.0,1906.0,,Residential,529000,1143 Camperdown Road ,NS,Atlantic region
+3.0,2.0,1608.0,2.54,Residential,299000,1843 Highway 1 ,NS,Atlantic region
+2.0,2.0,1851.0,,Single,299888,51 Romkey Drive ,NS,Atlantic region
+2.0,2.0,2162.0,,Single,219000,465 PEREAU Road ,NS,Atlantic region
+7.0,7.0,5927.0,,Single,880000,70 Gil Sutherland Road ,NS,Atlantic region
+2.0,1.0,1000.0,,Single,59900,1803 Sonora Road ,NS,Atlantic region
+4.0,2.0,2700.0,,Single,395000,696 Point Aconi Road ,NS,Atlantic region
+4.0,2.0,2782.0,,Single,199900,11693 Highway 6 ,NS,Atlantic region
+4.0,3.0,5043.0,,Single,449000,5032 Highway 3 ,NS,Atlantic region
+4.0,3.0,2100.0,,Single,898000,393 Corkums Island Road ,NS,Atlantic region
+2.0,1.0,1699.0,,Single,130000,586 Ellerhouse ,NS,Atlantic region
+3.0,3.0,3230.0,,Residential,550000,161 Second Avenue ,NS,Atlantic region
+3.0,3.0,2547.0,,Single,434000,217 Highway 9461,NS,Atlantic region
+4.0,1.0,,,Residential,699000,130 Kavanaugh Lane ,NS,Atlantic region
+4.0,2.0,1546.0,,Residential,209000,8376 Highway 1 ,NS,Atlantic region
+4.0,2.0,2356.0,,Single,269300,107 Abercrombie Road ,NS,Atlantic region
+5.0,2.0,1737.0,,Residential,399900,1491 Black Brook Road ,NS,Atlantic region
+3.0,2.0,1420.0,,Single,149000,3623 HIGHWAY 217 ,NS,Atlantic region
+3.0,2.0,1348.0,,Single,409000,349 Clinton Road ,NS,Atlantic region
+3.0,2.0,1456.0,,Single,195000,834 HIGHWAY 335 ,NS,Atlantic region
+3.0,3.0,2136.0,,Single,199900,919 Calabash ,NS,Atlantic region
+5.0,2.0,1372.0,,Single,210000,960-964 Highway 8 ,NS,Atlantic region
+4.0,2.0,2240.0,,Single,395500,288 Old Kettle Road ,NS,Atlantic region
+4.0,2.0,2152.0,,Single,249000,9375 Pepperell Street ,NS,Atlantic region
+2.0,2.0,1133.0,,Single,250000,670 Elliott Road ,NS,Atlantic region
+7.0,6.0,3800.0,,Single,599000,12 Parade Street ,NS,Atlantic region
+4.0,1.0,1280.0,,Residential,110000,367 Marc Comeau Road ,NS,Atlantic region
+3.0,1.0,1026.0,,Single,239000,152 Lighthouse Road ,NS,Atlantic region
+1.0,1.0,689.0,,Single,225000,74 Battist Road ,NS,Atlantic region
+2.0,2.0,1652.0,,Single,249000,7498 Highway 4 ,NS,Atlantic region
+2.0,2.0,1910.0,,Single,174900,94 Duke Street ,NS,Atlantic region
+3.0,1.0,1315.0,,Residential,53000,2643 Main Street ,NS,Atlantic region
+5.0,3.0,,,Residential,299000,422 Highway 316 Loch Katrin ,NS,Atlantic region
+3.0,2.0,1760.0,>7.7,Residential,859900,59 West Old Post Road ,NS,Atlantic region
+3.0,3.0,1907.0,,Single,553000,29 Mount Marina Road ,NS,Atlantic region
+3.0,1.0,2880.0,,Single,395000,1300 Millsville Road ,NS,Atlantic region
+4.0,4.0,2408.0,,Single,450000,111 School Avenue ,NS,Atlantic region
+4.0,3.0,3676.0,3.55,Residential,895000,5019 Granville Road ,NS,Atlantic region
+6.0,3.0,2940.0,,Single,495000,15 LOCUST Avenue ,NS,Atlantic region
+3.0,1.0,1287.0,,Single,49900,811 Marshdale Road ,NS,Atlantic region
+2.0,1.0,1400.0,,Single,139000,10 Queen Street ,NS,Atlantic region
+3.0,1.0,1890.0,,Single,199000,3823 Highway 307 ,NS,Atlantic region
+4.0,1.0,1728.0,,Residential,98500,5194 Highway 3 ,NS,Atlantic region
+5.0,3.0,3186.0,,Single,299000,3086 HWY 334 ,NS,Atlantic region
+3.0,2.0,1929.0,,Single,279900,625 East River Road ,NS,Atlantic region
+3.0,2.0,1160.0,,Single,169000,101 Highway 8490,NS,Atlantic region
+5.0,3.0,4100.0,,Single,889000,221 Highway 7594,NS,Atlantic region
+3.0,1.0,1064.0,,Single,240000,675 Marsh Road ,NS,Atlantic region
+3.0,1.0,790.0,,Single,129900,468 Old Church Road ,NS,Atlantic region
+6.0,5.0,4157.0,,Residential,1200000,96 King Street ,NS,Atlantic region
+3.0,4.0,6100.0,,Single,995000,1621 Main Shore Road ,NS,Atlantic region
+3.0,2.0,1185.0,,Single,330000,12 Villagedale Road ,NS,Atlantic region
+3.0,1.0,1628.0,,Single,189000,977 PARKER MOUNTAIN Road ,NS,Atlantic region
+4.0,3.0,3400.0,,Single,999900,2905 Ostrea Lake Road ,NS,Atlantic region
+3.0,1.0,725.0,,Single,139000,142 Victoria ,NS,Atlantic region
+4.0,3.0,2403.0,,Single,349900,5855 Highway 2 ,NS,Atlantic region
+3.0,1.0,1052.0,,Single,249900,922 Mud Creek Road ,NS,Atlantic region
+4.0,2.0,1658.0,3.48,Residential,169000,251 Highway 217 ,NS,Atlantic region
+3.0,1.0,1000.0,,Residential,269900,179 Gaspereau Avenue ,NS,Atlantic region
+3.0,2.0,1272.0,,Residential,425000,332 Portland Street ,NS,Atlantic region
+1.0,1.0,1776.0,,Single,209800,275 Main Street ,NS,Atlantic region
+7.0,3.0,3700.0,,Single,349000,320 Fort Point Road ,NS,Atlantic region
+4.0,2.0,960.0,,Single,180000,9404 Cabot Trail ,NS,Atlantic region
+3.0,1.0,1053.0,,Single,59000,204 West Avenue ,NS,Atlantic region
+3.0,1.0,1100.0,,Single,115000,1603 Granville Road ,NS,Atlantic region
+2.0,2.0,1296.0,,Single,299900,40 MacMillan Road ,NS,Atlantic region
+4.0,3.0,2700.0,,Single,350000,234 HIGHWAY 1 ,NS,Atlantic region
+4.0,2.0,2720.0,,Residential,449000,5966 Highway 3 ,NS,Atlantic region
+2.0,1.0,792.0,,Single,79900,4 Snow White Drive ,NS,Atlantic region
+3.0,1.0,975.0,,Single,79000,75 Highway 8 ,NS,Atlantic region
+1.0,1.0,1276.0,,Single,83000,88 Fraser Avenue ,NS,Atlantic region
+3.0,3.0,2547.0,,Residential,434000,9461 217 Highway ,NS,Atlantic region
+2.0,1.0,840.0,,Single,187000,20 Shamrock Drive ,NS,Atlantic region
+3.0,2.0,2000.0,,Residential,320000,6656 Highway 3 ,NS,Atlantic region
+5.0,1.0,1718.0,,Single,249900,3330 Prospect Road ,NS,Atlantic region
+3.0,1.0,1121.0,,Single,112000,2105 Highway 330 ,NS,Atlantic region
+2.0,1.0,400.0,,Single,79000,36 & 42 Willie C. Drive ,NS,Atlantic region
+2.0,2.0,952.0,,Single,349900,63 Lobster Cove Lane ,NS,Atlantic region
+1.0,2.0,1000.0,,Residential,339000,491 Anderson Drive ,NS,Atlantic region
+3.0,1.0,823.0,,Single,69000,56 St. George Street ,NS,Atlantic region
+3.0,1.0,1772.0,,Single,189900,17 Morris Street ,NS,Atlantic region
+3.0,3.0,2219.0,,Single,1475000,277 Paddys Head Road ,NS,Atlantic region
+4.0,1.0,2000.0,,Single,199900,343 Island View Drive ,NS,Atlantic region
+3.0,4.0,3800.0,,Residential,800000,755 Cheticamp Island Road ,NS,Atlantic region
+7.0,13.0,14955.0,,Residential,2950000,1358 Shore Drive ,NS,Atlantic region
+3.0,1.0,1540.0,,single,349000,944 Blue Rocks Road ,NS,Atlantic region
+3.0,2.0,1146.0,,Single,218800,2608 Melbourne Road ,NS,Atlantic region
+5.0,1.0,1796.0,,Residential,80000,277 Highway 217 ,NS,Atlantic region
+3.0,1.0,808.0,.335,Residential,249000,1833 Eastern Shore Road ,NS,Atlantic region
+3.0,1.0,2412.0,,Single,349000,62 Smith Road ,NS,Atlantic region
+3.0,2.0,1908.0,2.97,Residential,149000,3501 Hwy 3 ,NS,Atlantic region
+3.0,1.0,1263.0,.247,Residential,82500,139 Payzant Street ,NS,Atlantic region
+,,,ng>3,Residential,32000,Mt Stewart Rd ,PE,Atlantic region
+2.0,2.0,923.0,,Residential,299000,11 Locust St ,PE,Atlantic region
+4.0,2.0,2560.0,1.67,Residential,619000,3182 West River Road ,PE,Atlantic region
+5.0,1.0,,1.33,Residential,444000,430 Lower Montague Rd ,PE,Atlantic region
+3.0,2.0,1248.0,5.35,Residential,389000,3389 Route 17 ,PE,Atlantic region
+2.0,1.0,,,Single,59000,30 Hennebury Road ,PE,Atlantic region
+1.0,,650.0,g>11,Single,225000,424 McCourt Road ,PE,Atlantic region
+4.0,2.0,2008.0,,Single,389000,25 Croker Street ,PE,Atlantic region
+6.0,2.0,3290.0,.341,Single,399900,1057 McInnis Point Road ,PE,Atlantic region
+4.0,2.0,3064.0,0.19,Single,349900,31 Granville Street Street ,PE,Atlantic region
+3.0,3.0,2454.0,,Single,399000,5 Church Street ,PE,Atlantic region
+3.0,2.0,1647.0,,Single,385000,11216 SHORE Road ,PE,Atlantic region
+5.0,2.0,2636.0,ng>1,Single,449900,32 Anderson Road ,PE,Atlantic region
+2.0,1.0,835.0,,Residential,69900,5975 Route 19 ,PE,Atlantic region
+4.0,2.0,1684.0,,Single,529000,1156 CHURCH Road ,PE,Atlantic region
+3.0,1.0,1284.0,,Single,299000,5445 RTE 2 ,PE,Atlantic region
+2.0,1.0,900.0,,Single,329000,55 Garwalt Lane ,PE,Atlantic region
+3.0,2.0,1786.0,,Single,175000,480 Abney Road ,PE,Atlantic region
+3.0,1.0,1155.0,,Single,247900,4131 RTE 17 ,PE,Atlantic region
+4.0,2.0,2320.0,>0.3,Residential,399900,100 Scott Street ,PE,Atlantic region
+4.0,2.0,,10.5,Residential,329000,2084 Valleyfield Rd ,PE,Atlantic region
+5.0,1.0,1515.0,.198,Residential,95000,107 Kerr St ,NB,Atlantic region
+,,,,Residential,135000,Quarry Road ,NB,Atlantic region
+4.0,3.0,3790.0,ng>8,Residential,975000,47 Reeder ,NB,Atlantic region
+,,1080.0,,Residential,229900,"465 Williston Dr, Miramichi, E1V 5X8 ",NB,Atlantic region
+3.0,1.0,1664.0,,Residential,169000,302 Route 735 ,NB,Atlantic region
+4.0,2.0,4400.0,ng>2,Residential,975000,42-46 Burrell Rd. ,NB,Atlantic region
+2.0,1.0,872.0,0.19,Residential,199000,18 Kerrs Lake ,NB,Atlantic region
+,,,,Residential,79901,347 Halcomb Rd ,NB,Atlantic region
+,,,,Residential,159900,"Camp Bettsburg Road, Doaktown ",NB,Atlantic region
+4.0,2.0,,,Residential,89500,151 Union Street ,NB,Atlantic region
+2.0,1.0,700.0,,Single,69500,322 Grub RD ,NB,Atlantic region
+2.0,1.0,542.0,,Single,139900,76 Third AVE ,NB,Atlantic region
+3.0,1.0,1188.0,,Single,69900,236 Robichaud ,NB,Atlantic region
+6.0,2.0,,0.57,Single,199900,31 Avon Road ,NB,Atlantic region
+3.0,1.0,1145.0,,Single,139900,3906 Route 134 ,NB,Atlantic region
+3.0,2.0,,.316,Single,149000,132 School Street ,NB,Atlantic region
+4.0,3.0,2976.0,1.63,Single,299900,743 Rosedale Road ,NB,Atlantic region
+3.0,1.0,,,Single,71000,5120 Highway 108 ,NB,Atlantic region
+3.0,2.0,1482.0,>2.3,Single,53400,3229 Route 315 ,NB,Atlantic region
+1.0,1.0,,,Single,24900,1810 Bettsburg Road ,NB,Atlantic region
+3.0,2.0,,,Single,64900,1802 Route 107 ,NB,Atlantic region
+4.0,3.0,2525.0,,Single,328000,314 Intervale RD ,NB,Atlantic region
+2.0,1.0,686.0,,Single,49900,936 Royal RD ,NB,Atlantic region
+3.0,2.0,,g>45,Single,1495000,110 Cranberry Head Road ,NB,Atlantic region
+6.0,3.0,,ng>4,Single,699900,4355 Route 105 ,NB,Atlantic region
+3.0,1.0,1170.0,,Single,89000,7742 Rue St-Paul ,NB,Atlantic region
+7.0,4.0,1600.0,.417,Single,359000,25 Lyden Drive ,NB,Atlantic region
+3.0,1.0,1800.0,.988,Single,199000,7 Demerchant Road ,NB,Atlantic region
+4.0,1.0,,0.37,Single,79000,3092 Middle River ,NB,Atlantic region
+3.0,1.0,,1.37,Single,115900,23 Alphonse ,NB,Atlantic region
+2.0,2.0,,.318,Single,129900,52 Royal Road ,NB,Atlantic region
+4.0,2.0,1872.0,,Single,249900,118 Steeves Settlement RD ,NB,Atlantic region
+10.0,5.0,5708.0,,Single,100000,389 Principale Street ,NB,Atlantic region
+4.0,2.0,,2.52,Single,184500,231 Holtville Road ,NB,Atlantic region
+6.0,2.0,,.371,Single,109900,216 SUNBURY Drive ,NB,Atlantic region
+3.0,1.0,1119.0,,Single,130000,278 Main ST ,NB,Atlantic region
+3.0,3.0,2363.0,,Single,549900,21 Harvard CRT ,NB,Atlantic region
+3.0,1.0,1590.0,,Single,179000,2295 Acadie ,NB,Atlantic region
+3.0,1.0,3500.0,,Single,200000,61 Rue des Champs ,NB,Atlantic region
+3.0,1.0,,3.13,Single,259000,751 North Napan Road ,NB,Atlantic region
+4.0,3.0,1626.0,>1.4,Single,309000,10 Coady Street ,NB,Atlantic region
+4.0,1.0,1150.0,.806,Single,85000,106 Boul. St-Pierre Est ,NB,Atlantic region
+1.0,1.0,,,Single,55000,- Canton Club Brook Road ,NB,Atlantic region
+,1.0,,,Single,139900,190 Scott Siding Road ,NB,Atlantic region
+4.0,5.0,5000.0,.821,Single,975000,210 Bedell Avenue ,NB,Atlantic region
+3.0,2.0,2172.0,,Single,160000,493 2e Sault ,NB,Atlantic region
+4.0,3.0,,.075,Single,299900,45 Irishtown Road ,NB,Atlantic region
+1.0,1.0,902.0,1.73,Single,125000,16410 Route 105 ,NB,Atlantic region
+4.0,1.0,,,Single,79900,992 Rue Principale ,NB,Atlantic region
+2.0,1.0,,.025,Single,89900,290 Wentworth Street ,NB,Atlantic region
+3.0,1.0,1316.0,,Single,237500,17 Ch de la Cote ,NB,Atlantic region
+3.0,2.0,1702.0,,Single,166000,270 Bourgoin Road ,NB,Atlantic region
+3.0,1.0,1440.0,1.27,Single,320000,246 Bayview Drive ,NB,Atlantic region
+2.0,2.0,1584.0,,Single,189000,608 Enterprise Road ,NB,Atlantic region
+3.0,1.0,,ng>1,Single,180000,131 Vaillancourt Road ,NB,Atlantic region
+1.0,1.0,1056.0,,Single,164900,7256 Desherbiers RD ,NB,Atlantic region
+3.0,2.0,,.103,Single,65000,3195 Route 108 ,NB,Atlantic region
+,,987.0,,Single,49900,49 Goguen ,NB,Atlantic region
+2.0,3.0,1900.0,,Single,299900,69-71 Gordon ST ,NB,Atlantic region
+3.0,2.0,,>1.1,Single,449000,18 Old Orchard Lane ,NB,Atlantic region
+4.0,2.0,1500.0,,Single,129900,111 WHITE HEAD Road ,NB,Atlantic region
+4.0,2.0,1574.0,.023,Single,130000,203 Tobique Road ,NB,Atlantic region
+3.0,1.0,1731.0,,Single,399900,141 Stead LANE ,NB,Atlantic region
+4.0,1.0,,.125,Single,99900,1275 Route 107 ,NB,Atlantic region
+6.0,4.0,3600.0,1.98,Single,189000,922 Canada Road ,NB,Atlantic region
+2.0,1.0,964.0,,Single,349900,1536 Route 114 ,NB,Atlantic region
+3.0,1.0,1152.0,,Single,251910,69 Abbey's LANE ,NB,Atlantic region
+2.0,1.0,872.0,0.19,Single,199000,18 Kerrs Lake Road ,NB,Atlantic region
+3.0,1.0,1024.0,,Single,68900,8 Canvas Back Way ,NB,Atlantic region
+3.0,1.0,1120.0,,Single,384900,98 Coburg ,NB,Atlantic region
+3.0,2.0,2625.0,,Single,499900,150 Blanchard Trail ,NB,Atlantic region
+4.0,2.0,1981.0,ng>1,Single,199000,186 Main New Denmark Road ,NB,Atlantic region
+8.0,4.0,3200.0,,Single,155000,21 Pleasant ST ,NB,Atlantic region
+4.0,4.0,,>6.8,Single,349000,560 Route 3980,NB,Atlantic region
+4.0,2.0,2241.0,.401,Single,279000,312 Allain Street ,NB,Atlantic region
+5.0,2.0,,,Single,269900,3541 Westfield Road ,NB,Atlantic region
+2.0,2.0,918.0,,Single,474900,29 Islandview BLVD ,NB,Atlantic region
+4.0,2.0,,>0.2,Single,169000,266 St Pierre Est Boulevard ,NB,Atlantic region
+2.0,1.0,,.385,Single,39000,21 Robertson Brook Road ,NB,Atlantic region
+3.0,1.0,1168.0,.618,Single,89900,382 Route 636 ,NB,Atlantic region
+3.0,3.0,2653.0,,Single,449000,20 Airfield LANE ,NB,Atlantic region
+1.0,1.0,1150.0,,Single,299000,800 Gorge RD ,NB,Atlantic region
+3.0,2.0,,.423,Single,130000,420 BEULAH Road ,NB,Atlantic region
+3.0,1.0,621.0,,Single,115900,23 Alphonse ,NB,Atlantic region
+4.0,2.0,,.204,Single,149900,8526 Route 101 ,NB,Atlantic region
+2.0,1.0,,,Single,59000,46 Dwayne Avenue ,NB,Atlantic region
+3.0,3.0,,1.83,Single,675000,29 Lakeview Lane ,NB,Atlantic region
+6.0,3.0,2476.0,,Single,199900,52 Rue du Portage ,NB,Atlantic region
+2.0,1.0,,,Single,229900,465 Williston Drive ,NB,Atlantic region
+8.0,4.0,3171.0,,Single,199900,555 Route 530 ,NB,Atlantic region
+3.0,2.0,,,Single,49900,604 Charleston Road ,NB,Atlantic region
+3.0,1.0,,0.99,Single,64900,1443 Porter Cove Road ,NB,Atlantic region
+,,,,Single,2900000,85-95 Prospect Street ,NB,Atlantic region
+2.0,1.0,,.449,Single,74900,3631 Rte 540 ,NB,Atlantic region
+4.0,2.0,,.652,Single,108900,1764 Route 124 ,NB,Atlantic region
+3.0,2.0,,.356,Single,198900,8 Centennial Drive ,NB,Atlantic region
+4.0,2.0,,,Single,199900,2048 Route 315 ,NB,Atlantic region
+3.0,2.0,1412.0,.102,Single,130000,13586 Route 105 Route ,NB,Atlantic region
+4.0,3.0,2000.0,,Single,249000,4 Hill Street ,NB,Atlantic region
+2.0,1.0,992.0,,Single,124900,2 Southpine AVE ,NB,Atlantic region
+2.0,1.0,288.0,.356,Single,79900,60 Marine Drive ,NB,Atlantic region
+3.0,1.0,,,Single,60000,160 Upper Black River Road ,NB,Atlantic region
+3.0,1.0,925.0,,Single,39500,12 Ch Tilley Road ,NB,Atlantic region
+2.0,2.0,,>6.9,Single,185000,208 des Acadiens Boulevard ,NB,Atlantic region
+3.0,1.0,,.004,Single,84900,17 Crowhill Drive ,NB,Atlantic region
+2.0,1.0,,ng>1,Single,55000,78 Barter Settlement Road ,NB,Atlantic region
+11.0,5.0,4400.0,,Single,300000,53-55 Weldon ,NB,Atlantic region
+3.0,2.0,2400.0,g>64,Single,999900,799 Back Greenfield Road ,NB,Atlantic region
+3.0,2.0,906.0,,Single,75000,1 Baker Road ,NB,Atlantic region
+1.0,1.0,240.0,.988,Single,109000,95 Taint Lane ,NB,Atlantic region
+3.0,1.0,1176.0,,Single,75000,958 Route 495 ,NB,Atlantic region
+1.0,1.0,,,Single,159900,Camp Bettsburg Road ,NB,Atlantic region
+2.0,2.0,1989.0,0.18,Single,215000,59 Guerrette Street ,NB,Atlantic region
+2.0,1.0,,,Single,15000,68 Lester Road ,NB,Atlantic region
+6.0,2.0,,,Single,144000,111 Main Street ,NB,Atlantic region
+2.0,,1055.0,,Single,86900,3 Murray ,NB,Atlantic region
+8.0,8.0,,,Single,997000,146 Waterloo Row ,NB,Atlantic region
+2.0,1.0,,,Single,55000,19 Rioux ,NB,Atlantic region
+3.0,2.0,,.201,Single,349000,210 Wright Street ,NB,Atlantic region
+1.0,,,1.71,Single,39900,Lot 93-2 Pokiok Settlement Road ,NB,Atlantic region
+2.0,1.0,,3.22,Single,79000,848 Boul St Joseph ,NB,Atlantic region
+3.0,1.0,1125.0,,Single,129900,59 Schooner Cove Road ,NB,Atlantic region
+2.0,1.0,1056.0,,Single,68000,217 Main Road ,NL,Atlantic region
+4.0,5.0,2698.0,,Residential,790000,233-235 Conception Bay Highway ,NL,Atlantic region
+2.0,1.0,1184.0,,Residential,149900,8A Hill Avenue ,NL,Atlantic region
+3.0,3.0,3036.0,,Residential,259900,7 Martin's Pond Road ,NL,Atlantic region
+2.0,1.0,550.0,,Residential,62000,59 Back Rd ,NL,Atlantic region
+,,,,Residential,149900,8-12 Cross Road ,NL,Atlantic region
+3.0,2.0,2472.0,,Residential,229900,8 Hill Avenue ,NL,Atlantic region
+3.0,1.0,1154.0,>2.4,Residential,79900,5 Crockers Ave ,NL,Atlantic region
+4.0,1.0,1040.0,,Residential,124999,184A Water Street ,NL,Atlantic region
+3.0,1.0,748.0,,Other,79900,0 Paradise Valley Road ,NL,Atlantic region
+2.0,1.0,900.0,,Residential,75000,10 Druken Crescent ,NL,Atlantic region
+3.0,1.0,1136.0,ng>6,Residential,99900,Western Bay Line Rd ,NL,Atlantic region
+2.0,1.0,2016.0,,Residential,179900,111 Riverdale Crescent ,NL,Atlantic region
+4.0,2.0,2464.0,,Residential,189900,29 Tom Pauls Hill ,NL,Atlantic region
+2.0,1.0,1200.0,,Residential,59900,12 Old Brigus Road ,NL,Atlantic region
+2.0,2.0,1185.0,,Residential,259900,23 Jack Pine Place ,NL,Atlantic region
+,1.0,2850.0,,Residential,149900,8-12 Cross Road ,NL,Atlantic region
+2.0,1.0,816.0,,Residential,54900,474 Main Road ,NL,Atlantic region
+3.0,2.0,1071.0,,Residential,49500,11 Citadel Road ,NL,Atlantic region
+3.0,1.0,1600.0,,Residential,269900,8 WOODPATH Road ,NL,Atlantic region
+4.0,1.0,1330.0,.086,Residential,59900,3 Bulter's Lane ,NL,Atlantic region
+2.0,1.0,500.0,,Residential,70000,B168 Main Road ,NL,Atlantic region
+2.0,1.0,950.0,,Single,69900,16 Ship Cove Crescent ,NL,Atlantic region
+3.0,1.0,1270.0,,Single,94500,25A Suez Street ,NL,Atlantic region
+4.0,3.0,5300.0,,Single,580475,14 Dock Point ,NL,Atlantic region
+5.0,2.0,2048.0,,Single,170000,14 Blackmore Road Unit A,NL,Atlantic region
+2.0,1.0,600.0,,Single,79900,197 Merrymeeting Road ,NL,Atlantic region
+3.0,1.0,1179.0,,Single,119900,46 Franklyn Avenue ,NL,Atlantic region
+2.0,1.0,800.0,,Single,69900,58 Main Street ,NL,Atlantic region
+3.0,1.0,1232.0,,Single,79900,35 - 43 Park Avenue ,NL,Atlantic region
+3.0,1.0,899.0,,Single,29900,13 Rink Road ,NL,Atlantic region
+2.0,1.0,572.0,,Single,39900,0 Trinity South Highway ,NL,Atlantic region
+4.0,1.0,1656.0,,Single,79000,8 MAYNE Lane ,NL,Atlantic region
+2.0,2.0,2106.0,,Single,89000,127 J.W. Pickersgill Boulevard ,NL,Atlantic region
+4.0,2.0,2410.0,,Single,195000,27 Lowerview Road ,NL,Atlantic region
+3.0,1.0,900.0,,Single,53000,52 Gray Avenue ,NL,Atlantic region
+4.0,1.0,2226.0,,Single,87500,214-220 Blow-Me-Down Drive ,NL,Atlantic region
+4.0,1.0,1672.0,,Single,210000,65 Jordan Place ,NL,Atlantic region
+2.0,1.0,800.0,,Single,40000,48 Fort Louis Road ,NL,Atlantic region
+3.0,2.0,1134.0,,Single,54900,34 Blackburn Road ,NL,Atlantic region
+5.0,1.0,1444.0,0.93,Single,80000,1 Moores Road ,NL,Atlantic region
+6.0,2.0,1614.0,,Single,58000,9 Hartigan Street ,NL,Atlantic region
+3.0,2.0,2640.0,,Single,150000,3 Woods Street ,NL,Atlantic region
+3.0,1.0,780.0,,Single,179000,56A Boom Siding Road ,NL,Atlantic region
+4.0,1.0,1170.0,,Single,229900,105 Military Road ,NL,Atlantic region
+2.0,1.0,1136.0,,Single,139000,1 Chomedy Drive ,NL,Atlantic region
+4.0,2.0,3310.0,,Single,189900,5 Riverview Avenue ,NL,Atlantic region
+4.0,2.0,3047.0,,Single,499000,15 Stoneyhouse Street ,NL,Atlantic region
+3.0,1.0,1090.0,,Single,150000,48 Cold Brook Road ,NL,Atlantic region
+3.0,2.0,1800.0,,Single,629000,Site 7 RR1 Main Street ,NL,Atlantic region
+2.0,2.0,1437.0,,Single,69900,28 Phillips Lane ,NL,Atlantic region
+3.0,2.0,1426.0,,Single,199900,22 Museum Road ,NL,Atlantic region
+3.0,1.0,904.0,,Single,45000,26 Malcolm Boulevard ,NL,Atlantic region
+3.0,1.0,1150.0,,Single,97500,18 Jordan Place ,NL,Atlantic region
+3.0,2.0,1276.0,,Single,169900,31B Main Street ,NL,Atlantic region
+4.0,2.0,1762.0,,Single,79900,39 Fault Drive ,NL,Atlantic region
+3.0,1.0,1500.0,,Single,89000,180 Main Street S ,NL,Atlantic region
+6.0,2.0,1780.0,,Single,150000,41 Harris Drive ,NL,Atlantic region
+3.0,1.0,2152.0,,Single,69999,0 Main Street ,NL,Atlantic region
+3.0,1.0,1136.0,,Single,99900,0 Western Bay Line Road ,NL,Atlantic region
+5.0,3.0,2320.0,,Single,80000,10 Churchill Avenue ,NL,Atlantic region
+3.0,1.0,1040.0,,Single,109900,182 MAIN Street ,NL,Atlantic region
+3.0,1.0,1152.0,,Single,95000,5 Harry's Lane ,NL,Atlantic region
+4.0,2.0,2306.0,,Single,110000,29 Boncloddy Street ,NL,Atlantic region
+3.0,1.0,1107.0,,Single,149000,317 West Side Road ,NL,Atlantic region
+5.0,2.0,2715.0,,Single,199900,45 MAIN Street ,NL,Atlantic region
+5.0,4.0,3712.0,,Single,599000,80 CLEARWATER Drive ,NL,Atlantic region
+3.0,2.0,1236.0,,Single,55000,30 College Street ,NL,Atlantic region
+3.0,2.0,1728.0,,Single,369000,299-305 Conception Bay Highway ,NL,Atlantic region
+2.0,2.0,1456.0,,Single,169000,218 O'Connell Drive ,NL,Atlantic region
+3.0,1.0,1130.0,,Single,129000,3 Harbour Drive ,NL,Atlantic region
+3.0,1.0,1000.0,,Residential,99900,34 Salt Pond Drive ,NL,Atlantic region
+4.0,1.0,896.0,,Single,95000,52 New Settlement Hill ,NL,Atlantic region
+5.0,2.0,1672.0,,Single,99500,8-10 Lakeshore Road ,NL,Atlantic region
+3.0,2.0,2830.0,,Single,169000,16 Gilbert Avenue ,NL,Atlantic region
+5.0,2.0,1800.0,,Single,124900,563-565 Main Road ,NL,Atlantic region
+2.0,1.0,1125.0,,Single,69000,284 BAYSIDE Drive ,NL,Atlantic region
+3.0,3.0,2033.0,,Single,118500,5-9 Point Bully Place ,NL,Atlantic region
+3.0,1.0,945.0,,Single,69900,0 Lance Cove Road ,NL,Atlantic region
+3.0,2.0,1360.0,,Single,139000,14 Water Street ,NL,Atlantic region
+4.0,2.0,3000.0,,Single,169900,39 Citizens Drive ,NL,Atlantic region
+2.0,2.0,950.0,,Single,149000,65 Bowater Drive ,NL,Atlantic region
+3.0,2.0,1200.0,,Single,209900,102 Quay Road ,NL,Atlantic region
+,,1220.0,,Single,35000,23 Main Road ,NL,Atlantic region
+3.0,1.0,1186.0,,Single,99000,14 George Street ,NL,Atlantic region
+1.0,1.0,1152.0,,Single,144900,140-144 MIDDLE THREE ISLAND Pond ,NL,Atlantic region
+3.0,1.0,1600.0,,Single,119900,0 Garland Hill Road ,NL,Atlantic region
+3.0,4.0,1300.0,,Single,90000,14 BIRCH Street ,NL,Atlantic region
+3.0,3.0,2760.0,,Single,140000,27 PREMIER Avenue ,NL,Atlantic region
+5.0,3.0,2600.0,,Single,209900,861 Topsail Road ,NL,Atlantic region
+3.0,2.0,1500.0,,Single,139900,82 Carters Hill ,NL,Atlantic region
+2.0,1.0,1840.0,,Single,141000,14 Overback Road ,NL,Atlantic region
+3.0,3.0,4538.0,,Single,1490000,49 Barrows Road ,NL,Atlantic region
+3.0,2.0,1500.0,,Single,150000,7 Post Office Road ,NL,Atlantic region
+4.0,2.0,2290.0,,Single,119500,67 High Street ,NL,Atlantic region
+6.0,3.0,2824.0,,Single,275000,7 Bennett Terrace ,NL,Atlantic region
+2.0,2.0,1854.0,,Single,329000,13 Middle Bight Road ,NL,Atlantic region
+4.0,2.0,1440.0,,Single,85000,59-61 Bayview Drive ,NL,Atlantic region
+2.0,1.0,840.0,,Single,74900,9 Gray Avenue ,NL,Atlantic region
+4.0,5.0,5081.0,,Single,989900,13 Ivys Way ,NL,Atlantic region
+4.0,5.0,3256.0,,Single,525000,170 Water Street ,NL,Atlantic region
+3.0,2.0,2704.0,,Residential,99000,21 Park Drive ,NL,Atlantic region
+3.0,1.0,798.0,,Residential,99900,55 Southern Shore Highway ,NL,Atlantic region
+3.0,1.0,2200.0,,Residential,74900,28 Spoon Cove Road ,NL,Atlantic region
+2.0,1.0,990.0,,Residential,69900,731 Main St. ,NL,Atlantic region
+5.0,3.0,,,Residential,998000,975 rembrandt ,QC,Central Canada
+3.0,2.0,1325.0,,Residential,448000,248 Rue Corot ,QC,Central Canada
+,,,g>11,Residential,99900,Rue Principale ,QC,Central Canada
+5.0,2.0,1250.0,.443,Residential,999900,68 Ch. de Pine Lodge ,QC,Central Canada
+3.0,2.0,19540.0,,Residential,425000,1598-1606 Ch. du Lac-Écho ,QC,Central Canada
+,,,.057,Residential,42000,91 Mtée Chartrand ,QC,Central Canada
+3.0,2.0,,.116,Residential,99900,703 Boul. Ducharme ,QC,Central Canada
+3.0,1.0,104819.0,.791,Residential,199000,1040 Rg Ste-Anne ,QC,Central Canada
+3.0,1.0,,.284,Residential,299000,1678 Ch. du Lac-René ,QC,Central Canada
+4.0,2.0,,.028,Residential,98000,2105 Rue Monseigneur-Labrie ,QC,Central Canada
+4.0,1.0,1600.0,.089,Single,449900,20 Rue St-Exupéry ,QC,Central Canada
+3.0,2.0,,.086,Residential,199000,32 Ch. McGee ,QC,Central Canada
+3.0,2.0,1618.0,,Residential,649000,1700 Av. du Docteur-Penfield #24 ,QC,Central Canada
+3.0,1.0,,.135,Residential,85500,346 3e Rue E. ,QC,Central Canada
+3.0,2.0,,,Residential,350000,2401 Ch. d'Entrelacs ,QC,Central Canada
+2.0,1.0,,.094,Residential,67500,87 Rue du Parc-de-l'Amitié ,QC,Central Canada
+3.0,2.0,285297.0,.249,Residential,1299000,139 Rue Jean-De Fonblanche ,QC,Central Canada
+,1.0,399998.0,.162,Residential,175000,1376 Ch. de Béthanie ,QC,Central Canada
+1.0,1.0,125098.0,.435,Residential,460000,1590 Rue St-Jean-Baptiste ,QC,Central Canada
+1.0,2.0,,.191,Residential,589000,299 Ch. St-Joseph ,QC,Central Canada
+3.0,1.0,,.131,Residential,149000,430 Rue St-Philippe ,QC,Central Canada
+1.0,1.0,,.129,Residential,44500,105 Rue Charland ,QC,Central Canada
+7.0,8.0,,.349,Residential,4788000,465 Ch. de Lac-Tremblant-Nord ,QC,Central Canada
+3.0,2.0,,.199,Farm,1950000,840Z-842Z Ch. St-Pierre ,QC,Central Canada
+2.0,1.0,121309.0,.457,Other,115000,194 Rue Notre-Dame E. ,QC,Central Canada
+2.0,2.0,7704.0,,Residential,178000,6385 Mtée Ryan #303 ,QC,Central Canada
+8.0,5.0,,.141,Residential,1950000,840-842 Ch. St-Pierre ,QC,Central Canada
+5.0,1.0,100804.0,.111,Residential,125000,22 Rue Alexis ,QC,Central Canada
+2.0,1.0,100804.0,.833,Residential,379000,3 Rue Lacroix ,QC,Central Canada
+2.0,1.0,291982.0,.491,Residential,465000,6 Ch. Edith ,QC,Central Canada
+3.0,1.0,,.586,Residential,175000,5 Rue de l'Étourneau ,QC,Central Canada
+3.0,1.0,151201.0,0.11,Residential,214900,252 Av. Murdoch ,QC,Central Canada
+5.0,2.0,,0.61,Residential,1325000,380 Ch. des Îles ,QC,Central Canada
+3.0,2.0,1655.0,,Residential,1325000,100 Rue du Séminaire 119,QC,Central Canada
+2.0,1.0,,,Other,138500,4250 Rue Legault ,QC,Central Canada
+3.0,2.0,349827.0,.187,Residential,199900,537 Rue Champlain ,QC,Central Canada
+3.0,2.0,,.172,Other,599000,445 Rue Maricourt ,QC,Central Canada
+2.0,1.0,149102.0,.139,Residential,69000,1021 4e Avenue ,QC,Central Canada
+3.0,2.0,,0.14,Residential,145000,125 Rue Sabrina ,QC,Central Canada
+4.0,1.0,,.184,Residential,320000,1319 Rue du Cran ,QC,Central Canada
+2.0,1.0,100804.0,,Residential,219000,3A Rue Lacroix ,QC,Central Canada
+3.0,2.0,,.059,Residential,1500000,119 Ch. du Lac-Travers ,QC,Central Canada
+5.0,2.0,,.753,Residential,169500,547 Route de la Providence ,QC,Central Canada
+5.0,3.0,,,Residential,85000,5 Rue St-Pierre ,QC,Central Canada
+3.0,1.0,,.172,Residential,130000,450 Mtée Casino ,QC,Central Canada
+3.0,1.0,,.167,Residential,109000,540 Rue Champlain ,QC,Central Canada
+3.0,1.0,144818.0,.148,Residential,449000,798 Prom. du Lac ,QC,Central Canada
+4.0,2.0,,.126,Residential,89000,102 Rue Privée ,QC,Central Canada
+1.0,1.0,,.148,Residential,199000,3146 Ch. du Lac-Farmer ,QC,Central Canada
+3.0,2.0,266504.0,.553,Residential,585000,1989 Ch. du Lac-Panneton ,QC,Central Canada
+,1.0,,.107,Residential,55000,2261 Ch. du Village ,QC,Central Canada
+5.0,2.0,,.254,Residential,115000,41 Rue des Pins E. ,QC,Central Canada
+3.0,2.0,221209.0,.143,Residential,395000,4191 Av. Larivière ,QC,Central Canada
+2.0,2.0,448005.0,.289,Residential,699000,58 Ch. de la Sablière ,QC,Central Canada
+4.0,4.0,,,Residential,999999,Colin Rd & Harmony Rd ,ON,Central Canada
+,,,,Residential,517990,FourMe Condos ,ON,Central Canada
+4.0,4.0,,,Residential,1075000,1075 Interlake Dr Oshawa Ontario L1K2M6 ,ON,Central Canada
+2.0,1.0,,g>83,Residential,2699000,12373 Hwy 7 ,ON,Central Canada
+31.0,,1931.0,0.46,Residential,725000,8779 CONCESSION 11 Road ,ON,Central Canada
+3.0,3.0,,,Residential,825900,"Carnwith Dr. & Baldwin St, Whitby ",ON,Central Canada
+2.0,1.0,1255.0,,Residential,494000,166 Stanton Street ,ON,Central Canada
+4.0,2.0,1356.0,,Residential,669000,55 Wellington Street N ,ON,Central Canada
+3.0,3.0,2550.0,,Residential,998888,2927 Caribou Trail ,ON,Central Canada
+4.0,2.0,2450.0,0.58,Residential,549000,417 Cordingley Cres. ,ON,Central Canada
+4.0,4.0,,,Residential,699000,202 Andrew St ,ON,Central Canada
+4.0,5.0,,,Residential,1000000,41 Lavender Rd ,ON,Central Canada
+3.0,1.0,,,Residential,204900,18246 Erie Shore ,ON,Central Canada
+5.0,2.0,,,Residential,439900,107 Noik Drive ,ON,Central Canada
+,,,,Residential,1110000,No address available ,ON,Central Canada
+,,,,Residential,500000,3576 Errington Ave - Chelmsford ,ON,Central Canada
+4.0,4.0,,,Residential,899000,1 Mull Cres ,ON,Central Canada
+,,,,Residential,1069990,No address available ,ON,Central Canada
+3.0,4.0,,,Residential,649900,5 Ambereen Pl ,ON,Central Canada
+3.0,1.0,1040.0,,Residential,153900,201 Birch Place ,ON,Central Canada
+5.0,3.0,,,Residential,1329000,215 Glenlake Avenue ,ON,Central Canada
+4.0,3.0,,,Residential,799900,37 Settler's Crt ,ON,Central Canada
+,,,,Residential,224777,69/71 Polish Ave ,ON,Central Canada
+4.0,5.0,3400.0,>109,Residential,2350000,5907 Second Line Road ,ON,Central Canada
+2.0,2.0,860.0,,Residential,489000,1101 Horseshoe Valley Rd W Edge Horseshoe Condos Resort ,ON,Central Canada
+4.0,3.0,,,Residential,899999,2523 Kentucky Derby Way ,ON,Central Canada
+,,,,Residential,949000,No address available ,ON,Central Canada
+3.0,1.0,1185.0,,Residential,1300000,117 Tremaine Road ,ON,Central Canada
+,,,,Residential,1069990,No address available ,ON,Central Canada
+,,,,Residential,549000,210 ARMON DARIA LA ,ON,Central Canada
+4.0,1.0,,0.67,Residential,899000,6612 Renaud ,ON,Central Canada
+3.0,2.0,,,Residential,599900,170 WILDWOOD Avenue ,ON,Central Canada
+3.0,2.0,,,Residential,1375000,10 Second St ,ON,Central Canada
+3.0,3.0,1778.0,>5.3,Residential,1295000,1990 Skead Road ,ON,Central Canada
+2.0,1.0,,,Residential,1095000,963710  Rd 96 ,ON,Central Canada
+3.0,2.0,,,Residential,988000,71 Manderley Dr ,ON,Central Canada
+3.0,2.0,1637.0,>0.5,Residential,649900,131 Albert Street ,ON,Central Canada
+,,,0.34,Residential,199900,LT 3 Fairlawn Grove ,ON,Central Canada
+,,,,Residential,800000,No address available ,ON,Central Canada
+4.0,3.0,1879.0,>110,Residential,799900,277 Bennett ,ON,Central Canada
+3.0,3.0,,,Residential,1199000,61 Ashbourne Dr ,ON,Central Canada
+2.0,1.0,,,Residential,39000,514 Pine Street ,ON,Central Canada
+7.0,2.0,2454.0,,Residential,849500,1463 Tiny Beaches Road North ,ON,Central Canada
+3.0,3.0,,,Residential,849000,Borrows St ,ON,Central Canada
+3.0,4.0,,,Residential,645000,18 Mcbride Ave ,ON,Central Canada
+6.0,5.0,,,Residential,2049333,9 Upper Ridge Cres ,ON,Central Canada
+6.0,5.0,3621.0,,Residential,1999000,7171 2 Concession Road ,ON,Central Canada
+3.0,3.0,,,Residential,699999,123 Dewell Cres ,ON,Central Canada
+5.0,3.0,3000.0,>4.9,Residential,2995000,10 Sandy Cove ,ON,Central Canada
+2.0,1.0,,.146,Single,349900,397 SPRUCE Street ,ON,Central Canada
+2.0,1.0,,,Single,69900,7489 SIDEROAD 5 E Unit11 TAMARAK,ON,Central Canada
+3.0,2.0,,,Single,675000,3184 MOSLEY  STREET ST ,ON,Central Canada
+2.0,1.0,,.169,Single,2200000,2915-2917 PRINCESS Street ,ON,Central Canada
+3.0,1.0,,,Single,259900,1187 LINCOLN ,ON,Central Canada
+2.0,1.0,,,Single,399900,126 DAVID STREET ,ON,Central Canada
+5.0,3.0,,,Single,1295000,1990 Skead Road ,ON,Central Canada
+4.0,3.0,,1.45,Single,1500000,34 CARD Road ,ON,Central Canada
+5.0,2.0,,,Residential,999900,11611 Beach  Rd W ,ON,Central Canada
+2.0,1.0,577.0,,Residential,450000,34 BEACHAVEN Drive ,ON,Central Canada
+4.0,3.0,,,Single,6000000,2445 BAYVIEW AVE ,ON,Central Canada
+5.0,4.0,,,Single,1599000,2119 LUMBERMAN LANE ,ON,Central Canada
+,,,,Residential,1588000,2 West Street ,ON,Central Canada
+4.0,4.0,,,Single,1199900,41 GREEN ARBOUR Way ,ON,Central Canada
+4.0,3.0,,,Single,149900,84 Strachan AVE ,ON,Central Canada
+2.0,1.0,,,Single,144900,1802 COUNTY RD. 121 RD N ,ON,Central Canada
+2.0,1.0,,,Single,239900,935 Somers Street ,ON,Central Canada
+3.0,1.0,,,Single,674900,1276 DEER ISLAND (980 IS) ACRE S ,ON,Central Canada
+4.0,2.0,,,Residential,749900,2547 Lepp Ave ,ON,Central Canada
+3.0,2.0,1430.0,,Residential,629900,1 MOHAWK Line ,ON,Central Canada
+5.0,3.0,,,Residential,699900,317 Boswell Ave ,ON,Central Canada
+4.0,4.0,,,Single,1199900,41 GREEN ARBOUR WAY ,ON,Central Canada
+3.0,3.0,,,Single,999000,291 BOON AVE ,ON,Central Canada
+3.0,2.0,,,Single,350000,3233 DERRY  RD E 11,ON,Central Canada
+,,,>9.6,Single,299000,Pine Shores RD ,ON,Central Canada
+4.0,2.0,,,Single,999999,82 STERLING CREEK Road ,ON,Central Canada
+4.0,3.0,,,Single,1250000,881 TEXAS ROAD ,ON,Central Canada
+4.0,3.0,,,Single,359900,23 FRONTENAC CRESCENT ,ON,Central Canada
+4.0,1.0,1200.0,,Single,259900,54 MILL STREET West ,ON,Central Canada
+5.0,2.0,,1.84,Single,1499900,1559 HWY 37 Highway ,ON,Central Canada
+5.0,2.0,,,Single,760000,290 RAGLAN Street ,ON,Central Canada
+3.0,3.0,,,Single,899900,615 ALBION FALLS DRIVE ,ON,Central Canada
+4.0,3.0,,,Single,699900,1096 COMMISSIONERS Road W ,ON,Central Canada
+5.0,4.0,,,Single,1149000,22 ROYAL TERRACE CRES ,ON,Central Canada
+4.0,3.0,,,Single,699900,18332 ERIEAU ROAD ,ON,Central Canada
+2.0,1.0,,,Single,99900,28 LAVINDALE ,ON,Central Canada
+9.0,7.0,,,Single,1690000,555 MAIN Street W ,ON,Central Canada
+2.0,1.0,,.178,Single,349000,50 RIVER BEND Drive ,ON,Central Canada
+2.0,1.0,,,Single,144900,1802 COUNTY RD. 121 Road ,ON,Central Canada
+4.0,3.0,,,Single,349900,878 LAUZON ,ON,Central Canada
+4.0,4.0,,0.66,Single,1350000,397 HARDWOOD RIDGE ROAD ,ON,Central Canada
+3.0,1.0,,,Single,499900,44 PATRICIA Street ,ON,Central Canada
+5.0,4.0,,,Single,1199900,3696 BALA DR ,ON,Central Canada
+,1.0,,1.52,Single,89000,839 RED PINE LANE ,ON,Central Canada
+5.0,4.0,,,Single,599888,1676 SOUTHDALE ,ON,Central Canada
+4.0,2.0,,>3.5,Single,599000,156 SAND BAY Road ,ON,Central Canada
+3.0,2.0,,3.01,Single,644900,LOT 43 WILLIAM CAMPBELL ROAD ,ON,Central Canada
+3.0,2.0,,>124,Single,1159000,849 FAIRFAX ROAD ,ON,Central Canada
+4.0,2.0,,,Single,219000,1113 Walsh Street East ,ON,Central Canada
+6.0,4.0,,,Single,1199999,1894 CENTURY ROAD W ,ON,Central Canada
+3.0,2.0,,>155,Single,699900,243247 Margueratt RD ,ON,Central Canada
+3.0,2.0,,,Single,2495000,2389 STANILAND PARK Road ,ON,Central Canada
+3.0,1.0,,,Single,589900,1083 BUCKEYE RD N ,ON,Central Canada
+5.0,3.0,,,Single,1250000,2 GREY RD 496758,ON,Central Canada
+4.0,3.0,,,Single,1599999,112 RIDGECREST Lane ,ON,Central Canada
+2.0,2.0,,,Single,589900,852 RIVER ROAD N ,ON,Central Canada
+5.0,3.0,,,Single,2299000,1019 LITTLE CEDAR Avenue ,ON,Central Canada
+2.0,1.0,660.0,,Residential,139900,1070 Lakeshore Road ,ON,Central Canada
+4.0,2.0,,,Single,105000,1703 Crawford AVE ,ON,Central Canada
+7.0,4.0,,,Single,4480000,262 ELMGROVE DRIVE ,ON,Central Canada
+2.0,2.0,,,Single,1750000,778 8TH LINE RD S ,ON,Central Canada
+4.0,5.0,,>109,Agriculture,2350000,5907 SECOND LINE ROAD ,ON,Central Canada
+3.0,3.0,,,Single,699800,1005 PRIAULX RD ,ON,Central Canada
+2.0,1.0,,,Single,550000,64 ROSSELL TRAIL ,ON,Central Canada
+5.0,2.0,,,Single,449000,517 PARTINGTON ,ON,Central Canada
+5.0,3.0,,,Single,2950000,477 BIG BAY POINT Road ,ON,Central Canada
+5.0,5.0,,,Single,1999000,45 HAMPSHIRE HTS ,ON,Central Canada
+3.0,3.0,,1.53,Single,2499000,169 BLIND BAY Road ,ON,Central Canada
+1.0,1.0,1920.0,,Residential,1100000,125 Port Maitland Road ,ON,Central Canada
+3.0,2.0,,>0.5,Single,359000,55 PARK Street ,ON,Central Canada
+1.0,1.0,,,Single,145000,1911 HWY 101 HWY E ,ON,Central Canada
+4.0,3.0,,9.75,Single,3390000,2659 RAMSAY CONCESSION 7B ROAD ,ON,Central Canada
+4.0,2.0,,,Single,550000,49075 DEXTER Line ,ON,Central Canada
+4.0,2.0,,.805,Single,799000,13740 LOYALIST Parkway ,ON,Central Canada
+5.0,3.0,,,Residential,1249900,3711 Brunel Rd ,ON,Central Canada
+5.0,4.0,,1.22,Single,599999,2273 JOHNSTON ROAD ,ON,Central Canada
+4.0,1.0,,,Single,249000,1274 SHETLAND ROAD ,ON,Central Canada
+3.0,2.0,,,Single,1350000,206 TOBACCO RD ,ON,Central Canada
+4.0,3.0,,,Single,1600000,1648 OLD HWY 2 ,ON,Central Canada
+3.0,3.0,,,Residential,699800,1005 Priaulx Rd ,ON,Central Canada
+5.0,4.0,,,Single,249900,3269 YORKS CORNERS ROAD ,ON,Central Canada
+4.0,2.0,,8.38,Single,649000,3225 STARDALE ROAD W ,ON,Central Canada
+3.0,1.0,,,Single,699000,642 SOMERSET STREET W ,ON,Central Canada
+2.0,1.0,980.0,,Residential,299000,7324 RAINHAM Road ,ON,Central Canada
+4.0,3.0,,,Single,1600000,1648 OLD HWY 2 ,ON,Central Canada
+2.0,,,,Single,990000,N/A RABBIT TRAIL RD. Road ,ON,Central Canada
+4.0,4.0,,,Single,1599000,6 RUBY RDGE ,ON,Central Canada
+3.0,2.0,,,Single,399900,8 MILL ST ,ON,Central Canada
+3.0,3.0,,,Single,2495000,64 MCCORD'S Road ,ON,Central Canada
+,,,,Single,599000,633 CON 4 & 5 Road E ,ON,Central Canada
+3.0,3.0,,,Single,299888,177 NEIL COURT ,ON,Central Canada
+3.0,2.0,,g>56,Agriculture,775000,142 MCLELLAN ROAD ,ON,Central Canada
+4.0,2.0,,,Single,143900,4 Adjala AVE ,ON,Central Canada
+2.0,1.0,,,Single,89900,272 Ambrose ST ,ON,Central Canada
+3.0,2.0,,,Single,899000,7774 ROBERTS ISLAND ,ON,Central Canada
+2.0,1.0,,,Single,449000,45 DRUMMOND ST ,ON,Central Canada
+5.0,5.0,,,Single,2998000,75 KENNEDY ST W ,ON,Central Canada
+3.0,1.0,,,Single,117000,1501 LINE 8 Road Unit 357,ON,Central Canada
+3.0,4.0,,,Single,994800,7 CAUSYN Avenue ,ON,Central Canada
+3.0,2.0,,,Single,199000,4308 WHITTAKER ROAD ,ON,Central Canada
+3.0,2.0,,>7.6,Single,1350000,206 TOBACCO Road ,ON,Central Canada
+3.0,4.0,,,Single,994800,7 CAUSYN AVE ,ON,Central Canada
+2.0,1.0,,,Single,259000,12361 WINCHESTER SPRINGS ROAD ,ON,Central Canada
+3.0,2.0,,3.91,Single,299900,4642 BYLSMA ROAD ,ON,Central Canada
+1.0,1.0,1920.0,g>18,Farm,1100000,125 Port Maitland Road ,ON,Central Canada
+5.0,5.0,,,Residential,1900000,1874 Fairbanks ,ON,Central Canada
+3.0,2.0,,>182,Single,1249000,3763 A Line RD ,ON,Central Canada
+,1.0,,,Single,185000,4482 Bidwell Road ,ON,Central Canada
+5.0,4.0,,,Single,3250000,4381 HIGHWAY 27 ,ON,Central Canada
+4.0,1.0,,,Single,625000,34 MINTO Street S ,ON,Central Canada
+5.0,2.0,,,Single,280000,23 Mill RD ,ON,Central Canada
+3.0,2.0,,,Single,449900,21931 AD Shadd ROAD ,ON,Central Canada
+3.0,2.0,,,Residential,999000,3730 Glenrest Dr ,ON,Central Canada
+3.0,2.0,,,Single,950000,243-245 BOLTON STREET ,ON,Central Canada
+3.0,2.0,,,Single,795000,158414 7TH Line ,ON,Central Canada
+3.0,2.0,,,Single,799000,117 KING RD ,ON,Central Canada
+3.0,2.0,,>114,Single,1100000,3721 PADEN Road ,ON,Central Canada
+2.0,1.0,,>123,Single,399900,1290 CONCESSION 2 ROAD ,ON,Central Canada
+3.0,3.0,,,Single,1600000,22841 Scane ROAD ,ON,Central Canada
+3.0,2.0,,,Single,1200000,173 WILLIAM Street ,ON,Central Canada
+4.0,3.0,,>100,Agriculture,3390000,2659 RAMSAY CONCESSION 7B ROAD ,ON,Central Canada
+3.0,1.0,,0.55,Single,449900,38 WATER ACCESS ZONE R ,ON,Central Canada
+4.0,2.0,,,Single,1100000,5180 8th CONCESSION ROAD ,ON,Central Canada
+4.0,3.0,,4.48,Single,1300000,520 MORRIS Lane ,ON,Central Canada
+3.0,2.0,,,Single,899900,3899 TOWN Line ,ON,Central Canada
+3.0,1.0,,,Single,189900,11A Orford ,ON,Central Canada
+2.0,1.0,804.0,,Single,87000,58 Pine 79681 Bluewater Highway ,ON,Central Canada
+2.0,1.0,,,Single,525000,20 HEMMING WAY ,ON,Central Canada
+3.0,1.0,,.468,Single,589900,1083 BUCKEYE Road ,ON,Central Canada
+4.0,2.0,,,Residential,890000,59 Edgewater Dr ,ON,Central Canada
+6.0,3.0,,>4.6,Single,3250000,259 DILLON Road ,ON,Central Canada
+3.0,1.0,,g>25,Single,349000,1263 NELSON LAKE Road ,ON,Central Canada
+4.0,2.0,,,Single,998800,13660 longwoods ROAD ,ON,Central Canada
+3.0,4.0,,,Residential,798786,47 Tinton Cres ,ON,Central Canada
+3.0,3.0,,,Residential,1000000,2577 Eglinton Ave ,ON,Central Canada
+2.0,2.0,,,Single,179900,48 Hudson ST ,ON,Central Canada
+3.0,2.0,,,Residential,1099000,40 Ravenal St ,ON,Central Canada
+1.0,4.0,,>0.3,Single,597500,14 & 16 Government RD W ,ON,Central Canada
+4.0,3.0,,4.47,Single,975000,3763 GREGOIRE ROAD ,ON,Central Canada
+4.0,4.0,,.868,Single,999000,1181 PENINSULA Road ,ON,Central Canada
+2.0,1.0,407.0,,Single,49900,2 Maple 79681 Bluewater Highway ,ON,Central Canada
+3.0,1.0,,,Single,450000,105 5TH Avenue S ,ON,Central Canada
+,,,,Single,15500,7728 COYNE Road ,ON,Central Canada
+4.0,6.0,,2.71,Single,1629000,9692 DANFORTH Road E ,ON,Central Canada
+3.0,2.0,,4.67,Single,699900,192 SOUTH MCNAUGHTON LINE ,ON,Central Canada
+4.0,3.0,,,Single,299888,907 GLADSTONE ,ON,Central Canada
+4.0,3.0,,,Residential,1048000,675 Grand Island ,ON,Central Canada
+4.0,2.0,,,Single,1299900,10 WINDHAM Lane ,ON,Central Canada
+3.0,1.0,,,Single,999999,13 WEST Avenue ,ON,Central Canada
+2.0,2.0,,,Single,85000,3 Birch ST ,ON,Central Canada
+3.0,2.0,,.626,Single,799000,234 KELLY Road ,ON,Central Canada
+5.0,2.0,,,Single,449000,491 RANKIN ,ON,Central Canada
+3.0,1.0,,>0.3,Single,749900,34 HIGHLAND LANE Road ,ON,Central Canada
+5.0,2.0,,16.1,Single,829900,9911 HIGHWAY 60 HIGHWAY ,ON,Central Canada
+3.0,1.0,,ng>4,Single,299900,497 High RD ,ON,Central Canada
+4.0,3.0,,,Single,449900,544-546 PELADEAU ROAD ,ON,Central Canada
+5.0,3.0,,13.1,Single,1899000,182 FREETHY Road ,ON,Central Canada
+5.0,4.0,,,Single,2299000,1019 LITTLE CEDAR AVE ,ON,Central Canada
+4.0,3.0,3260.0,,Residential,2499000,10 AZALEA Court ,ON,Central Canada
+4.0,1.0,,,Single,350000,258 William STREET ,ON,Central Canada
+1.0,,,1.83,Single,999900,795 BAY LAKE Road ,ON,Central Canada
+4.0,3.0,,,Single,1599999,112 RIDGECREST  LANE ,ON,Central Canada
+4.0,5.0,,.411,Single,2900000,10 MILL Road ,ON,Central Canada
+5.0,5.0,,,Single,3988888,2 EVERGLADE DR ,ON,Central Canada
+2.0,2.0,,,Single,899900,344 LAKEVIEW Road ,ON,Central Canada
+5.0,2.0,,,Single,1799900,253 SUNRISE TR ,ON,Central Canada
+4.0,5.0,,,Single,349900,1528 CHURCH STREET ,ON,Central Canada
+4.0,4.0,,,Single,799999,110 Crater Crescent ,ON,Central Canada
+4.0,3.0,,9.86,Single,1650000,39892 COMBERMERE ROAD ,ON,Central Canada
+2.0,2.0,,,Single,299000,33 MAIN STREET N ,ON,Central Canada
+4.0,3.0,,,Single,990000,33 DADEN OAKS DR ,ON,Central Canada
+1.0,2.0,,,Single,107900,197 Thirteenth AVE ,ON,Central Canada
+4.0,2.0,,1.29,Single,264900,881 COUNTY ROAD 18 ROAD ,ON,Central Canada
+4.0,3.0,,ng>1,Single,889000,8 CONCESSION 7,ON,Central Canada
+3.0,2.0,,,Single,1799900,C930 REGIONAL ROAD 12 RD ,ON,Central Canada
+3.0,1.0,,,Single,325000,Lot 20 East Hawk Lake ,ON,Central Canada
+2.0,1.0,,.502,Single,625000,1224 HALLS LAKE Road ,ON,Central Canada
+4.0,3.0,,,Single,1999900,6 Highway 313237,ON,Central Canada
+3.0,4.0,,,Single,2199000,23 TIPPER LANE Lane ,ON,Central Canada
+3.0,1.0,,.245,Single,299000,56-58 KIRKHAM Road ,ON,Central Canada
+2.0,1.0,,,Single,299000,753 EUGENIE ,ON,Central Canada
+3.0,1.0,,,Single,269000,83 Axmith AVE ,ON,Central Canada
+3.0,2.0,,,Single,799900,8281 FANSHER ROAD ,ON,Central Canada
+4.0,3.0,,,Single,699000,10 SHERWAY ,ON,Central Canada
+4.0,2.0,,,Single,1598800,223 WILLOWDALE AVE ,ON,Central Canada
+4.0,1.0,,,Single,450000,105 5TH AVE S ,ON,Central Canada
+,1.0,,,Single,1900000,4019 MUSKOKA ROAD 169 Highway ,ON,Central Canada
+1.0,1.0,,0.99,Single,459900,837899 Creighton DR ,ON,Central Canada
+5.0,3.0,,,Single,2950000,477 BIG BAY POINT PT E ,ON,Central Canada
+4.0,2.0,,,Single,399900,349 MAIN Street S ,ON,Central Canada
+4.0,2.0,,>0.3,Single,799000,36 ISLAND 20,ON,Central Canada
+2.0,2.0,,,Single,899900,1785 Cote Boulevard ,ON,Central Canada
+4.0,2.0,,,Single,499000,2514 GRAVELLE CRESCENT ,ON,Central Canada
+2.0,1.0,,.876,Single,900000,6025 KISTER Road ,ON,Central Canada
+3.0,3.0,,.367,Single,1390000,85 BALM BEACH Road E ,ON,Central Canada
+3.0,2.0,,1.78,Single,3995000,1302 ACTON ISLAND Road ,ON,Central Canada
+4.0,2.0,,,Single,599000,2146 MCKAY ,ON,Central Canada
+3.0,2.0,,ng>1,Single,899900,3214 PORT SEVERN Road ,ON,Central Canada
+3.0,3.0,,,Single,1325000,15029 LOYALIST PKWY ,ON,Central Canada
+3.0,1.0,,6.15,Single,498000,937741 MARSH BAY RD ,ON,Central Canada
+2.0,1.0,,,Single,439000,7 Queens Lane/Bidwell Rd. ,ON,Central Canada
+3.0,3.0,,,Residential,828810,2384 Bur Oak Ave ,ON,Central Canada
+2.0,1.0,,6.99,Single,2249000,123 OXFORD Street W ,ON,Central Canada
+2.0,2.0,,,Single,99900,237 Maple ST S ,ON,Central Canada
+4.0,2.0,,2.75,Single,1100000,9383 COUNTY ROAD 30 ,ON,Central Canada
+3.0,1.0,,,Single,249000,485 TIFFIN Street ,ON,Central Canada
+5.0,1.0,,,Single,899000,518 HIGHWAY ST 261,ON,Central Canada
+8.0,9.0,,,Single,7990000,25 CHIEFTAIN CRES ,ON,Central Canada
+5.0,1.0,,,Single,899000,518 Highway 261,ON,Central Canada
+2.0,2.0,,,Single,490000,53 PINE Street S ,ON,Central Canada
+3.0,3.0,,,Single,1400000,37 GODERICH POINT LOOP ,ON,Central Canada
+5.0,7.0,,ng>5,Single,11250000,1158 RANWOOD Road Unit 17,ON,Central Canada
+4.0,1.0,,.865,Single,599000,1465 RIVERSIDE Drive ,ON,Central Canada
+3.0,2.0,,,Single,599000,122 MOORE Avenue S ,ON,Central Canada
+3.0,1.0,,>195,Single,529900,501 Lee Valley RD ,ON,Central Canada
+6.0,3.0,,>0.4,Single,999990,168W KING Street W ,ON,Central Canada
+4.0,3.0,,,Single,1490000,1835 MARK SETTLEMENT Drive ,ON,Central Canada
+1.0,1.0,,,Single,115000,2152 COUNTY RD 36 RD ,ON,Central Canada
+4.0,2.0,,,Single,1325000,59 CHINA COVE RD ,ON,Central Canada
+3.0,3.0,,,Single,1499900,185 COUTTS BAY ROAD ,ON,Central Canada
+3.0,2.0,,g>56,Single,775000,142 MCLELLAN ROAD ,ON,Central Canada
+3.0,3.0,,3.78,Single,1400000,4921 ROBINSON Road ,ON,Central Canada
+3.0,3.0,,1.36,Single,1995000,3792 COUNTY ROAD 8 ,ON,Central Canada
+6.0,3.0,,,Single,260000,6-14 PINETREE LANE ,ON,Central Canada
+4.0,2.0,,,Residential,1100000,3721 Paden Rd ,ON,Central Canada
+2.0,1.0,,,Single,495000,739 GLANMIRE LAKE LANE ,ON,Central Canada
+3.0,1.0,,,Residential,2190000,1249 Book Rd W ,ON,Central Canada
+4.0,2.0,,g>10,Single,524900,1355 BAY ROAD ,ON,Central Canada
+4.0,2.0,,2.24,Single,1375000,49 PRIOR Lane ,ON,Central Canada
+4.0,2.0,,ng>2,Single,599500,161 Gould RD ,ON,Central Canada
+3.0,1.0,,,Single,599900,202 MICA POINT Road ,ON,Central Canada
+3.0,2.0,,3.75,Single,1100000,1065 PINE Lane S ,ON,Central Canada
+4.0,3.0,,>2.7,Single,1250000,2 GREY Road 496758,ON,Central Canada
+3.0,1.0,,,Single,143500,19 Matachewan RD ,ON,Central Canada
+2.0,2.0,,,Single,1270000,34602 MCDIARMID LINE ,ON,Central Canada
+3.0,1.0,,.753,Single,1149000,1304 PROSPECT Road ,ON,Central Canada
+4.0,5.0,,,Single,1629000,9692 DANFORTH RD E ,ON,Central Canada
+2.0,1.0,,,Single,2249000,123 OXFORD ST W ,ON,Central Canada
+3.0,2.0,,,Single,1495000,40 HILL Street ,ON,Central Canada
+2.0,1.0,,,Single,449000,45 DRUMMOND Street ,ON,Central Canada
+3.0,2.0,,,Single,899000,1357 HIGHWAY 8 ,ON,Central Canada
+3.0,2.0,,8.98,Single,999000,31 FIRE ROUTE 369 ,ON,Central Canada
+4.0,4.0,,,Single,3900000,44293 FERGUSON LINE ,ON,Central Canada
+2.0,1.0,,3.46,Single,495000,367 COUNTY 8 ROAD ,ON,Central Canada
+3.0,1.0,,97.2,Single,525000,326 HYLER Line ,ON,Central Canada
+3.0,1.0,,,Single,439999,411 JOCKO POINT Road ,ON,Central Canada
+4.0,4.0,,,Single,1795000,212 MARTIN'S RD ,ON,Central Canada
+6.0,3.0,,,Single,250000,348 3rd AVE ,ON,Central Canada
+3.0,3.0,1895.0,,Residential,999000,275 RIDGE Road S ,ON,Central Canada
+3.0,5.0,,,Single,2999000,39 QUARRY Road ,ON,Central Canada
+2.0,1.0,876.0,,Residential,449000,45 DRUMMOND Street ,ON,Central Canada
+3.0,1.0,,,Single,179000,1 Syenite Street ,ON,Central Canada
+2.0,1.0,,>2.8,Single,549000,1691 A BUCKSHOT LAKE Road ,ON,Central Canada
+3.0,3.0,1800.0,,Residential,849900,87 Prior Lane ,ON,Central Canada
+2.0,1.0,1420.0,,Residential,399900,118 Birch Ave  ,MB,Prairie Provinces
+3.0,3.0,1320.0,,Residential,159000,60 Limit Street ,MB,Prairie Provinces
+3.0,1.0,1424.0,,Residential,100000,135 Boundary Street ,MB,Prairie Provinces
+2.0,2.0,960.0,ng>2,Single,179900,3146 3 Road NE ,MB,Prairie Provinces
+2.0,1.0,980.0,,Single,109000,36 Springwood Drive ,MB,Prairie Provinces
+2.0,2.0,1704.0,,Single,269900,16 McGregor Avenue ,MB,Prairie Provinces
+5.0,2.0,1025.0,,Single,319000,372 Burrin Avenue ,MB,Prairie Provinces
+2.0,2.0,1077.0,ng>2,Single,379900,15 Verna's Way ,MB,Prairie Provinces
+4.0,3.0,2200.0,1.45,Single,1049900,419 1st Avenue ,MB,Prairie Provinces
+3.0,1.0,1311.0,,Single,79000,371 Magnus Avenue ,MB,Prairie Provinces
+3.0,2.0,1500.0,,Single,44900,109 3rd Street ,MB,Prairie Provinces
+1.0,1.0,767.0,,Single,42000,147 7th Street ,MB,Prairie Provinces
+6.0,1.0,1660.0,1.55,Single,1395000,1 Island 1 Landing ,MB,Prairie Provinces
+2.0,1.0,875.0,,Single,89900,277 River Road ,MB,Prairie Provinces
+4.0,2.0,1390.0,,Single,550000,31 Boyne Crescent ,MB,Prairie Provinces
+3.0,2.0,1010.0,,Single,199999,370 Ottawa Avenue E ,MB,Prairie Provinces
+3.0,1.0,1220.0,,Single,128880,409 Main Street S ,MB,Prairie Provinces
+3.0,2.0,1717.0,,Single,126500,175 Maple Street N ,MB,Prairie Provinces
+3.0,1.0,1096.0,,Single,174900,664 Ross Avenue ,MB,Prairie Provinces
+2.0,1.0,,,Residential,39900,756 Vine Street ,MB,Prairie Provinces
+3.0,1.0,1285.0,,Single,85000,280 2nd Avenue ,MB,Prairie Provinces
+2.0,2.0,810.0,,Single,98000,145 MULVEY Street E ,MB,Prairie Provinces
+3.0,1.0,800.0,,Single,165000,69 Blacks Point Road ,MB,Prairie Provinces
+4.0,2.0,3715.0,,Residential,899900,186 Bridgeview Dr ,MB,Prairie Provinces
+3.0,3.0,1100.0,,Single,129900,54 Lokier Street N ,MB,Prairie Provinces
+6.0,2.0,1605.0,,Single,359900,1445 Winnipeg Avenue ,MB,Prairie Provinces
+1.0,1.0,700.0,,Single,190000,1101 7th Street ,MB,Prairie Provinces
+3.0,2.0,1740.0,,Single,299900,75 Hespeler Avenue ,MB,Prairie Provinces
+2.0,1.0,1057.0,,Single,98000,204 MCMILLAN Street W ,MB,Prairie Provinces
+4.0,2.0,1980.0,ng>5,Single,199000,61 Kemnay Woods Lane ,MB,Prairie Provinces
+4.0,2.0,1424.0,,Single,210000,581 Furby Street ,MB,Prairie Provinces
+2.0,1.0,520.0,,Single,89900,131 Lisgar Avenue ,MB,Prairie Provinces
+2.0,1.0,1096.0,.132,Residential,49000,120 2nd STREET E ,SK,Prairie Provinces
+1.0,2.0,1196.0,.072,Residential,139900,1020 Rae STREET ,SK,Prairie Provinces
+2.0,1.0,972.0,,Residential,55000,313 Main STREET ,SK,Prairie Provinces
+2.0,1.0,960.0,,Residential,59000,4701 Telegraph STREET ,SK,Prairie Provinces
+3.0,2.0,1024.0,.138,Residential,175000,1010 105th AVENUE ,SK,Prairie Provinces
+6.0,3.0,1458.0,0.28,Farm,366000,Potuer Home Quarter - RM 69 ,SK,Prairie Provinces
+2.0,1.0,826.0,.152,Residential,49900,205 2nd STREET NE ,SK,Prairie Provinces
+2.0,1.0,1580.0,,Residential,99500,302 Bounty STREET ,SK,Prairie Provinces
+3.0,4.0,1698.0,>0.3,Residential,259000,104 JACKSON PLACE ,SK,Prairie Provinces
+2.0,1.0,816.0,.135,Residential,85499,530 Main STREET ,SK,Prairie Provinces
+4.0,2.0,1056.0,.138,Residential,100000,214 Souris AVENUE ,SK,Prairie Provinces
+1.0,1.0,850.0,.287,Residential,79900,108 1st AVENUE E ,SK,Prairie Provinces
+4.0,5.0,3229.0,0.07,Residential,2480000,5600 Clarence AVENUE S ,SK,Prairie Provinces
+3.0,2.0,798.0,,Residential,149000,609 Hill AVENUE ,SK,Prairie Provinces
+2.0,1.0,748.0,0.14,Residential,88900,328 RAILWAY AVENUE E ,SK,Prairie Provinces
+3.0,1.0,1052.0,9.59,Residential,119900,39511 Range Road 3025 ,SK,Prairie Provinces
+1.0,1.0,768.0,.138,Residential,40000,38 Broadway STREET ,SK,Prairie Provinces
+3.0,1.0,1144.0,.103,Residential,150000,1011 Idylwyld DRIVE N ,SK,Prairie Provinces
+1.0,1.0,676.0,,Other,199500,"59 Walleye Way, Prairie Lake Regional Park ",SK,Prairie Provinces
+4.0,3.0,2622.0,8.74,Residential,599900,Garden River Acreage ,SK,Prairie Provinces
+5.0,2.0,1382.0,58.9,Farm,899999,Rolston Farm Home Quarter ,SK,Prairie Provinces
+2.0,1.0,866.0,,Residential,119000,22 Main STREET ,SK,Prairie Provinces
+4.0,2.0,1328.0,.209,Residential,189900,311 Finley AVENUE ,SK,Prairie Provinces
+3.0,1.0,816.0,,Residential,75000,211 2nd Avenue W ,SK,Prairie Provinces
+1.0,1.0,676.0,,Residential,199500,59 Walleye WAY ,SK,Prairie Provinces
+4.0,2.0,832.0,.313,Residential,29000,1105 Grand AVENUE ,SK,Prairie Provinces
+3.0,1.0,1070.0,.143,Residential,219000,303 Burrows AVENUE W ,SK,Prairie Provinces
+2.0,1.0,1580.0,,Residential,99500,"302 Bounty Street, Conquest ",SK,Prairie Provinces
+4.0,2.0,880.0,.231,Residential,79000,906 Elsinore STREET ,SK,Prairie Provinces
+3.0,2.0,1090.0,.165,Residential,75000,678 3rd STREET W ,SK,Prairie Provinces
+2.0,1.0,704.0,.152,Residential,79900,126 9th STREET ,SK,Prairie Provinces
+3.0,1.0,1288.0,.275,Residential,149900,202-204 John STREET ,SK,Prairie Provinces
+2.0,1.0,816.0,.161,Residential,64900,145 5th AVENUE E ,SK,Prairie Provinces
+3.0,1.0,888.0,.138,Residential,54900,212 1st STREET E ,SK,Prairie Provinces
+5.0,2.0,1120.0,0.22,Residential,200000,753 Centre STREET ,SK,Prairie Provinces
+3.0,1.0,1143.0,.139,Residential,185000,46 Foxglove Cres ,SK,Prairie Provinces
+2.0,1.0,872.0,,Residential,39900,305 3rd STREET E ,SK,Prairie Provinces
+2.0,1.0,500.0,,Residential,79900,11 Zimmer CRESCENT ,SK,Prairie Provinces
+2.0,1.0,640.0,,Residential,134900,"Lot 7, Block A North ",SK,Prairie Provinces
+2.0,1.0,1032.0,0.11,Residential,35400,678 3rd STREET E ,SK,Prairie Provinces
+3.0,1.0,1082.0,,Residential,79900,22 Carlton STREET ,SK,Prairie Provinces
+2.0,1.0,624.0,0.11,Residential,49500,697 2nd STREET W ,SK,Prairie Provinces
+2.0,1.0,1208.0,,Residential,100000,8 Danton STREET ,SK,Prairie Provinces
+2.0,1.0,1040.0,.107,Residential,92900,411 Railway Avenue ,SK,Prairie Provinces
+3.0,1.0,908.0,.287,Residential,21900,40 Martin STREET ,SK,Prairie Provinces
+3.0,1.0,750.0,.124,Residential,49000,535 churchill STREET ,SK,Prairie Provinces
+2.0,2.0,1056.0,>320,Farm,1200000,Robertson Farm ,SK,Prairie Provinces
+4.0,3.0,2424.0,2.92,Residential,199999,Olson Acreage ,SK,Prairie Provinces
+4.0,2.0,1197.0,.172,Residential,135000,2 6th Street CRESCENT W ,SK,Prairie Provinces
+3.0,1.0,720.0,,Residential,134000,407 2nd AVENUE ,SK,Prairie Provinces
+2.0,3.0,1714.0,g>57,Residential,285000,RM 409 Buffalo - 57 ac. ,SK,Prairie Provinces
+5.0,3.0,1814.0,2.45,Residential,599000,Wagner Property- Hwy 21 North ,SK,Prairie Provinces
+3.0,2.0,858.0,.138,Residential,125000,203 1st STREET E ,SK,Prairie Provinces
+2.0,1.0,1018.0,.138,Residential,69900,501 Front STREET ,SK,Prairie Provinces
+2.0,3.0,1714.0,g>57,Residential,285000,RM 409 Buffalo - 57 acres ,SK,Prairie Provinces
+2.0,1.0,752.0,.137,Residential,83500,300 5th STREET W ,SK,Prairie Provinces
+2.0,1.0,952.0,5.77,Residential,169000,Belak Acreage ,SK,Prairie Provinces
+2.0,1.0,584.0,.143,Residential,84900,610 MacLachlan AVENUE ,SK,Prairie Provinces
+3.0,1.0,1100.0,.358,Residential,249000,145 Yukon AVENUE W ,SK,Prairie Provinces
+3.0,2.0,2336.0,>141,Residential,529000,McLeod Farm ,SK,Prairie Provinces
+1.0,1.0,480.0,.138,Residential,39000,639 Saskatchewan AVENUE ,SK,Prairie Provinces
+,,,8.56,Residential,85999,"Burlap Road, Lot Q ",SK,Prairie Provinces
+3.0,3.0,2500.0,g>15,Residential,775000,Eberle Acreage ,SK,Prairie Provinces
+2.0,1.0,560.0,.069,Residential,114000,132 L AVENUE S ,SK,Prairie Provinces
+3.0,3.0,1350.0,.353,Residential,198900,220 2nd AVENUE ,SK,Prairie Provinces
+3.0,2.0,832.0,,Residential,149999,418 V AVENUE S ,SK,Prairie Provinces
+3.0,2.0,956.0,.072,Residential,79900,1133 Rae STREET ,SK,Prairie Provinces
+2.0,2.0,952.0,.207,Residential,79900,9 Osage STREET ,SK,Prairie Provinces
+3.0,1.0,1144.0,.108,Residential,140000,2255 Mackay STREET ,SK,Prairie Provinces
+1.0,1.0,596.0,,Residential,65000,339 Duffield STREET W ,SK,Prairie Provinces
+3.0,1.0,1056.0,,Residential,185000,411 Craig STREET ,SK,Prairie Provinces
+5.0,2.0,1040.0,.256,Residential,134000,117 7th AVENUE SW ,SK,Prairie Provinces
+5.0,1.0,1600.0,3.39,Residential,495000,Widow Arnold's Homestead at Pasqua Lake ,SK,Prairie Provinces
+4.0,3.0,1260.0,.143,Residential,265000,100 Guthrie PLACE ,SK,Prairie Provinces
+2.0,1.0,616.0,.143,Residential,79900,615 Montague STREET ,SK,Prairie Provinces
+4.0,5.0,4370.0,.219,Residential,699900,880 McNiven AVENUE ,SK,Prairie Provinces
+2.0,1.0,861.0,,Residential,74900,301 1st AVENUE W ,SK,Prairie Provinces
+2.0,1.0,896.0,.131,Residential,109000,12 Gladstone AVENUE N ,SK,Prairie Provinces
+3.0,3.0,3200.0,.273,Residential,149000,338 Ruttle AVENUE ,SK,Prairie Provinces
+3.0,2.0,768.0,0.12,Residential,74500,1122 13th STREET W ,SK,Prairie Provinces
+2.0,2.0,768.0,,Residential,124900,902 Water STREET ,SK,Prairie Provinces
+3.0,1.0,1180.0,.198,Residential,69900,205 Warwick STREET ,SK,Prairie Provinces
+5.0,2.0,1500.0,9.96,Residential,569000,East of Airport Acreage (39.96 acres) ,SK,Prairie Provinces
+2.0,1.0,820.0,.072,Residential,89900,1551 Montague STREET ,SK,Prairie Provinces
+3.0,1.0,1080.0,,Residential,80000,409 Main STREET ,SK,Prairie Provinces
+4.0,4.0,1664.0,4.98,Residential,399000,Lock Lomond - Reber Acreage ,SK,Prairie Provinces
+2.0,1.0,690.0,,Residential,98500,156C Westview DRIVE ,SK,Prairie Provinces
+1.0,,212.0,4.66,Residential,359000,Valley Fairways Golf Course ,SK,Prairie Provinces
+2.0,1.0,768.0,0.24,Residential,249900,2180 McCrea ROAD ,SK,Prairie Provinces
+2.0,1.0,720.0,0.14,Residential,44900,33 Railway AVENUE ,SK,Prairie Provinces
+3.0,1.0,988.0,,Residential,79000,201 1st AVENUE N ,SK,Prairie Provinces
+3.0,1.0,720.0,.207,Residential,25000,218 Torbay STREET ,SK,Prairie Provinces
+4.0,4.0,3229.0,2.09,Residential,1500000,30 Mustang TRAIL ,SK,Prairie Provinces
+2.0,1.0,960.0,0.27,Residential,76900,51 Main STREET ,SK,Prairie Provinces
+4.0,2.0,1440.0,,Residential,949000,22 Oskunamoo DRIVE ,SK,Prairie Provinces
+3.0,2.0,1408.0,,Residential,139900,217 Drake AVENUE ,SK,Prairie Provinces
+3.0,2.0,1325.0,.207,Residential,139900,208 Main STREET ,SK,Prairie Provinces
+5.0,3.0,1060.0,.145,Residential,95000,461 Pacific DRIVE ,SK,Prairie Provinces
+3.0,1.0,1232.0,.275,Residential,39900,73 Stanley STREET ,SK,Prairie Provinces
+2.0,1.0,620.0,.072,Residential,64000,1402 Rae STREET ,SK,Prairie Provinces
+1.0,1.0,480.0,.136,Residential,62900,1106 7th AVENUE ,SK,Prairie Provinces
+2.0,2.0,1892.0,,Residential,154910,217 Millet STREET ,SK,Prairie Provinces
+3.0,2.0,1022.0,.072,Residential,109900,1148 Garnet STREET ,SK,Prairie Provinces
+1.0,1.0,470.0,0.12,Residential,79900,114 U AVENUE S ,SK,Prairie Provinces
+3.0,3.0,1092.0,g>10,Residential,395000,Clemence Acreage ,SK,Prairie Provinces
+2.0,1.0,720.0,0.14,Residential,25900,201 5th AVENUE W ,SK,Prairie Provinces
+2.0,1.0,777.0,.072,Residential,49000,1425 Elphinstone STREET ,SK,Prairie Provinces
+2.0,1.0,756.0,,Residential,189900,1872 Montreal STREET ,SK,Prairie Provinces
+3.0,2.0,624.0,0.18,Residential,179900,557 6th STREET E ,SK,Prairie Provinces
+4.0,1.0,875.0,.127,Residential,190900,1816 17th AVENUE W ,SK,Prairie Provinces
+5.0,5.0,3804.0,,Residential,999900,96 Summerfeldt DRIVE ,SK,Prairie Provinces
+1.0,1.0,624.0,.138,Residential,24900,126 3rd STREET W ,SK,Prairie Provinces
+3.0,1.0,1536.0,.271,Residential,785000,138 Katepwa DRIVE S ,SK,Prairie Provinces
+2.0,2.0,792.0,,Residential,64900,216 1st STREET W ,SK,Prairie Provinces
+2.0,1.0,896.0,.275,Residential,49900,309 William STREET ,SK,Prairie Provinces
+2.0,1.0,860.0,,Residential,85000,706 Alexandria STREET W ,SK,Prairie Provinces
+4.0,1.0,1236.0,.143,Residential,45000,721 Main STREET ,SK,Prairie Provinces
+1.0,2.0,817.0,.101,Residential,50000,1035 Princess STREET ,SK,Prairie Provinces
+2.0,1.0,1088.0,.279,Residential,214900,911 Waskos DRIVE ,SK,Prairie Provinces
+2.0,1.0,740.0,,Residential,49900,1656 Rae STREET ,SK,Prairie Provinces
+2.0,1.0,1092.0,.151,Residential,197795,272 B Say Tah ROAD ,SK,Prairie Provinces
+4.0,3.0,1386.0,.219,Residential,320000,219 10th AVENUE W ,SK,Prairie Provinces
+2.0,2.0,1875.0,4.99,Residential,189900,White Fox Acreage ,SK,Prairie Provinces
+4.0,2.0,1300.0,.138,Residential,140000,#84 Makwa Lake ,SK,Prairie Provinces
+2.0,1.0,834.0,.149,Residential,75000,5260 Kings AVENUE ,SK,Prairie Provinces
+3.0,2.0,1744.0,6.34,Residential,194900,"Acreage, CJ Road ",SK,Prairie Provinces
+5.0,2.0,1260.0,.264,Residential,115900,220 Balaclava STREET ,SK,Prairie Provinces
+4.0,2.0,1728.0,.207,Residential,89500,228 Mountain STREET ,SK,Prairie Provinces
+2.0,1.0,1460.0,,Residential,175000,126 Indian POINT ,SK,Prairie Provinces
+2.0,1.0,673.0,0.14,Residential,107000,12 Canary DRIVE ,SK,Prairie Provinces
+2.0,2.0,1040.0,8.58,Farm,395000,Star Boom Farms ,SK,Prairie Provinces
+,,,,Residential,275000,Log Cabin (To Be Removed) - Auction - ,SK,Prairie Provinces
+3.0,1.0,1434.0,.264,Residential,96000,217 Throne STREET ,SK,Prairie Provinces
+3.0,2.0,816.0,0.43,Residential,105000,517 5th STREET S ,SK,Prairie Provinces
+2.0,1.0,727.0,.072,Residential,89900,212 Duffield STREET W ,SK,Prairie Provinces
+1.0,1.0,684.0,.344,Residential,40000,126 3rd STREET W ,SK,Prairie Provinces
+4.0,1.0,1420.0,.133,Residential,44900,722 Main STREET ,SK,Prairie Provinces
+3.0,1.0,1755.0,,Residential,150000,713 8th STREET ,SK,Prairie Provinces
+3.0,3.0,2201.0,.553,Residential,400000,17 Veterans BOULEVARD ,SK,Prairie Provinces
+2.0,1.0,635.0,,Residential,45000,806 107th AVENUE ,SK,Prairie Provinces
+1.0,1.0,838.0,.138,Residential,34900,200 Freeman STREET ,SK,Prairie Provinces
+1.0,1.0,502.0,,Residential,32000,928 Lakeside AVENUE ,SK,Prairie Provinces
+2.0,2.0,1798.0,1.13,Residential,699000,Brown/Sakal Acreage ,SK,Prairie Provinces
+5.0,4.0,2880.0,.168,Residential,1060000,636 Beechdale TERRACE ,SK,Prairie Provinces
+3.0,1.0,1232.0,.164,Residential,59900,109 Main STREET ,SK,Prairie Provinces
+3.0,1.0,988.0,3.66,Residential,265000,Churchbridge Acreage ,SK,Prairie Provinces
+2.0,1.0,808.0,.165,Residential,78000,781 1st STREET E ,SK,Prairie Provinces
+3.0,1.0,950.0,.143,Residential,174900,183 McIntyre STREET N ,SK,Prairie Provinces
+3.0,1.0,1076.0,4.14,Residential,219900,Abbott Acreage ,SK,Prairie Provinces
+3.0,1.0,1800.0,1.47,Residential,35000,Star City Acreage ,SK,Prairie Provinces
+3.0,1.0,744.0,.072,Residential,89900,1336 Montague STREET ,SK,Prairie Provinces
+4.0,2.0,2100.0,.115,Residential,139000,2042 ELPHINSTONE STREET ,SK,Prairie Provinces
+1.0,1.0,928.0,.072,Residential,269900,2858 Retallack STREET ,SK,Prairie Provinces
+6.0,4.0,1520.0,4.26,Residential,224500,Jansen Acreage ,SK,Prairie Provinces
+2.0,1.0,934.0,.092,Single,79900,4630 49 Street ,SK,Prairie Provinces
+2.0,1.0,896.0,,Single,65000,18 Eastwood Trailer Park ,SK,Prairie Provinces
+3.0,2.0,1222.0,.138,Residential,129900,1013 2nd STREET ,SK,Prairie Provinces
+3.0,2.0,1040.0,>2.5,Residential,200000,PT SW 23-26-25 W3rd ,SK,Prairie Provinces
+2.0,1.0,1221.0,0.24,Residential,82000,101 2nd STREET W ,SK,Prairie Provinces
+4.0,2.0,780.0,.121,Residential,72900,720 Cartier STREET ,SK,Prairie Provinces
+,1.0,912.0,0.09,Residential,19900,21 Main STREET ,SK,Prairie Provinces
+2.0,3.0,1340.0,>0.3,Residential,799000,100 Katepwa ROAD ,SK,Prairie Provinces
+2.0,1.0,1004.0,,Residential,74699,7 St. Clara AVENUE ,SK,Prairie Provinces
+2.0,1.0,848.0,.161,Residential,90000,806 Herkimer STREET ,SK,Prairie Provinces
+2.0,1.0,840.0,>0.1,Residential,56000,208 3rd STREET W ,SK,Prairie Provinces
+2.0,2.0,1044.0,.096,Residential,200000,223 1st AVENUE W ,SK,Prairie Provinces
+2.0,2.0,948.0,.172,Residential,99000,146 4th STREET ,SK,Prairie Provinces
+3.0,1.0,732.0,1.99,Residential,127000,Hall Acreage ,SK,Prairie Provinces
+2.0,1.0,892.0,.073,Residential,65900,1108 Garnet STREET ,SK,Prairie Provinces
+4.0,3.0,2298.0,4.08,Residential,399900,Skotheim Acreage ,SK,Prairie Provinces
+2.0,1.0,722.0,.072,Residential,58000,1013 ROBINSON STREET ,SK,Prairie Provinces
+3.0,1.0,960.0,,Residential,99900,303 1st STREET E ,SK,Prairie Provinces
+3.0,2.0,1680.0,,Residential,119000,124 Farm AVENUE ,SK,Prairie Provinces
+2.0,1.0,865.0,0.11,Residential,64000,455 1st AVENUE E ,SK,Prairie Provinces
+3.0,1.0,947.0,0.24,Residential,41000,208 Grey STREET ,SK,Prairie Provinces
+1.0,1.0,812.0,.143,Residential,24900,3361 Rutland AVENUE ,SK,Prairie Provinces
+3.0,1.0,820.0,0.15,Residential,199000,292 29th STREET ,SK,Prairie Provinces
+1.0,1.0,933.0,,Residential,299900,2404 Wapoos PLACE ,SK,Prairie Provinces
+3.0,2.0,936.0,.264,Residential,54900,314 Toews STREET ,SK,Prairie Provinces
+2.0,2.0,1056.0,.248,Residential,90000,14 2nd STREET E ,SK,Prairie Provinces
+3.0,,1360.0,,Residential,69900,435 Alberta STREET ,SK,Prairie Provinces
+2.0,1.0,996.0,,Residential,119000,232 2nd STREET ,SK,Prairie Provinces
+4.0,3.0,1637.0,2.01,Residential,294900,6117 Holmes DRIVE ,SK,Prairie Provinces
+2.0,1.0,556.0,.108,Residential,119000,212 Angus STREET ,SK,Prairie Provinces
+2.0,1.0,1222.0,.152,Residential,179000,428 9th AVENUE NW ,SK,Prairie Provinces
+3.0,1.0,864.0,0.15,Residential,30000,204 2nd STREET ,SK,Prairie Provinces
+3.0,2.0,720.0,.172,Residential,109900,455 Company AVENUE S ,SK,Prairie Provinces
+3.0,1.0,1040.0,,Residential,107000,203 Keeler STREET ,SK,Prairie Provinces
+3.0,1.0,1320.0,ng>5,Residential,174000,Johnson Acreage ,SK,Prairie Provinces
+3.0,2.0,1214.0,0.28,Residential,27900,311 3rd AVENUE E ,SK,Prairie Provinces
+1.0,1.0,530.0,.069,Residential,105900,225 U AVENUE S ,SK,Prairie Provinces
+1.0,3.0,1600.0,1.09,Residential,327000,1 1st AVENUE N ,SK,Prairie Provinces
+4.0,2.0,936.0,.344,Residential,155000,123 4th STREET W ,SK,Prairie Provinces
+3.0,1.0,734.0,,Residential,29500,306 Dunning STREET ,SK,Prairie Provinces
+3.0,3.0,1170.0,,Residential,325000,13 Ling STREET ,SK,Prairie Provinces
+2.0,1.0,1044.0,.183,Single,95000,5620 49 Avenue ,SK,Prairie Provinces
+4.0,1.0,1032.0,.321,Residential,89900,509 4th AVENUE ,SK,Prairie Provinces
+2.0,3.0,1496196.0,,Single,159900,4708 51Ave ,AB,Prairie Provinces
+4.0,5.0,1651.0,.099,Single,435000,154 Creek Gardens Place NW ,AB,Prairie Provinces
+2.0,1.0,525.0,0.13,Residential,35000,316 1st Street ,AB,Prairie Provinces
+5.0,1.0,2023.0,0.77,Residential,280000,11015 99 Street ,AB,Prairie Provinces
+4.0,3.0,2281.0,4.28,Residential,999000,248 Webb Avenue ,AB,Prairie Provinces
+3.0,2.0,1457.0,,Residential,149900,5413 56 Street ,AB,Prairie Provinces
+3.0,2.0,1220.0,7.84,Residential,475000,82522 Hwy 2 ,AB,Prairie Provinces
+2.0,1.0,960.0,,Residential,105000,5007A 47 Street ,AB,Prairie Provinces
+3.0,1.0,118404.0,.067,Residential,169900,5614 148 ST ,AB,Prairie Provinces
+2.0,1.0,1107.0,,Other,34900,9531 98 Street 21,AB,Prairie Provinces
+1.0,1.0,645.0,,Residential,64800,9707 100 Avenue ,AB,Prairie Provinces
+,,,,Residential,1155000,32 and 33 Range 282 ,AB,Prairie Provinces
+3.0,2.0,1848.0,8.61,Residential,699900,80105 Range Road 211 ,AB,Prairie Provinces
+,,753.0,,Residential,50000,4720-47AVE ,AB,Prairie Provinces
+3.0,2.0,1216.0,,Single,79900,"127, 10615  88 Street 127",AB,Prairie Provinces
+2.0,2.0,1605.0,.132,Single,375000,229 1 Street S ,AB,Prairie Provinces
+1.0,1.0,685.0,0.14,Single,127500,9305 107 Avenue ,AB,Prairie Provinces
+2.0,1.0,776.0,.182,Single,112900,11004 106 Avenue ,AB,Prairie Provinces
+4.0,3.0,1560.0,2.71,Residential,435000,5815 48 Avenue ,AB,Prairie Provinces
+2.0,3.0,14161.0,.087,Single,399900,320 Midpark Gardens SE ,AB,Prairie Provinces
+4.0,3.0,2076.0,.247,Single,280000,5202 52 Street ,AB,Prairie Provinces
+4.0,3.0,2162.0,>0.3,Residential,349000,26 Princess Place W ,AB,Prairie Provinces
+3.0,2.0,1515894.0,,Single,125825,51508B Range Road 280 ,AB,Prairie Provinces
+3.0,1.0,1122039.0,1.87,Single,989789,5308 Lac St Anne Trail N ,AB,Prairie Provinces
+6.0,4.0,3505512.0,1.44,Single,898000,26229 MEADOWVIEW DR ,AB,Prairie Provinces
+3.0,2.0,1200.0,>6.7,Residential,200000,46515 Range Road 161 ,AB,Prairie Provinces
+6.0,2.0,1102.0,.132,Single,425000,329 33 Avenue NE ,AB,Prairie Provinces
+2.0,1.0,1134.0,.344,Single,150000,106 4 Street NW ,AB,Prairie Provinces
+2.0,1.0,747.0,g>35,Residential,299900,36456 Range Road 232 ,AB,Prairie Provinces
+3.0,1.0,1020.0,.179,Single,120000,11402 Norris Cres ,AB,Prairie Provinces
+3.0,2.0,148597.0,,Single,150000,49 AV 4924,AB,Prairie Provinces
+3.0,3.0,1790053.0,>160,Single,649900,61008 Rg Rd 104,AB,Prairie Provinces
+1.0,1.0,649.0,.143,Single,80000,314 3 Avenue ,AB,Prairie Provinces
+4.0,3.0,441749.0,3.92,Residential,1099000,38418 Range Road 261 ,AB,Prairie Provinces
+3.0,2.0,134708.0,.198,Single,195000,10987 Grande Avenue ,AB,Prairie Provinces
+2.0,1.0,900.0,,Single,35000,"51, 145 East River Road 51",AB,Prairie Provinces
+2.0,2.0,995.0,4.72,Single,625000,232048 Rng Rd 250,AB,Prairie Provinces
+,,1024.0,,Single,35000,"47, 9301 102 Street 47",AB,Prairie Provinces
+4.0,3.0,1707386.0,.121,Single,424900,6219 187A ST NW ,AB,Prairie Provinces
+3.0,3.0,1247.0,>0.2,Single,375000,10821 Stern Crescent ,AB,Prairie Provinces
+3.0,2.0,1152.0,,Single,49900,"11, 400 1 Street SE 11",AB,Prairie Provinces
+2.0,1.0,853.0,,Single,48500,"39, 6026 13 Avenue 39",AB,Prairie Provinces
+2.0,1.0,720.0,0.07,Residential,125000,4716 54 Street ,AB,Prairie Provinces
+2.0,2.0,935176.0,7.98,Single,699900,26515 Township Road 514 3,AB,Prairie Provinces
+3.0,2.0,914.0,.163,Single,155000,4329 53 Street ,AB,Prairie Provinces
+2.0,1.0,814835.0,0.21,Single,79900,26510 Twp Rd 611 ,AB,Prairie Provinces
+2.0,1.0,1024.0,,Other,22500,4922 Womacks Road 61,AB,Prairie Provinces
+4.0,3.0,2120508.0,.184,Single,210000,50 ST 4924,AB,Prairie Provinces
+2.0,1.0,1426.0,0.11,Residential,990000,302 Cottage Road ,AB,Prairie Provinces
+2.0,2.0,785.0,.169,Single,688888,7728 Bowness Road NW ,AB,Prairie Provinces
+2.0,1.0,64575.0,.166,Single,55000,5024 50 Avenue ,AB,Prairie Provinces
+2.0,2.0,860044.0,0.34,Single,799000,17 &19 Grandview BE ,AB,Prairie Provinces
+3.0,3.0,1563363.0,0.24,Single,988000,131 Silver Beach ,AB,Prairie Provinces
+4.0,1.0,1695.0,.145,Single,89998,"Lot 15,16 2nd St. 15",AB,Prairie Provinces
+1.0,1.0,3667.0,0.99,Residential,550000,465021 Range Road 61 1,AB,Prairie Provinces
+5.0,2.0,1097928.0,,Single,205000,99 ST 9732,AB,Prairie Provinces
+3.0,2.0,1347.0,0.07,Single,299900,2612 80 Avenue SE ,AB,Prairie Provinces
+3.0,2.0,1175.0,,Single,20000,"51, 810 56 Street 51",AB,Prairie Provinces
+3.0,1.0,949.0,,Single,23900,"298, 133 Jarvis Street 298",AB,Prairie Provinces
+1.0,1.0,,,Single,269900,454029 RANGE RD 11 BEND 10,AB,Prairie Provinces
+2.0,2.0,1524.0,.143,Single,109900,307 3 Avenue W ,AB,Prairie Provinces
+1.0,1.0,819.0,.138,Single,72000,4922 51 Avenue ,AB,Prairie Provinces
+3.0,2.0,1012031.0,.085,Single,349900,740 JOHNS RD NW ,AB,Prairie Provinces
+6.0,4.0,2506.0,1.87,Residential,1250000,40422 Range Road 10 236,AB,Prairie Provinces
+3.0,1.0,84199.0,.133,Single,509000,515 33 Avenue NE ,AB,Prairie Provinces
+2.0,2.0,133206.0,0.87,Single,1550000,155 White Avenue W ,AB,Prairie Provinces
+2.0,1.0,600.0,,Single,22000,34 Shand Trailer Park Park ,AB,Prairie Provinces
+2.0,1.0,951538.0,,Single,22000,32 Greenwood MHP ,AB,Prairie Provinces
+3.0,2.0,1571544.0,6.18,Single,2495000,663037 Rge Rd 212,AB,Prairie Provinces
+3.0,1.0,1179.0,,Single,41500,"19, 134 Village Way 19",AB,Prairie Provinces
+3.0,1.0,1176.0,1.43,Residential,69000,4614 50 Street ,AB,Prairie Provinces
+3.0,1.0,932.0,.138,Single,114000,#216 2nd Avenue  SW ,AB,Prairie Provinces
+1.0,1.0,825.0,0.12,Single,449000,252 19 Avenue NE ,AB,Prairie Provinces
+4.0,5.0,2228.0,.175,Single,874900,15906 103 Street ,AB,Prairie Provinces
+2.0,1.0,1360031.0,,Single,29500,305 CALAHOO RD 124,AB,Prairie Provinces
+2.0,,3666972.0,0.99,Single,550000,"1, 465021 Rge Rd 61 - Greystones 1",AB,Prairie Provinces
+5.0,4.0,2198.0,>0.2,Residential,629000,212 Lake Stafford Drive E ,AB,Prairie Provinces
+4.0,2.0,1823.0,0.21,Residential,279000,5218 53 Street ,AB,Prairie Provinces
+3.0,3.0,1749042.0,>0.4,Single,589000,5028 Lakeview DR ,AB,Prairie Provinces
+2.0,1.0,866.0,,Other,49500,6834 59 Avenue 107,AB,Prairie Provinces
+3.0,4.0,1832033.0,.157,Single,1050000,31 EASTON CL ,AB,Prairie Provinces
+4.0,1.0,1266169.0,0.41,Single,295000,52059 RGE RD 220 84,AB,Prairie Provinces
+6.0,5.0,2816.0,6.16,Single,1499999,35156 Township Road 262 ,AB,Prairie Provinces
+5.0,6.0,4629.0,3.14,Single,2199800,61035A Township Road 704A ,AB,Prairie Provinces
+3.0,2.0,1155.0,,Single,59000,"128, 812 6 Avenue SW 128",AB,Prairie Provinces
+1.0,1.0,897.0,0.16,Residential,70000,4901 53 Avenue ,AB,Prairie Provinces
+3.0,2.0,1200.0,,Single,72900,"124, 404 6 Avenue 124",AB,Prairie Provinces
+4.0,3.0,1851.0,1.08,Residential,547000,150 9 Street NW ,AB,Prairie Provinces
+3.0,1.0,169535.0,.429,Single,350000,11330 86 Street SE ,AB,Prairie Provinces
+3.0,3.0,1821.0,0.52,Residential,212000,28 Selkirk Avenue ,AB,Prairie Provinces
+5.0,4.0,1887.0,.358,Single,420000,4 Sunset Drive ,AB,Prairie Provinces
+2.0,2.0,1296.0,.551,Single,210000,221 2 Avenue ,AB,Prairie Provinces
+4.0,3.0,1452.0,>0.2,Residential,699999,7404 Elbow Drive SW ,AB,Prairie Provinces
+4.0,3.0,1535.0,3.44,Single,269000,104051 HWY 671 Highway 18,AB,Prairie Provinces
+5.0,3.0,1321.0,ng>2,Single,455000,56416 Range Rd 142 ,AB,Prairie Provinces
+4.0,2.0,972.0,0.65,Single,79900,740 Highway 103,AB,Prairie Provinces
+3.0,2.0,20772.0,6.85,Single,1899000,230146 Rge Rd 51A,AB,Prairie Provinces
+3.0,2.0,1151748.0,,Single,108000,309 Maple Wood DR NW ,AB,Prairie Provinces
+3.0,1.0,1466.0,.138,Single,55000,#222 4th Avenue SW ,AB,Prairie Provinces
+2.0,2.0,1790.0,0.55,Residential,129000,103 3 Street ,AB,Prairie Provinces
+4.0,4.0,3559117.0,3.11,Single,949900,472016 RGE RD 241,AB,Prairie Provinces
+2.0,1.0,1450.0,ng>4,Single,349900,"1-3, 26016 Highway 11 ",AB,Prairie Provinces
+3.0,1.0,816019.0,,Single,59900,53 AV 5011,AB,Prairie Provinces
+2.0,1.0,68091.0,.126,Single,90000,236 First Avenue W ,AB,Prairie Provinces
+4.0,3.0,1188.0,0.21,Residential,199000,4615 49 Street ,AB,Prairie Provinces
+3.0,1.0,972743.0,,Single,39900,578 Evergreen ST NW ,AB,Prairie Provinces
+3.0,2.0,1170.0,.157,Single,195000,10506 99 Ave ,AB,Prairie Provinces
+1.0,1.0,980.0,,Single,42000,"46, 9301 102 Street 46",AB,Prairie Provinces
+5.0,4.0,3019948.0,0.55,Single,899900,51025 RGE RD 222 22,AB,Prairie Provinces
+7.0,10.0,5841.0,9.17,Residential,2900000,40090 Retreat Road ,AB,Prairie Provinces
+3.0,3.0,2400.0,5.75,Single,1695000,653094 Range Road 173.3 Range ,AB,Prairie Provinces
+7.0,4.0,28434.0,1.38,Single,899900,53105 Highway 47 ,AB,Prairie Provinces
+2.0,1.0,8838.0,.208,Single,179000,128 Dufferin Street ,AB,Prairie Provinces
+5.0,6.0,845782.0,0.48,Residential,1975000,95037 Range Rd. Other S ,AB,Prairie Provinces
+2.0,2.0,830.0,0.28,Single,259000,5019 49 Avenue ,AB,Prairie Provinces
+3.0,3.0,1224405.0,.126,Single,299900,11612 145 AV NW ,AB,Prairie Provinces
+3.0,1.0,1073.0,,Single,89000,"239, 133 Jarvis Street 239",AB,Prairie Provinces
+4.0,1.0,111925.0,0.14,Single,164900,5018 47 Street ,AB,Prairie Provinces
+3.0,3.0,1256.0,.155,Single,88000,4928 58  Avenue ,AB,Prairie Provinces
+1.0,1.0,3667.0,0.99,Single,550000,"1, 465021 Range Road 61 1",AB,Prairie Provinces
+3.0,1.0,672.0,0.14,Residential,105000,5102 52 Street ,AB,Prairie Provinces
+3.0,2.0,1322.0,14.8,Single,360000,14541 TWP Rd 28-4 ,AB,Prairie Provinces
+5.0,3.0,151789.0,>160,Single,1800000,30457 Rge Rd 44,AB,Prairie Provinces
+4.0,3.0,2579.0,6.68,Single,2450000,116 Pine Creek Road ,AB,Prairie Provinces
+3.0,2.0,1872936.0,6.77,Single,425000,56417 RR 224 ,AB,Prairie Provinces
+3.0,1.0,924.0,,Single,29900,"138, 133 Jarvis Street 138",AB,Prairie Provinces
+5.0,4.0,250273.0,g>40,Single,1995000,276156 32 Street E ,AB,Prairie Provinces
+2.0,1.0,117198.0,6.61,Single,353000,54402 Range Road 154 ,AB,Prairie Provinces
+2.0,2.0,1005.0,0.16,Residential,122500,5140 52 Avenue ,AB,Prairie Provinces
+3.0,1.0,1130973.0,3.03,Single,449900,54150 RGE RD 224 265,AB,Prairie Provinces
+3.0,3.0,2304.0,9.79,Single,1300000,264184 Lochend Road ,AB,Prairie Provinces
+2.0,1.0,923982.0,,Single,19900,12604 153 AV NW 15,AB,Prairie Provinces
+4.0,4.0,3325.0,4.03,Single,1249000,187 Hill Spring Meadows ,AB,Prairie Provinces
+1.0,1.0,468987.0,.175,Single,100000,125 Lakeshore DR ,AB,Prairie Provinces
+2.0,1.0,994.0,.143,Single,80000,307 7 Avenue W ,AB,Prairie Provinces
+1.0,1.0,490623.0,,Single,69900,53 AV 5106,AB,Prairie Provinces
+2.0,2.0,1646.0,>157,Single,1250000,31229 Range Road 32 ,AB,Prairie Provinces
+2.0,1.0,873.0,.143,Single,48500,106 4 Avenue E ,AB,Prairie Provinces
+3.0,2.0,1419.0,0.12,Residential,1499000,609 Caribou Street ,AB,Prairie Provinces
+3.0,2.0,1886.0,5.95,Single,269000,77 1 AVE ,AB,Prairie Provinces
+3.0,2.0,1148.0,.059,Single,309900,74 Valarosa Drive ,AB,Prairie Provinces
+2.0,2.0,1461.0,.241,Single,129900,4220 50 Street ,AB,Prairie Provinces
+4.0,1.0,1183.0,.143,Single,89900,5409 51 Street ,AB,Prairie Provinces
+4.0,2.0,1188.0,>6.4,Single,699995,244 Range Road 193035,AB,Prairie Provinces
+4.0,5.0,3644.0,17.7,Single,849900,"221078 RR220 221078 RR 220 Rural  Wheatland County,AB  T0J0S0  E 221078220",AB,Prairie Provinces
+6.0,4.0,395986.0,1.78,Single,1495000,50461 Range Road 233 100,AB,Prairie Provinces
+3.0,2.0,912.0,,Residential,92500,4442 Park Crescent ,AB,Prairie Provinces
+2.0,1.0,1520.0,3.83,Single,262000,853045 HWY 35 ,AB,Prairie Provinces
+3.0,1.0,952.0,,Other,16900,6834 59 Avenue Avenue 114,AB,Prairie Provinces
+2.0,4.0,10285.0,4.99,Single,200000,48504 Range Road 60 ,AB,Prairie Provinces
+4.0,6.0,5667031.0,.237,Single,1499900,5009 DONSDALE DR NW NW ,AB,Prairie Provinces
+2.0,2.0,107231.0,,Single,49000,9501 104 AV 29,AB,Prairie Provinces
+3.0,2.0,1151963.0,,Single,57700,469 Horse Hills Creek CR NW ,AB,Prairie Provinces
+3.0,3.0,2730.0,1.64,Single,975000,653094 Range Road 173.3 Range ,AB,Prairie Provinces
+4.0,1.0,1124.0,0.14,Residential,60000,4827 51 Street ,AB,Prairie Provinces
+2.0,2.0,228003.0,1.03,Single,599000,52318 RGE RD 25 51,AB,Prairie Provinces
+5.0,3.0,2535998.0,0.56,Single,578800,49 AV 5201,AB,Prairie Provinces
+2.0,1.0,1450.0,ng>4,Residential,349900,26016 Highway 11 1-3,AB,Prairie Provinces
+1.0,1.0,987.0,.149,Single,224900,10017 Fraser Avenue ,AB,Prairie Provinces
+1.0,1.0,1203953.0,,Single,95000,49 AV 4923,AB,Prairie Provinces
+1.0,1.0,601708.0,45.9,Single,749000,54501 Ste Anne Trail ,AB,Prairie Provinces
+3.0,2.0,1419.0,,Single,76000,"138, 6724 17 Avenue SE 138",AB,Prairie Provinces
+3.0,2.0,1008.0,.165,Single,180000,10901 92 Street ,AB,Prairie Provinces
+3.0,2.0,822.0,0.15,Residential,179900,138 12 Street SE ,AB,Prairie Provinces
+3.0,1.0,799.0,0.16,Single,79900,11220 107 Avenue ,AB,Prairie Provinces
+4.0,3.0,99458.0,0.13,Residential,199000,204 2nd Ave E ,AB,Prairie Provinces
+4.0,2.0,1553.0,>9.3,Single,435000,67104 Mission Road ,AB,Prairie Provinces
+1.0,2.0,648962.0,.091,Single,154900,11505 96 ST NW ,AB,Prairie Provinces
+4.0,3.0,2979.0,.839,Single,1950000,306002 112 Street E ,AB,Prairie Provinces
+5.0,3.0,1647.0,6.49,Single,1050000,101077 Hwy 672 ,AB,Prairie Provinces
+3.0,1.0,1036.0,.138,Single,140000,4612 48B Ave ,AB,Prairie Provinces
+4.0,3.0,1568207.0,,Single,224900,9539 110 AV NW ,AB,Prairie Provinces
+6.0,5.0,3167845.0,,Single,1665000,4521 Mead CO NW ,AB,Prairie Provinces
+2.0,1.0,715.0,,Other,35000,28 Parkview Avenue ,AB,Prairie Provinces
+7.0,5.0,2850.0,.167,Single,899900,128 Beaverlodge Close ,AB,Prairie Provinces
+5.0,2.0,1358.0,,Other,29900,4922 Womacks Road 7,AB,Prairie Provinces
+2.0,1.0,1080.0,0.14,Residential,49000,213 1st Avenue E ,AB,Prairie Provinces
+2.0,1.0,1031.0,0.31,Residential,39900,5025 53 Street ,AB,Prairie Provinces
+3.0,1.0,1224.0,0.34,Residential,74999,409 2 Avenue W ,AB,Prairie Provinces
+5.0,4.0,2851.0,>132,Residential,895000,54048 Highway 598 ,AB,Prairie Provinces
+6.0,5.0,5701045.0,2.97,Single,1999888,22459 TWP RD 530 121,AB,Prairie Provinces
+4.0,4.0,,2.28,Farm,895000,54048 Highway 598 ,AB,Prairie Provinces
+2.0,1.0,1016.0,,Other,35900,4504 41 Street 12,AB,Prairie Provinces
+3.0,3.0,1582308.0,.066,Single,444900,1203 WATT DR SW ,AB,Prairie Provinces
+3.0,1.0,1140.0,,Other,37500,87 Greenbrook Village ,AB,Prairie Provinces
+1.0,1.0,554.0,.138,Single,55000,4816 54 Avenue ,AB,Prairie Provinces
+5.0,3.0,1918.0,7.03,Single,1699000,274095 64 Street E ,AB,Prairie Provinces
+3.0,2.0,1299968.0,ng>1,Single,513900,17447 Victoria Trail ,AB,Prairie Provinces
+2.0,1.0,908.0,.143,Single,69900,314 7 Avenue W ,AB,Prairie Provinces
+2.0,1.0,134001.0,4.27,Single,299900,59501 Rge Rd 460 1,AB,Prairie Provinces
+4.0,3.0,1232478.0,,Single,120000,10 Hillside AV ,AB,Prairie Provinces
+3.0,2.0,1220.0,,Residential,68900,9707 102nd Street ,AB,Prairie Provinces
+3.0,1.0,1038.0,.161,Single,84900,801 9TH AVENUE ,AB,Prairie Provinces
+3.0,2.0,1144.0,,Residential,199000,4902 45 Street ,AB,Prairie Provinces
+3.0,3.0,2488.0,01.1,Residential,1499900,28444 Highway 592 ,AB,Prairie Provinces
+3.0,2.0,1219884.0,7.46,Single,699000,49068 Highway 21 ,AB,Prairie Provinces
+3.0,3.0,1288.0,2.02,Residential,990000,260059 Township Road 442 ,AB,Prairie Provinces
+4.0,2.0,1468.0,9.88,Single,1224900,323023 Range Road 241 ,AB,Prairie Provinces
+3.0,1.0,1072.0,,Single,89900,901 4 Avenue ,AB,Prairie Provinces
+4.0,2.0,1073.0,9.41,Farm,2400000,28120 Township Road 381A ,AB,Prairie Provinces
+1.0,1.0,500526.0,,Single,79900,50 ST 4908,AB,Prairie Provinces
+4.0,5.0,4564.0,3.26,Single,2000000,7510 4 AVE ,AB,Prairie Provinces
+6.0,4.0,5877.0,2.72,Residential,1785000,873 Rivers Edge Drive ,BC,West Coast
+4.0,,4181.0,7.89,Residential,1995000,2651 ALBERNI Hwy ,BC,West Coast
+3.0,3.0,2880.0,5.01,Single,750000,6765 CRANBROOK HILL ROAD ,BC,West Coast
+3.0,2.0,1200.0,0.33,Residential,249000,112 Nystrom Road ,BC,West Coast
+,,,,Residential,1300000,7.25 Acres in Ok Fall ,BC,West Coast
+,,,,Residential,289000,Lot 11 Stoddart Estates Drive ,BC,West Coast
+2.0,1.0,9900.0,>320,Residential,625000,8985 Crescent Spur Road ,BC,West Coast
+4.0,3.0,3030.0,9.25,Residential,1249900,4767 97A ,BC,West Coast
+4.0,2.0,2480.0,>7.3,Residential,629000,3540 Kettle Valley Road E ,BC,West Coast
+5.0,3.0,3600.0,17.2,Residential,989900,5280 Highway 6 ,BC,West Coast
+2.0,,595.0,0.35,Other,349900,215 Link Lake Road ,BC,West Coast
+5.0,6.0,5550.0,g>15,Residential,5365000,2470 Glenmore Road N ,BC,West Coast
+2.0,2.0,1350.0,,Residential,329000,10-2095 BOUCHERIE ROAD ,BC,West Coast
+4.0,2.0,1920.0,.133,Residential,549999,270 Cariboo Avenue ,BC,West Coast
+5.0,3.0,3120.0,>306,Residential,1975000,4685 Hwy 3 ,BC,West Coast
+,,2557.0,,Residential,1349000,2760 Yankee Flats rd. ,BC,West Coast
+3.0,2.0,2496.0,1.75,Residential,446000,2405 Lloyd Road  ,BC,West Coast
+3.0,3.0,5000.0,2.14,Residential,900000,5325 Riding Club Road ,BC,West Coast
+4.0,4.0,5606.0,1.11,Single,1599000,"5189 Sunnybrae Canoe Pt Road, ",BC,West Coast
+3.0,2.0,2150.0,,Single,2499000,9982 SAUNDERS STREET ,BC,West Coast
+4.0,2.0,2480.0,>7.3,Single,629000,"3540 KETTLE VALLEY Road, ",BC,West Coast
+3.0,1.0,1103.0,0.21,Residential,599900,2128 Boxwood Rd ,BC,West Coast
+3.0,2.0,1930.0,2.92,Single,1249900,2298 Calais Rd ,BC,West Coast
+7.0,3.0,86445684.0,23.8,Single,5900000,24375 80 AVENUE ,BC,West Coast
+3.0,2.0,2277.0,1.49,Single,1590000,"7191 ISLAND WAY Road, ",BC,West Coast
+4.0,2.0,1800.0,.094,Single,1199000,1776 LANGAN AVENUE ,BC,West Coast
+2.0,2.0,1930.0,6.98,Single,1499000,2982 Smith Rd ,BC,West Coast
+3.0,2.0,1530.0,0.95,Single,1125000,1559 PARK AVENUE ,BC,West Coast
+2.0,1.0,669.0,.138,Single,94900,"701 97 Avenue, ",BC,West Coast
+2.0,1.0,1774.0,6.26,Single,675000,8072/8080 CENTENNIAL DRIVE ,BC,West Coast
+4.0,1.0,2442.0,2.39,Single,1950000,979 Thunder Rd ,BC,West Coast
+2.0,1.0,850.0,.114,Single,799879,46259 FIRST AVENUE ,BC,West Coast
+4.0,4.0,54928692.0,.454,Single,15250000,17147 24 AVENUE ,BC,West Coast
+4.0,2.0,2191.0,0.27,Single,799000,"721 Swansea Point Road, ",BC,West Coast
+2.0,3.0,2368.0,0.78,Residential,1395000,5003 Thompson Clarke Dr W ,BC,West Coast
+4.0,3.0,2982.0,.705,Single,8900000,1297 184 STREET ,BC,West Coast
+3.0,2.0,2352.0,0.29,Single,55000,912 C'STAINAC WAY ,BC,West Coast
+4.0,4.0,2408.0,1.46,Single,999000,"5255 Schneider Place, ",BC,West Coast
+5.0,2.0,1770.0,,Single,179000,"1324 102 Avenue, ",BC,West Coast
+5.0,5.0,3106.0,2.02,Single,1750000,25890 FIELD ROAD ,BC,West Coast
+3.0,2.0,1400.0,.228,Single,54900,5227 44 STREET ,BC,West Coast
+4.0,3.0,2578.0,0.72,Single,2229000,670 Sunset Dr ,BC,West Coast
+3.0,3.0,1710.0,.097,Single,1098888,15576 96B AVENUE ,BC,West Coast
+,,,9.03,Single,125000,"775 WILLIS Road, ",BC,West Coast
+7.0,4.0,5032.0,2.52,Single,1050000,"4621 Trepanier Road, ",BC,West Coast
+4.0,2.0,1895.0,.273,Single,3600000,2750 MOUNTAIN HIGHWAY ,BC,West Coast
+3.0,2.0,2563.0,.251,Single,1499000,5115 7B AVENUE ,BC,West Coast
+5.0,2.0,2452.0,.253,Single,1599000,8655 GILLEY AVENUE ,BC,West Coast
+2.0,1.0,850.0,.095,Single,1199999,966 MAPLE STREET ,BC,West Coast
+5.0,4.0,,4.78,Single,1399999,606 UPPER PARKVIEW ROAD ,BC,West Coast
+5.0,3.0,3600.0,17.2,Single,989900,"6 Highway, 5280",BC,West Coast
+6.0,6.0,7535.0,.396,Single,13988000,1411 MINTO CRESCENT ,BC,West Coast
+5.0,3.0,,17.2,Single,989900,5280 HIGHWAY 6 HIGHWAY ,BC,West Coast
+4.0,3.0,3064.0,.184,Single,1150000,"324 Rexor Place, ",BC,West Coast
+5.0,4.0,3485.0,.234,Single,1998800,1553 161 STREET ,BC,West Coast
+4.0,3.0,2430.0,.243,Single,1499000,5638 9A AVENUE ,BC,West Coast
+5.0,6.0,2986.0,1.11,Single,1450888,"6226 Okanagan Avenue, ",BC,West Coast
+3.0,1.0,,.144,Single,349000,414 7TH AVENUE ,BC,West Coast
+7.0,5.0,,.478,Single,1999900,8381 RICHARDSON CRESCENT ,BC,West Coast
+3.0,2.0,1466.0,.277,Single,1000000,"2208 PRINCETON/S'LAND Road, ",BC,West Coast
+5.0,4.0,4472.0,.154,Single,4999000,705 W 60TH AVENUE ,BC,West Coast
+4.0,,5445.0,,Residential,13388000,3033-3055 Marine Drive ,BC,West Coast
+3.0,1.0,2834.0,0.64,Single,345000,43242 BLAKE ROAD ,BC,West Coast
+5.0,4.0,4596.0,1.73,Single,2399000,12238 269 STREET ,BC,West Coast
+6.0,3.0,3960.0,1.37,Single,1500900,29912 SILVERDALE AVENUE ,BC,West Coast
+4.0,2.0,2192.0,0.14,Single,649000,560 6th Ave ,BC,West Coast
+3.0,1.0,1014.0,1.06,Single,224900,4032 HILLS FRONTAGE ROAD ,BC,West Coast
+2.0,1.0,,.149,Single,435000,922 8TH AVENUE ,BC,West Coast
+2.0,1.0,1093.0,9.92,Single,219000,6502 LITTLE FORT 24 HIGHWAY ,BC,West Coast
+3.0,2.0,,0.25,Single,379900,2820 KOKANEE DRIVE ,BC,West Coast
+5.0,2.0,2580.0,9.54,Single,8888000,17731 WESTMINSTER HIGHWAY ,BC,West Coast
+1.0,1.0,1040.0,1.07,Single,425000,15005 MARSHALL LAKE RD ,BC,West Coast
+,3.0,2756.0,.218,Single,699900,6249 MARINE AVE ,BC,West Coast
+4.0,3.0,2557.0,6.64,Single,1349000,"2760 Yankee Flats Road, ",BC,West Coast
+3.0,2.0,2640.0,.184,Single,1200000,1425 Helen Rd ,BC,West Coast
+6.0,3.0,4650.0,0.51,Single,1399900,552 AYLMER ROAD ,BC,West Coast
+5.0,4.0,2806.0,4.42,Single,1299900,"235 GREASEWOOD Avenue, ",BC,West Coast
+4.0,6.0,4740.0,0.23,Residential,6999000,7441 TREETOP LANE ,BC,West Coast
+4.0,3.0,3373.0,0.96,Single,2199000,23517 132 AVENUE ,BC,West Coast
+3.0,1.0,1170.0,>0.5,Single,179000,14500 UPPER FRASER ROAD ,BC,West Coast
+,,,2.28,Single,4300000,8469 KING GEORGE BOULEVARD ,BC,West Coast
+4.0,2.0,2058.0,0.55,Single,1600000,13292 232 STREET ,BC,West Coast
+2.0,2.0,1350.0,0.35,Single,2200000,49362 NEVILLE ROAD ,BC,West Coast
+4.0,3.0,2700.0,1.13,Single,1500000,"9178 Clancy Frontage Road, ",BC,West Coast
+4.0,2.0,,0.97,Single,349000,1737 13TH AVENUE ,BC,West Coast
+4.0,3.0,5974.0,>7.4,Single,1699000,"2388 Lawrence Road, ",BC,West Coast
+5.0,4.0,3098.0,.202,Single,2349000,402 GUILBY STREET ,BC,West Coast
+6.0,5.0,5131.0,1.49,Single,2949000,6262 MULLIGAN DRIVE ,BC,West Coast
+4.0,3.0,,ng>1,Single,649000,7747 BOUNDARY DRIVE ,BC,West Coast
+1.0,2.0,2024.0,2.03,Single,149000,852 MACKENZIE HIGHWAY ,BC,West Coast
+2.0,1.0,579.0,.322,Single,1199000,4945 224 STREET ,BC,West Coast
+7.0,4.0,4004.0,,Single,998000,8 SENNOK CRESCENT ,BC,West Coast
+3.0,1.0,1248.0,.188,Single,3100000,278 ALLISON STREET ,BC,West Coast
+4.0,3.0,3874.0,>4.9,Single,3998600,7714 216 STREET ,BC,West Coast
+9.0,7.0,6575.0,.487,Single,2280000,"2523 Lucinde Road, ",BC,West Coast
+3.0,1.0,1001.0,,Single,219900,1353 FOORT ROAD ,BC,West Coast
+4.0,3.0,2944.0,>320,Single,4500000,"602 Highway 3A, 3A",BC,West Coast
+3.0,3.0,1716.0,.065,Single,1090000,"8192 97A Highway, LS-17",BC,West Coast
+7.0,5.0,2810.0,.138,Single,1499000,6009 131 STREET ,BC,West Coast
+3.0,2.0,11101.0,2.02,Single,2398000,774 Cliffe Rd ,BC,West Coast
+5.0,3.0,1695.0,,Single,119000,"52 SUKUNKA Place, ",BC,West Coast
+3.0,1.0,,ng>5,Single,749900,6364 YOUNGS ROAD ,BC,West Coast
+1.0,1.0,845.0,.174,Single,899333,10445 140B STREET ,BC,West Coast
+4.0,2.0,2168.0,1.98,Single,1050000,3491 SUNSHINE COAST HIGHWAY ,BC,West Coast
+5.0,2.0,2535.0,11.4,Single,1349000,10585 CHEMAINUS Rd ,BC,West Coast
+6.0,4.0,5650.0,1.17,Single,3998000,"2251 Boucherie Road, ",BC,West Coast
+2.0,1.0,,88.5,Single,399900,DL 10026 NEEDLES NORTH RD ,BC,West Coast
+4.0,4.0,4431.0,2.58,Single,1700000,"14075 MOBERLY Road, ",BC,West Coast
+2.0,1.0,,0.79,Single,449900,16622 MARQUISE STREET ,BC,West Coast
+1.0,2.0,1260.0,9.88,Single,325000,2886 SPOUT LAKE ROAD ,BC,West Coast
+2.0,1.0,1090.0,>0.2,Single,180000,1152 MACKENZIE AVENUE ,BC,West Coast
+3.0,2.0,2100.0,0.56,Single,389999,"538 TAYLOR Way, ",BC,West Coast
+4.0,2.0,1600.0,.061,Single,1288000,7440 MAIN STREET ,BC,West Coast
+5.0,8.0,4778.0,0.17,Single,3990000,1057 W 43RD AVENUE ,BC,West Coast
+4.0,4.0,3281.0,.125,Single,3950000,3388 COLUMBIA STREET ,BC,West Coast
+4.0,5.0,5897.0,0.47,Single,2175000,2650 THOMPSON DRIVE ,BC,West Coast
+5.0,3.0,2945.0,6.65,Single,4199000,390 DILL ROAD ,BC,West Coast
+4.0,2.0,2401.0,.516,Single,2388800,2078 PEARDONVILLE ROAD ,BC,West Coast
+4.0,3.0,2500.0,.591,Single,1799900,12742 CARR STREET ,BC,West Coast
+4.0,3.0,3456.0,8.56,Single,949000,"2134 Yankee Flats Road, ",BC,West Coast
+5.0,4.0,2980.0,9.85,Single,6100000,4245 41B STREET ,BC,West Coast
+3.0,2.0,2012.0,g>32,Single,2400000,"18255 HWY 3, 3",BC,West Coast
+3.0,2.0,1829.0,1.56,Single,618300,"2920 HWY 3, 3",BC,West Coast
+3.0,3.0,,.316,Single,749000,309 KOOTENAY STREET ,BC,West Coast
+6.0,6.0,7064.0,.951,Single,5399000,"4211 WILLIAMS Avenue, ",BC,West Coast
+3.0,1.0,1400.0,>1.7,Single,237000,3425 HENDRIX ROAD ,BC,West Coast
+2.0,2.0,1152.0,.207,Single,189000,"907 121 Avenue, ",BC,West Coast
+1.0,1.0,600.0,.024,Single,359000,"623 Swanson Place, 8",BC,West Coast
+3.0,2.0,768.0,3.82,Single,1499900,11849 STATIM STREET ,BC,West Coast
+2.0,2.0,,0.77,Single,699000,103 NYBERG ROAD ,BC,West Coast
+4.0,3.0,3326.0,.463,Single,3900000,1332 133A STREET ,BC,West Coast
+4.0,2.0,3484.0,3.29,Single,1599000,"2290 Skimikin Road, ",BC,West Coast
+4.0,4.0,2574.0,>320,Single,4500000,"602 HWY 3A, 3A",BC,West Coast
+2.0,1.0,704.0,.077,Single,199000,3916 ALFRED AVENUE ,BC,West Coast
+4.0,4.0,7203.0,.571,Single,11888000,672 BEACHVIEW DRIVE ,BC,West Coast
+2.0,1.0,612.0,,Single,1199999,962 MAPLE STREET ,BC,West Coast
+3.0,2.0,1643.0,.068,Single,1349000,2758 FRANKLIN STREET ,BC,West Coast
+6.0,4.0,3442.0,0.17,Single,3498000,960 LEYLAND STREET ,BC,West Coast
+1.0,2.0,3840.0,0.08,Single,990000,444 CLEARWATER VALLEY ROAD ,BC,West Coast
+1.0,1.0,1100.0,g>13,Single,149900,3194 LITTLE LAKE-QUESNEL RIVER ROAD ,BC,West Coast
+3.0,6.0,5775.0,>500,Single,5995000,"5760 CHRISTIAN VALLEY Road, ",BC,West Coast
+5.0,2.0,2216.0,0.68,Single,599900,1655 20th St ,BC,West Coast
+2.0,1.0,672.0,,Single,88800,6911 SAVONA ACCESS ROAD 4,BC,West Coast
+3.0,1.0,,0.24,Single,309900,733 KIMBERLEY AVENUE N ,BC,West Coast
+2.0,2.0,1200.0,.152,Single,224900,1705 INGLEDEW STREET ,BC,West Coast
+4.0,4.0,2762.0,ng>1,Single,3390000,7290 208 STREET ,BC,West Coast
+5.0,4.0,5403.0,0.87,Single,4775000,2290 Kedge Anchor Rd ,BC,West Coast
+2.0,2.0,,0.73,Single,1275000,606 JORGENSEN ROAD ,BC,West Coast
+6.0,6.0,4010.0,0.15,Single,5980000,3741 W 37TH AVENUE ,BC,West Coast
+4.0,2.0,,0.21,Single,789000,702 LATIMER STREET ,BC,West Coast
+5.0,3.0,3187.0,0.48,Single,1499900,"1527 MacLeay Court, ",BC,West Coast
+2.0,1.0,727.0,88.5,Single,399900,"DL 10026 Needles Road, N ",BC,West Coast
+2.0,1.0,1702.0,0.17,Single,159900,48200 COTTONWOOD ROAD ,BC,West Coast
+4.0,2.0,1768.0,0.64,Single,999000,"950 Lundell Road, ",BC,West Coast
+2.0,1.0,930.0,8.43,Single,1999000,"7252-7298 Pleasant Valley Road, ",BC,West Coast
+2.0,2.0,,.126,Single,259000,712 7TH AVENUE ,BC,West Coast
+6.0,2.0,2216.0,.277,Single,599900,2310 20th St ,BC,West Coast
+1.0,1.0,450.0,,Single,89000,6263 LUND STREET 20,BC,West Coast
+4.0,3.0,1760.0,0.16,Single,1700000,612 Pfeiffer Cres ,BC,West Coast
+4.0,2.0,2320.0,2.77,Single,3000000,25126 56 AVENUE ,BC,West Coast
+3.0,3.0,,9.01,Single,1100000,1522 AIRPORT ROAD ,BC,West Coast
+4.0,3.0,4185.0,6.87,Single,2950000,2566 Hastings Rd ,BC,West Coast
+4.0,3.0,2752.0,0.14,Single,2480000,2481 WILDING WAY ,BC,West Coast
+3.0,2.0,1636.0,0.45,Single,649900,"4119 Galligan Road, 25",BC,West Coast
+4.0,2.0,,0.22,Single,999000,2565 COLUMBIA AVENUE ,BC,West Coast
+2.0,2.0,1980.0,3.17,Single,1550000,24 HIGHWAY 7442,BC,West Coast
+4.0,3.0,2468.0,3.41,Single,1100000,2880 Bellshill Rd ,BC,West Coast
+3.0,1.0,1420.0,>175,Single,575000,8995 LOOS ROAD ,BC,West Coast
+5.0,8.0,6802.0,.293,Single,5999000,1507 PINECREST DRIVE ,BC,West Coast
+5.0,10.0,14956.0,.016,Single,8999999,"133 Ravine Drive, ",BC,West Coast
+5.0,2.0,1994.0,.161,Single,198000,"264 MURRAY Drive, ",BC,West Coast
+3.0,1.0,1968.0,3.31,Residential,899000,6446 Rimer Road ,BC,West Coast

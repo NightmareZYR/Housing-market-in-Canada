@@ -1,0 +1,123 @@
+Beds,Bath,Sqft,Lot_Size,Type,Price,Address,Province,Region
+5.0,1.0,1515.0,.198,Residential,95000,107 Kerr St ,NB,Atlantic region
+,,,,Residential,135000,Quarry Road ,NB,Atlantic region
+4.0,3.0,3790.0,ng>8,Residential,975000,47 Reeder ,NB,Atlantic region
+,,1080.0,,Residential,229900,"465 Williston Dr, Miramichi, E1V 5X8 ",NB,Atlantic region
+3.0,1.0,1664.0,,Residential,169000,302 Route 735 ,NB,Atlantic region
+4.0,2.0,4400.0,ng>2,Residential,975000,42-46 Burrell Rd. ,NB,Atlantic region
+2.0,1.0,872.0,0.19,Residential,199000,18 Kerrs Lake ,NB,Atlantic region
+,,,,Residential,79901,347 Halcomb Rd ,NB,Atlantic region
+,,,,Residential,159900,"Camp Bettsburg Road, Doaktown ",NB,Atlantic region
+4.0,2.0,,,Residential,89500,151 Union Street ,NB,Atlantic region
+2.0,1.0,700.0,,Single,69500,322 Grub RD ,NB,Atlantic region
+2.0,1.0,542.0,,Single,139900,76 Third AVE ,NB,Atlantic region
+3.0,1.0,1188.0,,Single,69900,236 Robichaud ,NB,Atlantic region
+6.0,2.0,,0.57,Single,199900,31 Avon Road ,NB,Atlantic region
+3.0,1.0,1145.0,,Single,139900,3906 Route 134 ,NB,Atlantic region
+3.0,2.0,,.316,Single,149000,132 School Street ,NB,Atlantic region
+4.0,3.0,2976.0,1.63,Single,299900,743 Rosedale Road ,NB,Atlantic region
+3.0,1.0,,,Single,71000,5120 Highway 108 ,NB,Atlantic region
+3.0,2.0,1482.0,>2.3,Single,53400,3229 Route 315 ,NB,Atlantic region
+1.0,1.0,,,Single,24900,1810 Bettsburg Road ,NB,Atlantic region
+3.0,2.0,,,Single,64900,1802 Route 107 ,NB,Atlantic region
+4.0,3.0,2525.0,,Single,328000,314 Intervale RD ,NB,Atlantic region
+2.0,1.0,686.0,,Single,49900,936 Royal RD ,NB,Atlantic region
+3.0,2.0,,g>45,Single,1495000,110 Cranberry Head Road ,NB,Atlantic region
+6.0,3.0,,ng>4,Single,699900,4355 Route 105 ,NB,Atlantic region
+3.0,1.0,1170.0,,Single,89000,7742 Rue St-Paul ,NB,Atlantic region
+7.0,4.0,1600.0,.417,Single,359000,25 Lyden Drive ,NB,Atlantic region
+3.0,1.0,1800.0,.988,Single,199000,7 Demerchant Road ,NB,Atlantic region
+4.0,1.0,,0.37,Single,79000,3092 Middle River ,NB,Atlantic region
+3.0,1.0,,1.37,Single,115900,23 Alphonse ,NB,Atlantic region
+2.0,2.0,,.318,Single,129900,52 Royal Road ,NB,Atlantic region
+4.0,2.0,1872.0,,Single,249900,118 Steeves Settlement RD ,NB,Atlantic region
+10.0,5.0,5708.0,,Single,100000,389 Principale Street ,NB,Atlantic region
+4.0,2.0,,2.52,Single,184500,231 Holtville Road ,NB,Atlantic region
+6.0,2.0,,.371,Single,109900,216 SUNBURY Drive ,NB,Atlantic region
+3.0,1.0,1119.0,,Single,130000,278 Main ST ,NB,Atlantic region
+3.0,3.0,2363.0,,Single,549900,21 Harvard CRT ,NB,Atlantic region
+3.0,1.0,1590.0,,Single,179000,2295 Acadie ,NB,Atlantic region
+3.0,1.0,3500.0,,Single,200000,61 Rue des Champs ,NB,Atlantic region
+3.0,1.0,,3.13,Single,259000,751 North Napan Road ,NB,Atlantic region
+4.0,3.0,1626.0,>1.4,Single,309000,10 Coady Street ,NB,Atlantic region
+4.0,1.0,1150.0,.806,Single,85000,106 Boul. St-Pierre Est ,NB,Atlantic region
+1.0,1.0,,,Single,55000,- Canton Club Brook Road ,NB,Atlantic region
+,1.0,,,Single,139900,190 Scott Siding Road ,NB,Atlantic region
+4.0,5.0,5000.0,.821,Single,975000,210 Bedell Avenue ,NB,Atlantic region
+3.0,2.0,2172.0,,Single,160000,493 2e Sault ,NB,Atlantic region
+4.0,3.0,,.075,Single,299900,45 Irishtown Road ,NB,Atlantic region
+1.0,1.0,902.0,1.73,Single,125000,16410 Route 105 ,NB,Atlantic region
+4.0,1.0,,,Single,79900,992 Rue Principale ,NB,Atlantic region
+2.0,1.0,,.025,Single,89900,290 Wentworth Street ,NB,Atlantic region
+3.0,1.0,1316.0,,Single,237500,17 Ch de la Cote ,NB,Atlantic region
+3.0,2.0,1702.0,,Single,166000,270 Bourgoin Road ,NB,Atlantic region
+3.0,1.0,1440.0,1.27,Single,320000,246 Bayview Drive ,NB,Atlantic region
+2.0,2.0,1584.0,,Single,189000,608 Enterprise Road ,NB,Atlantic region
+3.0,1.0,,ng>1,Single,180000,131 Vaillancourt Road ,NB,Atlantic region
+1.0,1.0,1056.0,,Single,164900,7256 Desherbiers RD ,NB,Atlantic region
+3.0,2.0,,.103,Single,65000,3195 Route 108 ,NB,Atlantic region
+,,987.0,,Single,49900,49 Goguen ,NB,Atlantic region
+2.0,3.0,1900.0,,Single,299900,69-71 Gordon ST ,NB,Atlantic region
+3.0,2.0,,>1.1,Single,449000,18 Old Orchard Lane ,NB,Atlantic region
+4.0,2.0,1500.0,,Single,129900,111 WHITE HEAD Road ,NB,Atlantic region
+4.0,2.0,1574.0,.023,Single,130000,203 Tobique Road ,NB,Atlantic region
+3.0,1.0,1731.0,,Single,399900,141 Stead LANE ,NB,Atlantic region
+4.0,1.0,,.125,Single,99900,1275 Route 107 ,NB,Atlantic region
+6.0,4.0,3600.0,1.98,Single,189000,922 Canada Road ,NB,Atlantic region
+2.0,1.0,964.0,,Single,349900,1536 Route 114 ,NB,Atlantic region
+3.0,1.0,1152.0,,Single,251910,69 Abbey's LANE ,NB,Atlantic region
+2.0,1.0,872.0,0.19,Single,199000,18 Kerrs Lake Road ,NB,Atlantic region
+3.0,1.0,1024.0,,Single,68900,8 Canvas Back Way ,NB,Atlantic region
+3.0,1.0,1120.0,,Single,384900,98 Coburg ,NB,Atlantic region
+3.0,2.0,2625.0,,Single,499900,150 Blanchard Trail ,NB,Atlantic region
+4.0,2.0,1981.0,ng>1,Single,199000,186 Main New Denmark Road ,NB,Atlantic region
+8.0,4.0,3200.0,,Single,155000,21 Pleasant ST ,NB,Atlantic region
+4.0,4.0,,>6.8,Single,349000,560 Route 3980,NB,Atlantic region
+4.0,2.0,2241.0,.401,Single,279000,312 Allain Street ,NB,Atlantic region
+5.0,2.0,,,Single,269900,3541 Westfield Road ,NB,Atlantic region
+2.0,2.0,918.0,,Single,474900,29 Islandview BLVD ,NB,Atlantic region
+4.0,2.0,,>0.2,Single,169000,266 St Pierre Est Boulevard ,NB,Atlantic region
+2.0,1.0,,.385,Single,39000,21 Robertson Brook Road ,NB,Atlantic region
+3.0,1.0,1168.0,.618,Single,89900,382 Route 636 ,NB,Atlantic region
+3.0,3.0,2653.0,,Single,449000,20 Airfield LANE ,NB,Atlantic region
+1.0,1.0,1150.0,,Single,299000,800 Gorge RD ,NB,Atlantic region
+3.0,2.0,,.423,Single,130000,420 BEULAH Road ,NB,Atlantic region
+3.0,1.0,621.0,,Single,115900,23 Alphonse ,NB,Atlantic region
+4.0,2.0,,.204,Single,149900,8526 Route 101 ,NB,Atlantic region
+2.0,1.0,,,Single,59000,46 Dwayne Avenue ,NB,Atlantic region
+3.0,3.0,,1.83,Single,675000,29 Lakeview Lane ,NB,Atlantic region
+6.0,3.0,2476.0,,Single,199900,52 Rue du Portage ,NB,Atlantic region
+2.0,1.0,,,Single,229900,465 Williston Drive ,NB,Atlantic region
+8.0,4.0,3171.0,,Single,199900,555 Route 530 ,NB,Atlantic region
+3.0,2.0,,,Single,49900,604 Charleston Road ,NB,Atlantic region
+3.0,1.0,,0.99,Single,64900,1443 Porter Cove Road ,NB,Atlantic region
+,,,,Single,2900000,85-95 Prospect Street ,NB,Atlantic region
+2.0,1.0,,.449,Single,74900,3631 Rte 540 ,NB,Atlantic region
+4.0,2.0,,.652,Single,108900,1764 Route 124 ,NB,Atlantic region
+3.0,2.0,,.356,Single,198900,8 Centennial Drive ,NB,Atlantic region
+4.0,2.0,,,Single,199900,2048 Route 315 ,NB,Atlantic region
+3.0,2.0,1412.0,.102,Single,130000,13586 Route 105 Route ,NB,Atlantic region
+4.0,3.0,2000.0,,Single,249000,4 Hill Street ,NB,Atlantic region
+2.0,1.0,992.0,,Single,124900,2 Southpine AVE ,NB,Atlantic region
+2.0,1.0,288.0,.356,Single,79900,60 Marine Drive ,NB,Atlantic region
+3.0,1.0,,,Single,60000,160 Upper Black River Road ,NB,Atlantic region
+3.0,1.0,925.0,,Single,39500,12 Ch Tilley Road ,NB,Atlantic region
+2.0,2.0,,>6.9,Single,185000,208 des Acadiens Boulevard ,NB,Atlantic region
+3.0,1.0,,.004,Single,84900,17 Crowhill Drive ,NB,Atlantic region
+2.0,1.0,,ng>1,Single,55000,78 Barter Settlement Road ,NB,Atlantic region
+11.0,5.0,4400.0,,Single,300000,53-55 Weldon ,NB,Atlantic region
+3.0,2.0,2400.0,g>64,Single,999900,799 Back Greenfield Road ,NB,Atlantic region
+3.0,2.0,906.0,,Single,75000,1 Baker Road ,NB,Atlantic region
+1.0,1.0,240.0,.988,Single,109000,95 Taint Lane ,NB,Atlantic region
+3.0,1.0,1176.0,,Single,75000,958 Route 495 ,NB,Atlantic region
+1.0,1.0,,,Single,159900,Camp Bettsburg Road ,NB,Atlantic region
+2.0,2.0,1989.0,0.18,Single,215000,59 Guerrette Street ,NB,Atlantic region
+2.0,1.0,,,Single,15000,68 Lester Road ,NB,Atlantic region
+6.0,2.0,,,Single,144000,111 Main Street ,NB,Atlantic region
+2.0,,1055.0,,Single,86900,3 Murray ,NB,Atlantic region
+8.0,8.0,,,Single,997000,146 Waterloo Row ,NB,Atlantic region
+2.0,1.0,,,Single,55000,19 Rioux ,NB,Atlantic region
+3.0,2.0,,.201,Single,349000,210 Wright Street ,NB,Atlantic region
+1.0,,,1.71,Single,39900,Lot 93-2 Pokiok Settlement Road ,NB,Atlantic region
+2.0,1.0,,3.22,Single,79000,848 Boul St Joseph ,NB,Atlantic region
+3.0,1.0,1125.0,,Single,129900,59 Schooner Cove Road ,NB,Atlantic region

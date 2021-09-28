@@ -1,0 +1,117 @@
+Beds,Bath,Sqft,Lot_Size,Type,Price,Address,Province,Region
+3,2,1211.0,,Residential,399900,5850 Prospect Road ,NS,Atlantic region
+3,1,1235.0,,Residential,129900,15 ROGERS Road ,NS,Atlantic region
+5,3,4100.0,8.36,Residential,889000,7594 221 Highway ,NS,Atlantic region
+3,2,1704.0,>0.1,Residential,210000,67 Milton Street ,NS,Atlantic region
+3,2,1881.0,,Residential,274900,949 Sandy Point Road ,NS,Atlantic region
+3,1,1248.0,,Residential,179900,714 Lower Cove Road ,NS,Atlantic region
+3,2,2452.0,.232,Residential,529900,19 Bobolink St ,NS,Atlantic region
+3,2,1608.0,2.54,Residential,299000,1843 Highway 1 Church Point ,NS,Atlantic region
+4,2,2016.0,,Residential,439900,502 Willow Street ,NS,Atlantic region
+2,1,1070.0,13.6,Residential,950000,284 Millers Road ,NS,Atlantic region
+4,3,2350.0,,Residential,500000,561 Portland Hills Drive ,NS,Atlantic region
+3,2,1920.0,,Residential,219000,3 Park Place ,NS,Atlantic region
+2,3,1715.0,,Residential,319000,127 Pinky Creek Road ,NS,Atlantic region
+1,1,1247.0,.321,Residential,235000,160 Henry Hensey Drive ,NS,Atlantic region
+4,1,1546.0,.193,Residential,209000,8376 Hwy 1 ,NS,Atlantic region
+4,1,1280.0,.819,Residential,89000,"367 Marc Comeau Road, St Benoni ",NS,Atlantic region
+3,3,3129.0,1.26,Residential,980000,86 Freddies Lane ,NS,Atlantic region
+4,6,6790.0,>2.7,Residential,3795000,137 Gannet Lane ,NS,Atlantic region
+1,2,1148.0,17.5,Residential,585000,3735 West Bay Highway ,NS,Atlantic region
+3,2,2730.0,,Single,989000,3907 Shore Road ,NS,Atlantic region
+3,2,905.0,,Single,124900,16 Oak Street ,NS,Atlantic region
+4,3,2100.0,g>16,Farm,450000,432 Riverdale Road ,NS,Atlantic region
+4,3,2100.0,,Residential,375000,432 Riverdale Road ,NS,Atlantic region
+3,3,2953.0,,Residential,995900,50 Josey Road ,NS,Atlantic region
+4,2,1906.0,,Residential,529000,1143 Camperdown Road ,NS,Atlantic region
+3,2,1608.0,2.54,Residential,299000,1843 Highway 1 ,NS,Atlantic region
+2,2,1851.0,,Single,299888,51 Romkey Drive ,NS,Atlantic region
+2,2,2162.0,,Single,219000,465 PEREAU Road ,NS,Atlantic region
+7,7,5927.0,,Single,880000,70 Gil Sutherland Road ,NS,Atlantic region
+2,1,1000.0,,Single,59900,1803 Sonora Road ,NS,Atlantic region
+4,2,2700.0,,Single,395000,696 Point Aconi Road ,NS,Atlantic region
+4,2,2782.0,,Single,199900,11693 Highway 6 ,NS,Atlantic region
+4,3,5043.0,,Single,449000,5032 Highway 3 ,NS,Atlantic region
+4,3,2100.0,,Single,898000,393 Corkums Island Road ,NS,Atlantic region
+2,1,1699.0,,Single,130000,586 Ellerhouse ,NS,Atlantic region
+3,3,3230.0,,Residential,550000,161 Second Avenue ,NS,Atlantic region
+3,3,2547.0,,Single,434000,217 Highway 9461,NS,Atlantic region
+4,1,,,Residential,699000,130 Kavanaugh Lane ,NS,Atlantic region
+4,2,1546.0,,Residential,209000,8376 Highway 1 ,NS,Atlantic region
+4,2,2356.0,,Single,269300,107 Abercrombie Road ,NS,Atlantic region
+5,2,1737.0,,Residential,399900,1491 Black Brook Road ,NS,Atlantic region
+3,2,1420.0,,Single,149000,3623 HIGHWAY 217 ,NS,Atlantic region
+3,2,1348.0,,Single,409000,349 Clinton Road ,NS,Atlantic region
+3,2,1456.0,,Single,195000,834 HIGHWAY 335 ,NS,Atlantic region
+3,3,2136.0,,Single,199900,919 Calabash ,NS,Atlantic region
+5,2,1372.0,,Single,210000,960-964 Highway 8 ,NS,Atlantic region
+4,2,2240.0,,Single,395500,288 Old Kettle Road ,NS,Atlantic region
+4,2,2152.0,,Single,249000,9375 Pepperell Street ,NS,Atlantic region
+2,2,1133.0,,Single,250000,670 Elliott Road ,NS,Atlantic region
+7,6,3800.0,,Single,599000,12 Parade Street ,NS,Atlantic region
+4,1,1280.0,,Residential,110000,367 Marc Comeau Road ,NS,Atlantic region
+3,1,1026.0,,Single,239000,152 Lighthouse Road ,NS,Atlantic region
+1,1,689.0,,Single,225000,74 Battist Road ,NS,Atlantic region
+2,2,1652.0,,Single,249000,7498 Highway 4 ,NS,Atlantic region
+2,2,1910.0,,Single,174900,94 Duke Street ,NS,Atlantic region
+3,1,1315.0,,Residential,53000,2643 Main Street ,NS,Atlantic region
+5,3,,,Residential,299000,422 Highway 316 Loch Katrin ,NS,Atlantic region
+3,2,1760.0,>7.7,Residential,859900,59 West Old Post Road ,NS,Atlantic region
+3,3,1907.0,,Single,553000,29 Mount Marina Road ,NS,Atlantic region
+3,1,2880.0,,Single,395000,1300 Millsville Road ,NS,Atlantic region
+4,4,2408.0,,Single,450000,111 School Avenue ,NS,Atlantic region
+4,3,3676.0,3.55,Residential,895000,5019 Granville Road ,NS,Atlantic region
+6,3,2940.0,,Single,495000,15 LOCUST Avenue ,NS,Atlantic region
+3,1,1287.0,,Single,49900,811 Marshdale Road ,NS,Atlantic region
+2,1,1400.0,,Single,139000,10 Queen Street ,NS,Atlantic region
+3,1,1890.0,,Single,199000,3823 Highway 307 ,NS,Atlantic region
+4,1,1728.0,,Residential,98500,5194 Highway 3 ,NS,Atlantic region
+5,3,3186.0,,Single,299000,3086 HWY 334 ,NS,Atlantic region
+3,2,1929.0,,Single,279900,625 East River Road ,NS,Atlantic region
+3,2,1160.0,,Single,169000,101 Highway 8490,NS,Atlantic region
+5,3,4100.0,,Single,889000,221 Highway 7594,NS,Atlantic region
+3,1,1064.0,,Single,240000,675 Marsh Road ,NS,Atlantic region
+3,1,790.0,,Single,129900,468 Old Church Road ,NS,Atlantic region
+6,5,4157.0,,Residential,1200000,96 King Street ,NS,Atlantic region
+3,4,6100.0,,Single,995000,1621 Main Shore Road ,NS,Atlantic region
+3,2,1185.0,,Single,330000,12 Villagedale Road ,NS,Atlantic region
+3,1,1628.0,,Single,189000,977 PARKER MOUNTAIN Road ,NS,Atlantic region
+4,3,3400.0,,Single,999900,2905 Ostrea Lake Road ,NS,Atlantic region
+3,1,725.0,,Single,139000,142 Victoria ,NS,Atlantic region
+4,3,2403.0,,Single,349900,5855 Highway 2 ,NS,Atlantic region
+3,1,1052.0,,Single,249900,922 Mud Creek Road ,NS,Atlantic region
+4,2,1658.0,3.48,Residential,169000,251 Highway 217 ,NS,Atlantic region
+3,1,1000.0,,Residential,269900,179 Gaspereau Avenue ,NS,Atlantic region
+3,2,1272.0,,Residential,425000,332 Portland Street ,NS,Atlantic region
+1,1,1776.0,,Single,209800,275 Main Street ,NS,Atlantic region
+7,3,3700.0,,Single,349000,320 Fort Point Road ,NS,Atlantic region
+4,2,960.0,,Single,180000,9404 Cabot Trail ,NS,Atlantic region
+3,1,1053.0,,Single,59000,204 West Avenue ,NS,Atlantic region
+3,1,1100.0,,Single,115000,1603 Granville Road ,NS,Atlantic region
+2,2,1296.0,,Single,299900,40 MacMillan Road ,NS,Atlantic region
+4,3,2700.0,,Single,350000,234 HIGHWAY 1 ,NS,Atlantic region
+4,2,2720.0,,Residential,449000,5966 Highway 3 ,NS,Atlantic region
+2,1,792.0,,Single,79900,4 Snow White Drive ,NS,Atlantic region
+3,1,975.0,,Single,79000,75 Highway 8 ,NS,Atlantic region
+1,1,1276.0,,Single,83000,88 Fraser Avenue ,NS,Atlantic region
+3,3,2547.0,,Residential,434000,9461 217 Highway ,NS,Atlantic region
+2,1,840.0,,Single,187000,20 Shamrock Drive ,NS,Atlantic region
+3,2,2000.0,,Residential,320000,6656 Highway 3 ,NS,Atlantic region
+5,1,1718.0,,Single,249900,3330 Prospect Road ,NS,Atlantic region
+3,1,1121.0,,Single,112000,2105 Highway 330 ,NS,Atlantic region
+2,1,400.0,,Single,79000,36 & 42 Willie C. Drive ,NS,Atlantic region
+2,2,952.0,,Single,349900,63 Lobster Cove Lane ,NS,Atlantic region
+1,2,1000.0,,Residential,339000,491 Anderson Drive ,NS,Atlantic region
+3,1,823.0,,Single,69000,56 St. George Street ,NS,Atlantic region
+3,1,1772.0,,Single,189900,17 Morris Street ,NS,Atlantic region
+3,3,2219.0,,Single,1475000,277 Paddys Head Road ,NS,Atlantic region
+4,1,2000.0,,Single,199900,343 Island View Drive ,NS,Atlantic region
+3,4,3800.0,,Residential,800000,755 Cheticamp Island Road ,NS,Atlantic region
+7,13,14955.0,,Residential,2950000,1358 Shore Drive ,NS,Atlantic region
+3,1,1540.0,,single,349000,944 Blue Rocks Road ,NS,Atlantic region
+3,2,1146.0,,Single,218800,2608 Melbourne Road ,NS,Atlantic region
+5,1,1796.0,,Residential,80000,277 Highway 217 ,NS,Atlantic region
+3,1,808.0,.335,Residential,249000,1833 Eastern Shore Road ,NS,Atlantic region
+3,1,2412.0,,Single,349000,62 Smith Road ,NS,Atlantic region
+3,2,1908.0,2.97,Residential,149000,3501 Hwy 3 ,NS,Atlantic region
+3,1,1263.0,.247,Residential,82500,139 Payzant Street ,NS,Atlantic region

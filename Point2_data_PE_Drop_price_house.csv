@@ -1,0 +1,22 @@
+Beds,Bath,Sqft,Lot_Size,Type,Price,Address,Province,Region
+,,,ng>3,Residential,32000,Mt Stewart Rd ,PE,Atlantic region
+2.0,2.0,923.0,,Residential,299000,11 Locust St ,PE,Atlantic region
+4.0,2.0,2560.0,1.67,Residential,619000,3182 West River Road ,PE,Atlantic region
+5.0,1.0,,1.33,Residential,444000,430 Lower Montague Rd ,PE,Atlantic region
+3.0,2.0,1248.0,5.35,Residential,389000,3389 Route 17 ,PE,Atlantic region
+2.0,1.0,,,Single,59000,30 Hennebury Road ,PE,Atlantic region
+1.0,,650.0,g>11,Single,225000,424 McCourt Road ,PE,Atlantic region
+4.0,2.0,2008.0,,Single,389000,25 Croker Street ,PE,Atlantic region
+6.0,2.0,3290.0,.341,Single,399900,1057 McInnis Point Road ,PE,Atlantic region
+4.0,2.0,3064.0,0.19,Single,349900,31 Granville Street Street ,PE,Atlantic region
+3.0,3.0,2454.0,,Single,399000,5 Church Street ,PE,Atlantic region
+3.0,2.0,1647.0,,Single,385000,11216 SHORE Road ,PE,Atlantic region
+5.0,2.0,2636.0,ng>1,Single,449900,32 Anderson Road ,PE,Atlantic region
+2.0,1.0,835.0,,Residential,69900,5975 Route 19 ,PE,Atlantic region
+4.0,2.0,1684.0,,Single,529000,1156 CHURCH Road ,PE,Atlantic region
+3.0,1.0,1284.0,,Single,299000,5445 RTE 2 ,PE,Atlantic region
+2.0,1.0,900.0,,Single,329000,55 Garwalt Lane ,PE,Atlantic region
+3.0,2.0,1786.0,,Single,175000,480 Abney Road ,PE,Atlantic region
+3.0,1.0,1155.0,,Single,247900,4131 RTE 17 ,PE,Atlantic region
+4.0,2.0,2320.0,>0.3,Residential,399900,100 Scott Street ,PE,Atlantic region
+4.0,2.0,,10.5,Residential,329000,2084 Valleyfield Rd ,PE,Atlantic region
