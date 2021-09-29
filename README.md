@@ -115,8 +115,33 @@ Blue: Altlantic Region; Red: Central Canada; Green: Prairie Provinces; Purple.
 ![Image of data visualization map](https://raw.githubusercontent.com/NightmareZYR/Housing-market-in-Canada/main/Documents/Sceenshoots/Price_coordinates.png)
 
 
+## Data visualization 3:
+### Dashboard of Charts on different regions.
+* Number of houses with different Bedrooms on the housing market.
+* Number of houses with different Bathrooms on the housing market.
+* Number of houses with different bedroom-bathroom combo on the housing market.
+* Average housing price with different bedroom-bathroom combo on the housing market.
 
+# Machine Learning
+## Machine Learning 0:
+* K-mean clustering
+![Image of data visualization map](https://raw.githubusercontent.com/NightmareZYR/Housing-market-in-Canada/main/Documents/Sceenshoots/K-means.png)
 
+* DBSCN
+![Image of data visualization map](https://raw.githubusercontent.com/NightmareZYR/Housing-market-in-Canada/main/Documents/Sceenshoots/DBSCN.png)
+
+## Machine Learning 1:
+* Train Test Split
+![Image of data visualization map](https://raw.githubusercontent.com/NightmareZYR/Housing-market-in-Canada/main/Documents/Sceenshoots/Test-train-split.png)
+
+* Linear Regression
+![Image of data visualization map](https://raw.githubusercontent.com/NightmareZYR/Housing-market-in-Canada/main/Documents/Sceenshoots/LR.png)
+
+* Ridge Regression
+![Image of data visualization map](https://raw.githubusercontent.com/NightmareZYR/Housing-market-in-Canada/main/Documents/Sceenshoots/RR.png)
+
+* Grid Search
+![Image of data visualization map](https://raw.githubusercontent.com/NightmareZYR/Housing-market-in-Canada/main/Documents/Sceenshoots/GS.png)
 
 
 
