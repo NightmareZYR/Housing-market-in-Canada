@@ -25,7 +25,9 @@ Data Collection 3 : West Coast        - BC
 
 Tables are the CSV files begin with **"Point2_data_"** 
 
-# Data cleaning - 
+Data Collection 4 (New): Collect all the housing data which has price drop in the last six months 
+
+# Data cleaning  
 
 ## Data cleaning 0:
 ### 1. Combining all collected data
@@ -48,5 +50,73 @@ Point2_data_Canada_house_ExcludingNorth (Combined all collected data and adding 
 ### 4. Outliers
 * Store outliers (for future improvements)
 * Drop outliers
+
+## Data cleaning 2:
+### 1. Adding 'Latitude' Column, 'Longitude' Column, and 'Location' Column
+* Collect 'Latitude', 'Longitude', 'Location' using Geopy.
+### 2. Remove the NaN values of rows in new columns.
+### 3. Use Folium to verify the coordinates of data from NS, PE, NB, and NL on the map.
+
+## Data cleaning 3:
+### 1. Use Folium to verify the coordinates of data from QC and ON on the map.
+
+## Data cleaning 4:
+### 1. Use Folium to verify the coordinates of data from MB, SK, AB and BC on the map.
+### 2. Combine all the provinces together.
+
+![Image of data cleaning](https://github.com/NightmareZYR/Housing-market-in-Canada/blob/main/Canada%20Housing%20Data%20excluding%20North.png)
+
+## Data cleaning 5 (New):
+### 1. Combine all the collected data which has price drop in the six months.
+### 2. Store them in the file.
+
+# Data Visualization
+## Data visualization 0:
+* Use Folium to visualize all the data on the map
+
+![Image of data visualization map](https://github.com/NightmareZYR/Housing-market-in-Canada/blob/main/Canada%20Housing%20Data%20excluding%20North.png)
+Blue: Altlantic Region; Red: Central Canada; Green: Prairie Provinces; Purple.
+
+## Data visualization 1:
+### 1. Number of houses with different Bedrooms on the housing market.
+
+![Image of data visualization map](https://github.com/NightmareZYR/Housing-market-in-Canada/blob/main/Canada%20Housing%20Data%20excluding%20North.png)
+
+### 2. Number of houses with different Bathrooms on the housing market.
+
+![Image of data visualization map](https://github.com/NightmareZYR/Housing-market-in-Canada/blob/main/Canada%20Housing%20Data%20excluding%20North.png)
+
+### 3. Number of houses with different bedroom-bathroom combo on the housing market.
+
+![Image of data visualization map](https://github.com/NightmareZYR/Housing-market-in-Canada/blob/main/Canada%20Housing%20Data%20excluding%20North.png)
+
+### 4. Average housing price with different bedroom-bathroom combo on the housing market.
+
+![Image of data visualization map](https://github.com/NightmareZYR/Housing-market-in-Canada/blob/main/Canada%20Housing%20Data%20excluding%20North.png)
+
+### 5. Average housing squarefeets with different bedroom-bathroom combo on the housing market.
+
+![Image of data visualization map](https://github.com/NightmareZYR/Housing-market-in-Canada/blob/main/Canada%20Housing%20Data%20excluding%20North.png)
+
+### 6. Average housing price per squarefeet on the housing market.
+
+![Image of data visualization map](https://github.com/NightmareZYR/Housing-market-in-Canada/blob/main/Canada%20Housing%20Data%20excluding%20North.png)
+
+### 7. Average housing price per bedroom on the housing market.
+
+![Image of data visualization map](https://github.com/NightmareZYR/Housing-market-in-Canada/blob/main/Canada%20Housing%20Data%20excluding%20North.png)
+
+### 8. Average housing price per bathroom on the housing market.
+
+![Image of data visualization map](https://github.com/NightmareZYR/Housing-market-in-Canada/blob/main/Canada%20Housing%20Data%20excluding%20North.png)
+
+### 9. Distributed housing price (coordinates) on the housing market.
+
+![Image of data visualization map](https://github.com/NightmareZYR/Housing-market-in-Canada/blob/main/Canada%20Housing%20Data%20excluding%20North.png)
+
+
+
+
+
 
 
