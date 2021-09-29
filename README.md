@@ -5,13 +5,13 @@ All the code and tables are in the document folder.
 
 # Data collection - Point2homes.ca
 
-![Image of point2homes](https://raw.githubusercontent.com/NightmareZYR/Housing-market-in-Canada/main/Point2homes.png)
+![Image of point2homes](https://raw.githubusercontent.com/NightmareZYR/Housing-market-in-Canada/main/Documents/Sceenshoots/Point2homes.png)
 
 Data is collected from Point2homes.ca (Data Collection folder) and store in the CSV file (Data folder).
 
 Data is classified as Houses which are in NS, PE, NB, NL, QC, ON, MB, SK, AB, and BC.
 
-![Image of point2homes](https://raw.githubusercontent.com/NightmareZYR/Housing-market-in-Canada/main/Provinces.png)
+![Image of point2homes](https://raw.githubusercontent.com/NightmareZYR/Housing-market-in-Canada/main/Documents/Sceenshoots/Provinces.png)
 
 Codes are:
 
@@ -35,7 +35,7 @@ Data Collection 4 (New): Collect all the housing data which has price drop in th
 
 Point2_data_Canada_house_ExcludingNorth (Combined all collected data and adding columns "Province" and "Region")
 
-![Image of point2homes](https://github.com/NightmareZYR/Housing-market-in-Canada/blob/main/Canada%20Housing%20Data%20excluding%20North.png)
+![Image of point2homes](https://raw.githubusercontent.com/NightmareZYR/Housing-market-in-Canada/main/Documents/Sceenshoots/Canada%20Housing%20Data%20excluding%20North.png)
 
 ## Data cleaning 1:
 ### 1. Formating and irrelevant columns
@@ -64,7 +64,7 @@ Point2_data_Canada_house_ExcludingNorth (Combined all collected data and adding 
 ### 1. Use Folium to verify the coordinates of data from MB, SK, AB and BC on the map.
 ### 2. Combine all the provinces together.
 
-![Image of data cleaning](https://github.com/NightmareZYR/Housing-market-in-Canada/blob/main/Canada%20Housing%20Data%20excluding%20North.png)
+![Image of data cleaning](https://raw.githubusercontent.com/NightmareZYR/Housing-market-in-Canada/main/Documents/Sceenshoots/Data%20with%20coordinates.png)
 
 ## Data cleaning 5 (New):
 ### 1. Combine all the collected data which has price drop in the six months.
@@ -74,45 +74,45 @@ Point2_data_Canada_house_ExcludingNorth (Combined all collected data and adding 
 ## Data visualization 0:
 * Use Folium to visualize all the data on the map
 
-![Image of data visualization map](https://github.com/NightmareZYR/Housing-market-in-Canada/blob/main/Canada%20Housing%20Data%20excluding%20North.png)
+![Image of data visualization map](https://raw.githubusercontent.com/NightmareZYR/Housing-market-in-Canada/main/Documents/Sceenshoots/Map.png)
 Blue: Altlantic Region; Red: Central Canada; Green: Prairie Provinces; Purple.
 
 ## Data visualization 1:
 ### 1. Number of houses with different Bedrooms on the housing market.
 
-![Image of data visualization map](https://github.com/NightmareZYR/Housing-market-in-Canada/blob/main/Canada%20Housing%20Data%20excluding%20North.png)
+![Image of data visualization map](https://raw.githubusercontent.com/NightmareZYR/Housing-market-in-Canada/main/Documents/Sceenshoots/Bedrooms_counts.png)
 
 ### 2. Number of houses with different Bathrooms on the housing market.
 
-![Image of data visualization map](https://github.com/NightmareZYR/Housing-market-in-Canada/blob/main/Canada%20Housing%20Data%20excluding%20North.png)
+![Image of data visualization map](https://raw.githubusercontent.com/NightmareZYR/Housing-market-in-Canada/main/Documents/Sceenshoots/Bathrooms_counts.png)
 
 ### 3. Number of houses with different bedroom-bathroom combo on the housing market.
 
-![Image of data visualization map](https://github.com/NightmareZYR/Housing-market-in-Canada/blob/main/Canada%20Housing%20Data%20excluding%20North.png)
+![Image of data visualization map](https://raw.githubusercontent.com/NightmareZYR/Housing-market-in-Canada/main/Documents/Sceenshoots/Combo_counts.png)
 
 ### 4. Average housing price with different bedroom-bathroom combo on the housing market.
 
-![Image of data visualization map](https://github.com/NightmareZYR/Housing-market-in-Canada/blob/main/Canada%20Housing%20Data%20excluding%20North.png)
+![Image of data visualization map](https://raw.githubusercontent.com/NightmareZYR/Housing-market-in-Canada/main/Documents/Sceenshoots/Combo_Price.png)
 
 ### 5. Average housing squarefeets with different bedroom-bathroom combo on the housing market.
 
-![Image of data visualization map](https://github.com/NightmareZYR/Housing-market-in-Canada/blob/main/Canada%20Housing%20Data%20excluding%20North.png)
+![Image of data visualization map](https://raw.githubusercontent.com/NightmareZYR/Housing-market-in-Canada/main/Documents/Sceenshoots/Combo_avgSqft.png)
 
 ### 6. Average housing price per squarefeet on the housing market.
 
-![Image of data visualization map](https://github.com/NightmareZYR/Housing-market-in-Canada/blob/main/Canada%20Housing%20Data%20excluding%20North.png)
+![Image of data visualization map](https://raw.githubusercontent.com/NightmareZYR/Housing-market-in-Canada/main/Documents/Sceenshoots/Price_per_Sqft.png)
 
 ### 7. Average housing price per bedroom on the housing market.
 
-![Image of data visualization map](https://github.com/NightmareZYR/Housing-market-in-Canada/blob/main/Canada%20Housing%20Data%20excluding%20North.png)
+![Image of data visualization map](https://raw.githubusercontent.com/NightmareZYR/Housing-market-in-Canada/main/Documents/Sceenshoots/Price_per_Bedroom.png)
 
 ### 8. Average housing price per bathroom on the housing market.
 
-![Image of data visualization map](https://github.com/NightmareZYR/Housing-market-in-Canada/blob/main/Canada%20Housing%20Data%20excluding%20North.png)
+![Image of data visualization map](https://raw.githubusercontent.com/NightmareZYR/Housing-market-in-Canada/main/Documents/Sceenshoots/Price_per_Bathroom.png)
 
 ### 9. Distributed housing price (coordinates) on the housing market.
 
-![Image of data visualization map](https://github.com/NightmareZYR/Housing-market-in-Canada/blob/main/Canada%20Housing%20Data%20excluding%20North.png)
+![Image of data visualization map](https://raw.githubusercontent.com/NightmareZYR/Housing-market-in-Canada/main/Documents/Sceenshoots/Price_coordinates.png)
 
 
 
