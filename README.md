@@ -142,10 +142,10 @@ Blue: Altlantic Region; Red: Central Canada; Green: Prairie Provinces; Purple.
 
 # Machine Learning
 ## Machine Learning 0:
-* K-mean clustering
+* K-mean clustering (Four cluseters)
 ![Image of data visualization map](https://raw.githubusercontent.com/NightmareZYR/Housing-market-in-Canada/main/Documents/Sceenshoots/K-means.png)
 
-* DBSCN
+* DBSCN 
 ![Image of data visualization map](https://raw.githubusercontent.com/NightmareZYR/Housing-market-in-Canada/main/Documents/Sceenshoots/DBSCN.png)
 
 ## Machine Learning 1:
