@@ -82,37 +82,55 @@ Blue: Altlantic Region; Red: Central Canada; Green: Prairie Provinces; Purple.
 
 ![Image of data visualization map](https://raw.githubusercontent.com/NightmareZYR/Housing-market-in-Canada/main/Documents/Sceenshoots/Bedrooms_counts.png)
 
+#### Three-bedroom houses are most popular on the markets.
+
 ### 2. Number of houses with different Bathrooms on the housing market.
 
 ![Image of data visualization map](https://raw.githubusercontent.com/NightmareZYR/Housing-market-in-Canada/main/Documents/Sceenshoots/Bathrooms_counts.png)
+
+#### Two-bathroom houses are most popular on the markets.
 
 ### 3. Number of houses with different bedroom-bathroom combo on the housing market.
 
 ![Image of data visualization map](https://raw.githubusercontent.com/NightmareZYR/Housing-market-in-Canada/main/Documents/Sceenshoots/Combo_counts.png)
 
+#### Three-bedroom with two-bathroom houses are most popular on the markets.
+
 ### 4. Average housing price with different bedroom-bathroom combo on the housing market.
 
 ![Image of data visualization map](https://raw.githubusercontent.com/NightmareZYR/Housing-market-in-Canada/main/Documents/Sceenshoots/Combo_Price.png)
+
+#### Comparing to adding a bedroom to the house, adding a bathroom will increase the total price of house more.
 
 ### 5. Average housing squarefeets with different bedroom-bathroom combo on the housing market.
 
 ![Image of data visualization map](https://raw.githubusercontent.com/NightmareZYR/Housing-market-in-Canada/main/Documents/Sceenshoots/Combo_avgSqft.png)
 
+#### There are little difference on squarfeets of house when either adding a bedroom or bathroom.
+
 ### 6. Average housing price per squarefeet on the housing market.
 
 ![Image of data visualization map](https://raw.githubusercontent.com/NightmareZYR/Housing-market-in-Canada/main/Documents/Sceenshoots/Price_per_Sqft.png)
+
+#### BC has the highest average price of house per squarefeet among all provinces.
 
 ### 7. Average housing price per bedroom on the housing market.
 
 ![Image of data visualization map](https://raw.githubusercontent.com/NightmareZYR/Housing-market-in-Canada/main/Documents/Sceenshoots/Price_per_Bedroom.png)
 
+#### BC has the highest average price of house per bedroom among all provinces.
+
 ### 8. Average housing price per bathroom on the housing market.
 
 ![Image of data visualization map](https://raw.githubusercontent.com/NightmareZYR/Housing-market-in-Canada/main/Documents/Sceenshoots/Price_per_Bathroom.png)
 
+#### BC has the highest average price of house per bathroom among all provinces.
+
 ### 9. Distributed housing price (coordinates) on the housing market.
 
 ![Image of data visualization map](https://raw.githubusercontent.com/NightmareZYR/Housing-market-in-Canada/main/Documents/Sceenshoots/Price_coordinates.png)
+
+#### Most expensive houses are in BC.
 
 
 ## Data visualization 3:
