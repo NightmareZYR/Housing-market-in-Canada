@@ -1,7 +1,12 @@
 # Housing-market-in-Canada
 This is an exploration of Housing market in Canada.
 
-All the code and tables are in the document folder.
+All the code and tables are in the ##document folder##.
+
+This project achieved goals:
+1. Detect outliers and duplicates values.
+2. Analyze the relationship between price and other variables.
+3. Create forecast model for the price of house when house information is avaliable.
 
 # Data collection - Point2homes.ca
 
