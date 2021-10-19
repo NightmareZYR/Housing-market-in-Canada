@@ -1,7 +1,7 @@
 # Housing-market-in-Canada
-This is an exploration of Housing market in Canada.
+This is an exploration data analysis of Housing market in Canada.
 
-All the code and tables are in the ##document folder##.
+All the codes are written in python on Jupyter Lab, and are stored in the "Document folder".
 
 This project achieved goals:
 1. Detect outliers and duplicates values.
